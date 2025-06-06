@@ -1,0 +1,127 @@
+{
+  "page.home.head.title": "Manikam Web Solutions – Professional Website and Software Development",
+  "page.home.head.meta.description": "Manikam Web Solutions is a web and software development agency offering tailored digital solutions to grow your business.",
+  "hero.title": "We help your business grow!",
+  "section": {
+    "title": "With our knowledge and experience, we turn your ",
+    "span": " ideas ",
+    "title2": " into reality!",
+    "title3": "Schedule a meeting:",
+    "span2": "+381641967267",
+    "subtitle": "Many small businesses underestimate the value of their ",
+    "span3": " websites",
+    "subtitle2": "  leading to huge losses and limiting their potential",
+    "span4": "Schedule a meeting",
+    "subtitle3": "  to put all the pieces together",
+    "span5": "!"
+  },
+  "cards": [
+    {
+      "title": "Need custom software for your business?",
+      "mim": "Our company specializes in custom software development, designed in consultation with clients and based on their specific needs. From idea to implementation, we provide complete solutions that help clients automate and simplify their work. If you need better organization, increased efficiency, and less manual work, we can create software tailored to your needs.",
+      "img": "/images/hero2.jpg"
+    },
+    {
+      "title": "Your website isn't attracting enough clients?",
+      "mim": "Maybe it's time for a design refresh! We create stunning, modern websites that not only look great but leave a strong impression on visitors. Increase engagement and make your site unforgettable!",
+      "img": "/images/hero.jpg"
+    },
+    {
+      "title": "Increase traffic with SEO optimization!",
+      "mim": "Not getting enough visits? With SEO optimization, you can boost your visibility in search engines and attract more users. We offer detailed analysis, strategic planning, and implementation that delivers results. Improve your Google ranking and beat the competition today!",
+      "img": "/images/sijalica.jpg"
+    },
+    {
+      "title": "Need a site you can update yourself?",
+      "mim": "With our CMS solution, you get a website you can easily and quickly update without technical knowledge. Whether you want to add new pages, change content, or adjust the design — you can do it yourself. Our system gives you full control, and we’re here to support you when needed.",
+      "img": "/images/kljuc.jpg"
+    },
+    {
+      "title": "Want to start advertising?",
+      "mim": "Outperform your competitors and increase your online visibility with professionally crafted campaigns that deliver results. We offer optimization, analytics, and tailored solutions for the best performance in Google searches.",
+      "img": "/images/planeta.jpg"
+    }
+  ],
+  "usluge.title": "Our Services",
+  "usluge": [
+    {
+      "img": "/images/software.svg",
+      "title": "WEB DEVELOPMENT",
+      "text": "We use React.js, Node.js, and Next.js technologies. We collaborate with domestic and international clients and also develop our own digital solutions, such as the",
+      "span": " Taxi report"
+    },
+    {
+      "img": "/images/5462824_Devices.svg",
+      "title": "WEBSITE",
+      "text": "We do not use website builders but code websites in Next.js, one of the fastest technologies, ensuring speed and better Google ranking. We offer basic websites up to 10 pages and custom solutions for specific client needs.",
+      "span": ""
+    },
+    {
+      "img": "/images/cms.png",
+      "title": "SELF-MANAGED WEBSITE",
+      "text": "A CMS (Content Management System) allows users to update pages themselves, add or delete content and pages. Ideal for blogs, portals, and websites with frequent content changes.",
+      "span": ""
+    },
+    {
+      "img": "/images/7079603_3509262.svg",
+      "title": "ONLINE STORE",
+      "text": "Custom online stores provide tailored views for specific product groups, with additional options and functionalities that enhance sales. The ideal solution for successful online sales.",
+      "span": ""
+    },
+    {
+      "img": "/images/seo.svg",
+      "title": "SEO",
+      "text": "Want better search rankings? Our high-quality SEO improves your site's position and increases visibility. We optimize content, keywords, and technical aspects for better results and more traffic.",
+      "span": ""
+    },
+    {
+      "img": "/images/odrzavanje.png",
+      "title": "MAINTENANCE",
+      "text": "Every website requires maintenance over time. As technologies rapidly advance, regular updates are important to keep your site functional and up to date with the latest standards.",
+      "span": ""
+    },
+    {
+      "img": "/images/destination.png",
+      "title": "WEBSITE TRANSITION",
+      "text": "Regardless of the reason, if you want to change hosting providers, our team will ensure a safe and seamless transfer of your site to the provider of your choice.",
+      "span": ""
+    },
+    {
+      "img": "/images/redesign.png",
+      "title": "WEBSITE REDESIGN",
+      "text": "If your website is older, it's probably time for a redesign. Redesign includes modernizing the design while keeping some existing content and adding new, making it more functional and visually appealing.",
+      "span": ""
+    },
+    {
+      "img": "/images/consulting.png",
+      "title": "CONSULTING",
+      "text": "Not sure what you need? Schedule a meeting with us, and we will gladly present what we can do for your business and how to achieve better results.",
+      "span": ""
+    },
+    {
+      "img": "/images/cloud.png",
+      "title": "HOSTING",
+      "text": "In cooperation with our partners, we offer hosting and domains for the sites we have created or redesigned, ensuring reliable support and optimal performance for your website or web software.",
+      "span": ""
+    },
+    {
+      "img": "/images/ads.svg",
+      "title": "GOOGLE ADVERTISING",
+      "text": "With our digital advertising service, your brand will gain the visibility and attention it needs, allowing you to stand out from the competition and reach a more targeted audience.",
+      "span": ""
+    }
+  ],
+  "reference.title": "References",
+  "reference.link": "Visit the website",
+  "footer.message": "We create stories that are remembered.",
+  "footer.rights": "All rights reserved.",
+  "contact": {
+    "title": "Feel free to contact us in the way that suits you best...",
+    "name": "Full Name:",
+    "broj": "Phone Number:",
+    "message": "Your Message:",
+    "plh.name": "Enter your full name:",
+    "plh.broj": "Enter your phone number:",
+    "plh.message": "Your message to us"
+  }
+}
