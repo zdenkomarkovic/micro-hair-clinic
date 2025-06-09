@@ -56,6 +56,9 @@ export default async function Home({
   const messages = intl.messages as unknown as Messages;
 
   const heroTitle = intl.formatMessage({ id: "hero.title" });
+  const heroSubtitle = intl.formatMessage({ id: "hero.subtitle" });
+  const heroText = intl.formatMessage({ id: "hero.text" });
+  const heroButton = intl.formatMessage({ id: "hero.button" });
   const cards = messages.cards ?? [];
   const usluge = messages.usluge ?? [];
   const section = messages.section ?? defaultSection;
@@ -66,7 +69,12 @@ export default async function Home({
   return (
     <main>
       <div className="">
-        <Hero title={heroTitle} />
+        <Hero
+          title={heroTitle}
+          subtitle={heroSubtitle}
+          text={heroText}
+          button={heroButton}
+        />
         <Section1 section={section} cards={cards} />
         <Usluge usluge={usluge} title={uslugeTitle} />
         <Reference refLink={refLink} title={refTitle} />

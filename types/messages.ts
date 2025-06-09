@@ -2,6 +2,9 @@ export type Messages = {
   "page.home.head.title": string;
   "page.home.head.meta.description": string;
   "hero.title": string;
+  "hero.subtitle": string;
+  "hero.text": string;
+  "hero.button": string;
   section: {
     title: string;
     span: string;

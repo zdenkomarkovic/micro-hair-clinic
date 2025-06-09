@@ -62,7 +62,7 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} dir={getDirection(locale)}>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased text-muted-foreground bg-secondary text-lg md:text-2xl`}
       >
         <LocaleProvider locale={locale}>
           <Header locale={locale} />

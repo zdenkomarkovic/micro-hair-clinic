@@ -1,7 +1,13 @@
-export type Locale = "sr" | "en";
+export type Locale = "en" | "de" | "sl";
 
 const navTitles: Record<Locale, Record<string, string>> = {
-  sr: {
+  sl: {
+    home: "Naslovna",
+    izrada: "Izrada sajta",
+    references: "Reference",
+    contact: "Kontakt",
+  },
+  de: {
     home: "Naslovna",
     izrada: "Izrada sajta",
     references: "Reference",
@@ -16,7 +22,13 @@ const navTitles: Record<Locale, Record<string, string>> = {
 };
 
 const routes: Record<Locale, Record<string, string>> = {
-  sr: {
+  de: {
+    home: "/sr",
+    izrada: "/sr/izrada-sajta",
+    references: "/sr/#reference",
+    contact: "/sr/contact",
+  },
+  sl: {
     home: "/sr",
     izrada: "/sr/izrada-sajta",
     references: "/sr/#reference",
