@@ -1,7 +1,6 @@
 import Image from "@/node_modules/next/image";
 import { Messages } from "@/types/messages";
 import React from "react";
-import { FaRegCircleCheck } from "react-icons/fa6";
 
 type Props = {
   data: Messages["cardwithimage"];
