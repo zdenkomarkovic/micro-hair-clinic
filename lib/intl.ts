@@ -17,8 +17,8 @@ export async function getIntl(locale: Locale) {
 
 export function getDirection(locale: Locale) {
   switch (locale) {
-    case "en":
     case "sl":
+    case "en":
     case "de":
     default:
       return "ltr";

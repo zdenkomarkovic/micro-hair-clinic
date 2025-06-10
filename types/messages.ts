@@ -5,6 +5,10 @@ export type Messages = {
   "hero.subtitle": string;
   "hero.text": string;
   "hero.button": string;
+  cardwithimage: {
+    title: string;
+    text: string[];
+  };
   section: {
     title: string;
     span: string;

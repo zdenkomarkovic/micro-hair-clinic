@@ -5,6 +5,18 @@
   "hero.subtitle": "Več kot 10 let izkušenj. SMP tretmaji pod vodstvom nagrajenega umetnika Srđana Kostovskega – zdaj tudi v Ljubljani.",
   "hero.text": "Če razmišljate o rešitvi za izpadanje las, ste na pravem mestu. Tisto, kar Srđan dela, ni samo tehnika – je umetnost, ki spreminja življenja. Poglejte si spletno stran, slike prej/potem, mnenja strank… in seveda – rezervirajte svetovanje. Ne boste obžalovali.",
   "hero.button": "Rezerviraj brezplačno svetovanje",
+  "cardwithimage": {
+    "title": "ZAKAJ MICRO HAIR CLINIC?",
+    "text": [
+      "Več kot 10 let izkušenj",
+      "Več kot 1000 zadovoljnih strank",
+      "Studio v Ljubljani – dostopen po celi Sloveniji in širše",
+      "Pripravljamo nove artiste, ki bodo kmalu izvajali tretmaje",
+      "Srđan Kostovski – večkrat nagrajen SMP umetnik",
+      "Rešitve za plešavost, redčenje las, brazgotine, alopecijo",
+      "Naraven videz, brez operacije, brez okrevanja"
+    ]
+  },
   "section": {
     "title": "Uz naše znanje i iskustvo, vaše ",
     "span": " ideje ",

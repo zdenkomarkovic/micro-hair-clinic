@@ -1,13 +1,13 @@
 import Hero from "@/components/Hero";
-import Reference from "@/components/Reference";
-import Section1 from "@/components/Section1";
-import Usluge from "@/components/Usluge";
 import { generateAlternateLinks } from "@/lib/seo";
 import { Messages } from "@/types/messages";
 import { Metadata } from "next";
 import { getIntl } from "../../lib/intl";
 import { i18n } from "@/i18n-config";
 import { isValidLocale } from "@/lib/locale";
+import Cards2 from "@/components/Cards2";
+import { cards2Data, cards2DataText } from "@/constants/index";
+import CardWithImage from "@/components/CardWithImage";
 
 export async function generateMetadata({
   params,
@@ -28,20 +28,6 @@ export async function generateMetadata({
   };
 }
 
-const defaultSection = {
-  title: "",
-  span: "",
-  title2: "",
-  title3: "",
-  span2: "",
-  subtitle: "",
-  span3: "",
-  subtitle2: "",
-  span4: "",
-  subtitle3: "",
-  span5: "",
-};
-
 export default async function Home({
   params,
 }: {
@@ -59,12 +45,7 @@ export default async function Home({
   const heroSubtitle = intl.formatMessage({ id: "hero.subtitle" });
   const heroText = intl.formatMessage({ id: "hero.text" });
   const heroButton = intl.formatMessage({ id: "hero.button" });
-  const cards = messages.cards ?? [];
-  const usluge = messages.usluge ?? [];
-  const section = messages.section ?? defaultSection;
-  const uslugeTitle = intl.formatMessage({ id: "usluge.title" });
-  const refLink = intl.formatMessage({ id: "reference.link" });
-  const refTitle = intl.formatMessage({ id: "reference.title" });
+  const dataWhyUs = messages.cardwithimage ?? {};
 
   return (
     <main>
@@ -75,9 +56,8 @@ export default async function Home({
           text={heroText}
           button={heroButton}
         />
-        <Section1 section={section} cards={cards} />
-        <Usluge usluge={usluge} title={uslugeTitle} />
-        <Reference refLink={refLink} title={refTitle} />
+        <Cards2 title={"nesto"} data={cards2Data} text={cards2DataText} />
+        <CardWithImage data={dataWhyUs} />
       </div>
     </main>
   );

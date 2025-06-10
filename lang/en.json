@@ -5,6 +5,18 @@
   "hero.subtitle": "Over 10 years of experience. SMP treatments led by award-winning artist Srđan Kostovski – now also available in Ljubljana.",
   "hero.text": "If you're considering a solution for hair loss, you're in the right place. What Srđan does isn't just technique – it's an art that changes lives. Check out the website, before/after photos, client reviews… and of course – book a consultation. You won’t regret it.",
   "hero.button": "Book a free consultation",
+  "cardwithimage": {
+    "title": "WHY CHOOSE MICRO HAIR CLINIC?",
+    "text": [
+      "Over 10 years of experience",
+      "More than 1,000 satisfied clients",
+      "Studio in Ljubljana – easily accessible from all over Slovenia and beyond",
+      "We're training new artists who will soon perform treatments",
+      "Srđan Kostovski – multi-award-winning SMP artist",
+      "Solutions for baldness, thinning hair, scars, alopecia",
+      "Natural look, no surgery, no recovery time"
+    ]
+  },
   "section": {
     "title": "With our knowledge and experience, we turn your ",
     "span": " ideas ",

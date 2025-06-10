@@ -1,4 +1,5 @@
 import Reference from "@/components/Reference";
+import { GiWeight } from "react-icons/gi";
 
 export const NavList = [
   {
@@ -173,3 +174,37 @@ export const reference: Reference[] = [
     link: "https://www.alpinistickiradovi.rs/",
   },
 ];
+export interface Cards2Data {
+  id: number;
+  icon: IconType;
+  title: string;
+  text: string;
+}
+
+export const cards2Data: Cards2Data[] = [
+  {
+    id: 1,
+    icon: GiWeight,
+    title: "Elektroinstalacije",
+    text: "",
+  },
+  {
+    id: 2,
+    icon: GiWeight,
+    title: "Elektro ormani",
+    text: "",
+  },
+  {
+    id: 3,
+    icon: GiWeight,
+    title: "Industrijski elektro ormani",
+    text: "",
+  },
+];
+
+export interface Cards2DataText {
+  text: string;
+}
+export const cards2DataText: Cards2DataText = {
+  text: "Pružamo usluge izrade, montaže i održavanja elektro ormana za domaćinstva, poslovne prostore i industrijska postrojenja. Naš tim vodi računa o kvalitetu instalacija i bezbednosti sistema, uz poštovanje svih standarda i propisa.",
+};
