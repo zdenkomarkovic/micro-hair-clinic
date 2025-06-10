@@ -3,41 +3,35 @@ export type Locale = "en" | "de" | "sl";
 const navTitles: Record<Locale, Record<string, string>> = {
   sl: {
     home: "Naslovna",
-    izrada: "Izrada sajta",
-    references: "Reference",
+    tretmani: "Tretmani",
     contact: "Kontakt",
   },
   de: {
     home: "Naslovna",
-    izrada: "Izrada sajta",
-    references: "Reference",
+    behandlungen: "Behandlungen",
     contact: "Kontakt",
   },
   en: {
     home: "Home",
-    izrada: "Website development",
-    references: "References",
+    treatments: "Treatments",
     contact: "Contact",
   },
 };
 
 const routes: Record<Locale, Record<string, string>> = {
-  de: {
-    home: "/sr",
-    izrada: "/sr/izrada-sajta",
-    references: "/sr/#reference",
-    contact: "/sr/contact",
-  },
   sl: {
-    home: "/sr",
-    izrada: "/sr/izrada-sajta",
-    references: "/sr/#reference",
-    contact: "/sr/contact",
+    home: "/sl",
+    tretmani: "/sl/tretmani",
+    contact: "/sl/contact",
+  },
+  de: {
+    home: "/de",
+    behandlungen: "/de/behandlungen",
+    contact: "/de/contact",
   },
   en: {
     home: "/en",
-    izrada: "/en/website-development",
-    references: "/en/#reference",
+    treatments: "/en/treatments",
     contact: "/en/contact",
   },
 };
@@ -47,10 +41,15 @@ export function getNavList(locale: Locale) {
     throw new Error(`Nepodržan locale: ${locale}`);
   }
 
-  return [
-    { title: navTitles[locale].home, route: routes[locale].home },
-    { title: navTitles[locale].izrada, route: routes[locale].izrada },
-    { title: navTitles[locale].references, route: routes[locale].references },
-    { title: navTitles[locale].contact, route: routes[locale].contact },
-  ];
+  const titles = navTitles[locale];
+  const hrefs = routes[locale];
+
+  const navList = Object.keys(titles)
+    .filter((key) => hrefs[key]) // izbegne undefined route
+    .map((key) => ({
+      title: titles[key],
+      route: hrefs[key],
+    }));
+
+  return navList;
 }

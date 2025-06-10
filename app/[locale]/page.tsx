@@ -6,8 +6,8 @@ import { getIntl } from "../../lib/intl";
 import { i18n } from "@/i18n-config";
 import { isValidLocale } from "@/lib/locale";
 import Cards2 from "@/components/Cards2";
-import { cards2Data, cards2DataText } from "@/constants/index";
 import CardWithImage from "@/components/CardWithImage";
+import Treatments from "@/components/Treatments";
 
 export async function generateMetadata({
   params,
@@ -46,6 +46,9 @@ export default async function Home({
   const heroText = intl.formatMessage({ id: "hero.text" });
   const heroButton = intl.formatMessage({ id: "hero.button" });
   const dataWhyUs = messages.cardwithimage ?? {};
+  const datacards2 = messages.cards2 ?? [];
+  const textcards2 = messages.cards2text ?? {};
+  const datatreatments = messages.datatreatments ?? {};
 
   return (
     <main>
@@ -56,7 +59,8 @@ export default async function Home({
           text={heroText}
           button={heroButton}
         />
-        <Cards2 title={"nesto"} data={cards2Data} text={cards2DataText} />
+        <Cards2 data={datacards2} text={textcards2} />
+        <Treatments data={datatreatments} />
         <CardWithImage data={dataWhyUs} />
       </div>
     </main>

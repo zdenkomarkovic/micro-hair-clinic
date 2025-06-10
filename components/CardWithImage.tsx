@@ -20,9 +20,17 @@ const CardWithImage = ({ data }: Props) => {
             className=""
           />
         </div>
-        <div className="flex flex-col gap-2 md:gap-0 py-8 md:py-20 md:justify-between text-left">
+        <div className="flex flex-col gap-2 md:gap-0 py-8 md:py-12 md:justify-between text-left">
           {data.text.map((row, i) => {
-            return <p key={i}>{row}</p>;
+            return (
+              <p key={i} className="flex items-center gap-4 ">
+                <span className="text-5xl font-thin font-sans ">
+                  {"0" + (i + 1)}
+                </span>
+
+                {row}
+              </p>
+            );
           })}
         </div>
       </div>

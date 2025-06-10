@@ -17,6 +17,66 @@
       "Natural look, no surgery, no recovery time"
     ]
   },
+  "cards2": [
+    {
+      "title": "Just exploring?",
+      "text": "What is SMP? Why does hair fall out?",
+      "link": "Beginner's Guide"
+    },
+    {
+      "title": "Comparing options?",
+      "text": "Hair transplant or SMP? Does it hurt?",
+      "link": "Comparison Guide"
+    },
+    {
+      "title": "Already decided?",
+      "text": "Want a treatment?",
+      "link": "Book your appointment now"
+    }
+  ],
+  "cards2text": {
+    "title": "WHAT IS SMP?",
+    "text": "If you're experiencing hair loss and don't know where to start – you're not alone. You may have already searched: “why is my hair falling out”, “I'm 25 and have receding hairline”, “solution for baldness”...",
+    "span": "SMP – Scalp Micropigmentation",
+    "text2": " is a non-invasive procedure where a special technique and pigment are used to create the appearance of dense, shaved hair.",
+    "subtitle": "Effect:",
+    "list1": [
+      "Natural shaved-hair look",
+      "Reconstructed hairline",
+      "Ideal for men and women"
+    ],
+    "list2": ["No surgery", "No medication", "No scars or downtime"]
+  },
+  "datatreatments": {
+    "title": "Types of Treatments",
+    "cta": "Not sure which treatment is right for you? – Message us on Viber / WhatsApp",
+    "tretmans": [
+      {
+        "title": "SMP for baldness (shaved head look)",
+        "slug": "smp-for-baldness"
+      },
+      {
+        "title": "Hair thinning – density with or without transplant",
+        "slug": "hair-thinning-smp"
+      },
+      {
+        "title": "SMP for scars – from transplants, injuries, or surgeries",
+        "slug": "smp-for-scars"
+      },
+      {
+        "title": "Alopecia – areata, totalis, universalis",
+        "slug": "alopecia-smp"
+      },
+      {
+        "title": "SMP for women – thinning hair, reduced volume",
+        "slug": "smp-for-women"
+      },
+      {
+        "title": "Correction of failed SMP treatments",
+        "slug": "smp-correction"
+      }
+    ]
+  },
   "section": {
     "title": "With our knowledge and experience, we turn your ",
     "span": " ideas ",

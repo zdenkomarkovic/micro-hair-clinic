@@ -17,6 +17,70 @@
       "Natürliches Aussehen, ohne Operation, ohne Ausfallzeit"
     ]
   },
+  "cards2": [
+    {
+      "title": "Nur am Recherchieren?",
+      "text": "Was ist SMP? Warum fallen Haare aus?",
+      "link": "Anfängerleitfaden"
+    },
+    {
+      "title": "Optionen vergleichen?",
+      "text": "Haartransplantation oder SMP? Tut es weh?",
+      "link": "Vergleichsleitfaden"
+    },
+    {
+      "title": "Schon entschieden?",
+      "text": "Möchten Sie eine Behandlung?",
+      "link": "Jetzt Termin buchen"
+    }
+  ],
+  "cards2text": {
+    "title": "WAS IST SMP?",
+    "text": "Wenn Sie unter Haarausfall leiden und nicht wissen, wo Sie anfangen sollen – Sie sind nicht allein. Vielleicht haben Sie bereits gesucht: „Warum fallen meine Haare aus“, „Ich bin 25 und habe Geheimratsecken“, „Lösung gegen Haarausfall“...",
+    "span": "SMP – Kopfhaut-Mikropigmentierung",
+    "text2": " ist ein nicht-invasives Verfahren, bei dem mit einer speziellen Technik und Pigment das Aussehen dichter, rasierter Haare erzeugt wird.",
+    "subtitle": "Wirkung:",
+    "list1": [
+      "Natürlicher Look rasierten Haares",
+      "Rekonstruierte Haarlinie",
+      "Ideal für Männer und Frauen"
+    ],
+    "list2": [
+      "Keine Operation",
+      "Keine Medikamente",
+      "Keine Narben oder Ausfallzeit"
+    ]
+  },
+  "datatreatments": {
+    "cta": "Sie wissen nicht, welche Behandlung für Sie geeignet ist? – Schreiben Sie uns über Viber / WhatsApp",
+    "title": "Behandlungsarten",
+    "tretmans": [
+      {
+        "title": "SMP bei Kahlheit (Look einer rasierten Glatze)",
+        "slug": "smp-bei-kahlheit"
+      },
+      {
+        "title": "Haarausfall – Verdichtung mit oder ohne Transplantation",
+        "slug": "haarverdichtung-smp"
+      },
+      {
+        "title": "SMP bei Narben – durch Transplantation, Verletzungen oder Operationen",
+        "slug": "smp-bei-narben"
+      },
+      {
+        "title": "Alopezie – areata, totalis, universalis",
+        "slug": "alopezie-smp"
+      },
+      {
+        "title": "SMP für Frauen – dünner werdendes Haar, weniger Volumen",
+        "slug": "smp-fuer-frauen"
+      },
+      {
+        "title": "Korrektur misslungener SMP-Behandlungen",
+        "slug": "smp-korrektur"
+      }
+    ]
+  },
   "section": {
     "title": "Uz naše znanje i iskustvo, vaše ",
     "span": " ideje ",

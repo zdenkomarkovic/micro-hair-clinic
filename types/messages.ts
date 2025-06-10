@@ -9,6 +9,28 @@ export type Messages = {
     title: string;
     text: string[];
   };
+  cards2: {
+    title: string;
+    text: string;
+    link: string;
+  }[];
+  cards2text: {
+    title: string;
+    text: string;
+    span: string;
+    text2: string;
+    subtitle: string;
+    list1: string[];
+    list2: string[];
+  };
+  datatreatments: {
+    title: string;
+    cta: string;
+    tretmans: {
+      title: string;
+      slug: string;
+    }[];
+  };
   section: {
     title: string;
     span: string;
@@ -27,6 +49,7 @@ export type Messages = {
     mim: string;
     img: string;
   }[];
+
   usluge: {
     img: string;
     title: string;
