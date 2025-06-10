@@ -2,7 +2,6 @@
 import { CardHeader, CardContent, Card, CardFooter } from "./ui/card";
 import { motion } from "framer-motion";
 import { Messages } from "@/types/messages";
-import MotionComponent1 from "./MotionComponent1";
 
 type Props = {
   data: Messages["cards2"];
