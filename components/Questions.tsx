@@ -43,7 +43,7 @@ type CardBigProps = {
 const CardBig = ({ data, i }: CardBigProps) => {
   return (
     <Accordion type="single" collapsible>
-      <AccordionItem value={i + 1}>
+      <AccordionItem value={`${i + 1}`}>
         <AccordionTrigger className="">
           <h4>{data.title}</h4>
           <Link href={data.link} className="ml-auto mr-6 md:mr-52">
@@ -68,7 +68,7 @@ type CardProps = {
 const Card = ({ data, i }: CardProps) => {
   return (
     <Accordion type="single" collapsible>
-      <AccordionItem value={i + 1}>
+      <AccordionItem value={`${i + 1}`}>
         <AccordionTrigger>{data.question}</AccordionTrigger>
         <AccordionContent>
           <div className="flex gap-3">
