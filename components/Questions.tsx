@@ -1,3 +1,4 @@
+import Link from "@/node_modules/next/link";
 import { Messages } from "@/types/messages";
 import React from "react";
 import {
@@ -43,7 +44,13 @@ const CardBig = ({ data, i }: CardBigProps) => {
   return (
     <Accordion type="single" collapsible>
       <AccordionItem value={i + 1}>
-        <AccordionTrigger>{data.title}</AccordionTrigger>
+        <AccordionTrigger className="">
+          <h4>{data.title}</h4>
+          <Link href={data.link} className="ml-auto mr-6 md:mr-52">
+            {data.cta}
+          </Link>
+        </AccordionTrigger>
+
         <AccordionContent>
           {data.answers.map((answer, i) => {
             return <Card key={i} data={answer} i={i} />;
@@ -64,12 +71,16 @@ const Card = ({ data, i }: CardProps) => {
       <AccordionItem value={i + 1}>
         <AccordionTrigger>{data.question}</AccordionTrigger>
         <AccordionContent>
-          <p>{data.text}</p>
-          <ul>
-            {data.list.map((line, i) => {
-              return <li key={i}>{line}</li>;
-            })}
-          </ul>
+          <div className="flex gap-3">
+            <p>{data.text}</p>
+
+            <div>
+              {data.list.map((line, i) => {
+                return <p key={i}>{line}</p>;
+              })}
+            </div>
+          </div>
+
           <p>{data.text2}</p>
         </AccordionContent>
       </AccordionItem>

@@ -1,5 +1,5 @@
 import React from "react";
-import type { Metadata } from "next";
+// import type { Metadata } from "next";
 import Vebsite from "@/components/Vebsite";
 
 // export const metadata: Metadata = {

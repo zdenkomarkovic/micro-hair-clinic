@@ -1,6 +1,6 @@
 import React from "react";
 import WebSite from "@/components/website/page";
-import type { Metadata } from "next";
+// import type { Metadata } from "next";
 
 // export const metadata: Metadata = {
 //   title: "Website Development - Manikam Web Solutions",

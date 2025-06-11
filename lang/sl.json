@@ -240,8 +240,8 @@
       },
       {
         "title": "PITANJA O CENAMA I KONTAKTU",
-        "cta": "",
-        "link": "",
+        "cta": "Idi na kontakt stranicu",
+        "link": "/contact",
         "answers": [
           {
             "question": "Koliko košta SMP tretman?",

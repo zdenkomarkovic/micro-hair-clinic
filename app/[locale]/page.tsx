@@ -1,7 +1,7 @@
 import Hero from "@/components/Hero";
-import { generateAlternateLinks } from "@/lib/seo";
+// import { generateAlternateLinks } from "@/lib/seo";
 import { Messages } from "@/types/messages";
-import { Metadata } from "next";
+// import { Metadata } from "next";
 import { getIntl } from "../../lib/intl";
 import { i18n } from "@/i18n-config";
 import { isValidLocale } from "@/lib/locale";
