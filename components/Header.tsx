@@ -10,7 +10,6 @@ import { AiOutlineClose } from "react-icons/ai";
 import { i18n } from "../i18n-config";
 import { getNavList } from "@/locales/navUtils";
 import type { Locale } from "@/i18n-config";
-import logo from "../public/images/mhc 22.PNG";
 
 function isValidLocale(locale: string): locale is Locale {
   return (i18n.locales as readonly string[]).includes(locale);
@@ -59,7 +58,7 @@ export default function Header({ locale }: { locale: string }) {
           <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
             <Link href="/" className="flex items-center space-x-4">
               <Image
-                src={logo}
+                src={"/images/mhc 22.png"}
                 alt="micro-hair-clinic"
                 width={300}
                 height={200}
