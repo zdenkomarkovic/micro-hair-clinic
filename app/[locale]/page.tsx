@@ -8,25 +8,26 @@ import { isValidLocale } from "@/lib/locale";
 import Cards2 from "@/components/Cards2";
 import CardWithImage from "@/components/CardWithImage";
 import Treatments from "@/components/Treatments";
+import Questions from "@/components/Questions";
 
-export async function generateMetadata({
-  params,
-}: {
-  params: Promise<{ locale: string }>;
-}): Promise<Metadata> {
-  const awaitedParams = await params;
-  const localeParam = awaitedParams.locale;
+// export async function generateMetadata({
+//   params,
+// }: {
+//   params: Promise<{ locale: string }>;
+// }): Promise<Metadata> {
+//   const awaitedParams = await params;
+//   const localeParam = awaitedParams.locale;
 
-  const locale = isValidLocale(localeParam) ? localeParam : i18n.defaultLocale;
+//   const locale = isValidLocale(localeParam) ? localeParam : i18n.defaultLocale;
 
-  const intl = await getIntl(locale);
+//   const intl = await getIntl(locale);
 
-  return {
-    title: intl.formatMessage({ id: "page.home.head.title" }),
-    description: intl.formatMessage({ id: "page.home.head.meta.description" }),
-    alternates: generateAlternateLinks(""),
-  };
-}
+//   return {
+//     title: intl.formatMessage({ id: "page.home.head.title" }),
+//     description: intl.formatMessage({ id: "page.home.head.meta.description" }),
+//     alternates: generateAlternateLinks(""),
+//   };
+// }
 
 export default async function Home({
   params,
@@ -49,6 +50,7 @@ export default async function Home({
   const datacards2 = messages.cards2 ?? [];
   const textcards2 = messages.cards2text ?? {};
   const datatreatments = messages.datatreatments ?? {};
+  const dataQuestions = messages.questions ?? {};
 
   return (
     <main>
@@ -62,6 +64,7 @@ export default async function Home({
         <Cards2 data={datacards2} text={textcards2} />
         <Treatments data={datatreatments} />
         <CardWithImage data={dataWhyUs} />
+        <Questions data={dataQuestions} />
       </div>
     </main>
   );

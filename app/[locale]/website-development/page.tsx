@@ -2,16 +2,16 @@ import React from "react";
 import WebSite from "@/components/website/page";
 import type { Metadata } from "next";
 
-export const metadata: Metadata = {
-  title: "Website Development - Manikam Web Solutions",
-  alternates: {
-    canonical: "https://manikamwebsolutions.com/en/website-development",
-    languages: {
-      sr: "https://manikamwebsolutions.com/sr/izrada-sajta",
-      en: "https://manikamwebsolutions.com/en/website-development",
-    },
-  },
-};
+// export const metadata: Metadata = {
+//   title: "Website Development - Manikam Web Solutions",
+//   alternates: {
+//     canonical: "https://manikamwebsolutions.com/en/website-development",
+//     languages: {
+//       sr: "https://manikamwebsolutions.com/sr/izrada-sajta",
+//       en: "https://manikamwebsolutions.com/en/website-development",
+//     },
+//   },
+// };
 
 const page = () => {
   return (

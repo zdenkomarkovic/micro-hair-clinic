@@ -10,7 +10,7 @@ import { AiOutlineClose } from "react-icons/ai";
 import { i18n } from "../i18n-config";
 import { getNavList } from "@/locales/navUtils";
 import type { Locale } from "@/i18n-config";
-import logo from "../public/images/manikamlogo.png";
+import logo from "../public/mhc 22.png";
 
 function isValidLocale(locale: string): locale is Locale {
   return (i18n.locales as readonly string[]).includes(locale);
@@ -60,14 +60,11 @@ export default function Header({ locale }: { locale: string }) {
             <Link href="/" className="flex items-center space-x-4">
               <Image
                 src={logo}
-                alt="manikamdevsolutions logo"
-                width={55}
-                height={55}
-                className=" rounded-full"
+                alt="micro-hair-clinic"
+                width={300}
+                height={200}
+                className=" "
               />
-              <span className="font-bold  text-xl hidden md:inline">
-                ManikamWebSolutions
-              </span>
             </Link>
           </motion.div>
 

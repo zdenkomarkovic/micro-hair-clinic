@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: "https://www.manikamwebsolutions.com",
+  siteUrl: "https://",
   generateRobotsTxt: true,
   sitemapSize: 5000,
 };

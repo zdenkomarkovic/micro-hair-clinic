@@ -20,28 +20,22 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Manikam Web Solutions",
-  description: "Agencija za izradu softvera i sajtova",
+  title: "SMP mikropigmentacija lasišča – Micro Hair Clinic",
+  description:
+    "Odkrijte SMP – neinvaziven tretma za videz gostih, obritih las. Brez operacije, zdravil ali brazgotin. Rezervirajte posvet!",
   icons: {
     icon: "/images/android-chrome-192x192.png",
     apple: "/images/apple-touch-icon.png",
   },
 
-  keywords: [
-    "sajt",
-    "sajtovi",
-    "izrada sajta",
-    "web dizajn",
-    "softver",
-    "izrada softvera",
-  ],
+  keywords: [],
   alternates: {
-    canonical: "https://manikamwebsolutions.com/",
+    canonical: "https://",
   },
 };
 
 export async function generateStaticParams(): Promise<{ locale: string }[]> {
-  return [{ locale: "sr" }, { locale: "en" }];
+  return [{ locale: "sl" }, { locale: "en" }, { locale: "de" }];
 }
 
 export default async function LocaleLayout({
@@ -62,7 +56,7 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} dir={getDirection(locale)}>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased text-muted-foreground bg-secondary text-lg md:text-2xl`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased text-muted-foreground bg-secondary text-lg md:text-xl`}
       >
         <LocaleProvider locale={locale}>
           <Header locale={locale} />

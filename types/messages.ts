@@ -31,6 +31,20 @@ export type Messages = {
       slug: string;
     }[];
   };
+  questions: {
+    title: string;
+    categories: {
+      title: string;
+      cta: string;
+      link: string;
+      answers: {
+        question: string;
+        text: string;
+        list: string[];
+        text2: string;
+      }[];
+    }[];
+  };
   section: {
     title: string;
     span: string;
