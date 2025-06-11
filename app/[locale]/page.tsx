@@ -9,6 +9,7 @@ import Cards2 from "@/components/Cards2";
 import CardWithImage from "@/components/CardWithImage";
 import Treatments from "@/components/Treatments";
 import Questions from "@/components/Questions";
+import MeetArtist from "@/components/MeetArtist";
 
 // export async function generateMetadata({
 //   params,
@@ -63,6 +64,7 @@ export default async function Home({
         />
         <Cards2 data={datacards2} text={textcards2} />
         <Treatments data={datatreatments} />
+        <MeetArtist />
         <CardWithImage data={dataWhyUs} />
         <Questions data={dataQuestions} />
       </div>
