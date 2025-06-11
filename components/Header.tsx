@@ -10,7 +10,7 @@ import { AiOutlineClose } from "react-icons/ai";
 import { i18n } from "../i18n-config";
 import { getNavList } from "@/locales/navUtils";
 import type { Locale } from "@/i18n-config";
-import logo from "../public/mhc 22.png";
+import logo from "../public/images/mhc 22.PNG";
 
 function isValidLocale(locale: string): locale is Locale {
   return (i18n.locales as readonly string[]).includes(locale);

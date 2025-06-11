@@ -55,7 +55,7 @@ const CardBig = ({ data, i }: CardBigProps) => {
 };
 
 type CardProps = {
-  data: Messages["questions"]["categories"]["answers"][number];
+  data: Messages["questions"]["categories"][number]["answers"][number];
   i: number;
 };
 const Card = ({ data, i }: CardProps) => {
