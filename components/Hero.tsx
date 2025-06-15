@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { Button } from "./ui/button";
 
 type HeroProps = {
@@ -11,24 +11,10 @@ type HeroProps = {
 };
 
 const Hero = ({ title, subtitle, text, button }: HeroProps) => {
-  const [height, setHeight] = useState("100vh");
-
-  useEffect(() => {
-    const updateHeight = () => {
-      setHeight(`${window.innerHeight}px`);
-    };
-
-    updateHeight(); // inicijalno
-    window.addEventListener("resize", updateHeight);
-    return () => window.removeEventListener("resize", updateHeight);
-  }, []);
   const heroVideo = "/images/IMG_8157 2.mp4";
 
   return (
-    <div
-      className="relative h-screen w-full flex items-center justify-center"
-      style={{ height }}
-    >
+    <div className="relative h-[100dvh] w-full flex items-center justify-center">
       <video
         autoPlay
         loop
@@ -42,7 +28,7 @@ const Hero = ({ title, subtitle, text, button }: HeroProps) => {
 
       {/* Overlay (opcionalno) */}
 
-      <div className="container mx-auto px-2 md:px-4 relative h-screen flex flex-col justify-between py-2 md:py-10">
+      <div className="container mx-auto px-2 md:px-4 relative h-full flex flex-col justify-between py-2 md:py-10">
         <div className="flex-grow flex items-center">
           <div className="pt-20 space-y-20">
             <h1 className="text-white ">{title}</h1>
