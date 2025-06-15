@@ -1,15 +1,22 @@
-// app/[locale]/smp-vs-transplantacija/page.tsx
-
 import { notFound } from "next/navigation";
 import type { Locale } from "@/i18n-config";
 import { readFile } from "fs/promises";
 import path from "path";
-
 import { FinalCta } from "@/components/tretments/FinalCta";
 import { HeroSection } from "@/components/tretments/HeroSection";
 import { isValidLocale } from "@/lib/locale";
 import TableSection from "@/components/TableSection";
 import BulletSection from "@/components/BulletSection";
+
+type Section = {
+  id: string;
+  title: string;
+  bullets?: string[];
+  table?: {
+    headers: string[];
+    rows: string[][];
+  };
+};
 
 export default async function ComparePage({
   params,
@@ -32,7 +39,7 @@ export default async function ComparePage({
     <main>
       <HeroSection data={json.hero} />
 
-      {json.sections?.map((section: any) => {
+      {json.sections?.map((section: Section) => {
         if (section.table) {
           return <TableSection key={section.id} data={section} />;
         } else {
