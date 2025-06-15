@@ -2,11 +2,12 @@ type Props = {
   data: {
     id: string;
     title: string;
-    table: string[][];
+    table?: string[][];
   };
 };
 
 export default function TableSection({ data }: Props) {
+  if (!data.table || data.table.length === 0) return null;
   const [headerRow, ...bodyRows] = data.table;
 
   return (
