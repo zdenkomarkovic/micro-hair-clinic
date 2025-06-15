@@ -26,3 +26,12 @@ export interface TreatmentData {
     ctas: { label: string; href: string }[];
   };
 }
+
+export interface TextSection {
+  id: string;
+  title?: string;
+  text: string[];
+  bullets?: string[];
+  image?: { src: string; alt: string };
+  link?: { label: string; href: string };
+}
