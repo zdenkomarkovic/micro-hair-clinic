@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useEffect, useRef, useState } from "react";
+import React from "react";
 import { Button } from "./ui/button";
 
 type HeroProps = {
@@ -12,37 +12,10 @@ type HeroProps = {
 
 const Hero = ({ title, subtitle, text, button }: HeroProps) => {
   const heroVideo = "/images/IMG_8157 2.mp4";
-  const videoRef = useRef<HTMLVideoElement>(null);
-  const [playCount, setPlayCount] = useState(0);
-
-  useEffect(() => {
-    const video = videoRef.current;
-    if (!video) return;
-
-    const handleEnded = () => {
-      setPlayCount((prev) => prev + 1);
-    };
-
-    video.addEventListener("ended", handleEnded);
-
-    return () => {
-      video.removeEventListener("ended", handleEnded);
-    };
-  }, []);
-
-  useEffect(() => {
-    const video = videoRef.current;
-    if (!video) return;
-
-    if (playCount >= 2) {
-      video.muted = true;
-    }
-  }, [playCount]);
 
   return (
     <div className="relative min-h-screen w-full flex items-center justify-center">
       <video
-        ref={videoRef}
         autoPlay
         loop
         playsInline
