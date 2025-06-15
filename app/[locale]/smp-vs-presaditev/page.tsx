@@ -12,10 +12,7 @@ type Section = {
   id: string;
   title: string;
   bullets?: string[];
-  table?: {
-    headers: string[];
-    rows: string[][];
-  };
+  table?: string[][];
 };
 
 export default async function ComparePage({
