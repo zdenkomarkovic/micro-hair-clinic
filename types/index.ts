@@ -27,11 +27,23 @@ export interface TreatmentData {
   };
 }
 
-export interface TextSection {
-  id: string;
-  title?: string;
-  text: string[];
-  bullets?: string[];
-  image?: { src: string; alt: string };
-  link?: { label: string; href: string };
-}
+export type Section =
+  | {
+      id: string;
+      title?: string;
+      text: string[];
+      image?: { src: string; alt: string };
+      link?: { label: string; href: string };
+    }
+  | {
+      id: string;
+      title?: string;
+      bullets: string[];
+      image?: { src: string; alt: string };
+      link?: { label: string; href: string };
+    }
+  | {
+      id: string;
+      title: string;
+      table: string[][];
+    };
