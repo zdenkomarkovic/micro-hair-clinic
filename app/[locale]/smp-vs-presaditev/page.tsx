@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import type { Locale } from "@/i18n-config";
+import { i18n, Locale } from "@/i18n-config";
 import { readFile } from "fs/promises";
 import path from "path";
 import { FinalCta } from "@/components/tretments/FinalCta";
@@ -21,9 +21,14 @@ type Section = {
 export default async function ComparePage({
   params,
 }: {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 }) {
-  const locale: Locale = isValidLocale(params.locale) ? params.locale : "sl";
+  const awaitedParams = await params;
+  const localeParam = awaitedParams.locale;
+
+  const locale: Locale = isValidLocale(localeParam)
+    ? localeParam
+    : i18n.defaultLocale;
 
   const filePath = path.join(process.cwd(), "data/compare", `${locale}.json`);
 
