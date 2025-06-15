@@ -1,7 +1,7 @@
 import Image from "@/node_modules/next/image";
 import { Messages } from "@/types/messages";
 import React from "react";
-import srdjanPhoto from "../public/images/srdjan.JPG";
+import srdjanPhoto from "../public/images/srdjan.jpg";
 import { GiTrophyCup } from "react-icons/gi";
 import { GiWorld } from "react-icons/gi";
 
