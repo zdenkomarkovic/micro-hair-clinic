@@ -14,7 +14,7 @@ const Hero = ({ title, subtitle, text, button }: HeroProps) => {
   const heroVideo = "/images/IMG_8157 2.mp4";
 
   return (
-    <div className="relative h-screen w-full flex items-center justify-center">
+    <div className="relative h-screen w-full flex items-center justify-center py-2 md:py-10">
       <video
         autoPlay
         loop
@@ -28,7 +28,7 @@ const Hero = ({ title, subtitle, text, button }: HeroProps) => {
 
       {/* Overlay (opcionalno) */}
 
-      <div className="container mx-auto px-2 md:px-4 relative h-screen flex flex-col justify-between py-2 md:py-10">
+      <div className="container mx-auto px-2 md:px-4 relative h-screen flex flex-col justify-between ">
         <div className="flex-grow flex items-center">
           <div className="pt-20 space-y-20">
             <h1 className="text-white ">{title}</h1>
