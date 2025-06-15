@@ -10,6 +10,7 @@ import CardWithImage from "@/components/CardWithImage";
 import Treatments from "@/components/Treatments";
 import Questions from "@/components/Questions";
 import MeetArtist from "@/components/MeetArtist";
+import TretmanFlow from "@/components/TretmanFlow";
 
 // export async function generateMetadata({
 //   params,
@@ -52,6 +53,8 @@ export default async function Home({
   const textcards2 = messages.cards2text ?? {};
   const datatreatments = messages.datatreatments ?? {};
   const dataQuestions = messages.questions ?? {};
+  const dataArtist = messages.artist ?? {};
+  const dataTretman = messages.tretmanFlow ?? {};
 
   return (
     <main>
@@ -64,8 +67,9 @@ export default async function Home({
         />
         <Cards2 data={datacards2} text={textcards2} />
         <Treatments data={datatreatments} />
-        <MeetArtist />
         <CardWithImage data={dataWhyUs} />
+        <MeetArtist data={dataArtist} />
+        <TretmanFlow data={dataTretman} />
         <Questions data={dataQuestions} />
       </div>
     </main>

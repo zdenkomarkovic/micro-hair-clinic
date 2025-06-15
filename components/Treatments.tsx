@@ -3,12 +3,15 @@ import Link from "@/node_modules/next/link";
 import { Messages } from "@/types/messages";
 import React from "react";
 import { motion } from "framer-motion";
+import { useParams } from "@/node_modules/next/navigation";
 
 type Props = {
   data: Messages["datatreatments"];
 };
 
 const Treatments = ({ data }: Props) => {
+  const params = useParams();
+  const locale = params?.locale ?? "en";
   return (
     <div className="container px-2 md:px-4 py-6 mx-auto space-y-6 border-b">
       <h3>{data.title}</h3>
@@ -24,7 +27,9 @@ const Treatments = ({ data }: Props) => {
               }}
               whileTap={{ scale: 0.95 }}
             >
-              <Link href={tretman.slug}>{tretman.title} </Link>
+              <Link href={`/${locale}/tretmani/${tretman.slug}`}>
+                {tretman.title}{" "}
+              </Link>
             </motion.p>
           );
         })}

@@ -20,6 +20,7 @@ export type Messages = {
     span: string;
     text2: string;
     subtitle: string;
+    subtitle2: string;
     list1: string[];
     list2: string[];
   };
@@ -45,29 +46,67 @@ export type Messages = {
       }[];
     }[];
   };
-  section: {
-    title: string;
-    span: string;
-    title2: string;
-    title3: string;
-    span2: string;
-    subtitle: string;
-    span3: string;
-    subtitle2: string;
-    span4: string;
-    subtitle3: string;
-    span5: string;
-  };
-  cards: {
-    title: string;
-    mim: string;
-    img: string;
-  }[];
-
-  usluge: {
-    img: string;
+  artist: {
     title: string;
     text: string;
-    span: string;
+    award1: string;
+    award2: string;
+    award3: string;
+    text2: string;
+  };
+  tretmanFlow: {
+    title: string;
+    description: string;
+    text: {
+      bold: string;
+      normal: string;
+    }[];
+  };
+
+  treatments: {
+    slug: string;
+    title: string;
+    hero: {
+      heading: string;
+      subtitle: string;
+      image: string;
+      alt: string;
+      ctas: {
+        label: string;
+        href: string;
+      }[];
+    };
+    sections: {
+      id: string;
+      title: string;
+      bullets?: string[];
+      text?: string[];
+      image?: {
+        src: string;
+        alt: string;
+      };
+      link?: {
+        label: string;
+        href: string;
+      };
+    }[];
+    gallery: {
+      src: string;
+      alt: string;
+    }[];
+    faqs: {
+      q: string;
+      a: string;
+    }[];
+    reviews: {
+      quote: string;
+    }[];
+    finalCta: {
+      text: string;
+      ctas: {
+        label: string;
+        href: string;
+      }[];
+    };
   }[];
 };
