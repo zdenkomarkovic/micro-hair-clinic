@@ -12,10 +12,8 @@ const TretmanFlow = ({ data }: Props) => {
       <div className="space-y-2">
         {data.text.map((line, i) => {
           return (
-            <p>
-              <span key={i} className="font-bold">
-                {line.bold}
-              </span>
+            <p key={i}>
+              <span className="font-bold">{line.bold}</span>
               {line.normal}
             </p>
           );
