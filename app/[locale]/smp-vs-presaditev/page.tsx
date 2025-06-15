@@ -24,7 +24,7 @@ export default async function ComparePage({
   try {
     const file = await readFile(filePath, "utf-8");
     json = JSON.parse(file);
-  } catch (err) {
+  } catch {
     return notFound();
   }
 
