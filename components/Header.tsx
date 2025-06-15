@@ -53,16 +53,16 @@ export default function Header({ locale }: { locale: string }) {
       animate={{ y: 0 }}
       transition={{ type: "spring", stiffness: 300, damping: 30 }}
     >
-      <nav className="container mx-auto px-4 py-[10px]">
+      <nav className="container mx-auto px-4 py-1 ">
         <div className="flex justify-between items-center">
           <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
             <Link href="/" className="flex items-center space-x-4">
               <Image
-                src={"/images/mhc22.PNG"}
+                src={"/images/mhclogo.PNG"}
                 alt="micro-hair-clinic"
-                width={300}
+                width={150}
                 height={200}
-                className=" "
+                className="w-[100px] md:w-[150px] "
               />
             </Link>
           </motion.div>
@@ -73,14 +73,14 @@ export default function Header({ locale }: { locale: string }) {
                 <Link
                   key={i}
                   href={item.route}
-                  className="text-foreground hover:text-primary transition-colors uppercase"
+                  className="hover:text-primary transition-colors uppercase"
                 >
                   {item.title}
                 </Link>
               );
             })}
           </div>
-          <div dir="ltr" className="flex flex-col">
+          <div dir="ltr" className="flex flex-col text-sm md:text-lg">
             {[...locales].sort().map((locale) => (
               <Link
                 key={locale}
