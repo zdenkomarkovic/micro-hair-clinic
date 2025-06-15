@@ -89,7 +89,7 @@
       },
       {
         "title": "Korrektur misslungener SMP-Behandlungen",
-        "slug": "/de/behandlungen/smp-korrektur"
+        "slug": "smp-korrektur"
       }
     ]
   },
@@ -316,7 +316,7 @@
   },
   "treatments": [
     {
-      "slug": "smp-korekcija",
+      "slug": "smp-korrektur",
       "title": "SMP korekcije – ispravke loše urađenih tretmana",
       "hero": {
         "heading": "SMP korekcije – prirodan izgled umesto lošeg tretmana",

@@ -22,7 +22,7 @@ export default async function TreatmentPage({
     : i18n.defaultLocale;
 
   const intl = await getIntl(locale);
-  const messages = intl.messages as Messages;
+  const messages = intl.messages as unknown as Messages;
 
   const data = messages.treatments?.find((t) => t.slug === awaitedParams.slug);
 
