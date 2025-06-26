@@ -19,6 +19,7 @@ export type LinkType = {
 export type SectionCommon = {
   id: string;
   title: string;
+  title2?: string;
   text?: string | string[];
   bullets?: string[];
   gallery?: string[];
@@ -28,6 +29,9 @@ export type SectionCommon = {
   award2?: string;
   award3?: string;
   text2?: string;
+  link?: {
+    label: string;
+  };
 };
 
 export type HeroSectionType = {
