@@ -10,8 +10,8 @@ import { Faq } from "@/components/tretments/Faq";
 import { Section1 } from "@/components/tretments/Section1";
 import { Section2 } from "@/components/tretments/Section2";
 import { Section3 } from "@/components/tretments/Section3";
-import { Section5 } from "@/components/tretments/Section5";
 import { PageData, SectionCommon } from "@/types/index";
+import { Section5 } from "@/components/tretments/Section5";
 
 export default async function ComparePage({
   params,

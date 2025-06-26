@@ -8,7 +8,7 @@ type Props = {
   section: SectionCommon;
 };
 
-export function ASection5({ section }: Props) {
+export function Section5({ section }: Props) {
   return (
     <section id={section.id} className="py-10 px-4">
       <div className="container px-2 md:px-12 mx-auto py-12">
