@@ -17,13 +17,15 @@ export function Section1({ section }: Props) {
               {section.imgtitle && (
                 <p className="pb-10 font-bold">{section.imgtitle}</p>
               )}
-              <Image
-                src={section.image[0].src}
-                width={500}
-                height={500}
-                alt={section.image[0].alt}
-                className=" w-full"
-              />
+              {
+                <Image
+                  src={section.image.src}
+                  width={500}
+                  height={500}
+                  alt={section.image.alt}
+                  className=" w-full"
+                />
+              }
             </div>
           )}
         </div>
