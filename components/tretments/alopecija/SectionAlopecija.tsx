@@ -12,11 +12,13 @@ export function SectionAlopecija({ section }: Props) {
     <section id={section.id} className="py-10 px-4 pt-50">
       <div className="container px-2 md:px-4 mx-auto text-center space-y-6 ">
         <h2 className="">{section.title}</h2>
-        <div>
-          {section.text?.map((line, i) => {
-            return <p key={i}>{line}</p>;
-          })}
-        </div>
+        {Array.isArray(section.text) && (
+          <div>
+            {section.text?.map((line, i) => {
+              return <p key={i}>{line}</p>;
+            })}
+          </div>
+        )}
         {section.bullets && (
           <div className="grid grid-cols-3 gap-6 h-full">
             {section.bullets.map((b, i) => (
