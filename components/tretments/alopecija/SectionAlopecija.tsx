@@ -20,10 +20,11 @@ export function SectionAlopecija({ section }: Props) {
         {section.bullets && (
           <div className="grid grid-cols-3 gap-6 h-full">
             {section.bullets.map((b, i) => (
-              <div className="flex flex-col justify-between h-full bg-primary-foreground border rounded-lg overflow-hidden">
-                <p key={i} className="font-bold p-6">
-                  {b}
-                </p>
+              <div
+                key={i}
+                className="flex flex-col justify-between h-full bg-primary-foreground border rounded-lg overflow-hidden"
+              >
+                <p className="font-bold p-6">{b}</p>
                 <Image
                   src={section.image[i].src}
                   width={500}
