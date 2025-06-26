@@ -27,13 +27,15 @@ export function SectionAlopecija({ section }: Props) {
                 className="flex flex-col justify-between h-full bg-primary-foreground border rounded-lg overflow-hidden"
               >
                 <p className="font-bold p-6">{b}</p>
-                <Image
-                  src={section.image[i].src}
-                  width={500}
-                  height={500}
-                  alt={"Tipovi alopecije: areata, totalis, universalis"}
-                  className=" w-full object-cover"
-                />
+                {section.image?.[i] && (
+                  <Image
+                    src={section.image[i].src}
+                    width={500}
+                    height={500}
+                    alt={section.image[i].alt}
+                    className="w-full object-cover"
+                  />
+                )}
               </div>
             ))}
           </div>

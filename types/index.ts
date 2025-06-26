@@ -23,7 +23,7 @@ export type SectionCommon = {
   text?: string | string[];
   bullets?: string[];
   gallery?: string[];
-  image?: ImageType;
+  image?: ImageType[];
   links?: LinkType[];
   award1?: string;
   award2?: string;
