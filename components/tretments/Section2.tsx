@@ -21,17 +21,15 @@ export function Section2({ section }: Props) {
           )}
           {section.text && (
             <div className="mb-4 space-y-2">
-              {section.text.map((p, i) => (
+              {(Array.isArray(section.text)
+                ? section.text
+                : [section.text]
+              ).map((p, i) => (
                 <p key={i}>{p}</p>
               ))}
             </div>
           )}
 
-          {section.link && (
-            <a href={section.link.href} className="text-blue-600 underline">
-              {section.link.label}
-            </a>
-          )}
           <ul>
             {section.links?.map((link, i) => {
               return (

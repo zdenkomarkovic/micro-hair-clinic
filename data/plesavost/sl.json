@@ -68,7 +68,10 @@
           "link": "/smp-za-zenske"
         }
       ],
-      "text": ["Več izveste: Kako poteka postopek SMP tretmaja – dan za dnem"],
+      "text": [
+        "Več izveste: Kako poteka postopek SMP tretmaja – dan za dnem",
+        ""
+      ],
       "image": {
         "src": "/images/herovideo.mp4",
         "alt": "Proces skalp mikropigmentacije"
