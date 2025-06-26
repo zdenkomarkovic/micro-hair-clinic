@@ -64,5 +64,4 @@ export type Messages = {
       normal: string;
     }[];
   };
-
-  
+};
