@@ -10,19 +10,19 @@ type Props = {
 
 const MeetArtist = ({ data }: Props) => {
   return (
-    <div className="container px-2 md:px-4 mx-auto py-12 space-y-12">
-      <h2>{data.title}</h2>
-      <div className="flex flex-row-reverse gap-16">
-        <div className="w-1/3">
+    <div className="container px-2 md:px-12 mx-auto py-12">
+      <div className="flex flex-row-reverse gap-20">
+        <div className="w-1/4 ">
           <Image
             src={"/images/srdjan.jpg"}
-            width={800}
-            height={800}
+            width={700}
+            height={700}
             alt="srdjan micro hair clinic"
-            className="w-full"
+            className="w-full rounded-lg "
           />
         </div>
-        <div className=" pl-20 flex flex-col justify-around">
+        <div className="w-2/4 flex flex-col justify-between">
+          <h2>{data.title}</h2>
           <p>{data.text}</p>
 
           <p className="flex items-center gap-6 font-bold">

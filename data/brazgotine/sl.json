@@ -1,0 +1,186 @@
+{
+  "slug": "smp-za-brazgotine",
+  "title": "SMP za brazgotine – presaditve, poškodbe in kamuflaža lasišča",
+  "hero": {
+    "heading": "SMP za brazgotine – presaditve, poškodbe in kamuflaža lasišča",
+    "subtitle": "Prekrivanje brazgotin na temenu in zatilju s pomočjo mikropigmentacije – brez operacije, brez bolečin, brez okrevanja.",
+    "image": "/images/preiposle2.JPG",
+    "alt": "SMP rezultat – prekrita brazgotina na lasišču",
+    "ctas": [
+      { "label": "Rezerviraj brezplačen posvet", "href": "/contact" },
+      {
+        "label": "Pošlji sporočilo prek Viberja",
+        "href": "viber://chat?number=%2B381645400100"
+      },
+      {
+        "label": "Pošlji sporočilo prek WhatsAppa",
+        "href": "https://wa.me/381645400100"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "1",
+      "title": "KDAJ IN ZAKAJ NASTANEJO BRAZGOTINE NA LASIŠČU?",
+      "bullets": [
+        "Presaditve las (FUT trak ali FUE punktiranje)",
+        "Kirurški posegi (dermatološki, nevrokirurški)",
+        "Poškodbe ali udarci v glavo (nesreče, padci, udarci)",
+        "Estetski postopki (npr. slabo izveden SMP tretma)"
+      ],
+      "text": ["Brazgotine na lasišču najpogosteje nastanejo zaradi:"],
+      "image": {
+        "src": "/images/kratko 2 copy.JPG",
+        "alt": "Vrste brazgotin na lasišču"
+      }
+    },
+    {
+      "id": "2",
+      "title": "KAKO DELUJE SMP ZA BRAZGOTINE?",
+      "bullets": [
+        "Zmanjša kontrast med brazgotino in okoliško kožo",
+        "Uskladi barvo in teksturo z okoliškim lasiščem",
+        "Učinek: brazgotina postane vizualno nevidna tudi od blizu"
+      ],
+      "text": [
+        "Skalp mikropigmentacija uporablja poseben pigment in mikroiglo za optično kamuflažo brazgotine:",
+        "Tretma je možen tudi, če so lasje prisotni (npr. po FUE na zatilju)"
+      ],
+      "image": {
+        "src": "/images/kratko 2 copy.JPG",
+        "alt": "Pred in po SMP tretmaju za brazgotino po presaditvi"
+      }
+    },
+    {
+      "id": "3",
+      "title": "BRAZGOTINE PO PRESADITVAH – FUE IN FUT",
+      "bullets": [
+        "Majhni krogi/točke, pogosto več njih na zatilju. Vidne, če so lasje kratki.",
+        "Ena horizontalna črta, jasno vidna pri obritih laseh.",
+        "Odličen za moške, ki želijo nositi kratke lase",
+        "Možnost optične preobleke brazgotine brez operacije"
+      ],
+      "text": [
+        "FUE brazgotine:",
+        "FUT brazgotine (trak metoda):",
+        "SMP:",
+        "Možno tudi po neuspešnih presaditvah"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "BRAZGOTINE OD POŠKODB IN KIRURŠKIH POSEGOV",
+      "bullets": [
+        "Poškodbe v otroštvu",
+        "Operacije na lobanji",
+        "Opekline, udarci, poškodbe",
+        "Vizualna rekonstrukcija videza kože",
+        "Diskretna korekcija brez dodatnih operacij",
+        "Individualni pristop: barva pigmenta, gostota, razporeditev"
+      ],
+      "text": ["Ne glede na izvor brazgotine SMP omogoča:"],
+      "image": {
+        "src": "/images/preiposle2.JPG",
+        "alt": "SMP tretma za kamuflažo brazgotine na glavi"
+      }
+    },
+    {
+      "id": "5",
+      "title": "GALERIJA – REZULTATI",
+      "bullets": [
+        "FUE brazgotine – pred in po",
+        "Kamuflaža horizontalne FUT brazgotine",
+        "Prekrivanje brazgotin po nesrečah",
+        "Popravek slabo izvedenega SMP tretmaja"
+      ],
+      "gallery": [
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG"
+      ],
+      "alt": "Kamuflaža FUE brazgotin z metodo SMP"
+    },
+    {
+      "id": "6",
+      "title": "SI PRIMEREN KANDIDAT?",
+      "bullets": [
+        "Imaš brazgotino na zatilju, temenu ali ob strani",
+        "Želiš kratke lase brez vidne brazgotine",
+        "Nočeš operacije",
+        "Imaš realna pričakovanja (pigment = vizualni učinek, fizično ne odstrani brazgotine)"
+      ],
+      "text": ["SMP za brazgotine je zate, če:"],
+      "link": {
+        "label": "Pošlji sliko brazgotine za brezplačno oceno",
+        "href": "/kontakt"
+      }
+    },
+    {
+      "id": "7",
+      "title": "KAKO POTEKA TRETMAN?",
+      "bullets": [
+        "2–3 seanse v razmiku 7–14 dni",
+        "Brez okrevanja – naslednji dan si že aktiven",
+        "Prilagojeno tvoji koži in starosti brazgotine"
+      ],
+      "text": [
+        "Pigment se nanaša previdno, v plasteh – brez draženja ali bolečin."
+      ],
+      "image": {
+        "src": "/images/preiposle2.JPG",
+        "alt": "Kako pigment prekrije brazgotino na glavi"
+      }
+    }
+  ],
+  "faqs": {
+    "title": "NAJPOGOSTEJŠA VPRAŠANJA",
+    "list": [
+      {
+        "q": "Ali SMP lahko popolnoma skrije brazgotino?",
+        "a": "Vizualno da – fizično ne. Pigment zakrije razliko v barvi in kontrastu."
+      },
+      {
+        "q": "Ali SMP draži brazgotino?",
+        "a": "Ne. Uporablja se sterilna tehnika z nežnim pritiskom. Tretma je varen in neboleč."
+      },
+      {
+        "q": "Kako dolgo traja učinek?",
+        "a": "2–4 leta, nato se lahko izvede osvežitev pigmenta."
+      },
+      {
+        "q": "Ali je SMP možen tudi pri več brazgotinah?",
+        "a": "Da – vsak primer ocenjujemo individualno."
+      }
+    ]
+  },
+  "reviews": {
+    "title": "IZKUŠNJE STRANK",
+    "text": "Ocene:",
+    "person": [
+      {
+        "quote": "Imel sem FUE presaditev in brazgotine so bile zelo vidne pri kratkih laseh. Po SMP tretmaju – praktično nevidne."
+      },
+      {
+        "quote": "Po poškodbi sem imel veliko brazgotino na temenu. Srđan mi je vrnil samozavest."
+      },
+      {
+        "quote": "Nisem vedel, da to obstaja. Zdaj se ne bojim več ostriči na kratko!"
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Odločen, da skriješ brazgotino?",
+    "text": "Imaš brazgotino, ki bi jo rad zakril? Rešitev obstaja – popolnoma diskretno.",
+    "button": "Rezerviraj zdaj"
+  }
+}

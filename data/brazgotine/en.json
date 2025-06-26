@@ -1,0 +1,186 @@
+{
+  "slug": "smp-za-brazgotine",
+  "title": "SMP for Scars – Transplants, Injuries, and Scalp Camouflage",
+  "hero": {
+    "heading": "SMP for Scars – Transplants, Injuries, and Scalp Camouflage",
+    "subtitle": "Covering scars on the crown and back of the head with micropigmentation – no surgery, no pain, no downtime.",
+    "image": "/images/preiposle2.JPG",
+    "alt": "SMP result – scar coverage on the scalp",
+    "ctas": [
+      { "label": "Book a Free Consultation", "href": "/contact" },
+      {
+        "label": "Send a Viber Message",
+        "href": "viber://chat?number=%2B381645400100"
+      },
+      {
+        "label": "Send a WhatsApp Message",
+        "href": "https://wa.me/381645400100"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "1",
+      "title": "WHEN AND WHY DO SCALP SCARS OCCUR?",
+      "bullets": [
+        "Hair transplants (FUT strip or FUE punch method)",
+        "Surgical procedures (dermatological, neurosurgical)",
+        "Head injuries or trauma (accidents, falls, blows)",
+        "Cosmetic treatments (e.g. poorly performed SMP)"
+      ],
+      "text": ["Scalp scars most commonly result from:"],
+      "image": {
+        "src": "/images/kratko 2 copy.JPG",
+        "alt": "Types of scalp scars"
+      }
+    },
+    {
+      "id": "2",
+      "title": "HOW DOES SMP FOR SCARS WORK?",
+      "bullets": [
+        "Covers the contrast between the scar and surrounding skin",
+        "Blends the color and texture with the surrounding scalp",
+        "Effect: scar becomes visually invisible even up close"
+      ],
+      "text": [
+        "Scalp micropigmentation uses special pigment and a micro needle to conceal and visually neutralize the scar:",
+        "Treatment can be done even if hair is present (e.g. after FUE in the donor area)"
+      ],
+      "image": {
+        "src": "/images/kratko 2 copy.JPG",
+        "alt": "Before and after SMP treatment for transplant scar"
+      }
+    },
+    {
+      "id": "3",
+      "title": "SCARS AFTER TRANSPLANT – FUE and FUT",
+      "bullets": [
+        "Small circles/dots, often multiple, in the donor area. Become visible if hair is cut short.",
+        "A single horizontal line, clearly visible when the head is shaved.",
+        "Perfect solution for men who want to wear short hairstyles",
+        "Visually conceals the scar without surgery"
+      ],
+      "text": [
+        "FUE scars:",
+        "FUT scars (strip method):",
+        "SMP:",
+        "Can be performed even after unsuccessful transplants"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "SCARS FROM INJURIES AND SURGICAL PROCEDURES",
+      "bullets": [
+        "Childhood accidents",
+        "Skull surgeries",
+        "Burns, trauma, injuries",
+        "Visual reconstruction of skin appearance",
+        "Discrete correction without additional surgery",
+        "Tailored approach: pigment color, density, placement"
+      ],
+      "text": ["Regardless of how the scar was caused, SMP enables:"],
+      "image": {
+        "src": "/images/preiposle2.JPG",
+        "alt": "SMP treatment for scar camouflage on the scalp"
+      }
+    },
+    {
+      "id": "5",
+      "title": "GALLERY – RESULTS",
+      "bullets": [
+        "FUE scar before-and-after examples",
+        "Camouflage of horizontal FUT scar",
+        "Scar concealment after injury",
+        "Correction of poorly done SMP treatment"
+      ],
+      "gallery": [
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG"
+      ],
+      "alt": "FUE scar camouflage using SMP method"
+    },
+    {
+      "id": "6",
+      "title": "ARE YOU A CANDIDATE?",
+      "bullets": [
+        "You have a scar on the back, crown, or side of your head",
+        "You want to wear short hair without the scar showing",
+        "You don't want surgery",
+        "You have realistic expectations (pigment = visual effect, it doesn’t physically erase the scar)"
+      ],
+      "text": ["SMP for scars is ideal for you if:"],
+      "link": {
+        "label": "Send a photo of your scar for a free assessment",
+        "href": "/kontakt"
+      }
+    },
+    {
+      "id": "7",
+      "title": "WHAT DOES THE TREATMENT LOOK LIKE?",
+      "bullets": [
+        "2–3 sessions, spaced 7–14 days apart",
+        "No downtime – you can resume activities the next day",
+        "Adjusted based on skin type and scar age"
+      ],
+      "text": [
+        "Pigment is carefully applied in layers, without irritation or pain."
+      ],
+      "image": {
+        "src": "/images/preiposle2.JPG",
+        "alt": "How pigment covers the scar on the scalp"
+      }
+    }
+  ],
+  "faqs": {
+    "title": "FREQUENTLY ASKED QUESTIONS",
+    "list": [
+      {
+        "q": "Can SMP completely hide a scar?",
+        "a": "Visually yes – physically no. The pigment covers color and contrast differences."
+      },
+      {
+        "q": "Can SMP irritate the scar?",
+        "a": "No, sterile technique and light pressure are used. The treatment is safe and painless."
+      },
+      {
+        "q": "How long does the effect last?",
+        "a": "2–4 years, after which a touch-up can be done."
+      },
+      {
+        "q": "Can SMP be done if I have multiple scars?",
+        "a": "Yes – we evaluate each case individually."
+      }
+    ]
+  },
+  "reviews": {
+    "title": "CLIENT EXPERIENCES",
+    "text": "Reviews:",
+    "person": [
+      {
+        "quote": "I had an FUE transplant and the scars were very visible when I cut my hair. After SMP – literally unnoticeable."
+      },
+      {
+        "quote": "I had a large scar on my crown due to an injury. Srđan helped me regain confidence."
+      },
+      {
+        "quote": "I didn’t know this existed. I’m no longer afraid to get a short haircut!"
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Ready to hide the scar?",
+    "text": "Do you have a scar you want to conceal? There is a solution – and it’s completely discreet.",
+    "button": "Book Now"
+  }
+}

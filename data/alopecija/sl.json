@@ -1,0 +1,145 @@
+{
+  "slug": "smp-alopecija",
+  "title": "SMP za alopecijo – areata, totalis in universalis",
+  "hero": {
+    "heading": "SMP za alopecijo – rešitev za izpadanje las na lisah ali celotno",
+    "subtitle": "Mikropigmentacija lasišča povrne videz las tudi, ko rast ni več mogoča – brez operacije, brez bolečin, brez čakanja.",
+    "image": "/images/kratko 2 copy.JPG",
+    "alt": "SMP rezultat pri klientu z alopecijo areato",
+    "ctas": [
+      { "label": "Rezerviraj brezplačen posvet", "href": "/contact" },
+      {
+        "label": "Pošlji sporočilo preko Vibra",
+        "href": "viber://chat?number=%2B381645400100"
+      },
+      {
+        "label": "Pošlji sporočilo preko WhatsAppa",
+        "href": "https://wa.me/381645400100"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "1",
+      "title": "KAJ JE ALOPECIJA?",
+      "bullets": [
+        "Alopecija areata – izpadanje las na lisah",
+        "Alopecija totalis – popolna izguba las na glavi",
+        "Alopecija universalis – izguba vseh dlak na telesu"
+      ],
+      "text": [
+        "Alopecija je avtoimunska bolezen, ki povzroča izpadanje las.",
+        "Imunski sistem napada lasne mešičke, kar vodi do izpadanja las.",
+        "Pogosto prizadene moške in ženske vseh starosti."
+      ],
+      "image": [
+        {
+          "src": "/images/preiposle2.JPG",
+          "alt": "Vrste alopecije: areata, totalis, universalis – grafični prikaz"
+        },
+        {
+          "src": "/images/preiposle4.JPG",
+          "alt": "Vrste alopecije: areata, totalis, universalis – grafični prikaz"
+        },
+        {
+          "src": "/images/preiposle4.JPG",
+          "alt": "Vrste alopecije: areata, totalis, universalis – grafični prikaz"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "KAKO POMAGA SMP PRI ALOPECIJI?",
+      "title2": "KDO JE KANDIDAT ZA SMP PRI ALOPECIJI?",
+      "text": [
+        "Mikropigmentacija lasišča (SMP) ne zdravi vzroka, vendar:",
+        "Pri totalni alopeciji SMP omogoča:",
+        "SMP je idealen, če:",
+        "SMP se lahko izvaja tudi pri ženskah – tretma se prilagodi območju predele delitve las in temena."
+      ],
+      "bullets": [
+        "Povrne videz naravnih las",
+        "Skrije neenakomerne lise",
+        "Povrne linijo las",
+        "Videz kratko obritih las pri totalni alopeciji",
+        "Enakomerno pigmentacijo celotnega lasišča",
+        "Videza, kot da so lasje namensko obriti",
+        "Vidne lise brez las",
+        "Neenakomerno izpadanje",
+        "Nisi kandidat za presaditev las",
+        "Želiš enakomeren videz lasišča"
+      ],
+      "image": {
+        "src": "/images/herovideo.mp4",
+        "alt": "SMP pri totalni alopeciji – učinek kratkih las"
+      },
+      "link": {
+        "label": "Pošlji fotografije za brezplačno oceno"
+      }
+    },
+    {
+      "id": "4",
+      "title": "KAKO POTEKA TRETMAN?",
+      "bullets": [
+        "Število seans: 2–4 tretmaji v razmiku 7–14 dni",
+        "Trajanje: vsaka seja 2–3 ure",
+        "Tehnika: prilagojena tipu alopecije in tonu kože",
+        "Brez bolečin, brez okrevanja",
+        "Pigmenti so hipoalergeni, tretma je varen in ga je mogoče ponavljati pri ciklični alopeciji."
+      ],
+      "text": [
+        "Pigmenti so hipoalergeni, tretma je varen in ga je mogoče ponavljati."
+      ],
+      "gallery": [
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG"
+      ],
+      "alt": "SMP pri alopeciji areati – prej in potem"
+    }
+  ],
+  "faqs": {
+    "title": "NAJPOGOSTEJŠA VPRAŠANJA",
+    "list": [
+      {
+        "q": "Ali lahko SMP poslabša alopecijo?",
+        "a": "Ne – tretma se izvaja plitko v koži, brez vpliva na lasne mešičke."
+      },
+      {
+        "q": "Ali je opazna razlika, ko lasje izpadejo okoli tretiranega območja?",
+        "a": "Ne – pigmentacija je načrtovana tako, da izgleda naravno tudi, če izpadanje nadaljuje."
+      },
+      {
+        "q": "Kako dolgo traja učinek SMP pri alopeciji?",
+        "a": "2–4 leta. Osvežitev je možna z eno sejo."
+      },
+      {
+        "q": "Ali je SMP primeren za ženske z difuzno alopecijo?",
+        "a": "Da – tehnika se prilagodi, da je učinek naraven ob obstoječih laseh."
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "quote": "Nisem vedel, da obstaja rešitev za tako neenakomerno izpadanje las. SMP mi je spremenil življenje."
+    },
+    {
+      "quote": "Lasje mi izpadajo v valovih že 5 let. To je prvič, da imam normalen videz glave."
+    }
+  ],
+  "finalCta": {
+    "title": "Pripravljen na spremembo?",
+    "text": "Imaš alopecijo in želiš naraven videz brez čakanja, da “morda zraste”? SMP ti lahko povrne videz in samozavest.",
+    "button": "Rezerviraj zdaj"
+  }
+}

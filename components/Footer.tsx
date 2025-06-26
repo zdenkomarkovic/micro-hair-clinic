@@ -39,7 +39,7 @@ export default function Footer({
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-muted-foreground">
         <div className="text-center md:text-left md:grid md:grid-cols-3 gap-8 mx-auto">
           <div>
-            {navList.map((item, i) => {
+            {/* {navList.map((item, i) => {
               return (
                 <ul
                   key={i}
@@ -55,43 +55,35 @@ export default function Footer({
                   </li>
                 </ul>
               );
-            })}
+            })} */}
           </div>
 
           <div className="space-y-3 pb-5 md:pb-0">
             <div>
               {" "}
-              <a href="tel:+381641967267">
+              <a href="https://wa.me/381645400100">
                 <p className="text-muted-foreground  flex gap-2 items-center hover:text-primary">
-                  Office: Serbia <FaPhone className="" /> +38164 1967 267
+                  <FaPhone className="" /> +38164 5400 100
                 </p>
               </a>
             </div>
+            <div> </div>
             <div>
-              {" "}
-              <a href="tel:+12408103730">
-                <p className="text-muted-foreground  flex gap-2 items-center hover:text-primary">
-                  Office: Washington, D.C., USA <FaPhone className="" />{" "}
-                  +12408103730
-                </p>
-              </a>
-            </div>
-            <div>
-              <a href="mailto:manikamwebsolutions@gmail.com">
+              <a href="mailto:info@microhairclinic.rs">
                 <p className="flex gap-3 items-center  hover:text-primary text-muted-foreground text-wrap">
-                  <TfiEmail /> manikamwebsolutions@gmail.com
+                  <TfiEmail /> info@microhairclinic.rs
                 </p>
               </a>
             </div>
             <div className="flex space-x-4 justify-center md:justify-start">
               <a
-                href="https://www.facebook.com/profile.php?id=61574784286298"
+                href="https://www.facebook.com/microhairclinic.rs/"
                 className="text-muted-foreground hover:text-primary"
               >
                 <Facebook />
               </a>
               <a
-                href="https://www.instagram.com/manikam.web.solutions/"
+                href="https://www.instagram.com/microhairclinic/"
                 target={"_blank"}
                 className="text-muted-foreground hover:text-primary"
               >
@@ -101,14 +93,14 @@ export default function Footer({
           </div>
           <div className="md:col-span-1 col-span-2 text-center">
             <h3 className="text-lg font-semibold mb-2 md:mb-4">
-              Manikam <span className="">Web</span> Solutions
+              Micro Hair Clinic
             </h3>
 
             <p className=" font-bold text-red-700 ">{message}</p>
           </div>
         </div>
         <div className="mt-5 pt-5 md:mt-8 md:pt-8 border-t border-muted-foreground/20 text-center text-muted-foreground">
-          <p>&copy; 2024 ManikamWebSolutions. {rights}</p>
+          <p>&copy; 2025 Micro Hair Clinic. {rights}</p>
         </div>
       </div>
     </motion.footer>

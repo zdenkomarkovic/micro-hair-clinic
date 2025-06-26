@@ -51,7 +51,7 @@
     "span": "SMP – Kopfhaut-Mikropigmentierung",
     "text2": " ist ein nicht-invasives Verfahren, bei dem mit einer speziellen Technik und Pigment das Aussehen dichter, rasierter Haare erzeugt wird.",
     "subtitle": "Wirkung:",
-    "subtitle2": "Vorher/Nachher-Bild als Infografik",
+    "subtitle2": "Vorher / Nachher",
     "list1": [
       "Natürlicher Look rasierten Haares",
       "Rekonstruierte Haarlinie",
@@ -69,72 +69,78 @@
     "tretmans": [
       {
         "title": "SMP bei Kahlheit (Look einer rasierten Glatze)",
-        "slug": "/de/behandlungen/smp-bei-kahlheit"
+        "slug": "smp-za-plesavost",
+        "img": "/images/preiposle.jpg"
       },
       {
         "title": "Haarausfall – Verdichtung mit oder ohne Transplantation",
-        "slug": "/de/behandlungen/haarverdichtung-smp"
+        "slug": "redcenje-las-smp",
+        "img": "/images/preiposle.jpg"
       },
       {
         "title": "SMP bei Narben – durch Transplantation, Verletzungen oder Operationen",
-        "slug": "/de/behandlungen/smp-bei-narben"
+        "slug": "smp-za-brazgotine",
+        "img": "/images/preiposle.jpg"
       },
       {
         "title": "Alopezie – areata, totalis, universalis",
-        "slug": "/de/behandlungen/alopezie-smp"
+        "slug": "smp-alopecija",
+        "img": "/images/preiposle.jpg"
       },
       {
         "title": "SMP für Frauen – dünner werdendes Haar, weniger Volumen",
-        "slug": "/de/behandlungen/smp-fuer-frauen"
+        "slug": "smp-za-zenske",
+        "img": "/images/preiposle.jpg"
       },
       {
         "title": "Korrektur misslungener SMP-Behandlungen",
-        "slug": "smp-korrektur"
+        "slug": "smp-korekcija",
+        "img": "/images/preiposle.jpg"
       }
     ]
   },
 
   "questions": {
-    "title": "Najčešća pitanja – Skalp mikropigmentacija (SMP)",
+    "title": "Häufig gestellte Fragen – Mikropigmentierung der Kopfhaut (SMP)",
     "categories": [
       {
-        "title": "OPŠTA PITANJA O SMP TRETMANU",
-        "cta": " Pogledaj sve tipove tretmana:",
+        "title": "ALLGEMEINE FRAGEN ZUR SMP-BEHANDLUNG",
+        "cta": "Alle Behandlungstypen ansehen:",
         "link": "/tretmani",
         "answers": [
           {
-            "question": "Koliko traje SMP tretman?",
-            "text": "SMP se radi u 2 do 4 sesije, u razmaku od 7–14 dana. Svaka sesija traje oko 2–3 sata.",
+            "question": "Wie lange dauert eine SMP-Behandlung?",
+            "text": "SMP wird in 2 bis 4 Sitzungen durchgeführt, im Abstand von 7–14 Tagen. Jede Sitzung dauert etwa 2–3 Stunden.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Da li SMP boli?",
-            "text": "Tretman je blago neprijatan, ali većina klijenata ga opisuje kao osećaj grebanja. Ne koristi se lokalna anestezija, osim u posebnim slučajevima (na zahtev klijenta).",
+            "question": "Tut SMP weh?",
+            "text": "Die Behandlung ist leicht unangenehm, aber die meisten Kunden beschreiben es als Kratzgefühl. Lokalanästhesie wird nur in besonderen Fällen (auf Wunsch des Kunden) verwendet.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Koliko traje efekat SMP-a?",
-            "text": "Efekat traje 2 do 4 godine, nakon čega se preporučuje osveženje pigmenta jednom sesijom.",
+            "question": "Wie lange hält der Effekt von SMP an?",
+            "text": "Der Effekt hält 2 bis 4 Jahre, danach wird eine Auffrischung des Pigments mit einer Sitzung empfohlen.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Da li je SMP isto što i tetovaža?",
-            "text": "Ne. SMP koristi posebne pigmente, finije igle i plići ubod. Ne razliva se i ne menja boju kao klasične tetovaže.",
+            "question": "Ist SMP dasselbe wie ein Tattoo?",
+            "text": "Nein. SMP verwendet spezielle Pigmente, feinere Nadeln und flachere Einstiche. Es verläuft nicht und ändert nicht die Farbe wie klassische Tattoos.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Ko sve može da radi SMP?",
-            "text": "SMP se preporučuje muškarcima i ženama sa:",
+            "question": "Wer kann SMP machen lassen?",
+            "text": "SMP wird Männern und Frauen empfohlen mit:",
             "list": [
-              "ćelavošću (Norwood 3–7)",
-              "proređenom kosom",
-              "alopecijom (areata, totalis)",
-              "ožiljcima na skalpu",
-              "loše urađenim SMP tretmanima",
+              "Kahlheit (Norwood 3–7)",
+              "ausdünnendem Haar",
+              "Alopezie (Areata, Totalis)",
+              "Narben auf der Kopfhaut",
+              "schlecht durchgeführten SMP-Behandlungen",
               ""
             ],
             "text2": ""
@@ -142,137 +148,137 @@
         ]
       },
       {
-        "title": "SMP ZA ĆELAVOST",
-        "cta": "Više o ovom tretmanu:",
+        "title": "SMP BEI KAHLHEIT",
+        "cta": "Mehr über diese Behandlung:",
         "link": "/tretmani",
         "answers": [
           {
-            "question": "Kako izgleda rezultat kod ćelavih muškaraca?",
-            "text": "Efekat je kao kratko ošišana kosa na nulu. Pigment imitira folikule dlake i prati prirodan oblik glave.",
+            "question": "Wie sieht das Ergebnis bei kahlen Männern aus?",
+            "text": "Der Effekt ähnelt einem kurz rasierten Kopf. Das Pigment imitiert Haarfollikel und folgt der natürlichen Kopfform.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Da li se vidi razlika između pigmenta i prave kose?",
-            "text": "Ako je tretman urađen stručno – ne. Ton pigmenta se bira prema tvojoj boji kose i kože.",
+            "question": "Ist der Unterschied zwischen Pigment und echtem Haar sichtbar?",
+            "text": "Wenn die Behandlung professionell durchgeführt wird – nein. Der Farbton des Pigments wird an deine Haar- und Hautfarbe angepasst.",
             "list": ["", "", ""],
             "text2": ""
           }
         ]
       },
       {
-        "title": "SMP ZA PROREĐENU KOSU",
-        "cta": "Više o ovom tretmanu:",
+        "title": "SMP BEI AUSDÜNNENDEM HAAR",
+        "cta": "Mehr über diese Behandlung:",
         "link": "/tretmani",
         "answers": [
           {
-            "question": "Da li mora da se brije glava ako je kosa samo proređena?",
-            "text": "Ne. Kod ovog tretmana zadržava se tvoja prirodna dužina kose, a pigment se koristi da popuni svetle praznine.",
+            "question": "Muss ich meinen Kopf rasieren, wenn ich nur ausdünnendes Haar habe?",
+            "text": "Nein. Bei dieser Behandlung bleibt deine natürliche Haarlänge erhalten und das Pigment wird verwendet, um helle Lücken zu füllen.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Mogu li kombinovati SMP sa transplantacijom?",
-            "text": "Da. SMP se često radi nakon transplantacije da bi se povećala gustina i popunile praznine.",
+            "question": "Kann ich SMP mit einer Haartransplantation kombinieren?",
+            "text": "Ja. SMP wird oft nach einer Transplantation durchgeführt, um die Dichte zu erhöhen und Lücken zu füllen.",
             "list": ["", "", ""],
             "text2": ""
           }
         ]
       },
       {
-        "title": "SMP ZA OŽILJKE",
-        "cta": "Više o ovom tretmanu:",
+        "title": "SMP FÜR NARBEN",
+        "cta": "Mehr über diese Behandlung:",
         "link": "/tretmani",
         "answers": [
           {
-            "question": "Može li se pigment staviti preko ožiljka?",
-            "text": "Da – SMP efikasno prikriva ožiljke od transplantacije (FUE/FUT), kao i one nastale od povreda ili operacija.",
+            "question": "Kann Pigment über Narben aufgetragen werden?",
+            "text": "Ja – SMP deckt effektiv Narben von Transplantationen (FUE/FUT) sowie Narben durch Verletzungen oder Operationen ab.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Da li je SMP bezbedan na ožiljnom tkivu?",
-            "text": "Da, ali se tretman radi pažljivo i u slojevima – posle analize stanja kože.",
+            "question": "Ist SMP auf Narbengewebe sicher?",
+            "text": "Ja, die Behandlung wird jedoch vorsichtig und schichtweise durchgeführt – nach Analyse des Hautzustands.",
             "list": ["", "", ""],
             "text2": ""
           }
         ]
       },
       {
-        "title": "SMP I ALOPECIJA",
-        "cta": "Više o ovom tretmanu:",
+        "title": "SMP UND ALOPEZIE",
+        "cta": "Mehr über diese Behandlung:",
         "link": "/tretmani",
         "answers": [
           {
-            "question": "Da li SMP može da pomogne kod alopecije?",
-            "text": "Da. Kod alopecije areate, totalis ili universalis, SMP može:",
+            "question": "Kann SMP bei Alopezie helfen?",
+            "text": "Ja. Bei Alopecia areata, totalis oder universalis kann SMP:",
             "list": [
-              "pokriti pečate",
-              "ujednačiti izgled skalpa",
-              "vizuelno vratiti liniju kose"
+              "kahle Stellen abdecken",
+              "das Aussehen der Kopfhaut ausgleichen",
+              "die Haarlinie optisch wiederherstellen"
             ],
             "text2": ""
           }
         ]
       },
       {
-        "title": "KOREKCIJE LOŠE URAĐENIH TRETMANA",
-        "cta": "Više o ovom tretmanu:",
+        "title": "KORREKTUREN VON SCHLECHT DURCHGEFÜHRTEN BEHANDLUNGEN",
+        "cta": "Mehr über diese Behandlung:",
         "link": "/tretmani",
         "answers": [
           {
-            "question": "Radili su mi SMP ali nisam zadovoljan – šta sad?",
-            "text": "Ako je tretman loše urađen (loša linija, boja, tačke) moguće je:",
+            "question": "Ich hatte SMP, bin aber nicht zufrieden – was nun?",
+            "text": "Wenn die Behandlung schlecht gemacht wurde (schlechte Linie, Farbe, Punkte), ist es möglich:",
             "list": [
-              "korigovati liniju",
-              "neutralisati boju",
-              "ujednačiti izgled"
+              "die Linie zu korrigieren",
+              "die Farbe zu neutralisieren",
+              "das Aussehen auszugleichen"
             ],
-            "text2": "Ako pigment nije moguće korigovati – preporučujemo lasersko uklanjanje."
+            "text2": "Wenn eine Korrektur des Pigments nicht möglich ist – empfehlen wir eine Laserentfernung."
           }
         ]
       },
       {
-        "title": "SMP ZA ŽENE",
-        "cta": "Više o ovom tretmanu:",
+        "title": "SMP FÜR FRAUEN",
+        "cta": "Mehr über diese Behandlung:",
         "link": "/tretmani",
         "answers": [
           {
-            "question": "Da li se SMP radi i kod žena?",
-            "text": "Da. Tretman je posebno prilagođen za:",
+            "question": "Wird SMP auch bei Frauen durchgeführt?",
+            "text": "Ja. Die Behandlung ist speziell angepasst für:",
             "list": [
-              "proređen razdeljak",
-              "stanjeno teme",
-              "postporođajni ili hormonalni gubitak kose"
+              "ausgedünnten Scheitel",
+              "ausgedünnte Kopfhaut",
+              "postpartalen oder hormonellen Haarausfall"
             ],
             "text2": ""
           },
           {
-            "question": "Mora li žena da brije glavu za SMP?",
-            "text": "Ne. Tretman se radi između postojećih vlasi, bez potrebe za brijanjem.",
+            "question": "Muss eine Frau den Kopf für SMP rasieren?",
+            "text": "Nein. Die Behandlung wird zwischen den vorhandenen Haaren durchgeführt, ohne Rasur.",
             "list": ["", "", ""],
             "text2": ""
           }
         ]
       },
       {
-        "title": "PITANJA O CENAMA I KONTAKTU",
-        "cta": "Idi na kontakt stranicu",
+        "title": "FRAGEN ZU PREISEN UND KONTAKT",
+        "cta": "Zur Kontaktseite gehen",
         "link": "/contact",
         "answers": [
           {
-            "question": "Koliko košta SMP tretman?",
-            "text": "Cena zavisi od:",
+            "question": "Wie viel kostet eine SMP-Behandlung?",
+            "text": "Der Preis hängt ab von:",
             "list": [
-              "površine koja se tretira",
-              "tipa tretmana",
-              "broja sesija"
+              "der behandelten Fläche",
+              "der Art der Behandlung",
+              "der Anzahl der Sitzungen"
             ],
-            "text2": "Procena je besplatna i personalizovana. Pošalji slike glave putem Viber/WhatsApp."
+            "text2": "Die Einschätzung ist kostenlos und individuell. Sende Fotos deines Kopfes per Viber/WhatsApp."
           },
           {
-            "question": "Gde se nalazi Micro Hair Clinic?",
-            "text": "Studio se nalazi u Beogradu, a otvoren je i centar u Ljubljani.",
+            "question": "Wo befindet sich die Micro Hair Clinic?",
+            "text": "Das Studio befindet sich in Belgrad, und es gibt auch ein Zentrum in Ljubljana.",
             "list": ["", "", ""],
             "text2": ""
           }
@@ -281,682 +287,37 @@
     ]
   },
   "artist": {
-    "title": "SPOZNAJTE USTVARJALCA",
-    "text": "Srđan je sam doživel izpadanje las in po uspešnem SMP tretmaju se odločil, da pomaga drugim. Izšolan v Milanu, z več kot desetletjem izkušenj.",
-    "award1": "Gold Award 2023 – najboljši SMP umetnik v Evropi in UK",
-    "award2": "Best SMP Artist 2024 – SMP Connect, Portugalska",
-    "award3": "TeamMicro Certified klinika",
-    "text2": "Nisem samo umetnik – sem moški, ki razume, kako je, ko izgubljaš lase. In vem, kako izgleda, ko jih spet imaš."
+    "title": "LERNEN SIE DEN KÜNSTLER KENNEN",
+    "text": "Srđan hat selbst Haarausfall erlebt und sich nach einer erfolgreichen SMP-Behandlung entschieden, anderen zu helfen. Ausgebildet in Mailand, mit über einem Jahrzehnt Erfahrung.",
+    "award1": "Gold Award 2023 – Bester SMP-Künstler in Europa und Großbritannien",
+    "award2": "Best SMP Artist 2024 – SMP Connect, Portugal",
+    "award3": "TeamMicro Zertifizierte Klinik",
+    "text2": "Ich bin nicht nur ein Künstler – ich bin ein Mann, der versteht, wie es ist, Haare zu verlieren. Und ich weiß, wie es sich anfühlt, sie wieder zu haben."
   },
   "tretmanFlow": {
-    "title": "KAKO IZGLEDA TRETMAN?",
-    "description": "Napomena: Tokom celog procesa koristi se fina igla i poseban pigment dizajniran za skalp. Klijent može nastaviti svakodnevne aktivnosti već dan nakon tretmana.",
+    "title": "WIE SIEHT DIE BEHANDLUNG AUS?",
+    "description": "Hinweis: Während des gesamten Prozesses wird eine feine Nadel und ein spezielles Pigment verwendet, das für die Kopfhaut entwickelt wurde. Der Kunde kann bereits am Tag nach der Behandlung seine täglichen Aktivitäten fortsetzen.",
     "text": [
       {
-        "bold": "1 Besplatne konsultacije i analiza ",
-        "normal": "– moguće uživo u studiju ili putem Viber/WhatsApp video poziva"
+        "bold": "1 Kostenlose Beratung und Analyse ",
+        "normal": "– entweder persönlich im Studio oder per Viber/WhatsApp Videoanruf möglich"
       },
       {
-        "bold": "2 Prva sesija ",
-        "normal": "– određuje se frontalna linija kose i oblik pigmentacije, a zatim se nanosi osnovni sloj pigmenta"
+        "bold": "2 Erste Sitzung ",
+        "normal": "– die vordere Haarlinie und die Form der Pigmentierung werden bestimmt, danach wird die Grundschicht des Pigments aufgetragen"
       },
       {
-        "bold": "3 Druga sesija ",
-        "normal": "– obično se obavlja u razmaku od 10–20 dana nakon prve. Razlog ovog vremenskog razmaka je da se pigment iz prve sesije stabilizuje u koži. Tokom ove sesije pojačava se gustina, definišu prelazi i detalji kako bi izgled bio još prirodniji."
+        "bold": "3 Zweite Sitzung ",
+        "normal": "– wird normalerweise 10–20 Tage nach der ersten durchgeführt. Dieser Zeitraum dient dazu, dass sich das Pigment aus der ersten Sitzung in der Haut stabilisiert. Während dieser Sitzung wird die Dichte erhöht, Übergänge und Details definiert, um ein noch natürlicheres Aussehen zu erzielen."
       },
       {
-        "bold": "4 Treća sesija ",
-        "normal": "– finalni tretman u kome se, nakon što su prethodne dve sesije dobile svoj izgled, mogu doraditi frontalna linija i svi nedostaci uočeni tokom prethodnih tretmana. Ukoliko procenimo da je potrebno dodatno usklađivanje, klijentu može biti omogućen još jedan dodatni tretman koji neće biti dodatno naplaćen."
+        "bold": "4 Dritte Sitzung ",
+        "normal": "– die abschließende Behandlung, bei der nach den vorherigen beiden Sitzungen die vordere Haarlinie und eventuelle Mängel, die während der vorherigen Behandlungen festgestellt wurden, verfeinert werden können. Falls weitere Anpassungen erforderlich sind, kann dem Kunden eine zusätzliche Behandlung ohne zusätzliche Kosten angeboten werden."
       },
       {
-        "bold": "5 Održavanje ",
-        "normal": "nakon 2–4 godina, može se uraditi osveženje boje u jednoj sesiji."
+        "bold": "5 Pflege ",
+        "normal": "nach 2–4 Jahren kann eine Farbauffrischung in einer Sitzung durchgeführt werden."
       }
     ]
-  },
-  "treatments": [
-    {
-      "slug": "smp-korrektur",
-      "title": "SMP korekcije – ispravke loše urađenih tretmana",
-      "hero": {
-        "heading": "SMP korekcije – prirodan izgled umesto lošeg tretmana",
-        "subtitle": "Loš SMP tretman ne mora biti kraj. Ispravke su moguće – ali ne po svaku cenu.",
-        "image": "/images/pre-posle.jpg",
-        "alt": "Korekcija loše urađene skalp mikropigmentacije – pre i posle",
-        "ctas": [
-          { "label": "📞 Zakaži besplatnu analizu", "href": "/kontakt" },
-          { "label": "💬 Pošalji sliku na Viber", "href": "viber://chat" },
-          {
-            "label": "📲 Kontakt putem WhatsApp-a",
-            "href": "https://wa.me/..."
-          }
-        ]
-      },
-      "sections": [
-        {
-          "id": "neuspeh",
-          "title": "KADA JE SMP TRETMAN NEUSPEŠAN?",
-          "bullets": [
-            "Prevelike tačke – razlivene i neprirodne",
-            "Plavičast ili sivo-zelene nijanse",
-            "Neprirodna linija kose",
-            "Flekav rezultat i loša gustina",
-            "Pigment koji se razlio, migrirao ili potamnio"
-          ],
-          "image": {
-            "src": "/images/los-tretman.jpg",
-            "alt": "Primer lošeg SMP tretmana – pogrešan oblik i pigment"
-          }
-        },
-        {
-          "id": "greske",
-          "title": "ZAŠTO DOLAZI DO GREŠAKA?",
-          "text": [
-            "U preko 90% slučajeva, uzrok je neiskustvo, loša edukacija i nerazumevanje anatomije.",
-            "SMP nije tetovaža – zahteva preciznost, estetiku i iskustvo."
-          ]
-        },
-        {
-          "id": "edukacija",
-          "title": "EDUKACIJA JE KLJUČ",
-          "text": [
-            "Zato osim korekcija, nudimo i edukaciju. Industriji je potrebno više znanja."
-          ],
-          "link": { "label": "Više o edukaciji", "href": "/edukacija" }
-        },
-        {
-          "id": "kako",
-          "title": "KAKO SE RADI KOREKCIJA?",
-          "bullets": [
-            "Korekcija linije kose – prirodan oblik, soft-edge tehnika",
-            "Neutralizacija pogrešne boje – korektivni pigment u slojevima",
-            "Ujednačavanje gustine – popunjavanje praznina"
-          ],
-          "image": {
-            "src": "/images/korekcija.jpg",
-            "alt": "Korekcija SMP tretmana sa sivkastim pigmentom"
-          }
-        },
-        {
-          "id": "nemoguce",
-          "title": "KADA KOREKCIJA NIJE MOGUĆA",
-          "bullets": [
-            "Pigment preduboko unet",
-            "Korišćeno mastilo umesto pigmenta",
-            "Potpuna migracija ili pogrešan ton",
-            "Oštećena koža skalpa"
-          ],
-          "text": [
-            "U tim slučajevima preporučujemo lasersko uklanjanje pigmenta."
-          ],
-          "link": {
-            "label": "📤 Pošalji slike za realnu procenu",
-            "href": "/kontakt"
-          }
-        }
-      ],
-      "gallery": [
-        {
-          "src": "/images/galerija1.jpg",
-          "alt": "Korektivni SMP rezultat – prirodan izgled"
-        },
-        {
-          "src": "/images/galerija2.jpg",
-          "alt": "Neutralizacija pogrešne boje pigmenta"
-        }
-      ],
-      "faqs": [
-        {
-          "q": "Može li loš SMP uvek da se ispravi?",
-          "a": "Ne uvek – ali većinu možemo poboljšati. Procena je besplatna."
-        },
-        {
-          "q": "Moram li prvo skinuti pigment laserom?",
-          "a": "U nekim slučajevima – da. U drugima, korekcija je moguća odmah."
-        }
-      ],
-      "reviews": [
-        {
-          "quote": "Mislio sam da sam zauvek uništio glavu. Sad opet izgledam kao čovek."
-        },
-        {
-          "quote": "Srđan mi nije obećao čuda – ali rezultat je prevazišao sva očekivanja."
-        }
-      ],
-      "finalCta": {
-        "text": "Zato prvo analiziramo, pa tek onda predlažemo – ako ima smisla.",
-        "ctas": [
-          { "label": "📞 Zakaži besplatnu procenu", "href": "/kontakt" },
-          { "label": "💬 Pošalji poruku na Viber", "href": "viber://chat" },
-          {
-            "label": "📲 Kontaktiraj nas na WhatsApp",
-            "href": "https://wa.me/..."
-          }
-        ]
-      }
-    },
-    {
-      "slug": "smp-alopecija",
-      "title": "SMP za alopeciju – areata, totalis i universalis",
-      "hero": {
-        "heading": "SMP za alopeciju – rešenje za gubitak kose u pečatima ili celokupno",
-        "subtitle": "Skalp mikropigmentacija vraća izgled kose čak i kada nema rasta – bez operacije, bez bola, bez čekanja.",
-        "image": "/images/alopecija-hero.jpg",
-        "alt": "SMP rezultat kod klijenta sa alopecijom areatom",
-        "ctas": [
-          { "label": "📞 Zakaži besplatnu konsultaciju", "href": "/kontakt" },
-          { "label": "💬 Pošalji poruku na Viber", "href": "viber://chat" },
-          {
-            "label": "📲 Kontaktiraj nas na WhatsApp",
-            "href": "https://wa.me/..."
-          }
-        ]
-      },
-      "sections": [
-        {
-          "id": "sta-je",
-          "title": "ŠTA JE ALOPECIJA?",
-          "bullets": [
-            "Alopecija areata – gubitak u pečatima",
-            "Alopecija totalis – potpuni gubitak kose na glavi",
-            "Alopecija universalis – gubitak celokupne dlake na telu"
-          ],
-          "text": [
-            "Alopecija je autoimuno oboljenje koje izaziva gubitak kose.",
-            "Imuni sistem napada folikule kose, što dovodi do opadanja."
-          ],
-          "image": {
-            "src": "/images/tipovi-alopecije.jpg",
-            "alt": "Tipovi alopecije: areata, totalis, universalis – grafički prikaz"
-          }
-        },
-        {
-          "id": "kako-pomaze",
-          "title": "KAKO SMP POMAŽE KOD ALOPECIJE?",
-          "bullets": [
-            "Vraća izgled prirodne kose",
-            "Prikriva neravnomerne pečate",
-            "Vraća konturu linije kose",
-            "Izgled kratko ošišane glave kod totalne alopecije"
-          ],
-          "image": {
-            "src": "/images/smp-totalis.jpg",
-            "alt": "SMP kod potpune alopecije – efekat kratke kose"
-          }
-        },
-        {
-          "id": "kandidat",
-          "title": "KO JE KANDIDAT ZA SMP KOD ALOPECIJE?",
-          "bullets": [
-            "Vidljivi pečati bez kose",
-            "Neujednačeno opadanje",
-            "Nisi kandidat za transplantaciju",
-            "Želiš ujednačen izgled skalpa"
-          ],
-          "text": [
-            "SMP se može raditi i kod žena – tretman se prilagođava zoni razdeljka i temena."
-          ],
-          "link": {
-            "label": "📤 Pošalji fotografije za besplatnu procenu – Viber / WhatsApp",
-            "href": "/kontakt"
-          }
-        },
-        {
-          "id": "tretman",
-          "title": "KAKO IZGLEDA TRETMAN?",
-          "bullets": [
-            "2–4 tretmana u razmaku od 7–14 dana",
-            "Svaka sesija traje 2–3 sata",
-            "Tehnika prilagođena tipu alopecije i tonu kože",
-            "Bez bola, bez oporavka"
-          ],
-          "text": [
-            "Pigmenti su hipoalergeni, tretman je bezbedan i može se ponavljati."
-          ]
-        }
-      ],
-      "gallery": [
-        {
-          "src": "/images/alopecija-areata.jpg",
-          "alt": "SMP kod alopecije areate – pre i posle"
-        },
-        {
-          "src": "/images/alopecija-totalis.jpg",
-          "alt": "Rešenje za totalnu alopeciju uz SMP"
-        }
-      ],
-      "faqs": [
-        {
-          "q": "Da li SMP može da izazove pogoršanje alopecije?",
-          "a": "Ne – tretman se izvodi plitko u koži, bez uticaja na folikule."
-        },
-        {
-          "q": "Koliko traje efekat SMP kod alopecije?",
-          "a": "2–4 godine. Može se osvežiti jednom sesijom."
-        }
-      ],
-      "reviews": [
-        {
-          "quote": "Nisam znao da postoji rešenje za ovako neujednačeno opadanje. SMP mi je promenio život."
-        },
-        {
-          "quote": "Kosa mi opada u talasima već 5 godina. Ovo je prvi put da mi glava izgleda normalno."
-        }
-      ],
-      "finalCta": {
-        "text": "Imaš alopeciju i želiš prirodan izgled bez čekanja da 'možda poraste'? SMP ti može vratiti izgled i samopouzdanje.",
-        "ctas": [
-          { "label": "📞 Zakaži besplatnu konsultaciju", "href": "/kontakt" },
-          { "label": "💬 Viber poruka", "href": "viber://chat" },
-          { "label": "📲 WhatsApp kontakt", "href": "https://wa.me/..." }
-        ]
-      }
-    },
-    {
-      "slug": "smp-za-zenske",
-      "title": "SMP za žene – proređena kosa i zgušnjavanje bez brijanja",
-      "hero": {
-        "heading": "SMP za žene – vizuelno zgušnjavanje proređene kose",
-        "subtitle": "Diskretno rešenje za stanjeni razdeljak, opadanje u temenu i smanjeni volumen – bez brijanja, bez lekova, bez stresa.",
-        "image": "/images/zene-hero.jpg",
-        "alt": "SMP rezultat kod žene sa proređenom kosom na temenu",
-        "ctas": [
-          { "label": "📞 Zakaži besplatnu konsultaciju", "href": "/kontakt" },
-          { "label": "💬 Pošalji poruku na Viber", "href": "viber://chat" },
-          {
-            "label": "📲 Kontakt putem WhatsApp-a",
-            "href": "https://wa.me/..."
-          }
-        ]
-      },
-      "sections": [
-        {
-          "id": "zasto-opada",
-          "title": "ZAŠTO ŽENAMA OPADA KOSA?",
-          "bullets": [
-            "Genetika (androgena alopecija kod žena)",
-            "Hormonski disbalans – trudnoća, menopauza, PCOS",
-            "Stres, deficit gvožđa, loša ishrana",
-            "Postvirusna stanja – uključujući COVID-19"
-          ],
-          "text": [
-            "Najčešće pogođene regije su razdeljak, teme i prednja linija kose."
-          ],
-          "image": {
-            "src": "/images/zene-zone.jpg",
-            "alt": "Zone najčešćeg proređenja kose kod žena"
-          }
-        },
-        {
-          "id": "kako-funkcionise",
-          "title": "KAKO FUNKCIONIŠE SMP KOD ŽENA?",
-          "bullets": [
-            "Smanjuje kontrast kože i kose",
-            "Stvara efekat gušće kose",
-            "Maskira proređene zone bez brijanja",
-            "Pigment se nanosi pažljivo između vlasi"
-          ],
-          "image": {
-            "src": "/images/efekat-zene.jpg",
-            "alt": "Zgušnjavanje kose kod žena skalp mikropigmentacijom"
-          }
-        },
-        {
-          "id": "kandidat",
-          "title": "ZA KOGA JE OVAJ TRETMAN?",
-          "bullets": [
-            "Proređen razdeljak",
-            "Koža se vidi kroz teme",
-            "Koristiš senke/puder za prikrivanje",
-            "Tanka kosa bez obzira na dužinu"
-          ],
-          "text": [
-            "Pogodan kod postporođajnog gubitka kose, COVID-19 opadanja, androgene alopecije i estetskih korekcija linije čela."
-          ]
-        },
-        {
-          "id": "zasto-mi",
-          "title": "SMP JE OPCIJA KADA SU DRUGE MOGUĆNOSTI ISCRPLJENE",
-          "text": [
-            "Ako postoji šansa da se tvoja kosa oporavi, mi ćemo ti to iskreno reći.",
-            "Sarađujemo sa dermatolozima i triholozima i ne nudimo tretman ako nije potreban.",
-            "Naš cilj nije da ti 'prodamo SMP' – već da ti vratimo osmeh i mir pred ogledalom."
-          ]
-        },
-        {
-          "id": "tretman",
-          "title": "KAKO IZGLEDA TRETMAN?",
-          "bullets": [
-            "2–3 sesije u razmaku 7–14 dana",
-            "Pigment se nanosi između postojećih vlasi",
-            "Nijansa se prilagođava tvojoj prirodnoj kosi",
-            "Bez brijanja i bez ožiljaka"
-          ],
-          "text": [
-            "Nakon tretmana možeš normalno prati kosu i nastaviti dnevne aktivnosti."
-          ],
-          "image": {
-            "src": "/images/pigment-zene.jpg",
-            "alt": "Kako pigment imitira gustinu vlasi"
-          }
-        }
-      ],
-      "gallery": [
-        {
-          "src": "/images/zene-pre-posle.jpg",
-          "alt": "SMP tretman kod žene sa proređenom kosom"
-        },
-        {
-          "src": "/images/zene-sencenje.jpg",
-          "alt": "Efekat senčenja bez gubitka dužine kose"
-        }
-      ],
-      "faqs": [
-        {
-          "q": "Da li SMP smanjuje rast kose?",
-          "a": "Ne – pigment se aplikuje plitko, bez uticaja na folikule dlake."
-        },
-        {
-          "q": "Da li se tretman vidi?",
-          "a": "Ne – efekat je prirodan, diskretan i nenametljiv."
-        },
-        {
-          "q": "Koliko traje efekat SMP-a kod žena?",
-          "a": "2 do 4 godine, uz mogućnost osveženja pigmenta."
-        },
-        {
-          "q": "Šta ako se kosa dodatno proredi kasnije?",
-          "a": "Tretman se može dopuniti i prilagoditi novom stanju kose."
-        }
-      ],
-      "reviews": [
-        {
-          "quote": "Mislila sam da sam jedina koja se nosi s ovim problemom. SMP mi je dao više samopouzdanja nego bilo koji kozmetički proizvod."
-        },
-        {
-          "quote": "Konačno ne moram da stavljam senku po razdeljku svaki dan. Tretman je bio diskretan i vrlo profesionalan."
-        },
-        {
-          "quote": "Iskreno – ovo je jedina stvar koja mi je pomogla. A probala sam sve."
-        }
-      ],
-      "finalCta": {
-        "text": "Primećuješ proređenje kose i nisi sigurna da li si kandidatkinja? Pošalji slike i dobićeš iskren savet – bez obaveze.",
-        "ctas": [
-          {
-            "label": "📤 Pošalji slike za procenu – Viber / WhatsApp",
-            "href": "/kontakt"
-          },
-          { "label": "📞 Zakaži besplatne konsultacije", "href": "/kontakt" }
-        ]
-      }
-    },
-    {
-      "slug": "smp-za-brazgotine",
-      "hero": {
-        "title": "SMP za ožiljke – transplantacija, povrede i kamuflaža skalpa",
-        "subtitle": "Pokrivanje ožiljaka na temenu i potiljku uz pomoć mikropigmentacije – bez hirurgije, bez bola, bez oporavka.",
-        "image": "/images/scars-hero.webp",
-        "alt": "SMP rezultat – prekrivanje ožiljka na skalpu",
-        "cta": [
-          { "label": "📞 Zakaži besplatnu konsultaciju", "type": "phone" },
-          { "label": "💬 Pošalji poruku na Viber", "type": "viber" },
-          { "label": "📲 Kontaktiraj nas na WhatsApp", "type": "whatsapp" }
-        ]
-      },
-      "sections": [
-        {
-          "type": "text",
-          "title": "Kada i zašto nastaju ožiljci na skalpu?",
-          "bullets": [
-            "Transplantacije kose (FUT ili FUE metoda)",
-            "Hirurški zahvati (neurohirurgija, dermatologija)",
-            "Povrede glave – nesreće, padovi, udarci",
-            "Loše izvedeni estetski tretmani, uključujući SMP"
-          ],
-          "image": "/images/scars-types.webp",
-          "alt": "Tipovi ožiljaka na skalpu"
-        },
-        {
-          "type": "text",
-          "title": "Kako funkcioniše SMP za ožiljke?",
-          "bullets": [
-            "Prekriva kontrast između ožiljka i kože",
-            "Usklađuje boju i teksturu sa okolnom regijom",
-            "Ožiljak postaje vizuelno neprimetan"
-          ],
-          "note": "Tretman je moguć čak i ako u zoni postoji kosa.",
-          "image": "/images/scars-effect.webp",
-          "alt": "Pre i posle SMP tretmana za ožiljak od transplantacije"
-        },
-        {
-          "type": "text",
-          "title": "Ožiljci nakon transplantacije kose",
-          "bullets": [
-            "FUE: sitni tačkasti ožiljci u potiljku",
-            "FUT: horizontalna linija ožiljka",
-            "SMP prekriva ožiljak i omogućava kratku frizuru"
-          ]
-        },
-        {
-          "type": "text",
-          "title": "Ožiljci od povreda i hirurških intervencija",
-          "bullets": [
-            "Detinjstvo, trauma, operacije",
-            "SMP omogućava diskretnu korekciju",
-            "Pristup se prilagođava svakom ožiljku"
-          ],
-          "image": "/images/scar-trauma-result.webp",
-          "alt": "SMP tretman za kamuflažu ožiljka na glavi"
-        },
-        {
-          "type": "gallery",
-          "title": "Rezultati tretmana",
-          "images": [
-            {
-              "src": "/images/scars-fue.webp",
-              "alt": "Kamuflaža FUE ožiljaka SMP metodom"
-            },
-            {
-              "src": "/images/scars-fut.webp",
-              "alt": "Prekrivanje ožiljka skalpa pigmentacijom – realan rezultat"
-            }
-          ]
-        },
-        {
-          "type": "text",
-          "title": "Da li si kandidat?",
-          "bullets": [
-            "Imaš ožiljak na potiljku, temenu ili strani glave",
-            "Želiš da nosiš kratku kosu bez vidljivih ožiljaka",
-            "Ne želiš ponovnu operaciju",
-            "Svesno biraš realno i diskretno rešenje"
-          ],
-          "cta": [
-            {
-              "label": "📤 Pošalji sliku ožiljka za besplatnu procenu – Viber / WhatsApp",
-              "type": "contact"
-            }
-          ]
-        },
-        {
-          "type": "text",
-          "title": "Kako izgleda tretman?",
-          "bullets": [
-            "2–3 sesije, razmak 7–14 dana",
-            "Bez oporavka – povratak aktivnostima istog dana",
-            "Pigment se nanosi slojevito, bez bola",
-            "Prilagođeno tipu kože i starosti ožiljka"
-          ],
-          "image": "/images/scars-process.webp",
-          "alt": "Kako pigment prekriva ožiljak na glavi"
-        },
-        {
-          "type": "faq",
-          "title": "Najčešća pitanja",
-          "questions": [
-            {
-              "q": "Može li SMP u potpunosti sakriti ožiljak?",
-              "a": "Fizički ne, ali vizuelno da – prekriva razliku u boji i teksturi."
-            },
-            {
-              "q": "Da li SMP može iritirati ožiljak?",
-              "a": "Ne. Tretman je nežan, sterilan i bezbedan za sve tipove ožiljaka."
-            },
-            {
-              "q": "Koliko dugo traje efekat?",
-              "a": "2–4 godine, uz mogućnost osveženja pigmenta."
-            },
-            {
-              "q": "Imam više ožiljaka – da li se svi mogu tretirati?",
-              "a": "Da. Svaki ožiljak se procenjuje individualno i tretira zasebno."
-            }
-          ]
-        },
-        {
-          "type": "reviews",
-          "title": "Iskustva klijenata",
-          "reviews": [
-            {
-              "text": "Imao sam FUE transplantaciju i ožiljci su bili jako vidljivi kada skratim kosu. Nakon SMP tretmana – bukvalno neprimetno.",
-              "rating": 5
-            },
-            {
-              "text": "Zbog povrede sam imao veliki ožiljak na temenu. Srđan mi je vratio samopouzdanje.",
-              "rating": 5
-            },
-            {
-              "text": "Nisam znao da ovo postoji. Više se ne bojim da se ošišam na kratko!",
-              "rating": 5
-            }
-          ]
-        },
-        {
-          "type": "cta",
-          "title": "Želiš da prikriješ ožiljak?",
-          "text": "Rešenje postoji – diskretno i bez obaveza. Pošalji slike ili zakaži konsultaciju.",
-          "cta": [
-            { "label": "📞 Zakaži konsultaciju bez obaveza", "type": "phone" },
-            { "label": "💬 Pošalji nam poruku na Viber", "type": "viber" },
-            { "label": "📲 WhatsApp – direktan kontakt", "type": "whatsapp" }
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "smp-za-plesavost",
-      "hero": {
-        "title": "Skalp mikropigmentacija: Rešenje za opadanje kose kod muškaraca",
-        "subtitle": "Neinvazivna metoda za muškarce sa izraženom ćelavošću – bez operacije, bez čekanja.",
-        "image": "/images/muskarci-hero.webp",
-        "alt": "SMP rezultat kod muškarca sa ćelavošću (Norwood 6)",
-        "cta": [
-          { "label": "📞 Zakaži besplatnu konsultaciju", "type": "phone" },
-          { "label": "💬 Pošalji poruku na Viber", "type": "viber" },
-          { "label": "📲 Pošalji poruku na WhatsApp", "type": "whatsapp" }
-        ]
-      },
-      "sections": [
-        {
-          "type": "text",
-          "title": "Zašto muškarci gube kosu?",
-          "bullets": [
-            "25% muškaraca gubi kosu do 25. godine",
-            "70% do pedesete",
-            "Najčešći uzrok: androgena alopecija"
-          ],
-          "image": "/images/norwood-skala.webp",
-          "alt": "Faze opadanja kose kod muškaraca – Norwood skala"
-        },
-        {
-          "type": "text",
-          "title": "Šta je skalp mikropigmentacija?",
-          "bullets": [
-            "Tretman pigmentacije koji stvara efekat guste, kratke kose",
-            "Bez operacije, ožiljaka i dugog oporavka",
-            "Idealna za muškarce sa ćelavošću ili proređenom kosom",
-            "Efekat preko 60.000 tačkica – gušći izgled od transplantacije",
-            "Prirodna linija kose oblikovana prema licu i godinama",
-            "Brzi rezultati i diskretna promena izgleda"
-          ],
-          "note": "Saznajte više: Kako izgleda proces SMP tretmana – dan po dan",
-          "image": "/images/proces-smp.webp",
-          "alt": "Proces skalp mikropigmentacije",
-          "links": [
-            { "label": "Proređena kosa", "href": "/proredjena-kosa" },
-            { "label": "Ožiljci", "href": "/oziljci" },
-            { "label": "Alopecija", "href": "/alopecija" },
-            { "label": "Korekcije", "href": "/korekcija" },
-            { "label": "SMP za žene", "href": "/zene" }
-          ]
-        },
-        {
-          "type": "text",
-          "title": "Da li je SMP pravo rešenje za mene?",
-          "bullets": [
-            "✅ Imaš izraženu ćelavost ili proređenu kosu",
-            "✅ Nisi kandidat za transplantaciju",
-            "✅ Želiš prirodan, uredan izgled",
-            "❌ Očekuješ da kosa ponovo raste",
-            "❌ Imaš aktivna kožna oboljenja glave"
-          ]
-        },
-        {
-          "type": "text",
-          "title": "Kako izgleda tretman?",
-          "bullets": [
-            "3 sesije po 2–3h, razmak 7 dana",
-            "15.000–20.000 tačkica po sesiji",
-            "Do 60.000 ukupno kod Norwood 7"
-          ],
-          "image": "/images/pre-posle-muskarci.webp",
-          "alt": "SMP tretman Beograd pre i posle – Norwood 7"
-        },
-        {
-          "type": "text",
-          "title": "Zašto odabrati nas?",
-          "bullets": [
-            "Srđan Kostovski – Gold Award EU/UK (TeamMicro)",
-            "1.000+ uspešnih tretmana",
-            "Individualni pristup svakom klijentu"
-          ],
-          "image": "/images/srdjan-kostovski.webp",
-          "alt": "Srđan Kostovski – SMP artist Micro Hair Clinic"
-        },
-        {
-          "type": "reviews",
-          "title": "Iskustva klijenata",
-          "reviews": [
-            {
-              "text": "Zadovoljan sam do maksimuma! Efekat je prirodan, niko ne primećuje da je pigmentacija.",
-              "rating": 5
-            },
-            {
-              "text": "Srđan mi je pomogao da vratim samopouzdanje. Hvala!",
-              "rating": 5
-            }
-          ]
-        },
-        {
-          "type": "faq",
-          "title": "Najčešća pitanja",
-          "questions": [],
-          "cta": {
-            "label": "📋 Pogledaj sva pitanja i odgovore",
-            "href": "https://microhairclinic.rs/najcesca-pitanja/"
-          }
-        },
-        {
-          "type": "cta",
-          "title": "Spreman za promenu?",
-          "text": "Zakaži besplatnu konsultaciju već danas!",
-          "cta": [
-            { "label": "📞 Zakaži sada", "type": "phone" },
-            { "label": "💬 Pošalji poruku na Viber", "type": "viber" },
-            { "label": "📲 Pošalji poruku na WhatsApp", "type": "whatsapp" }
-          ]
-        }
-      ]
-    }
-  ]
+  }
 }

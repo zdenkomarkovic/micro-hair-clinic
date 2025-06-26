@@ -7,6 +7,7 @@ import { FaSearch } from "react-icons/fa";
 import { GiConfirmed } from "react-icons/gi";
 import { FaArrowsLeftRight } from "react-icons/fa6";
 import { FaAngleDoubleRight } from "react-icons/fa";
+import Link from "@/node_modules/next/link";
 
 const ikonice = [FaSearch, FaArrowsLeftRight, GiConfirmed]; // redosled odgovara tekstovima
 type Props = {
@@ -17,37 +18,37 @@ type Props = {
 const Cards2 = ({ data, text }: Props) => {
   return (
     <div className=" overflow-hidden">
-      <div className="container px-5 mx-auto py-10 md:py-16 border-b-2 space-y-10 md:space-y-20">
+      <div className="container px-5 mx-auto pt-10 pb-5 md:pt-16 border-b-2 space-y-10 md:space-y-10">
         <div className="grid md:grid-cols-3 text-center gap-6 md:gap-8 items-stretch">
           {data.map((item, i) => {
             const Icon = ikonice[i % ikonice.length];
             return <OneCard key={i} item={item} icon={Icon} />;
           })}
         </div>
-        <div>
+        <div className="space-y-6">
           <h3>{text.title}</h3>
           <p>{text.text}</p>
 
           <p>
             <span className="font-bold">{text.span}</span> {text.text2}
           </p>
-          <div className="flex gap-3">
-            <p>{text.subtitle}</p>
+          <div className="flex gap-4 md:gap-8 items-center justify-start">
+            <p className="text-2xl md:text-5xl">{text.subtitle}</p>
             <ul>
               {text.list1.map((line, i) => {
                 return <li key={i}>{line} </li>;
               })}
             </ul>
           </div>
-          <ul className="flex md:px-20 text-2xl justify-around underline text-primary">
+          <ul className="flex flex-col text-center md:flex-row md:px-20 md:text-2xl justify-around underline text-primary">
             {text.list2.map((line, i) => {
               return <li key={i}>{line} </li>;
             })}
           </ul>
         </div>
         <div>
-          <h3 className="text-3xl">{text.subtitle2}</h3>
           <ImageCarusel />
+          <h3 className="md:text-3xl pt-6">{text.subtitle2}</h3>
         </div>
       </div>
     </div>
@@ -72,7 +73,7 @@ const OneCard = ({
       transition={{ duration: 0.5 }}
       className="transition-shadow duration-300 rounded-lg hover:shadow-lg"
     >
-      <Card className="h-full">
+      <Card className="h-full bg-gray-50">
         <CardHeader className="flex flex-col items-center ">
           <Icon className="w-8 h-8 text-primary" />
           <h2>{item.title}</h2>
@@ -89,9 +90,11 @@ const OneCard = ({
               scale: 1.09,
             }}
             whileTap={{ scale: 0.9 }}
-            className="text-right flex items-center gap-2 ml-auto text-primary bg-gray-100 px-3 py-1 cursor-pointer rounded-md"
+            className="text-right flex items-center gap-2 ml-auto text-primary bg-gray-200 px-3 py-1 cursor-pointer rounded-md"
           >
-            {item.link} <FaAngleDoubleRight />
+            <Link href={item.link}>
+              {item.button} <FaAngleDoubleRight />
+            </Link>
           </motion.button>
         </CardFooter>
       </Card>

@@ -30,6 +30,7 @@ export type Messages = {
     tretmans: {
       title: string;
       slug: string;
+      img: string;
     }[];
   };
   questions: {
@@ -63,50 +64,4 @@ export type Messages = {
     }[];
   };
 
-  treatments: {
-    slug: string;
-    title: string;
-    hero: {
-      heading: string;
-      subtitle: string;
-      image: string;
-      alt: string;
-      ctas: {
-        label: string;
-        href: string;
-      }[];
-    };
-    sections: {
-      id: string;
-      title: string;
-      bullets?: string[];
-      text?: string[];
-      image?: {
-        src: string;
-        alt: string;
-      };
-      link?: {
-        label: string;
-        href: string;
-      };
-    }[];
-    gallery: {
-      src: string;
-      alt: string;
-    }[];
-    faqs: {
-      q: string;
-      a: string;
-    }[];
-    reviews: {
-      quote: string;
-    }[];
-    finalCta: {
-      text: string;
-      ctas: {
-        label: string;
-        href: string;
-      }[];
-    };
-  }[];
-};
+  

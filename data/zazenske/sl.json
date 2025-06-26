@@ -1,0 +1,177 @@
+{
+  "slug": "smp-za-zenske",
+  "title": "SMP za ženske – redčenje las in zgostitev brez britja",
+  "hero": {
+    "heading": "SMP za ženske – vizualno zgostitev redkih las",
+    "subtitle": "Diskretna rešitev za tanek prečes, izpadanje na temenu in zmanjšan volumen – brez britja, brez zdravil, brez stresa.",
+    "image": "/images/kratko 2 copy.JPG",
+    "alt": "Rezultat SMP pri ženski z redkimi lasmi na temenu",
+    "ctas": [
+      { "label": "Rezerviraj brezplačno posvetovanje", "href": "/contact" },
+      {
+        "label": "Pošlji sporočilo na Viber",
+        "href": "viber://chat?number=%2B381645400100"
+      },
+      {
+        "label": "Pošlji sporočilo na WhatsApp",
+        "href": "https://wa.me/381645400100"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "1",
+      "title": "ZAKAJ ŽENSKAM IZPADEJO LASJE?",
+      "bullets": [
+        "Genetika (androgena alopecija pri ženskah)",
+        "Hormonsko neravnovesje – nosečnost, menopavza, PCOS",
+        "Stres, pomanjkanje železa, slaba prehrana",
+        "Infekcije in postvirusna stanja, vključno z izpadanjem las po covidu",
+        "prečes (črta po sredini glave)",
+        "teme (kjer je vidno lasišče)",
+        "sprednji del (umik lasne linije pri čelu)"
+      ],
+      "text": [
+        "Izpadanje las pri ženskah je vedno pogostejše – in ni več tabu.",
+        "Najpogostejši vzroki so:",
+        "Najpogosteje prizadeta območja so:"
+      ],
+      "image": {
+        "src": "/images/kratko 2 copy.JPG",
+        "alt": "Območja najpogostejšega redčenja las pri ženskah"
+      }
+    },
+    {
+      "id": "2",
+      "title": "KAKO DELUJE SMP PRI ŽENSKAH?",
+      "bullets": [
+        "zmanjša kontrast med kožo in lasmi",
+        "ustvari vtis gostejših las",
+        "prekrije področja, kjer 'se vidi' teme"
+      ],
+      "text": [
+        "Skalp mikropigmentacija (SMP) uporablja pigment za ustvarjanje senčnega učinka na lasišču, s čimer:",
+        "Postopek se izvaja brez britja las.",
+        "Pigment se natančno nanaša med obstoječe lase, brez poškodovanja korenin."
+      ],
+      "image": {
+        "src": "/images/kratko 2 copy.JPG",
+        "alt": "Zgostitev las pri ženskah s skalp mikropigmentacijo"
+      }
+    },
+    {
+      "id": "3",
+      "title": "ZA KOGA JE TA POSTOPEK PRIMEREN?",
+      "bullets": [
+        "imaš redkejše lase na prečesu",
+        "se ti na fotografijah z bliskavico vidi lasišče",
+        "uporabljaš puder ali senčila za zakrivanje",
+        "ti lasje delujejo tanjši ne glede na dolžino",
+        "želiš diskretno in dolgotrajno rešitev brez operacije in zdravil",
+        "difuzno izpadanje las",
+        "poporodno izpadanje",
+        "androgena alopecija pri ženskah",
+        "izpadanje po okužbi s COVID-19",
+        "estetska korekcija visokega čela"
+      ],
+      "text": [
+        "SMP tretma je idealen za ženske, ki:",
+        "Še posebej primeren je pri:"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "POMEMBNO: SMP JE OPCIJA, KO SO DRUGE MOŽNOSTI IZČRPANE",
+      "text": [
+        "Če ocenimo, da se tvoji lasje lahko obnovijo, ti bomo to iskreno povedali.",
+        "Sodelujemo z diagnostičnimi in terapevtskimi centri za lase (trihologi, dermatologi) in napotimo stranke naprej, kadar menimo, da je SMP preuranjen ali nepotreben.",
+        "Mi smo zadnji korak – ne prvi.",
+        "Naš cilj ni 'prodati tretma', ampak ti pomagati, da se pogledaš v ogledalo brez stresa."
+      ]
+    },
+    {
+      "id": "5",
+      "title": "GALERIJA – PRIMERI",
+      "bullets": [
+        "Pred in po SMP tretmaju pri ženskah",
+        "Vizualni učinek zgostitve brez britja",
+        "Zapiranje prečesa in senčenje temena",
+        "Kombinacija z daljšimi lasmi"
+      ],
+      "gallery": [
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG"
+      ],
+      "alt": "SMP tretma pri ženski z redkimi lasmi"
+    },
+    {
+      "id": "6",
+      "title": "KAKO IZGLEDA TRETMAN?",
+      "bullets": [
+        "Postopek poteka v 2–3 sejah, v razmiku 7–14 dni",
+        "Izvaja se natančno, med obstoječimi lasmi",
+        "Uporabljajo se odtenki, ki se ujemajo z naravno barvo tvojih las",
+        "Brez britja, brez brazgotin, brez okrevanja"
+      ],
+      "text": [
+        "Po tretmaju lahko umiješ lase in nadaljuješ z vsakodnevnimi aktivnostmi."
+      ],
+      "image": {
+        "src": "/images/preiposle3.JPG",
+        "alt": "Kako pigment posnema gostoto las"
+      }
+    }
+  ],
+  "faqs": {
+    "title": "POGOSTA VPRAŠANJA",
+    "list": [
+      {
+        "q": "Ali SMP tretma zmanjša rast las?",
+        "a": "Ne. Pigment se nanaša površinsko in ne vpliva na lasne mešičke."
+      },
+      {
+        "q": "Ali je tretma opazen?",
+        "a": "Ne – če je pravilno izveden, samo ti veš, da je bil narejen. Učinek je naraven in neopazen."
+      },
+      {
+        "q": "Kako dolgo traja učinek SMP pri ženskah?",
+        "a": "Od 2 do 4 leta, nato je možna ena osvežitvena seja pigmenta."
+      },
+      {
+        "q": "Kaj če se kasneje lasje še dodatno razredčijo?",
+        "a": "SMP se lahko prilagodi in dopolni – rezultat se popravi glede na novo stanje."
+      }
+    ]
+  },
+  "reviews": {
+    "title": "IZKUŠNJE STRANK",
+    "text": "Mnenja:",
+    "person": [
+      {
+        "quote": "Mislila sem, da sem edina s tem problemom. SMP mi je dal več samozavesti kot kateri koli kozmetični izdelek."
+      },
+      {
+        "quote": "Končno mi ni treba vsak dan senčiti prečesa. Tretma je bil diskreten in zelo profesionalen."
+      },
+      {
+        "quote": "Iskreno – to je edina stvar, ki mi je pomagala. In poskusila sem vse."
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Opaziš, da se ti lasje redčijo?",
+    "text": "Nisi prepričana, če si primerna kandidatka? Pošlji nam slike temena – analiza je brezplačna, diskretna in brez obveznosti.",
+    "button": "Pošlji slike za oceno"
+  }
+}

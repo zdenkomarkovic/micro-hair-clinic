@@ -1,0 +1,145 @@
+{
+  "slug": "smp-alopecija",
+  "title": "SMP for Alopecia – Areata, Totalis, and Universalis",
+  "hero": {
+    "heading": "SMP for Alopecia – a solution for patchy or complete hair loss",
+    "subtitle": "Scalp micropigmentation restores the appearance of hair even when there is no growth – no surgery, no pain, no waiting.",
+    "image": "/images/kratko 2 copy.JPG",
+    "alt": "SMP result on a client with alopecia areata",
+    "ctas": [
+      { "label": "Book a Free Consultation", "href": "/contact" },
+      {
+        "label": "Send a Message on Viber",
+        "href": "viber://chat?number=%2B381645400100"
+      },
+      {
+        "label": "Send a Message on WhatsApp",
+        "href": "https://wa.me/381645400100"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "1",
+      "title": "WHAT IS ALOPECIA?",
+      "bullets": [
+        "Alopecia areata – patchy hair loss",
+        "Alopecia totalis – complete hair loss on the scalp",
+        "Alopecia universalis – complete loss of all body hair"
+      ],
+      "text": [
+        "Alopecia is an autoimmune condition that causes hair loss.",
+        "The immune system attacks hair follicles, leading to shedding.",
+        "It affects both men and women of all ages."
+      ],
+      "image": [
+        {
+          "src": "/images/preiposle2.JPG",
+          "alt": "Types of alopecia: areata, totalis, universalis – graphic illustration"
+        },
+        {
+          "src": "/images/preiposle4.JPG",
+          "alt": "Types of alopecia: areata, totalis, universalis – graphic illustration"
+        },
+        {
+          "src": "/images/preiposle4.JPG",
+          "alt": "Types of alopecia: areata, totalis, universalis – graphic illustration"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "HOW DOES SMP HELP WITH ALOPECIA?",
+      "title2": "WHO IS A CANDIDATE FOR SMP WITH ALOPECIA?",
+      "text": [
+        "Scalp micropigmentation (SMP) does not treat the cause, but:",
+        "In total alopecia, SMP provides:",
+        "SMP is ideal if:",
+        "SMP can also be performed on women – the treatment is adapted to the parting and crown area."
+      ],
+      "bullets": [
+        "Restores the appearance of natural hair",
+        "Conceals uneven patches",
+        "Restores the hairline contour",
+        "Creates the look of a closely shaved head in total alopecia",
+        "Provides even pigmentation of the entire scalp",
+        "Gives the appearance of intentionally shaved hair",
+        "Visible hairless patches",
+        "Uneven hair loss",
+        "Not a candidate for hair transplant",
+        "Wants a uniform scalp appearance"
+      ],
+      "image": {
+        "src": "/images/herovideo.mp4",
+        "alt": "SMP in total alopecia – short hair effect"
+      },
+      "link": {
+        "label": "Send photos for a free assessment"
+      }
+    },
+    {
+      "id": "4",
+      "title": "WHAT DOES THE TREATMENT LOOK LIKE?",
+      "bullets": [
+        "Number of sessions: 2–4 treatments spaced 7–14 days apart",
+        "Duration: each session 2–3 hours",
+        "Technique: adapted to the type of alopecia and skin tone",
+        "No pain, no recovery time",
+        "Pigments are hypoallergenic, the treatment is safe and can be repeated for cyclical alopecia."
+      ],
+      "text": [
+        "Pigments are hypoallergenic, the treatment is safe and can be repeated."
+      ],
+      "gallery": [
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG"
+      ],
+      "alt": "SMP for alopecia areata – before and after"
+    }
+  ],
+  "faqs": {
+    "title": "FREQUENTLY ASKED QUESTIONS",
+    "list": [
+      {
+        "q": "Can SMP worsen alopecia?",
+        "a": "No – the treatment is done superficially in the skin without affecting hair follicles."
+      },
+      {
+        "q": "Is the difference noticeable when hair falls out around the treated area?",
+        "a": "No – pigmentation is planned to look natural even if hair loss continues."
+      },
+      {
+        "q": "How long does SMP effect last for alopecia?",
+        "a": "2–4 years. It can be refreshed with one session."
+      },
+      {
+        "q": "Is SMP suitable for women with diffuse alopecia?",
+        "a": "Yes – the technique is adapted to make the effect natural with existing hair."
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "quote": "I didn’t know there was a solution for such uneven hair loss. SMP changed my life."
+    },
+    {
+      "quote": "My hair has been falling out in waves for 5 years. This is the first time my scalp looks normal."
+    }
+  ],
+  "finalCta": {
+    "title": "Ready for a change?",
+    "text": "Do you have alopecia and want a natural look without waiting for hair to “maybe grow back”? SMP can restore your appearance and confidence.",
+    "button": "Book Now"
+  }
+}

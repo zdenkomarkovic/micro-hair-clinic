@@ -1,0 +1,139 @@
+{
+  "slug": "smp-za-plesavost",
+  "title": "SMP for Men with Baldness – The Effect of Thick Hair Without Transplantation",
+  "hero": {
+    "heading": "Scalp Micropigmentation – Solution for Hair Loss in Men",
+    "subtitle": "A non-invasive method for men with pronounced baldness – no surgery, no waiting.",
+    "image": "/images/kratko 2 copy.JPG",
+    "alt": "SMP result on a man with baldness (Norwood 6)",
+    "ctas": [
+      { "label": "Book a Free Consultation", "href": "/contact" },
+      {
+        "label": "Send Message on Viber",
+        "href": "viber://chat?number=%2B381645400100"
+      },
+      {
+        "label": "Send Message on WhatsApp",
+        "href": "https://wa.me/381645400100"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "1",
+      "title": "WHY DO MEN LOSE HAIR?",
+      "bullets": [
+        "25% of men lose hair by age 25",
+        "70% by age fifty",
+        "Most common cause: androgenic alopecia"
+      ],
+      "image": {
+        "title": "Norwood Scale",
+        "src": "/images/norwood-skala.webp",
+        "alt": "Stages of hair loss in men – Norwood scale"
+      }
+    },
+    {
+      "id": "2",
+      "title": "WHAT IS SCALP MICROPIGMENTATION?",
+      "bullets": [
+        "Scalp Micropigmentation (SMP) is a treatment using pigment to achieve the visual effect of thick, short-cut hair. Unlike transplantation, it involves no surgery, leaves no scars, and offers quick results.",
+        "It is intended for men with pronounced baldness or thinning hair who want a discreet but effective solution without surgery.",
+        "SMP treatment is especially effective for men with short hair (1–2 mm length) because the pigment in the skin blends perfectly with the natural hair appearance. This look produces a density effect that looks completely natural and subtle even up close.",
+        "Compared to transplantation, which typically adds 3,000–5,000 hairs, SMP can cover the entire scalp with up to 60,000 pigment dots – creating a more uniform and visually denser result.",
+        "SMP also allows shaping a natural hairline – individually adapted to face shape, age, and aesthetics, with no compromises on what looks natural.",
+        "It is intended for men with pronounced baldness or thinning hair who want a discreet but effective solution without surgery.",
+        "SMP also allows shaping a natural hairline – individually adapted to face shape, age, and aesthetics, with no compromises on what looks natural.",
+        "Learn more in the blog section: How the SMP treatment process looks – day by day"
+      ],
+      "links": [
+        {
+          "label": "Thinning Hair – Visual Thickening Without Shaving",
+          "link": "/redcenje-las-smp"
+        },
+        {
+          "label": "Scars – FUE/FUT Transplants, Injuries",
+          "link": "/smp-za-brazgotine"
+        },
+        {
+          "label": "Alopecia – areata, totalis, universalis",
+          "link": "/smp-alopecija"
+        },
+        {
+          "label": "Correction of Poorly Done Treatments",
+          "link": "/smp-korekcija"
+        },
+        {
+          "label": "SMP for Women",
+          "link": "/smp-za-zenske"
+        }
+      ],
+      "text": ["Learn more: How the SMP treatment process looks – day by day"],
+      "image": {
+        "src": "/images/herovideo.mp4",
+        "alt": "Scalp Micropigmentation process"
+      }
+    },
+    {
+      "id": "3",
+      "title": "IS SMP THE RIGHT SOLUTION FOR YOU?",
+      "bullets": [
+        "You have pronounced baldness or thinning hair",
+        "You are not a candidate for transplantation",
+        "You want a natural, neat appearance",
+        "You expect hair to grow back",
+        "You have active scalp skin conditions"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "WHAT DOES THE TREATMENT LOOK LIKE?",
+      "bullets": [
+        "Duration: 3 sessions of 2–3 hours each, 7 days apart",
+        "Dots per session: 15,000–20,000, up to 60,000 total at Norwood 7"
+      ],
+      "gallery": [
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "WHY CHOOSE US?",
+      "text": "Srđan experienced hair loss himself and after a successful SMP treatment decided to help others. Trained in Milan, with over a decade of experience.",
+      "award1": "Gold Award 2023 – Best SMP Artist in Europe and UK",
+      "award2": "Best SMP Artist 2024 – SMP Connect, Portugal",
+      "award3": "TeamMicro Certified Clinic",
+      "text2": "I'm not just an artist – I am a man who understands what it's like to lose hair. And I know how it looks when you have it back."
+    }
+  ],
+  "gallery": [],
+  "faqs": {
+    "title": "FREQUENTLY ASKED QUESTIONS",
+    "button": "View all questions and answers"
+  },
+  "reviews": [
+    {
+      "quote": "I am completely satisfied! The effect looks natural, no one notices the pigmentation."
+    },
+    {
+      "quote": "Srđan helped me regain my confidence. Thank you!"
+    }
+  ],
+  "finalCta": {
+    "title": "Ready for a change?",
+    "text": "Book a free consultation today and see the effects of scalp pigmentation live. Send us your photo and you will receive all the necessary information as soon as possible. Rest assured, Micro Hair Clinic guarantees discretion for all clients.",
+    "button": "Book Now"
+  }
+}

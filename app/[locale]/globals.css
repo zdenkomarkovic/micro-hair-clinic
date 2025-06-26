@@ -13,10 +13,10 @@ html {
   scroll-behavior: smooth;
 }
 h1 {
-  @apply text-xl uppercase md:text-5xl font-bold text-primary text-center;
+  @apply text-xl uppercase md:text-4xl font-bold text-primary text-center;
 }
 h2 {
-  @apply text-xl md:text-3xl font-bold text-primary text-center;
+  @apply text-2xl md:text-3xl font-bold text-primary text-center;
 }
 h3 {
   @apply text-xl md:text-2xl font-bold text-primary text-center;
@@ -32,7 +32,7 @@ h3 {
     --popover-foreground: 222.2 84% 4.9%;
     --primary: 28 73% 52%;
     --primary-foreground: 210 40% 98%;
-    --secondary: 210 40% 96.1%;
+    --secondary: 44, 15%, 81%;
     --secondary-foreground: 222.2 47.4% 11.2%;
     --muted: 210 40% 96.1%;
     --muted-foreground: 215.4 16.3% 46.9%;

@@ -1,0 +1,183 @@
+{
+  "slug": "smp-korekcija",
+  "title": "SMP korekcije – popravki slabo opravljenih tretmajev",
+  "hero": {
+    "heading": "SMP korekcije – naraven izgled namesto slabe izvedbe",
+    "subtitle": "Slab SMP tretma ni konec. Popravki so možni – vendar ne za vsako ceno. Povrnemo naraven videz lasišča, kjer je to res mogoče.",
+    "image": "/images/kratko 2 copy.JPG",
+    "alt": "Popravek slabo izvedene mikropigmentacije lasišča – prej in potem",
+    "ctas": [
+      { "label": "Rezerviraj brezplačen posvet", "href": "/contact" },
+      {
+        "label": "Pošlji sporočilo preko Vibra",
+        "href": "viber://chat?number=%2B381645400100"
+      },
+      {
+        "label": "Pošlji sporočilo preko WhatsAppa",
+        "href": "https://wa.me/381645400100"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "1",
+      "title": "KDAJ JE SMP TRETMAN NEUSPEŠEN?",
+      "title2": "ZAKAJ PRIHAJA DO NAPAK?",
+      "title3": "IZOBRAŽEVANJE JE KLJUČ",
+      "bullets": [
+        "Prevelike pike – razlite in nenaravne",
+        "Modrikasti ali sivkasto-zeleni toni",
+        "Nenaravna linija las – previsoka, prenizka ali „ravna kot ravnilo“",
+        "Neenakomerna gostota in lisast rezultat",
+        "Pigment, ki se je razlil, migriral ali potemnel",
+        "pomanjkanje izkušenj izvajalca",
+        "slaba ali nikakršna izobrazba",
+        "delo brez razumevanja anatomije lasišča in estetike obraza",
+        "uporaba napačnih orodij in pristopov"
+      ],
+      "text": [
+        "Najpogostejši problemi, ki jih vidimo:",
+        "V več kot 90 % primerih je vzrok:",
+        "SMP ni običajen tatu. Zahteva natančno tehniko, oko za detajle in izkušnje.",
+        "Izkušnje izvajalca naredijo razliko med naravnim rezultatom in tistim, ki ga želiš skriti.",
+        "Zato v Micro Hair Clinic poleg korekcij izvajamo tudi profesionalne SMP izobraževanja.",
+        "Industrija potrebuje več znanja – in manj hitrih ter neprofesionalnih del."
+      ],
+      "image": {
+        "src": "/images/herovideo.mp4",
+        "alt": "Primer slabega SMP tretmaja – napačna oblika in pigment"
+      },
+      "link": { "label": "Več o izobraževanju", "href": "/edukacija" }
+    },
+    {
+      "id": "2",
+      "title": "KAKO POTEKA KOREKCIJA?",
+      "bullets": [
+        "naravna oblika, prilagojena letom in konturam obraza",
+        "soft-edge tehnika namesto ostrih robov",
+        "korektivni pigment v več tankih plasteh",
+        "še posebej pri modrih/sivih tonih",
+        ""
+      ],
+      "text": [
+        "Glede na problem nudimo:",
+        "Korekcijo linije las",
+        "Nevtralizacijo napačne barve",
+        "Usklajevanje gostote",
+        "zapolnjevanje praznin",
+        "korekcijo lis in asimetrij"
+      ],
+      "image": {
+        "src": "/images/preiposle5.JPG",
+        "alt": "Korekcija SMP tretmaja s sivim pigmentom"
+      }
+    },
+    {
+      "id": "3",
+      "title": "KDAJ KOREKCIJA NI MOGOČA?",
+      "title2": "SI KANDIDAT ZA KOREKCIJO?",
+      "bullets": [
+        "pigment je vnesen pregloboko",
+        "uporabljen je bil črnilo namesto SMP pigmenta",
+        "pigment je popolnoma migriral ali ima izrazito napačen ton",
+        "lasuščina je preveč poškodovana",
+        "SMP tretma izgleda nenaravno",
+        "linija las te moti, ko se pogledaš v ogledalo",
+        "pigment je posivel, spremenil ton ali se razlil",
+        "razmišljaš, da začneš znova"
+      ],
+      "text": [
+        "V nekaterih primerih korekcija ni priporočljiva:",
+        "V takšnih primerih korekcije ne izvajamo",
+        "Namesto tega priporočamo lasersko odstranjevanje pigmenta v sodelovanju z zanesljivimi in certificiranimi centri",
+        "Naš cilj ni, da „prekrijemo problem“ za vsako ceno, ampak da ponudimo rešitev, ki resnično izgleda naravno.",
+        "Če to ni mogoče – bomo iskreno povedali.",
+        "Včasih je odstranjevanje pigmenta edina pot do trajne rešitve.",
+        "Razmisli o korekciji, če:",
+        "Vsak primer analizira Srđan Kostovski – iskreno in strokovno."
+      ],
+      "link": {
+        "label": "Pošlji slike lasišča za brezplačno oceno",
+        "href": "/kontakt"
+      }
+    },
+    {
+      "id": "4",
+      "title": "GALERIJA – PRED IN PO KOREKCIJAH",
+      "bullets": [
+        "Korekcija modrikastega pigmenta",
+        "Popravek linije las",
+        "Popravki tretmajev iz tujine",
+        "Korekcija SMP narejenega s tetovažno tehniko"
+      ],
+      "gallery": [
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG"
+      ],
+      "alt": "Korektivni SMP rezultat – naraven videz"
+    },
+    {
+      "id": "5",
+      "title": "KAKO IZGLEDA KOREKTIVNI TRETMAN?",
+      "bullets": [
+        "2 do 4 seje, glede na stanje",
+        "Natančno načrtovana korekcija v plasteh",
+        "Brez dodatnih brazgotin",
+        "Možnost kombinacije z laserskim tretmajem, če je potrebno"
+      ],
+      "text": "Korekcij ne izvajamo, če bi s tem morali „zakriti“ še hujše težave."
+    }
+  ],
+  "faqs": {
+    "title": "NAJPOGOSTEJŠA VPRAŠANJA",
+    "list": [
+      {
+        "q": "Ali je slab SMP vedno mogoče popraviti?",
+        "a": "Ne vedno – a večino lahko izboljšamo. Ocena je brezplačna in iskrena."
+      },
+      {
+        "q": "Ali moram najprej odstraniti pigment z laserjem?",
+        "a": "V nekaterih primerih da. Drugič je korekcija mogoča takoj."
+      },
+      {
+        "q": "Kako hitro lahko pridem na tretma?",
+        "a": "Če je SMP starejši od nekaj tednov – pogosto takoj. Sveže tretmaje je najbolje oceniti po stabilizaciji."
+      },
+      {
+        "q": "Ali je mogoče dobiti novo linijo las?",
+        "a": "Da – če stanje kože in položaj pigmenta to dovoljujeta."
+      }
+    ]
+  },
+  "reviews": {
+    "title": "IZKUŠNJE STRANK",
+    "text": "Google in Facebook ocene:",
+    "person": [
+      {
+        "quote": "Mislil sem, da sem si za vedno uničil glavo. Zdaj spet izgledam kot človek."
+      },
+      {
+        "quote": "Srđan mi ni obljubil čudežev – a rezultat je presegel vsa pričakovanja."
+      },
+      {
+        "quote": "Najpomembneje – ne živim več v strahu, ko se pogledam v ogledalo. Hvala!"
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Nimaš več zaupanja?",
+    "text": "To razumemo. Zato najprej analiziramo, nato šele predlagamo – če ima smisel.",
+    "button": "Rezerviraj zdaj"
+  }
+}

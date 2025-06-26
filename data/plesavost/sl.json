@@ -1,0 +1,139 @@
+{
+  "slug": "smp-za-plesavost",
+  "title": "SMP za moške z plešavostjo – učinek gostih las brez presaditve",
+  "hero": {
+    "heading": "Skalp mikropigmentacija – rešitev za izpadanje las pri moških",
+    "subtitle": "Neinvazivna metoda za moške z izrazito plešavostjo – brez operacije, brez čakanja.",
+    "image": "/images/kratko 2 copy.JPG",
+    "alt": "SMP rezultat pri moškem z plešavostjo (Norwood 6)",
+    "ctas": [
+      { "label": "Rezerviraj brezplačen posvet", "href": "/contact" },
+      {
+        "label": "Pošlji sporočilo preko Viberja",
+        "href": "viber://chat?number=%2B381645400100"
+      },
+      {
+        "label": "Pošlji sporočilo preko WhatsAppa",
+        "href": "https://wa.me/381645400100"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "1",
+      "title": "ZAKAJ MOŠKI IZGUBLJAJO LASE?",
+      "bullets": [
+        "25 % moških izgubi lase do 25. leta",
+        "70 % do petdesetega leta",
+        "Najpogostejši vzrok: androgena alopecija"
+      ],
+      "image": {
+        "title": "Norwoodova lestvica",
+        "src": "/images/norwood-skala.webp",
+        "alt": "Faze izpadanja las pri moških – Norwoodova lestvica"
+      }
+    },
+    {
+      "id": "2",
+      "title": "KAJ JE SKALP MIKROPIGMENTACIJA?",
+      "bullets": [
+        "Skalp mikropigmentacija (SMP) je tretma, ki uporablja pigment za vizualni učinek gostih, kratko ošišanih las. V nasprotju s presaditvijo ne vključuje operacije, ne pušča brazgotin in omogoča hitre rezultate.",
+        "Namenjena je moškim z izrazito plešavostjo ali redčimi lasmi, ki želijo diskretno a učinkovito rešitev brez kirurškega posega.",
+        "SMP tretma je še posebej učinkovit pri moških s kratko ošišanimi lasmi (1–2 mm dolžine), saj se pigment v koži idealno zlije z naravnim videzom las. Pri tem videzu učinek gostote deluje povsem naravno in neopazno tudi od blizu.",
+        "V primerjavi s presaditvijo, ki običajno doda 3.000–5.000 las, lahko SMP pokrije celotno površino glave z do 60.000 pigmentnimi pikami – kar ustvari bolj enakomeren in vizualno gostejši rezultat.",
+        "SMP omogoča tudi oblikovanje naravne linije las – individualno prilagojene obliki obraza, letom in estetiki, brez kompromisov glede naravnega videza.",
+        "Namenjena je moškim z izrazito plešavostjo ali redčimi lasmi, ki želijo diskretno a učinkovito rešitev brez kirurškega posega.",
+        "SMP omogoča tudi oblikovanje naravne linije las – individualno prilagojene obliki obraza, letom in estetiki, brez kompromisov glede naravnega videza.",
+        "Več izveste v blogu: Kako poteka postopek SMP tretmaja – dan za dnem"
+      ],
+      "links": [
+        {
+          "label": "Redčenje las – vizualno zgostitev brez britja",
+          "link": "/redcenje-las-smp"
+        },
+        {
+          "label": "Brazgotine – FUE/FUT presaditve, poškodbe",
+          "link": "/smp-za-brazgotine"
+        },
+        {
+          "label": "Alopecija – areata, totalis, universalis",
+          "link": "/smp-alopecija"
+        },
+        {
+          "label": "Popravilo slabo opravljenih tretmajev",
+          "link": "/smp-korekcija"
+        },
+        {
+          "label": "SMP za ženske",
+          "link": "/smp-za-zenske"
+        }
+      ],
+      "text": ["Več izveste: Kako poteka postopek SMP tretmaja – dan za dnem"],
+      "image": {
+        "src": "/images/herovideo.mp4",
+        "alt": "Proces skalp mikropigmentacije"
+      }
+    },
+    {
+      "id": "3",
+      "title": "ALI JE SMP PRAVA REŠITEV ZATE?",
+      "bullets": [
+        "Imaš izrazito plešavost ali redke lase",
+        "Nisi kandidat za presaditev las",
+        "Želiš naraven, urejen videz",
+        "Pričakuješ, da bodo lasje ponovno zrastli",
+        "Imaš aktivne kožne bolezni lasišča"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "KAKO POTEKA TRETMAN?",
+      "bullets": [
+        "Trajanje: 3 seje po 2–3 ure, interval 7 dni",
+        "Število pik na sejo: 15.000–20.000, skupaj do 60.000 pri Norwood 7"
+      ],
+      "gallery": [
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "ZAKAJ IZBRATI NAS?",
+      "text": "Srđan je sam doživel izpadanje las in po uspešnem SMP tretmaju se odločil, da pomaga drugim. Izšolan v Milanu, z več kot desetletjem izkušenj.",
+      "award1": "Gold Award 2023 – najboljši SMP umetnik v Evropi in Združenem kraljestvu",
+      "award2": "Best SMP Artist 2024 – SMP Connect, Portugalska",
+      "award3": "TeamMicro Certified klinika",
+      "text2": "Nisem samo umetnik – sem moški, ki razume, kako je, ko izgubljaš lase. In vem, kako izgleda, ko jih spet imaš."
+    }
+  ],
+  "gallery": [],
+  "faqs": {
+    "title": "NAJPOGOSTEJŠA VPRAŠANJA",
+    "button": "Ogled vseh vprašanj in odgovorov"
+  },
+  "reviews": [
+    {
+      "quote": "Zelo zadovoljen! Učinek je naraven, nihče ne opazi pigmentacije."
+    },
+    {
+      "quote": "Srđan mi je pomagal povrniti samozavest. Hvala!"
+    }
+  ],
+  "finalCta": {
+    "title": "Pripravljen na spremembo?",
+    "text": "Rezervirajte brezplačne posvete že danes in se v živo prepričajte o učinkih skalp pigmentacije. Pošljite nam svojo fotografijo in v najkrajšem času boste prejeli vse potrebne informacije. Bodite brez skrbi, saj Micro Hair Clinic zagotavlja diskretnost vsem svojim strankam.",
+    "button": "Rezerviraj zdaj"
+  }
+}

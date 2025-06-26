@@ -1,0 +1,186 @@
+{
+  "slug": "smp-za-brazgotine",
+  "title": "SMP für Narben – Transplantationen, Verletzungen und Kopfhaut-Kamouflage",
+  "hero": {
+    "heading": "SMP für Narben – Transplantationen, Verletzungen und Kopfhaut-Kamouflage",
+    "subtitle": "Narbenabdeckung am Oberkopf und Hinterkopf durch Mikropigmentierung – ohne Operation, ohne Schmerzen, ohne Ausfallzeit.",
+    "image": "/images/preiposle2.JPG",
+    "alt": "SMP-Ergebnis – Narbenabdeckung auf der Kopfhaut",
+    "ctas": [
+      { "label": "Kostenlose Beratung vereinbaren", "href": "/contact" },
+      {
+        "label": "Nachricht über Viber senden",
+        "href": "viber://chat?number=%2B381645400100"
+      },
+      {
+        "label": "Nachricht über WhatsApp senden",
+        "href": "https://wa.me/381645400100"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "1",
+      "title": "WANN UND WARUM ENTSTEHEN NARBEN AUF DER KOPFHAUT?",
+      "bullets": [
+        "Haartransplantationen (FUT-Streifen oder FUE-Stanzmethode)",
+        "Chirurgische Eingriffe (dermatologisch, neurochirurgisch)",
+        "Verletzungen oder Kopftrauma (Unfälle, Stürze, Schläge)",
+        "Ästhetische Behandlungen (z. B. schlecht durchgeführte SMP)"
+      ],
+      "text": ["Narben auf der Kopfhaut entstehen meist durch:"],
+      "image": {
+        "src": "/images/kratko 2 copy.JPG",
+        "alt": "Arten von Narben auf der Kopfhaut"
+      }
+    },
+    {
+      "id": "2",
+      "title": "WIE FUNKTIONIERT SMP FÜR NARBEN?",
+      "bullets": [
+        "Deckt den Kontrast zwischen Narbe und umliegender Haut ab",
+        "Passt Farbe und Textur an die umgebende Kopfhaut an",
+        "Effekt: Die Narbe wird selbst aus der Nähe unsichtbar"
+      ],
+      "text": [
+        "Scalp Micropigmentation verwendet speziellen Pigment und eine Mikro-Nadel, um die Narbe optisch zu neutralisieren:",
+        "Die Behandlung kann auch durchgeführt werden, wenn Haare vorhanden sind (z. B. nach FUE im Spenderbereich)"
+      ],
+      "image": {
+        "src": "/images/kratko 2 copy.JPG",
+        "alt": "Vor und nach der SMP-Behandlung bei einer Transplantationsnarbe"
+      }
+    },
+    {
+      "id": "3",
+      "title": "NARBEN NACH TRANSPLANTATION – FUE UND FUT",
+      "bullets": [
+        "Kleine Punkte/Kreise, oft mehrfach im Spenderbereich. Sichtbar bei kurzem Haarschnitt.",
+        "Eine horizontale Linie, deutlich sichtbar bei rasiertem Kopf.",
+        "Perfekte Lösung für Männer, die kurze Haare tragen möchten",
+        "Möglichkeit zur optischen Narbenabdeckung ohne Operation"
+      ],
+      "text": [
+        "FUE-Narben:",
+        "FUT-Narben (Streifenmethode):",
+        "SMP:",
+        "Kann auch nach erfolglosen Transplantationen durchgeführt werden"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "NARBEN DURCH VERLETZUNGEN UND CHIRURGISCHE EINGRIFFE",
+      "bullets": [
+        "Unfälle in der Kindheit",
+        "Operationen am Schädel",
+        "Verbrennungen, Trauma, Verletzungen",
+        "Optische Rekonstruktion des Hautbildes",
+        "Diskrete Korrektur ohne zusätzliche Eingriffe",
+        "Individuelle Anpassung: Pigmentfarbe, Dichte, Platzierung"
+      ],
+      "text": ["Unabhängig von der Ursache ermöglicht SMP:"],
+      "image": {
+        "src": "/images/preiposle2.JPG",
+        "alt": "SMP-Behandlung zur Narben-Kamouflage auf der Kopfhaut"
+      }
+    },
+    {
+      "id": "5",
+      "title": "GALERIE – ERGEBNISSE",
+      "bullets": [
+        "Vorher-nachher FUE-Narben",
+        "Abdeckung horizontaler FUT-Narben",
+        "Verdeckung von Narben nach Unfällen",
+        "Korrektur einer schlecht durchgeführten SMP"
+      ],
+      "gallery": [
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG"
+      ],
+      "alt": "FUE-Narben-Kamouflage mit der SMP-Methode"
+    },
+    {
+      "id": "6",
+      "title": "BIST DU EIN KANDIDAT?",
+      "bullets": [
+        "Du hast eine Narbe am Hinterkopf, am Oberkopf oder an der Seite",
+        "Du willst kurze Haare tragen, ohne dass die Narbe sichtbar ist",
+        "Du möchtest keine Operation",
+        "Du hast realistische Erwartungen (Pigment = optischer Effekt, löscht die Narbe nicht physisch)"
+      ],
+      "text": ["SMP für Narben ist ideal für dich, wenn:"],
+      "link": {
+        "label": "Sende ein Foto deiner Narbe für eine kostenlose Einschätzung",
+        "href": "/kontakt"
+      }
+    },
+    {
+      "id": "7",
+      "title": "WIE VERLÄUFT DIE BEHANDLUNG?",
+      "bullets": [
+        "2–3 Sitzungen im Abstand von 7–14 Tagen",
+        "Keine Ausfallzeit – du kannst am nächsten Tag wieder aktiv sein",
+        "Angepasst an Hauttyp und Narbenalter"
+      ],
+      "text": [
+        "Das Pigment wird sorgfältig in Schichten aufgetragen – ohne Reizung oder Schmerzen."
+      ],
+      "image": {
+        "src": "/images/preiposle2.JPG",
+        "alt": "Wie das Pigment die Narbe auf der Kopfhaut abdeckt"
+      }
+    }
+  ],
+  "faqs": {
+    "title": "HÄUFIG GESTELLTE FRAGEN",
+    "list": [
+      {
+        "q": "Kann SMP eine Narbe vollständig verbergen?",
+        "a": "Optisch ja – physisch nein. Das Pigment deckt Farb- und Kontrastunterschiede ab."
+      },
+      {
+        "q": "Kann SMP die Narbe reizen?",
+        "a": "Nein, es wird mit steriler Technik und sanftem Druck gearbeitet. Die Behandlung ist sicher und schmerzfrei."
+      },
+      {
+        "q": "Wie lange hält das Ergebnis?",
+        "a": "2–4 Jahre, danach kann eine Auffrischung erfolgen."
+      },
+      {
+        "q": "Kann SMP durchgeführt werden, wenn ich mehrere Narben habe?",
+        "a": "Ja – jeder Fall wird individuell bewertet."
+      }
+    ]
+  },
+  "reviews": {
+    "title": "KUNDENERFAHRUNGEN",
+    "text": "Rezensionen:",
+    "person": [
+      {
+        "quote": "Ich hatte eine FUE-Transplantation und die Narben waren bei kurzem Haarschnitt sehr sichtbar. Nach der SMP – buchstäblich unsichtbar."
+      },
+      {
+        "quote": "Wegen einer Verletzung hatte ich eine große Narbe am Oberkopf. Srđan hat mir mein Selbstvertrauen zurückgegeben."
+      },
+      {
+        "quote": "Ich wusste nicht, dass es so etwas gibt. Jetzt habe ich keine Angst mehr, meine Haare kurz zu schneiden!"
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Bereit, deine Narbe zu verbergen?",
+    "text": "Du hast eine Narbe, die du kaschieren möchtest? Es gibt eine Lösung – absolut diskret.",
+    "button": "Jetzt Termin buchen"
+  }
+}

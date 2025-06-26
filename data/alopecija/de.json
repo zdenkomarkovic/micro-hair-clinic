@@ -1,0 +1,145 @@
+{
+  "slug": "smp-alopecija",
+  "title": "SMP bei Alopezie – Areata, Totalis und Universalis",
+  "hero": {
+    "heading": "SMP bei Alopezie – Lösung für fleckenhaften oder vollständigen Haarausfall",
+    "subtitle": "Scalp Micropigmentation stellt das Aussehen von Haaren wieder her, selbst wenn kein Nachwachsen möglich ist – ohne Operation, ohne Schmerzen, ohne Wartezeit.",
+    "image": "/images/kratko 2 copy.JPG",
+    "alt": "SMP-Ergebnis bei einem Kunden mit Alopezie Areata",
+    "ctas": [
+      { "label": "Kostenlose Beratung buchen", "href": "/contact" },
+      {
+        "label": "Nachricht über Viber senden",
+        "href": "viber://chat?number=%2B381645400100"
+      },
+      {
+        "label": "Nachricht über WhatsApp senden",
+        "href": "https://wa.me/381645400100"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "1",
+      "title": "WAS IST ALOPEZIE?",
+      "bullets": [
+        "Alopezie Areata – fleckenhafter Haarausfall",
+        "Alopezie Totalis – vollständiger Haarausfall auf der Kopfhaut",
+        "Alopezie Universalis – kompletter Verlust aller Körperhaare"
+      ],
+      "text": [
+        "Alopezie ist eine Autoimmunerkrankung, die Haarausfall verursacht.",
+        "Das Immunsystem greift die Haarfollikel an, was zum Haarausfall führt.",
+        "Betroffen sind Männer und Frauen jeden Alters."
+      ],
+      "image": [
+        {
+          "src": "/images/preiposle2.JPG",
+          "alt": "Arten der Alopezie: Areata, Totalis, Universalis – grafische Darstellung"
+        },
+        {
+          "src": "/images/preiposle4.JPG",
+          "alt": "Arten der Alopezie: Areata, Totalis, Universalis – grafische Darstellung"
+        },
+        {
+          "src": "/images/preiposle4.JPG",
+          "alt": "Arten der Alopezie: Areata, Totalis, Universalis – grafische Darstellung"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "WIE HILFT SMP BEI ALOPEZIE?",
+      "title2": "WER IST EIN KANDIDAT FÜR SMP BEI ALOPEZIE?",
+      "text": [
+        "Scalp Micropigmentation (SMP) behandelt nicht die Ursache, aber:",
+        "Bei totaler Alopezie bietet SMP:",
+        "SMP ist ideal, wenn:",
+        "SMP kann auch bei Frauen angewendet werden – die Behandlung wird an den Scheitel und den Hinterkopf angepasst."
+      ],
+      "bullets": [
+        "Stellt das Aussehen von natürlichem Haar wieder her",
+        "Kaschiert ungleichmäßige Stellen",
+        "Stellt die Kontur der Haarlinie wieder her",
+        "Erzeugt den Look eines kurz rasierten Kopfes bei totaler Alopezie",
+        "Sorgt für eine gleichmäßige Pigmentierung der gesamten Kopfhaut",
+        "Erzeugt den Eindruck absichtlich rasierten Haares",
+        "Sichtbare haarlose Stellen",
+        "Ungleichmäßiger Haarausfall",
+        "Kein Kandidat für Haartransplantation",
+        "Wünscht ein gleichmäßiges Aussehen der Kopfhaut"
+      ],
+      "image": {
+        "src": "/images/herovideo.mp4",
+        "alt": "SMP bei totaler Alopezie – Effekt kurzer Haare"
+      },
+      "link": {
+        "label": "Fotos für kostenlose Beurteilung senden"
+      }
+    },
+    {
+      "id": "4",
+      "title": "WIE SIEHT DIE BEHANDLUNG AUS?",
+      "bullets": [
+        "Anzahl der Sitzungen: 2–4 Behandlungen im Abstand von 7–14 Tagen",
+        "Dauer: jede Sitzung 2–3 Stunden",
+        "Technik: angepasst an den Alopezie-Typ und Hautton",
+        "Schmerzfrei, keine Erholungszeit",
+        "Pigmente sind hypoallergen, die Behandlung ist sicher und kann bei zyklischer Alopezie wiederholt werden."
+      ],
+      "text": [
+        "Pigmente sind hypoallergen, die Behandlung ist sicher und kann wiederholt werden."
+      ],
+      "gallery": [
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG",
+        "/images/preiposle1.JPG",
+        "/images/preiposle2.JPG",
+        "/images/preiposle3.JPG",
+        "/images/preiposle4.JPG"
+      ],
+      "alt": "SMP bei Alopezie Areata – Vorher und Nachher"
+    }
+  ],
+  "faqs": {
+    "title": "HÄUFIG GESTELLTE FRAGEN",
+    "list": [
+      {
+        "q": "Kann SMP die Alopezie verschlechtern?",
+        "a": "Nein – die Behandlung wird oberflächlich in der Haut durchgeführt, ohne die Haarfollikel zu beeinflussen."
+      },
+      {
+        "q": "Ist der Unterschied sichtbar, wenn Haare um die behandelte Stelle ausfallen?",
+        "a": "Nein – die Pigmentierung wird so geplant, dass sie natürlich aussieht, auch wenn der Haarausfall weitergeht."
+      },
+      {
+        "q": "Wie lange hält die Wirkung von SMP bei Alopezie?",
+        "a": "2–4 Jahre. Eine Auffrischung ist mit einer Sitzung möglich."
+      },
+      {
+        "q": "Ist SMP für Frauen mit diffuser Alopezie geeignet?",
+        "a": "Ja – die Technik wird angepasst, damit der Effekt mit vorhandenem Haar natürlich aussieht."
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "quote": "Ich wusste nicht, dass es eine Lösung für so ungleichmäßigen Haarausfall gibt. SMP hat mein Leben verändert."
+    },
+    {
+      "quote": "Mein Haar fällt seit 5 Jahren wellenartig aus. Zum ersten Mal sieht meine Kopfhaut normal aus."
+    }
+  ],
+  "finalCta": {
+    "title": "Bereit für eine Veränderung?",
+    "text": "Haben Sie Alopezie und möchten ein natürliches Aussehen, ohne darauf zu warten, dass das Haar „vielleicht nachwächst“? SMP kann Ihr Aussehen und Selbstvertrauen wiederherstellen.",
+    "button": "Jetzt buchen"
+  }
+}

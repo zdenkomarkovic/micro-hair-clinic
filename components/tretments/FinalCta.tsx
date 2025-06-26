@@ -1,23 +1,27 @@
+import Link from "@/node_modules/next/link";
+import { FinalCtaType } from "@/types/index";
 import React from "react";
+import { FaAngleDoubleRight } from "react-icons/fa";
 
-export function FinalCta({
-  data,
-}: {
-  data: { text: string; ctas: { label: string; href: string }[] };
-}) {
+type Props = {
+  data: FinalCtaType;
+};
+
+export function FinalCta({ data }: Props) {
   return (
     <section className="py-10 px-4 text-center bg-black text-white">
-      <p className="mb-6 text-lg">{data.text}</p>
-      <div className="flex flex-col sm:flex-row justify-center gap-4">
-        {data.ctas.map((cta) => (
-          <a
-            key={cta.href}
-            href={cta.href}
-            className="bg-white text-black px-4 py-2 rounded hover:bg-gray-200 transition"
+      <div className="container px-2 md:px-4 mx-auto ">
+        <h2 className="mb-6 text-left">{data.title}</h2>
+
+        <div className="flex gap-12 items-start text-left">
+          <p>{data.text}</p>
+          <Link
+            href={"/contact"}
+            className="bg-primary px-6 py-3 text-nowrap uppercase flex gap-3 items-center"
           >
-            {cta.label}
-          </a>
-        ))}
+            {data.button} <FaAngleDoubleRight className="w-6 h-6" />
+          </Link>
+        </div>
       </div>
     </section>
   );

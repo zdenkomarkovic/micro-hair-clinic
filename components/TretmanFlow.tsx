@@ -7,7 +7,7 @@ type Props = {
 
 const TretmanFlow = ({ data }: Props) => {
   return (
-    <div className="container px-2 md:px-4 mx-auto">
+    <div className="container px-2 md:px-4 mx-auto py-12 border-t">
       <h2>{data.title}</h2>
       <div className="space-y-2">
         {data.text.map((line, i) => {

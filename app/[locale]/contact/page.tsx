@@ -78,7 +78,7 @@ export default function Contact() {
               className="py-[7px] flex border-b-[1px] border-gray-800"
             >
               <button className="hover:scale-110 transition-transform duration-500 px-4 md:px-8 flex gap-4 items-center">
-                <FaViber className="text-[28px] lg:text-[27px] p-1 bg-purple-600 text-white rounded-xl rounde" />{" "}
+                <FaViber className="text-[28px] lg:text-[27px] p-1 bg-purple-600 text-white rounded-xl" />{" "}
                 +38164 1967 267
               </button>
             </a>

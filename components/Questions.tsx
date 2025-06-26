@@ -14,7 +14,7 @@ type Props = {
 
 const Questions = ({ data }: Props) => {
   return (
-    <div className="container px-2 md:px-4 mx-auto">
+    <div id="questions" className="container px-2 md:px-4 mx-auto">
       <h2>{data.title}</h2>
       <div>
         {data.categories.map((category, i) => {
