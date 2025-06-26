@@ -37,7 +37,7 @@ export function Section4({ section }: Props) {
             </ul>
           )}
         </div>
-        <ImageSliderKlizni images={section.gallery} />
+        <ImageSliderKlizni images={section.gallery ?? []} />
       </div>
     </section>
   );
