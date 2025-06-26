@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 import { Facebook, Instagram } from "lucide-react";
 import { Locale, i18n } from "@/i18n-config";
-import { getNavList } from "@/locales/navUtils";
+import { getTreatmentSubmenu } from "@/locales/navUtils";
 import { FaPhone } from "react-icons/fa6";
 import { TfiEmail } from "react-icons/tfi";
 
@@ -27,7 +27,7 @@ export default function Footer({
   rights: string;
 }) {
   const currentLocale = getSafeLocale(locale);
-  const navList = getNavList(currentLocale);
+  const navList = getTreatmentSubmenu(currentLocale);
 
   return (
     <motion.footer
@@ -39,7 +39,7 @@ export default function Footer({
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-muted-foreground">
         <div className="text-center md:text-left md:grid md:grid-cols-3 gap-8 mx-auto">
           <div>
-            {/* {navList.map((item, i) => {
+            {navList.map((item, i) => {
               return (
                 <ul
                   key={i}
@@ -47,7 +47,7 @@ export default function Footer({
                 >
                   <li>
                     <Link
-                      href={item.route}
+                      href={item.link}
                       className="text-muted-foreground hover:text-primary"
                     >
                       {item.title}
@@ -55,7 +55,7 @@ export default function Footer({
                   </li>
                 </ul>
               );
-            })} */}
+            })}
           </div>
 
           <div className="space-y-3 pb-5 md:pb-0">

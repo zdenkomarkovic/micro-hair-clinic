@@ -7,11 +7,6 @@ type Props = {
   section: SectionCommon;
 };
 
-const images = [
-  "/images/preiposle4.JPG",
-  "/images/preiposle4.JPG",
-  "/images/preiposle4.JPG",
-];
 export function SectionAlopecija({ section }: Props) {
   return (
     <section id={section.id} className="py-10 px-4 pt-50">

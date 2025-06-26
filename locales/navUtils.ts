@@ -96,3 +96,6 @@ export function getNavList(locale: Locale): NavItem[] {
 
   return navList;
 }
+export function getTreatmentSubmenu(locale: Locale) {
+  return treatmentSubmenu[locale];
+}
