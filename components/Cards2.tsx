@@ -90,9 +90,12 @@ const OneCard = ({
               scale: 1.09,
             }}
             whileTap={{ scale: 0.9 }}
-            className="text-right flex items-center gap-2 ml-auto text-primary bg-gray-200 px-3 py-1 cursor-pointer rounded-md"
+            className="ml-auto"
           >
-            <Link href={item.link}>
+            <Link
+              href={item.link}
+              className="flex items-center gap-2 text-primary bg-gray-200 px-3 py-1 cursor-pointer rounded-md"
+            >
               {item.button} <FaAngleDoubleRight />
             </Link>
           </motion.button>

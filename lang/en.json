@@ -30,19 +30,22 @@
   },
   "cards2": [
     {
-      "title": "Just exploring?",
+      "title": "Still exploring?",
       "text": "What is SMP? Why does hair fall out?",
-      "link": "Beginner's Guide"
+      "button": "Beginner's guide",
+      "link": "/smp-vs-presaditev"
     },
     {
       "title": "Comparing options?",
       "text": "Hair transplant or SMP? Does it hurt?",
-      "link": "Comparison Guide"
+      "button": "Comparison guide",
+      "link": "/smp-vs-presaditev"
     },
     {
       "title": "Already decided?",
-      "text": "Want a treatment?",
-      "link": "Book your appointment now"
+      "text": "Ready for a treatment?",
+      "button": "Book your appointment now",
+      "link": "/contact"
     }
   ],
   "cards2text": {

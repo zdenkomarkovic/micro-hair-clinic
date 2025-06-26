@@ -9,7 +9,7 @@ const CardWithImage = ({ data }: Props) => {
   return (
     <div className="container px-2 md:px-12 mx-auto">
       <div className=" text-right py-6 md:py-12">
-        <div className="flex flex-col md:flex-row gap-20 items-stretch ">
+        <div className="flex flex-col-reverse md:flex-row gap-20 items-stretch ">
           <div className="md:w-1/4  aspect-[3/4]  overflow-hidden rounded-lg">
             <video controls autoPlay loop muted className="">
               {" "}

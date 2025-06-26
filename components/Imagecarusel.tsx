@@ -15,7 +15,7 @@ import Image from "@/node_modules/next/image";
 
 const ImageCarusel = () => {
   return (
-    <div className=" container px-2 md:px-8 mx-auto">
+    <div className=" container pl-10 md:pl-56 mx-auto">
       <Carousel
         className="w-screen px-0 overflow-x-visible"
         opts={{
@@ -31,7 +31,7 @@ const ImageCarusel = () => {
           {images.map((image, i) => (
             <CarouselItem
               key={i}
-              className="pl-1 basis-[83%] md:basis-[45%] lg:basis-[17%]"
+              className="pl-1 basis-[83%] md:basis-[45%] lg:basis-[24%]"
             >
               <div className="px-1 flex flex-col">
                 <ImageCard image={image}></ImageCard>

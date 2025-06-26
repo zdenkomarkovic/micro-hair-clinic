@@ -30,19 +30,22 @@
   },
   "cards2": [
     {
-      "title": "Nur am Recherchieren?",
+      "title": "Noch am Recherchieren?",
       "text": "Was ist SMP? Warum fallen Haare aus?",
-      "link": "Anfängerleitfaden"
+      "button": "Leitfaden für Einsteiger",
+      "link": "/smp-vs-presaditev"
     },
     {
-      "title": "Optionen vergleichen?",
+      "title": "Vergleichen Sie Optionen?",
       "text": "Haartransplantation oder SMP? Tut es weh?",
-      "link": "Vergleichsleitfaden"
+      "button": "Vergleichsleitfaden",
+      "link": "/smp-vs-presaditev"
     },
     {
       "title": "Schon entschieden?",
-      "text": "Möchten Sie eine Behandlung?",
-      "link": "Jetzt Termin buchen"
+      "text": "Bereit für eine Behandlung?",
+      "button": "Termin jetzt buchen",
+      "link": "/contact"
     }
   ],
   "cards2text": {
