@@ -33,12 +33,6 @@ export default function Header({ locale }: { locale: string }) {
   const navList = getNavList(currentLocale);
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  // const [dropdownOpen, setDropdownOpen] = useState(false);
-
-  // const toggleMenuAndDropdown = () => {
-  //   setIsMenuOpen(!isMenuOpen);
-  //   setDropdownOpen(false);
-  // };
 
   useEffect(() => {
     const handleScroll = () => {
