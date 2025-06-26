@@ -26,7 +26,7 @@ export function SectionAlopecija({ section }: Props) {
               >
                 <p className="font-bold p-6">{b}</p>
                 <Image
-                  src={section.image[i].src}
+                  src={section.image?[i]?.src}
                   width={500}
                   height={500}
                   alt={"Tipovi alopecije: areata, totalis, universalis"}
