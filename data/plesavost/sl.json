@@ -22,13 +22,13 @@
     {
       "id": "1",
       "title": "ZAKAJ MOŠKI IZGUBLJAJO LASE?",
+      "imgtitle": "Norwoodova lestvica",
       "bullets": [
         "25 % moških izgubi lase do 25. leta",
         "70 % do petdesetega leta",
         "Najpogostejši vzrok: androgena alopecija"
       ],
       "image": {
-        "title": "Norwoodova lestvica",
         "src": "/images/norwood-skala.webp",
         "alt": "Faze izpadanja las pri moških – Norwoodova lestvica"
       }

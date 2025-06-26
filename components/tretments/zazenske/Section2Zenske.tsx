@@ -45,10 +45,10 @@ export function Section2Zenske({ section, direction }: Props) {
           {section.image && (
             <div className="text-center">
               <Image
-                src={section.image[0].src}
+                src={section.image.src}
                 width={500}
                 height={500}
-                alt={section.image[0].alt}
+                alt={section.image.alt}
                 className="rounded w-full shadow mb-4"
               />
             </div>

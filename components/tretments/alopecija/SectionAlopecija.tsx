@@ -27,12 +27,12 @@ export function SectionAlopecija({ section }: Props) {
                 className="flex flex-col justify-between h-full bg-primary-foreground border rounded-lg overflow-hidden"
               >
                 <p className="font-bold p-6">{b}</p>
-                {section.image?.[i] && (
+                {section.images?.[i] && (
                   <Image
-                    src={section.image[i].src}
+                    src={section.images[i].src}
                     width={500}
                     height={500}
-                    alt={section.image[i].alt}
+                    alt={section.images[i].alt}
                     className="w-full object-cover"
                   />
                 )}

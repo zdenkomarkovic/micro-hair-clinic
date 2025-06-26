@@ -22,13 +22,13 @@
     {
       "id": "1",
       "title": "WARUM VERLIEREN MÄNNER HAARE?",
+      "imgtitle": "Norwood Skala",
       "bullets": [
         "25 % der Männer verlieren bis zum 25. Lebensjahr Haare",
         "70 % bis zum fünfzigsten Lebensjahr",
         "Häufigste Ursache: androgenetische Alopezie"
       ],
       "image": {
-        "title": "Norwood Skala",
         "src": "/images/norwood-skala.webp",
         "alt": "Phasen des Haarausfalls bei Männern – Norwood Skala"
       }
