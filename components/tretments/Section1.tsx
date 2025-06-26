@@ -14,14 +14,14 @@ export function Section1({ section }: Props) {
         <div className="w-3/5">
           {section.image && (
             <div className="text-center">
-              {section.image.title && (
-                <h5 className="pb-10 font-bold">{section.image.title}</h5>
+              {section.imgtitle && (
+                <p className="pb-10 font-bold">{section.imgtitle}</p>
               )}
               <Image
-                src={section.image.src}
+                src={section.image[0].src}
                 width={500}
                 height={500}
-                alt={section.image.alt}
+                alt={section.image[0].alt}
                 className=" w-full"
               />
             </div>

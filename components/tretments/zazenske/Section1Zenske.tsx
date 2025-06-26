@@ -15,7 +15,7 @@ export function Section1Zenske({ section, direction }: Props) {
       >
         <div className="mx-auto flex flex-col">
           <h2 className="text-2xl font-bold mb-4">{section.title}</h2>
-          {section.text && (
+          {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(0, 2).map((p, i) => (
                 <p key={i} className="font-bold">
@@ -31,7 +31,7 @@ export function Section1Zenske({ section, direction }: Props) {
               ))}
             </ul>
           )}
-          {section.text && (
+          {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(2).map((p, i) => (
                 <p key={i} className="font-bold">
@@ -52,10 +52,10 @@ export function Section1Zenske({ section, direction }: Props) {
           {section.image && (
             <div className="text-center">
               <Image
-                src={section.image.src}
+                src={section.image[0].src}
                 width={500}
                 height={500}
-                alt={section.image.alt}
+                alt={section.image[0].alt}
                 className="rounded w-full shadow mb-4"
               />
             </div>

@@ -8,7 +8,6 @@ export type Cta = {
 export type ImageType = {
   src: string;
   alt: string;
-  title?: string;
 };
 
 export type LinkType = {
@@ -20,6 +19,8 @@ export type SectionCommon = {
   id: string;
   title: string;
   title2?: string;
+  title3?: string;
+  imgtitle?: string;
   text?: string | string[];
   bullets?: string[];
   gallery?: string[];
@@ -31,6 +32,7 @@ export type SectionCommon = {
   text2?: string;
   link?: {
     label: string;
+    href?: string;
   };
 };
 

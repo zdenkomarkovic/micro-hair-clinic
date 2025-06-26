@@ -14,7 +14,7 @@ export function Section3Zenske({ section, direction }: Props) {
         className={`${direction} container px-2 md:px-4 mx-auto grid md:grid-cols-2 items-center `}
       >
         <div className="mx-auto flex flex-col">
-          {section.text && (
+          {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(0, 1).map((p, i) => (
                 <p key={i} className="font-bold">
@@ -32,7 +32,7 @@ export function Section3Zenske({ section, direction }: Props) {
           )}
         </div>
         <div className="mx-auto flex flex-col">
-          {section.text && (
+          {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(1).map((p, i) => (
                 <p key={i} className="font-bold">

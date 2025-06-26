@@ -45,7 +45,7 @@ export function Section2({ section }: Props) {
             <div>
               <video controls autoPlay loop muted className="">
                 {" "}
-                <source src={section.image.src} type="video/mp4" />
+                <source src={section.image[0].src} type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
             </div>

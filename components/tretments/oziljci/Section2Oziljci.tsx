@@ -14,7 +14,7 @@ export function Section2Oziljci({ section, direction }: Props) {
       >
         <div className="mx-auto flex flex-col">
           <h2 className="text-2xl font-bold mb-4">{section.title}</h2>
-          {section.text && (
+          {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(0, 1).map((p, i) => (
                 <p key={i} className="font-bold">
@@ -30,7 +30,7 @@ export function Section2Oziljci({ section, direction }: Props) {
               ))}
             </ul>
           )}
-          {section.text && (
+          {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(1, 2).map((p, i) => (
                 <p key={i} className="font-bold">
@@ -47,7 +47,7 @@ export function Section2Oziljci({ section, direction }: Props) {
             </ul>
           )}
 
-          {section.text && (
+          {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(2, 3).map((p, i) => (
                 <p key={i} className="font-bold">
@@ -63,7 +63,7 @@ export function Section2Oziljci({ section, direction }: Props) {
               ))}
             </ul>
           )}
-          {section.text && (
+          {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(3).map((p, i) => (
                 <p key={i} className="font-bold">

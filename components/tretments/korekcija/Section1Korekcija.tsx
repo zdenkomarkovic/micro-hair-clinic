@@ -12,7 +12,7 @@ export function Section1Korekcija({ section }: Props) {
       <div className="container px-2 md:px-4 mx-auto flex items-center md:gap-20 ">
         <div className="mx-auto flex flex-col">
           <h2 className="text-2xl font-bold mb-4">{section.title}</h2>
-          {section.text && (
+          {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(0, 1).map((p, i) => (
                 <p key={i} className="font-bold">
@@ -30,7 +30,7 @@ export function Section1Korekcija({ section }: Props) {
           )}
 
           <h2 className="text-2xl font-bold mb-4">{section.title2}</h2>
-          {section.text && (
+          {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(1, 2).map((p, i) => (
                 <p key={i} className="font-bold">
@@ -46,7 +46,7 @@ export function Section1Korekcija({ section }: Props) {
               ))}
             </ul>
           )}
-          {section.text && (
+          {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(2, 3).map((p, i) => (
                 <p key={i} className="font-bold">
@@ -61,7 +61,7 @@ export function Section1Korekcija({ section }: Props) {
             <div>
               <video controls autoPlay loop muted className="">
                 {" "}
-                <source src={section.image.src} type="video/mp4" />
+                <source src={section.image[0].src} type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
             </div>
@@ -78,7 +78,7 @@ export function Section1Korekcija({ section }: Props) {
         </div>
       </div>
       <h2 className="text-2xl font-bold mb-4">{section.title3}</h2>
-      {section.text && (
+      {Array.isArray(section.text) && (
         <div className="mb-4 space-y-2 text-center">
           {section.text.slice(3).map((p, i) => (
             <p key={i} className="font-bold">
@@ -88,10 +88,10 @@ export function Section1Korekcija({ section }: Props) {
         </div>
       )}
       <a
-        href={section.link.href}
+        href={section.link?.href}
         className="bg-primary px-6 py-3 text-white flex items-center gap-3 w-fit mx-auto"
       >
-        {section.link.label} <FaAngleDoubleRight className="w-6 h-6" />
+        {section.link?.label} <FaAngleDoubleRight className="w-6 h-6" />
       </a>
     </section>
   );

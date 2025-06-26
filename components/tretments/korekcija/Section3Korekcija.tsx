@@ -14,7 +14,7 @@ export function Section3Korekcija({ section }: Props) {
       <div className="container px-2 md:px-4 mx-auto grid grid-cols-2 md:gap-20 ">
         <div className="mx-auto flex flex-col">
           <h2 className="text-2xl font-bold mb-4">{section.title}</h2>
-          {section.text && (
+          {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(0, 1).map((p, i) => (
                 <p key={i} className="font-bold">
@@ -34,7 +34,7 @@ export function Section3Korekcija({ section }: Props) {
             </ul>
           )}
 
-          {section.text && (
+          {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(1, 6).map((p, i) => (
                 <p key={i} className="font-bold">
@@ -46,7 +46,7 @@ export function Section3Korekcija({ section }: Props) {
         </div>
         <div className="mx-auto flex flex-col">
           <h2 className="text-2xl font-bold mb-4">{section.title2}</h2>
-          {section.text && (
+          {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(6, 7).map((p, i) => (
                 <p key={i} className="font-bold">
@@ -65,7 +65,7 @@ export function Section3Korekcija({ section }: Props) {
               ))}
             </ul>
           )}
-          {section.text && (
+          {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(7).map((p, i) => (
                 <p key={i} className="font-bold">
@@ -78,7 +78,7 @@ export function Section3Korekcija({ section }: Props) {
             href={"https://wa.me/381645400100"}
             className="bg-primary px-6 py-3 mt-20 text-white flex items-center gap-3 w-fit mx-auto"
           >
-            {section.link.label} <FaAngleDoubleRight className="w-6 h-6" />
+            {section.link?.label} <FaAngleDoubleRight className="w-6 h-6" />
           </a>
         </div>
       </div>

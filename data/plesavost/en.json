@@ -22,13 +22,13 @@
     {
       "id": "1",
       "title": "WHY DO MEN LOSE HAIR?",
+      "imgtitle": "Norwood Scale",
       "bullets": [
         "25% of men lose hair by age 25",
         "70% by age fifty",
         "Most common cause: androgenic alopecia"
       ],
       "image": {
-        "title": "Norwood Scale",
         "src": "/images/norwood-skala.webp",
         "alt": "Stages of hair loss in men – Norwood scale"
       }
