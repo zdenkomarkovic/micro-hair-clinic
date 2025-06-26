@@ -18,15 +18,7 @@ const Questions = ({ data }: Props) => {
       <h2>{data.title}</h2>
       <div>
         {data.categories.map((category, i) => {
-          return (
-            <CardBig key={i} data={category} i={i} />
-            // <div>
-            //   <h3>{category.title}</h3>
-            //   {category.answers.map((answer, i) => {
-            //     return <Card key={i} data={answer} i={i} />;
-            //   })}
-            // </div>
-          );
+          return <CardBig key={i} data={category} i={i} />;
         })}
       </div>
     </div>

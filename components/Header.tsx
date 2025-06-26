@@ -58,7 +58,7 @@ export default function Header({ locale }: { locale: string }) {
           <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
             <Link href="/" className="flex items-center space-x-4">
               <Image
-                src={"/images/mhclogo.PNG"}
+                src={"/images/mhclogo.png"}
                 alt="micro-hair-clinic"
                 width={150}
                 height={200}
