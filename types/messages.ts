@@ -12,6 +12,7 @@ export type Messages = {
   cards2: {
     title: string;
     text: string;
+    button: string;
     link: string;
   }[];
   cards2text: {
