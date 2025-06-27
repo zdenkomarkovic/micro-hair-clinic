@@ -14,7 +14,7 @@ const Treatments = ({ data }: Props) => {
   const params = useParams();
   const locale = params?.locale ?? "en";
   return (
-    <div className="container px-2 md:px-10 py-6 md:py-10  mx-auto space-y-10 border-b">
+    <div className="container px-2 md:px-32 py-6 md:py-10  mx-auto space-y-10 border-b">
       <h2>{data.title}</h2>
       <div className="grid md:grid-cols-3 gap-8 items-stretch">
         {data.tretmans.map((tretman) => {

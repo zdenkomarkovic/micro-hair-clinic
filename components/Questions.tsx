@@ -14,7 +14,7 @@ type Props = {
 
 const Questions = ({ data }: Props) => {
   return (
-    <div id="questions" className="container px-2 md:px-4 mx-auto">
+    <div id="questions" className="container px-4 md:px-32 mx-auto">
       <h2>{data.title}</h2>
       <div>
         {data.categories.map((category, i) => {
@@ -37,8 +37,11 @@ const CardBig = ({ data, i }: CardBigProps) => {
     <Accordion type="single" collapsible>
       <AccordionItem value={`${i + 1}`}>
         <AccordionTrigger className="">
-          <h4>{data.title}</h4>
-          <Link href={data.link} className="ml-auto mr-6 md:mr-52">
+          <p>{data.title}</p>
+          <Link
+            href={data.link}
+            className="hidden md:inline ml-auto mr-6 md:mr-52"
+          >
             {data.cta}
           </Link>
         </AccordionTrigger>
@@ -61,7 +64,9 @@ const Card = ({ data, i }: CardProps) => {
   return (
     <Accordion type="single" collapsible>
       <AccordionItem value={`${i + 1}`}>
-        <AccordionTrigger>{data.question}</AccordionTrigger>
+        <AccordionTrigger>
+          <p>{data.question}</p>
+        </AccordionTrigger>
         <AccordionContent>
           <div className="flex gap-3">
             <p>{data.text}</p>

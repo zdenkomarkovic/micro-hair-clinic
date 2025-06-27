@@ -10,6 +10,7 @@ import { AiOutlineClose } from "react-icons/ai";
 import { i18n } from "../i18n-config";
 import { getNavList } from "@/locales/navUtils";
 import type { Locale } from "@/i18n-config";
+import { ChevronDownIcon } from "lucide-react";
 
 function isValidLocale(locale: string): locale is Locale {
   return (i18n.locales as readonly string[]).includes(locale);
@@ -67,7 +68,7 @@ export default function Header({ locale }: { locale: string }) {
             </Link>
           </motion.div>
 
-          <div className="hidden md:flex items-center space-x-6">
+          <div className="hidden md:flex items-center space-x-10">
             {navList.map((item, i) => {
               if ("link" in item) {
                 return (
@@ -84,19 +85,32 @@ export default function Header({ locale }: { locale: string }) {
               if ("list" in item) {
                 return (
                   <div key={i} className="relative group">
-                    <span className="hover:text-primary transition-colors uppercase cursor-pointer">
+                    <span className="hover:text-primary transition-colors uppercase cursor-pointer flex gap-1.5">
                       {item.title}
+                      <ChevronDownIcon />
                     </span>
-                    <div className="absolute hidden group-hover:block bg-white shadow p-2 z-50">
-                      {item.list.map((sub, j) => (
-                        <Link
-                          key={j}
-                          href={sub.link}
-                          className="block px-4 py-2 hover:bg-gray-100 text-sm"
-                        >
-                          {sub.title}
-                        </Link>
-                      ))}
+                    <div
+                      className={`absolute hidden group-hover:block shadow z-50 `}
+                    >
+                      <div className="p-3 bg-transparent"></div>
+                      <div
+                        className={`${
+                          isScrolled
+                            ? "bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 shadow-md"
+                            : "bg-transparent text-white"
+                        }`}
+                      >
+                        {" "}
+                        {item.list.map((sub, j) => (
+                          <Link
+                            key={j}
+                            href={sub.link}
+                            className="block px-4 py-2 hover:bg-gray-100 hover:text-primary text-base text-nowrap"
+                          >
+                            {sub.title}
+                          </Link>
+                        ))}
+                      </div>
                     </div>
                   </div>
                 );
@@ -156,7 +170,7 @@ export default function Header({ locale }: { locale: string }) {
                     key={i}
                     href={item.link}
                     onClick={() => setIsMenuOpen(false)}
-                    className="block py-2 hover:text-primary uppercase"
+                    className="block text-black py-2 hover:text-primary uppercase"
                   >
                     {item.title}
                   </Link>
@@ -166,14 +180,16 @@ export default function Header({ locale }: { locale: string }) {
               if ("list" in item) {
                 return (
                   <div key={i} className="py-2">
-                    <span className="font-semibold">{item.title}</span>
+                    <span className="font-semibold text-black">
+                      {item.title}
+                    </span>
                     <div className="pl-4 mt-1 space-y-1">
                       {item.list.map((sub, j) => (
                         <Link
                           key={j}
                           href={sub.link}
                           onClick={() => setIsMenuOpen(false)}
-                          className="block hover:text-primary text-sm"
+                          className="block text-black hover:text-primary text-sm"
                         >
                           {sub.title}
                         </Link>

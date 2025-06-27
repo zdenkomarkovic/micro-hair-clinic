@@ -47,7 +47,7 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
     return null;
   }
   return (
-    <div className="flex relative">
+    <div className="flex justify-center items-center relative">
       {/* Glavni slider */}
       <div className="flex-1 overflow-hidden" ref={emblaMainRef}>
         <div className="flex">
@@ -58,7 +58,7 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
                 width={1500}
                 height={1000}
                 alt="molerski radovi"
-                className="w-full h-[70dvh] object-cover"
+                className="w-[600px] h-[600px] object-cover"
               />
             </div>
           ))}
@@ -66,7 +66,7 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
       </div>
 
       {/* Thumbnail slider */}
-      <div className="w-[40rem] flex flex-col justify-center relative ml-4">
+      <div className="w-[40rem] flex flex-col justify-center relative ml-2">
         {/* Strelica levo */}
         <button
           onClick={() => emblaThumbApi && emblaThumbApi.scrollPrev()}
@@ -89,7 +89,7 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
                     <button
                       key={realIndex}
                       onClick={() => scrollTo(realIndex)}
-                      className={`border-2 overflow-hidden transition w-80 h-80 ${
+                      className={`border-2 overflow-hidden transition w-72 h-72 ${
                         activeIndex === realIndex
                           ? "border-blue-500"
                           : "border-gray-300"
@@ -99,7 +99,7 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
                         src={src}
                         width={100}
                         height={100}
-                        alt="molerski radovi"
+                        alt="smp"
                         className="w-full h-full object-cover"
                       />
                     </button>
