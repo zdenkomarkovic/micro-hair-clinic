@@ -4,7 +4,7 @@ import React, { useCallback, useEffect, useState } from "react";
 import useEmblaCarousel from "embla-carousel-react";
 import Image from "next/image";
 
-const ImageSliderKlizni = ({ images }: { images: string[] }) => {
+const ImageSliderKlizniMob = ({ images }: { images: string[] }) => {
   const [emblaMainRef, emblaMainApi] = useEmblaCarousel({ align: "start" });
   const [emblaThumbRef, emblaThumbApi] = useEmblaCarousel({
     containScroll: "trimSnaps",
@@ -36,20 +36,13 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
     },
     [emblaMainApi]
   );
-  function chunkArray<T>(arr: T[], size: number): T[][] {
-    const result: T[][] = [];
-    for (let i = 0; i < arr.length; i += size) {
-      result.push(arr.slice(i, i + size));
-    }
-    return result;
-  }
   if (!images || images.length === 0) {
     return null;
   }
   return (
-    <div className="hidden md:flex justify-center items-center relative">
+    <div className="md:hidden relative">
       {/* Glavni slider */}
-      <div className="flex-1 overflow-hidden" ref={emblaMainRef}>
+      <div className="overflow-hidden" ref={emblaMainRef}>
         <div className="flex">
           {images.map((src, index) => (
             <div key={index} className="min-w-full">
@@ -58,7 +51,7 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
                 width={1500}
                 height={1000}
                 alt="molerski radovi"
-                className="w-[600px] h-[600px] object-cover"
+                className="w-full aspect-square object-cover"
               />
             </div>
           ))}
@@ -66,7 +59,7 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
       </div>
 
       {/* Thumbnail slider */}
-      <div className="w-[40rem] flex flex-col justify-center relative ml-2">
+      <div className="relative mt-4">
         {/* Strelica levo */}
         <button
           onClick={() => emblaThumbApi && emblaThumbApi.scrollPrev()}
@@ -76,36 +69,24 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
         </button>
 
         {/* Slider sa vidljivih 5-6 slika */}
-        <div className="overflow-hidden" ref={emblaThumbRef}>
+        <div className="overflow-hidden w-full" ref={emblaThumbRef}>
           <div className="flex">
-            {chunkArray(images, 4).map((group, groupIndex) => (
-              <div
-                key={groupIndex}
-                className="min-w-full grid grid-cols-2 gap-4 p-4"
+            {images.map((src, index) => (
+              <button
+                key={index}
+                onClick={() => scrollTo(index)}
+                className={`border-2 overflow-hidden transition min-w-32 md:mx-3 ${
+                  activeIndex === index ? "border-blue-500" : "border-gray-300"
+                }`}
               >
-                {group.map((src, index) => {
-                  const realIndex = groupIndex * 4 + index;
-                  return (
-                    <button
-                      key={realIndex}
-                      onClick={() => scrollTo(realIndex)}
-                      className={`border-2 overflow-hidden transition w-72 h-72 ${
-                        activeIndex === realIndex
-                          ? "border-blue-500"
-                          : "border-gray-300"
-                      }`}
-                    >
-                      <Image
-                        src={src}
-                        width={100}
-                        height={100}
-                        alt="smp"
-                        className="w-full h-full object-cover"
-                      />
-                    </button>
-                  );
-                })}
-              </div>
+                <Image
+                  src={src}
+                  width={100}
+                  height={100}
+                  alt="molerski radovi"
+                  className="w-40 h-40 object-cover"
+                />
+              </button>
             ))}
           </div>
         </div>
@@ -122,4 +103,4 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
   );
 };
 
-export default ImageSliderKlizni;
+export default ImageSliderKlizniMob;

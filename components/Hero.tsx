@@ -14,7 +14,7 @@ const Hero = ({ title, subtitle, text, button }: HeroProps) => {
   const heroVideo = "/images/IMG_8157 2.mp4";
 
   return (
-    <div className="relative h-[100dvh] w-full flex items-center justify-center">
+    <div className="hero relative h-[100dvh] w-full flex items-center justify-center">
       <video
         autoPlay
         loop

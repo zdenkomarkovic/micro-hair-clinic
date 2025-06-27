@@ -31,7 +31,7 @@ export default function Footer({
 
   return (
     <motion.footer
-      className="bg-gray-50 py-8  shadow-[0px_-2px_5px_rgba(0,0,0,0.1)]"
+      className="footer bg-gray-50 py-8  shadow-[0px_-2px_5px_rgba(0,0,0,0.1)]"
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       transition={{ delay: 0.5 }}

@@ -34,7 +34,7 @@ const icons = [
 
 export function HeroSection({ data }: Props) {
   return (
-    <section className="relative md:h-[85dvh]">
+    <section className="md:hero relative md:h-[85dvh]">
       <div className="absolute left-0 right-0 top-0  z-0">
         <Image
           src={data.image}
@@ -44,10 +44,10 @@ export function HeroSection({ data }: Props) {
           className="w-full md:h-[85dvh] object-cover"
         />
       </div>
-      <div className="container relative flex flex-col md:justify-between px-2 md:px-4 mx-auto py-96 md:py-52 h-full text-center  z-10">
+      <div className="container relative flex flex-col md:justify-between px-2 md:px-4 mx-auto pt-[410px] md:pt-96 md:pb-32 h-full text-center z-10">
         <div>
           <h1 className="md:text-white z-50">{data.heading}</h1>
-          <p className="text-lg mb-2 md:mb-6 z-50 md:text-white">
+          <p className="text-lg mb-2 md:text-2xl z-50 md:text-white">
             {data.subtitle}
           </p>
         </div>
@@ -56,7 +56,8 @@ export function HeroSection({ data }: Props) {
             <a
               key={cta.href}
               href={cta.href}
-              className="bg-primary mx-auto text-white px-2 md:px-4 py-1 md:py-2 rounded hover:bg-gray-800 transition flex gap-3 items-center "
+              className={`bg-primary mx-auto text-white px-2 md:px-4 py-1 md:py-2 rounded hover:bg-gray-800 transition flex gap-3 items-center
+      ${index > 0 ? "hidden md:flex" : ""}`}
             >
               {cta.label}
               {icons[index].icon}

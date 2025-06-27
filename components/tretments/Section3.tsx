@@ -14,7 +14,7 @@ export function Section3({ section }: Props) {
       <div className="container px-2 md:px-4 mx-auto">
         <div className="mx-auto">
           {section.bullets && (
-            <ul className="flex gap-6 text-center mx-auto justify-center">
+            <ul className="flex flex-col md:flex-row md:gap-6 text-center mx-auto justify-center">
               {section.bullets.slice(0, 3).map((b, i) => (
                 <li key={i} className="flex gap-3 items-center">
                   <FaCheckDouble className="text-green-500 " />
@@ -26,7 +26,7 @@ export function Section3({ section }: Props) {
         </div>
         <div className="mx-auto pt-6">
           {section.bullets && (
-            <ul className="flex gap-6 text-center mx-auto justify-center">
+            <ul className="flex flex-col md:flex-row md:gap-6 text-center mx-auto justify-center">
               {section.bullets.slice(3).map((b, i) => (
                 <li key={i} className="flex gap-3 items-center">
                   <ImCross className="text-red-500" />

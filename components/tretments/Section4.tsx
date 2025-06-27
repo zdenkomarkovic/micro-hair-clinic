@@ -1,6 +1,7 @@
 import { SectionCommon } from "@/types/index";
 import React from "react";
 import ImageSliderKlizni from "../ImageSliderKlizni";
+import ImageSliderKlizniMob from "../ImageSliderKlizniMob";
 
 type Props = {
   section: SectionCommon;
@@ -38,6 +39,7 @@ export function Section4({ section }: Props) {
           )}
         </div>
         <ImageSliderKlizni images={section.gallery ?? []} />
+        <ImageSliderKlizniMob images={section.gallery ?? []} />
       </div>
     </section>
   );

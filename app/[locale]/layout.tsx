@@ -8,6 +8,7 @@ import { i18n } from "@/i18n-config";
 import { isValidLocale } from "@/lib/locale";
 import { LocaleProvider } from "../../lib/LocaleContext";
 import { Metadata } from "@/node_modules/next/types";
+import CallButton from "@/components/CallButton";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -56,11 +57,12 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} dir={getDirection(locale)}>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased text-muted-foreground bg-secondary text-lg md:text-xl`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased text-muted-foreground bg-secondary text-base md:text-xl`}
       >
         <LocaleProvider locale={locale}>
           <Header locale={locale} />
           {children}
+          <CallButton />
           <Footer locale={locale} rights={rights} message={message} />
         </LocaleProvider>
       </body>

@@ -43,13 +43,13 @@ export default async function ComparePage({
   return (
     <main>
       <HeroSection data={json.hero} />
-      {/* <Section1 section={section1} /> */}
-      {/* <Section2 section={section2} /> */}
-      {/* <Section3 section={section3} /> */}
-      {/* <Section4 section={section4} /> */}
-      {/* <Section5 section={section5} /> */}
-      {/* <FinalCta data={json.finalCta} /> */}
-      {/* <Faq faqs={json.faqs} /> */}
+      <Section1 section={section1} />
+      <Section2 section={section2} />
+      <Section3 section={section3} />
+      <Section4 section={section4} />
+      <Section5 section={section5} />
+      <FinalCta data={json.finalCta} />
+      <Faq faqs={json.faqs} />
     </main>
   );
 }

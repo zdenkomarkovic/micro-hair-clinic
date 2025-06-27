@@ -8,13 +8,13 @@ type Props = {
 };
 export function Faq({ faqs }: Props) {
   return (
-    <section className="py-10 px-4">
+    <section className="py-10">
       <div className="bg-black">
-        <div className="container px-2 md:px-4 mx-auto py-6 flex gap-5 justify-center bg-black">
+        <div className="container px-2 md:px-4 mx-auto py-6 flex flex-col md:flex-row items-center gap-5 justify-center bg-black">
           <h2 className="text-2xl font-bold">{faqs.title}</h2>
           <Link
             href={"/#questions"}
-            className="text-white flex gap-3 items-center"
+            className="bg-primary text-white px-4 md:px-6 py-2 md:py-3 text-nowrap flex gap-3 items-center mx-auto"
           >
             {faqs.button} <FaAngleDoubleRight className="w-6 h-6" />
           </Link>

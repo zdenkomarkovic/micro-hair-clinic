@@ -10,7 +10,7 @@ export function Section2({ section }: Props) {
   return (
     <section id={section.id} className="py-10 px-4">
       <h2 className="text-2xl font-bold mb-4">{section.title}</h2>
-      <div className="container px-2 md:px-4 mx-auto flex md:gap-20 ">
+      <div className="container px-2 md:px-4 mx-auto flex flex-col md:flex-row md:gap-20 ">
         <div className="mx-auto">
           {section.bullets && (
             <ul className="list-disc list-inside mb-4">
