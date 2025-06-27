@@ -45,8 +45,8 @@ export default async function ComparePage({
   return (
     <main>
       <HeroSection data={json.hero} />
-      <Section1Zenske section={section1} direction={"flex-row"} />
-      <Section2Zenske section={section2} direction={"flex-row-reverse"} />
+      <Section1Zenske section={section1} direction={"md:flex-row"} />
+      <Section2Zenske section={section2} direction={"md:flex-row-reverse"} />
       <Section3Zenske section={section3} direction={""} />
       <Section4Zenske section={section4} direction={""} />
       <Section4 section={section5} />

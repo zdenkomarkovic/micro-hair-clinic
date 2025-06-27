@@ -13,6 +13,7 @@ import { Section3Oziljci } from "@/components/tretments/oziljci/Section3Oziljci"
 import { Section5Oziljci } from "@/components/tretments/oziljci/Section5Oziljci";
 import { Section6Oziljci } from "@/components/tretments/oziljci/Section6Oziljci";
 import { PageData, SectionCommon } from "@/types/index";
+import { SectionOziljci } from "@/components/tretments/oziljci/SectionOziljci";
 
 export default async function ComparePage({
   params,
@@ -50,8 +51,8 @@ export default async function ComparePage({
   return (
     <main>
       <HeroSection data={json.hero} />
-      <Section1Oziljci section={section1} direction={"flex-row"} />
-      <Section1Oziljci section={section2} direction={"flex-row-reverse"} />
+      <SectionOziljci section={section1} direction={"md:flex-row"} />
+      <Section1Oziljci section={section2} direction={"md:flex-row-reverse"} />
       <Section2Oziljci section={section3} direction={""} />
       <Section3Oziljci section={section4} direction={""} />
       <Section4 section={section5} />

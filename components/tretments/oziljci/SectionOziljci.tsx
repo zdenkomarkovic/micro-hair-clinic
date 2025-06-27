@@ -1,17 +1,20 @@
+import Image from "@/node_modules/next/image";
 import { SectionCommon } from "@/types/index";
 import React from "react";
-import { FaAngleDoubleRight } from "react-icons/fa";
 
 type Props = {
   section: SectionCommon;
+  direction: string;
 };
 
-export function Section6Oziljci({ section }: Props) {
+export function SectionOziljci({ section, direction }: Props) {
   return (
     <section id={section.id} className="py-10 px-4">
-      <h2 className="text-2xl font-bold mb-4">{section.title}</h2>
-      <div className="container px-2 md:px-4 mx-auto flex flex-col md:flex-row items-center md:gap-20 ">
+      <div
+        className={`${direction} container px-2 md:px-4 mx-auto flex flex-col  items-center  md:gap-20 `}
+      >
         <div className="mx-auto flex flex-col">
+          <h2 className="text-2xl font-bold mb-4">{section.title}</h2>
           {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(0, 1).map((p, i) => (
@@ -30,14 +33,17 @@ export function Section6Oziljci({ section }: Props) {
           )}
         </div>
         <div>
-          {" "}
-          <a
-            href={"https://wa.me/381645400100"}
-            className="bg-primary px-3 md:px-6 py-1 md:py-3 text-white flex items-center text-nowrap gap-1 md:gap-3 "
-          >
-            {section.link?.label}{" "}
-            <FaAngleDoubleRight className="md:w-6 md:h-6" />
-          </a>
+          {section.image && (
+            <div className="text-center">
+              <Image
+                src={section.image.src}
+                width={500}
+                height={500}
+                alt={section.image.alt}
+                className="rounded w-full shadow mb-4"
+              />
+            </div>
+          )}
         </div>
       </div>
     </section>
