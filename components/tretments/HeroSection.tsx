@@ -34,7 +34,7 @@ const icons = [
 
 export function HeroSection({ data }: Props) {
   return (
-    <section className="md:hero relative md:h-[85dvh]">
+    <section className="hero relative md:h-[85dvh]">
       <div className="absolute left-0 right-0 top-0  z-0">
         <Image
           src={data.image}
