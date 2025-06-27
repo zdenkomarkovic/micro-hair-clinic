@@ -1,18 +1,12 @@
 "use client";
 import React, { useEffect, useState } from "react";
-import { FaPhoneAlt } from "react-icons/fa";
 import { FaViber } from "react-icons/fa";
 import { usePathname } from "next/navigation";
 import { IoLogoWhatsapp } from "react-icons/io5";
 
 const CallButton = () => {
   const [showCallButton, setShowCallButton] = useState(true);
-  const [dropdownMenu, setDropdownMenu] = useState(false);
   const pathname = usePathname();
-
-  const toggleDropdownMenu = () => {
-    setDropdownMenu((prev) => !prev);
-  };
 
   useEffect(() => {
     const heroSection = document.querySelector(".hero");
@@ -39,14 +33,13 @@ const CallButton = () => {
   }, [pathname]);
   return (
     <div
-      onClick={toggleDropdownMenu}
       className={`
       ${
         showCallButton
           ? "opacity-100 translate-y-0 duration-500"
           : "opacity-0 translate-y-10 pointer-events-none duration-500"
       }
-      fixed bottom-10 md:bottom-10  p-1 ml-2 lg:ml-10  z-50`}
+      fixed bottom-6 md:bottom-10  p-1 ml-2 lg:ml-10  z-50`}
     >
       <div className={` z-20 flex  gap-1`}>
         <a
