@@ -20,7 +20,7 @@ export function SectionAlopecija({ section }: Props) {
           </div>
         )}
         {section.bullets && (
-          <div className="grid grid-cols-3 gap-6 h-full">
+          <div className="grid md:grid-cols-3 gap-6 h-full">
             {section.bullets.map((b, i) => (
               <div
                 key={i}

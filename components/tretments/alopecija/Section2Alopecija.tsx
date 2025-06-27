@@ -9,7 +9,7 @@ type Props = {
 export function Section2Alopecija({ section }: Props) {
   return (
     <section id={section.id} className="py-10 px-4">
-      <div className="container px-2 md:px-4 mx-auto flex items-center md:gap-20 ">
+      <div className="container px-2 md:px-4 mx-auto flex flex-col md:flex-row items-center gap-6 md:gap-20 ">
         <div className="mx-auto flex flex-col">
           <h2 className="text-2xl font-bold mb-4">{section.title}</h2>
           {Array.isArray(section.text) && (
@@ -73,9 +73,10 @@ export function Section2Alopecija({ section }: Props) {
           )}
           <a
             href={"https://wa.me/381645400100"}
-            className="bg-primary px-6 py-3 text-white flex items-center gap-3 w-fit"
+            className="bg-primary px-3 md:px-6 py-1 md:py-3 text-white flex items-center text-nowrap gap-1 md:gap-3 w-fit"
           >
-            {section.link?.label} <FaAngleDoubleRight className="w-6 h-6" />
+            {section.link?.label}{" "}
+            <FaAngleDoubleRight className="md:w-6 md:h-6" />
           </a>
         </div>
         <div>
