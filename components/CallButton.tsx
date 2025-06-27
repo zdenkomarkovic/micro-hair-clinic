@@ -43,15 +43,12 @@ const CallButton = () => {
     >
       <div className={` z-20 flex  gap-1`}>
         <a
-          href="viber://contact?number=%2B381659719711"
+          href="viber://contact?number=%2B381645400100"
           className="p-1 hover:scale-110"
         >
           <FaViber className="bg-purple-600  rounded-full w-10 h-10 text-white " />
         </a>
-        <a
-          href="viber://contact?number=%2B381659719711"
-          className="p-1 hover:scale-110"
-        >
+        <a href="https://wa.me/381645400100" className="p-1 hover:scale-110">
           <IoLogoWhatsapp className="bg-green-500 text-white p-[1px] rounded-full w-10 h-10" />
         </a>
       </div>
