@@ -8,8 +8,8 @@ type Props = {
 const CardWithImage = ({ data }: Props) => {
   return (
     <div className="container px-2 md:px-12 mx-auto">
-      <div className=" text-right py-6 md:py-12">
-        <div className="flex flex-col-reverse md:flex-row gap-20 items-stretch ">
+      <div className=" text-right  md:py-12">
+        <div className="flex flex-col-reverse md:flex-row gap-6 md:gap-20 items-stretch ">
           <div className="md:w-1/4  aspect-[3/4]  overflow-hidden rounded-lg">
             <video controls autoPlay loop muted className="">
               {" "}
@@ -17,16 +17,16 @@ const CardWithImage = ({ data }: Props) => {
               Your browser does not support the video tag.
             </video>
           </div>
-          <div className="flex flex-col gap-2 md:gap-0  md:justify-between font-bold text-left">
-            <h2 className=" py-6">{data.title}</h2>
+          <div className="flex flex-col gap-1 md:gap-0  md:justify-between font-bold text-left">
+            <h2 className="py-3 md:py-6">{data.title}</h2>
             {data.text.map((row, i) => {
               return (
-                <p key={i} className="flex items-center gap-4 ">
-                  <span className="text-5xl font-medium font-mono ">
+                <p key={i} className="flex items-start md:items-center gap-4 ">
+                  <span className="text-2xl  md:text-5xl font-medium font-mono ">
                     {"0" + (i + 1)}
                   </span>
 
-                  {row}
+                  <span className="pt-1">{row}</span>
                 </p>
               );
             })}

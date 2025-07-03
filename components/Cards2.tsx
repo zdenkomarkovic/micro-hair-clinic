@@ -26,7 +26,7 @@ const Cards2 = ({ data, text }: Props) => {
           })}
         </div>
         <div className="space-y-6">
-          <h3>{text.title}</h3>
+          <h2>{text.title}</h2>
           <p>{text.text}</p>
 
           <p>

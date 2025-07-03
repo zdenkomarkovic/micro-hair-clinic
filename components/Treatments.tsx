@@ -16,7 +16,7 @@ const Treatments = ({ data }: Props) => {
   return (
     <div className="container px-2 md:px-32 py-6 md:py-10  mx-auto space-y-10 border-b">
       <h2>{data.title}</h2>
-      <div className="grid md:grid-cols-3 gap-8 items-stretch">
+      <div className="grid md:grid-cols-3 gap-4 md:gap-8 items-stretch">
         {data.tretmans.map((tretman) => {
           return (
             <Link
@@ -29,7 +29,7 @@ const Treatments = ({ data }: Props) => {
                 transition={{ duration: 0.3 }}
                 className="flex flex-col justify-between h-full border rounded-xl  overflow-hidden bg-gray-50"
               >
-                <h3 className="transition-transform duration-300 hover:scale-105 h-1/5  p-6">
+                <h3 className="transition-transform duration-300 hover:scale-105 h-1/5 p-3  md:p-6">
                   {tretman.title}
                 </h3>{" "}
                 <div className=" overflow-hidden">

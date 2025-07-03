@@ -10,8 +10,8 @@ type Props = {
 
 const MeetArtist = ({ data }: Props) => {
   return (
-    <div className="container px-2 md:px-12 mx-auto py-12">
-      <div className="flex flex-col md:flex-row-reverse gap-20">
+    <div className="container px-2 md:px-12 mx-auto py-6 md:py-12">
+      <div className="flex flex-col-reverse md:flex-row-reverse gap-6 md:gap-20">
         <div className="md:w-1/4 ">
           <Image
             src="/images/srdjanartist.JPG"
@@ -22,7 +22,7 @@ const MeetArtist = ({ data }: Props) => {
           />
         </div>
         <div className="md:w-2/4 flex flex-col justify-between">
-          <h2>{data.title}</h2>
+          <h2 className="py-3 md:py-0">{data.title}</h2>
           <p>{data.text}</p>
 
           <p className="flex items-center gap-6 font-bold">
