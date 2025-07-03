@@ -3,7 +3,6 @@ import { Messages } from "@/types/messages";
 import React from "react";
 import { GiTrophyCup } from "react-icons/gi";
 import { GiWorld } from "react-icons/gi";
-import srdjan from "../public/images/srdjanartist.JPG";
 
 type Props = {
   data: Messages["artist"];
@@ -15,7 +14,7 @@ const MeetArtist = ({ data }: Props) => {
       <div className="flex flex-col md:flex-row-reverse gap-20">
         <div className="md:w-1/4 ">
           <Image
-            src={srdjan}
+            src="/images/srdjanartist.JPG"
             width={700}
             height={700}
             alt="srdjan micro hair clinic"
