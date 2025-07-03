@@ -40,7 +40,10 @@ const routes: Record<Locale, Record<string, string>> = {
 const treatmentSubmenu: Record<Locale, { title: string; link: string }[]> = {
   sl: [
     { title: "SMP za plesavost", link: "/sl/smp-za-plesavost" },
-    { title: "Redčenje las", link: "/sl/smp-korekcija" },
+    {
+      title: "SMP povečanje gostote",
+      link: "/sl/smp-povecanje-gostote-redki-lasje",
+    },
     { title: "SMP za brazgotine", link: "/sl/smp-za-brazgotine" },
     { title: "SMP alopecija", link: "/sl/smp-alopecija" },
     { title: "SMP za ženske", link: "/sl/smp-za-zenske" },
@@ -48,7 +51,10 @@ const treatmentSubmenu: Record<Locale, { title: string; link: string }[]> = {
   ],
   de: [
     { title: "SMP bei Glatze", link: "/de/smp-za-plesavost" },
-    { title: "Haarausfall", link: "/de/smp-korekcija" },
+    {
+      title: "SMP zur Verdichtungsbehandlung",
+      link: "/de/smp-povecanje-gostote-redki-lasje",
+    },
     { title: "SMP bei Narben", link: "/de/smp-za-brazgotine" },
     { title: "SMP bei Alopezie", link: "/de/smp-alopecija" },
     { title: "SMP für Frauen", link: "/de/smp-za-zenske" },
@@ -56,7 +62,10 @@ const treatmentSubmenu: Record<Locale, { title: string; link: string }[]> = {
   ],
   en: [
     { title: "SMP for Baldness", link: "/en/smp-za-plesavost" },
-    { title: "Hair Thinning", link: "/en/smp-korekcija" },
+    {
+      title: "SMP Density Enhancement",
+      link: "/en/smp-povecanje-gostote-redki-lasje",
+    },
     { title: "SMP for Scars", link: "/en/smp-za-brazgotine" },
     { title: "SMP for Alopecia", link: "/en/smp-alopecija" },
     { title: "SMP for Women", link: "/en/smp-za-zenske" },

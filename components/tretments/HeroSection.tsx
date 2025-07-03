@@ -52,6 +52,7 @@ export function HeroSection({ data }: Props) {
           className="md:hidden w-full h-screen object-cover"
         />
       </div>
+      <div className="absolute top-0 left-0 w-full h-full bg-black/30 z-[1]" />
       <div className="container relative flex flex-col justify-between px-2 md:px-4 mx-auto pt-64 md:pt-96 md:pb-32 h-full text-center z-10">
         <div>
           <h1 className="text-white z-50">{data.heading}</h1>
@@ -68,7 +69,7 @@ export function HeroSection({ data }: Props) {
               <a
                 key={cta.href}
                 href={cta.href}
-                className={`bg-primary mx-auto text-white px-2 md:px-4 py-1 md:py-2 rounded hover:bg-gray-800 transition flex gap-3 items-center
+                className={`bg-primary hover:brightness-90 transition duration-300 mx-auto text-white px-2 md:px-4 py-1 md:py-2 rounded flex gap-3 items-center
       ${index > 0 ? "hidden md:flex" : ""}`}
               >
                 {cta.label}

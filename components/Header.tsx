@@ -94,9 +94,9 @@ export default function Header({ locale }: { locale: string }) {
                     >
                       <div className="p-3 bg-transparent"></div>
                       <div
-                        className={`${
+                        className={` transition-all duration-300 ${
                           isScrolled
-                            ? "bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 shadow-md"
+                            ? "bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/100"
                             : "bg-transparent text-white"
                         }`}
                       >

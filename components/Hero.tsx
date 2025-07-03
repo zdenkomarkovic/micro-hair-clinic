@@ -15,6 +15,7 @@ const Hero = ({ title, subtitle, text, button }: HeroProps) => {
 
   return (
     <div className="hero relative h-[100dvh] w-full flex items-center justify-center">
+      <div className="absolute top-0 left-0 w-full h-full bg-black/20 z-[1]" />{" "}
       <video
         autoPlay
         loop
@@ -25,10 +26,8 @@ const Hero = ({ title, subtitle, text, button }: HeroProps) => {
         <source src={heroVideo} type="video/mp4" />
         Your browser does not support the video tag.
       </video>
-
       {/* Overlay (opcionalno) */}
-
-      <div className="container mx-auto px-2 md:px-4 relative h-full flex flex-col justify-between py-2 md:py-10">
+      <div className="z-10 container mx-auto px-2 md:px-4 relative h-full flex flex-col justify-between py-2 md:py-10">
         <div className="flex-grow flex items-center">
           <div className="">
             <h1 className="text-white ">{title}</h1>

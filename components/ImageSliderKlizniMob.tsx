@@ -51,7 +51,7 @@ const ImageSliderKlizniMob = ({ images }: { images: string[] }) => {
                 width={1500}
                 height={1000}
                 alt="molerski radovi"
-                className="w-full aspect-square object-cover"
+                className="w-full  object-cover"
               />
             </div>
           ))}
@@ -84,7 +84,7 @@ const ImageSliderKlizniMob = ({ images }: { images: string[] }) => {
                   width={100}
                   height={100}
                   alt="molerski radovi"
-                  className="w-40 h-40 object-cover"
+                  className="w-40 h-28  object-cover"
                 />
               </button>
             ))}

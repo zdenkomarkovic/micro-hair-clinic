@@ -50,7 +50,7 @@
       "links": [
         {
           "label": "Redčenje las – vizualno zgostitev brez britja",
-          "link": "/redcenje-las-smp"
+          "link": "/smp-povecanje-gostote-redki-lasje"
         },
         {
           "label": "Brazgotine – FUE/FUT presaditve, poškodbe",
@@ -74,7 +74,7 @@
         ""
       ],
       "image": {
-        "src": "/images/herovideo.mp4",
+        "src": "/images/IMG_7647.mov",
         "alt": "Proces skalp mikropigmentacije"
       }
     },
@@ -97,19 +97,27 @@
         "Število pik na sejo: 15.000–20.000, skupaj do 60.000 pri Norwood 7"
       ],
       "gallery": [
-        "/images/preiposle1.JPG",
-        "/images/preiposle2.JPG",
-        "/images/preiposle3.JPG",
-        "/images/preiposle4.JPG",
-        "/images/preiposle1.JPG",
-        "/images/preiposle2.JPG",
-        "/images/preiposle3.JPG",
-        "/images/preiposle3.JPG",
-        "/images/preiposle4.JPG",
-        "/images/preiposle1.JPG",
-        "/images/preiposle2.JPG",
-        "/images/preiposle3.JPG",
-        "/images/preiposle4.JPG"
+        "/images/IMG_9077-min.jpeg",
+        "/images/IMG_9053-min.jpeg",
+        "/images/IMG_9054-min.jpeg",
+        "/images/IMG_9055-min.jpeg",
+        "/images/IMG_9060-min.jpeg",
+        "/images/IMG_9061-min.jpeg",
+        "/images/IMG_9062-min.jpeg",
+        "/images/IMG_9063-min.jpeg",
+        "/images/IMG_9064-min.jpeg",
+        "/images/IMG_9065-min.jpeg",
+        "/images/IMG_9066-min.jpeg",
+        "/images/IMG_9067-min.jpeg",
+        "/images/IMG_9068-min.jpeg",
+        "/images/IMG_9069-min.jpeg",
+        "/images/IMG_9070-min.jpeg",
+        "/images/IMG_9071-min.jpeg",
+        "/images/IMG_9072-min.jpeg",
+        "/images/IMG_9073-min.jpeg",
+        "/images/IMG_9074-min.jpeg",
+        "/images/IMG_9075-min.jpeg",
+        "/images/IMG_9076-min.jpeg"
       ]
     },
     {

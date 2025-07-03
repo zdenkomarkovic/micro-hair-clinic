@@ -50,15 +50,15 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
     <div className="hidden md:flex justify-center items-center relative">
       {/* Glavni slider */}
       <div className="flex-1 overflow-hidden" ref={emblaMainRef}>
-        <div className="flex">
+        <div className="flex ml-auto justify-center ">
           {images.map((src, index) => (
-            <div key={index} className="min-w-full">
+            <div key={index} className="min-w-full ml-auto">
               <Image
                 src={src}
                 width={1500}
                 height={1000}
-                alt="molerski radovi"
-                className="w-[600px] h-[600px] object-cover"
+                alt="smp"
+                className="w-[790px] mx-auto h-auto object-cover"
               />
             </div>
           ))}
