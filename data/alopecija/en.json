@@ -4,7 +4,8 @@
   "hero": {
     "heading": "SMP for Alopecia – a solution for patchy or complete hair loss",
     "subtitle": "Scalp micropigmentation restores the appearance of hair even when there is no growth – no surgery, no pain, no waiting.",
-    "image": "/images/kratko 2 copy.JPG",
+    "image": "/images/alopcije.jpg",
+    "image2": "/images/alopecija-mob.png",
     "alt": "SMP result on a client with alopecia areata",
     "ctas": [
       { "label": "Book a Free Consultation", "href": "/contact" },

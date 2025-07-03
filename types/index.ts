@@ -41,6 +41,7 @@ export type HeroSectionType = {
   heading: string;
   subtitle: string;
   image: string;
+  image2: string;
   alt: string;
   ctas: Cta[];
 };

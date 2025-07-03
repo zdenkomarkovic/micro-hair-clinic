@@ -4,7 +4,8 @@
   "hero": {
     "heading": "SMP za alopecijo – rešitev za izpadanje las na lisah ali celotno",
     "subtitle": "Mikropigmentacija lasišča povrne videz las tudi, ko rast ni več mogoča – brez operacije, brez bolečin, brez čakanja.",
-    "image": "/images/kratko 2 copy.JPG",
+    "image": "/images/alopcije.jpg",
+    "image2": "/images/alopecija-mob.png",
     "alt": "SMP rezultat pri klientu z alopecijo areato",
     "ctas": [
       { "label": "Rezerviraj brezplačen posvet", "href": "/contact" },

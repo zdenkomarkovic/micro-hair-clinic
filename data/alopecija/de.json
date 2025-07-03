@@ -4,7 +4,8 @@
   "hero": {
     "heading": "SMP bei Alopezie – Lösung für fleckenhaften oder vollständigen Haarausfall",
     "subtitle": "Scalp Micropigmentation stellt das Aussehen von Haaren wieder her, selbst wenn kein Nachwachsen möglich ist – ohne Operation, ohne Schmerzen, ohne Wartezeit.",
-    "image": "/images/kratko 2 copy.JPG",
+    "image": "/images/alopcije.jpg",
+    "image2": "/images/alopecija-mob.png",
     "alt": "SMP-Ergebnis bei einem Kunden mit Alopezie Areata",
     "ctas": [
       { "label": "Kostenlose Beratung buchen", "href": "/contact" },

@@ -8,6 +8,7 @@ export type HeroData = {
   heading: string;
   subtitle: string;
   image: string;
+  image2: string;
   alt: string;
   ctas: { label: string; href: string }[];
 };
@@ -34,35 +35,47 @@ const icons = [
 
 export function HeroSection({ data }: Props) {
   return (
-    <section className="hero relative md:h-[85dvh]">
+    <section className="hero relative h-screen md:h-[85dvh]">
       <div className="absolute left-0 right-0 top-0  z-0">
         <Image
           src={data.image}
           width={2000}
           height={1000}
           alt={data.alt}
-          className="w-full md:h-[85dvh] object-cover"
+          className="hidden md:block w-full md:h-[85dvh] object-cover"
+        />
+        <Image
+          src={data.image2}
+          width={2000}
+          height={1000}
+          alt={data.alt}
+          className="md:hidden w-full h-screen object-cover"
         />
       </div>
-      <div className="container relative flex flex-col md:justify-between px-2 md:px-4 mx-auto pt-[410px] md:pt-96 md:pb-32 h-full text-center z-10">
+      <div className="container relative flex flex-col justify-between px-2 md:px-4 mx-auto pt-64 md:pt-96 md:pb-32 h-full text-center z-10">
         <div>
-          <h1 className="md:text-white z-50">{data.heading}</h1>
-          <p className="text-lg mb-2 md:text-2xl z-50 md:text-white">
+          <h1 className="text-white z-50">{data.heading}</h1>
+          <p className="hidden md:block text-lg mb-2 md:text-2xl z-50 text-white">
             {data.subtitle}
           </p>
         </div>
-        <div className="flex flex-col sm:flex-row mx-auto justify-center items-center gap-1 md:gap-4">
-          {data.ctas.map((cta, index) => (
-            <a
-              key={cta.href}
-              href={cta.href}
-              className={`bg-primary mx-auto text-white px-2 md:px-4 py-1 md:py-2 rounded hover:bg-gray-800 transition flex gap-3 items-center
+        <div className="w-fit mx-auto space-y-6 mb-6">
+          <p className="md:hidden text-lg mb-2 md:text-2xl z-50 text-white">
+            {data.subtitle}
+          </p>
+          <div className="flex flex-col sm:flex-row mx-auto justify-center items-center gap-1 md:gap-4">
+            {data.ctas.map((cta, index) => (
+              <a
+                key={cta.href}
+                href={cta.href}
+                className={`bg-primary mx-auto text-white px-2 md:px-4 py-1 md:py-2 rounded hover:bg-gray-800 transition flex gap-3 items-center
       ${index > 0 ? "hidden md:flex" : ""}`}
-            >
-              {cta.label}
-              {icons[index].icon}
-            </a>
-          ))}
+              >
+                {cta.label}
+                {icons[index].icon}
+              </a>
+            ))}
+          </div>
         </div>
       </div>
     </section>
