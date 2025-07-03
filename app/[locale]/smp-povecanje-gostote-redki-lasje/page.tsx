@@ -39,7 +39,7 @@ export default async function ComparePage({
   const section1: SectionCommon = json.sections.find((s) => s.id === "1")!;
   const section2: SectionCommon = json.sections.find((s) => s.id === "2")!;
   const section3: SectionCommon = json.sections.find((s) => s.id === "3")!;
-  const section4: SectionCommon = json.sections.find((s) => s.id === "4")!;
+  // const section4: SectionCommon = json.sections.find((s) => s.id === "4")!;
 
   return (
     <main>

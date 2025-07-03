@@ -75,7 +75,7 @@ const OneCard = ({
     >
       <Card className="h-full bg-gray-50">
         <CardHeader className="flex flex-col items-center ">
-          <Icon className="w-8 h-8 text-primary" />
+          <Icon className="w-6 md:w-8 h-6 md:h-8 text-primary" />
           <h2>{item.title}</h2>
         </CardHeader>
         <CardContent className="">
