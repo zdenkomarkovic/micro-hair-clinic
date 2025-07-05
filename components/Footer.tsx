@@ -22,11 +22,9 @@ function getSafeLocale(locale: string): Locale {
 export default function Footer({
   locale,
   message,
-  rights,
 }: {
   locale: string;
   message: string;
-  rights: string;
 }) {
   const currentLocale = getSafeLocale(locale);
   const navList = getTreatmentSubmenu(currentLocale);

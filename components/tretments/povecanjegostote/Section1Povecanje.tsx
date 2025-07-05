@@ -1,7 +1,6 @@
 import Image from "@/node_modules/next/image";
 import { SectionCommon } from "@/types/index";
 import React from "react";
-import { FaAngleDoubleRight } from "react-icons/fa";
 import { FaCheckDouble } from "react-icons/fa6";
 import { ImCross } from "react-icons/im";
 

@@ -1,7 +1,6 @@
 import Image from "@/node_modules/next/image";
 import { SectionCommon } from "@/types/index";
 import React from "react";
-import { FaCheckDouble } from "react-icons/fa6";
 
 type Props = {
   section: SectionCommon;
