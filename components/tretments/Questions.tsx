@@ -37,7 +37,7 @@ const Card = ({ data, i }: CardProps) => {
       <AccordionItem value={`${i + 1}`}>
         <AccordionTrigger>{data.q}</AccordionTrigger>
         <AccordionContent>
-          <div className="flex gap-3">
+          <div className="flex text-lg gap-3">
             <p>{data.a}</p>
           </div>
 

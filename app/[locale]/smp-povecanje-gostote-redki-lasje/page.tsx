@@ -10,6 +10,8 @@ import { Section1Povecanje } from "@/components/tretments/povecanjegostote/Secti
 import { Section2Povecanje } from "@/components/tretments/povecanjegostote/Section2Povecanje";
 import { Section3Povecanje } from "@/components/tretments/povecanjegostote/Section3Povecanje";
 import { Faq } from "@/components/tretments/Faq";
+import { Section4 } from "@/components/tretments/Section4";
+import { Section5Povecanje } from "@/components/tretments/povecanjegostote/Section5Povecanje";
 
 export default async function ComparePage({
   params,
@@ -39,7 +41,8 @@ export default async function ComparePage({
   const section1: SectionCommon = json.sections.find((s) => s.id === "1")!;
   const section2: SectionCommon = json.sections.find((s) => s.id === "2")!;
   const section3: SectionCommon = json.sections.find((s) => s.id === "3")!;
-  // const section4: SectionCommon = json.sections.find((s) => s.id === "4")!;
+  const section4: SectionCommon = json.sections.find((s) => s.id === "4")!;
+  const section5: SectionCommon = json.sections.find((s) => s.id === "5")!;
 
   return (
     <main>
@@ -47,8 +50,9 @@ export default async function ComparePage({
 
       <Section1Povecanje section={section1} />
       <Section2Povecanje section={section2} />
+      <Section5Povecanje section={section5} />
       <Section3Povecanje section={section3} />
-      {/* <Section4 section={section4} /> */}
+      <Section4 section={section4} />
       <FinalCta data={json.finalCta} />
       {/* <Questions data={json.faqs} /> */}
       <Faq faqs={json.faqs} />

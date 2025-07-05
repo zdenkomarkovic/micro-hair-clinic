@@ -9,12 +9,12 @@ type Props = {
 
 export function Section2Povecanje({ section }: Props) {
   return (
-    <section id={section.id} className="py-10 px-4">
-      <div className="container px-2 md:px-4 mx-auto flex flex-col md:flex-row items-center md:gap-20 ">
-        <div className="mx-auto flex flex-col">
-          <h2 className="text-2xl font-bold mb-4">{section.title}</h2>
+    <section id={section.id} className="md:py-10 px-4">
+      <div className="container px-2 md:px-4 mx-auto grid md:grid-cols-8 items-center md:gap-20 ">
+        <div className="md:order-2 mx-auto flex flex-col md:col-span-5">
+          <h2 className="mb-4 md:mb-10">{section.title}</h2>
           {Array.isArray(section.text) && (
-            <div className="mb-4 space-y-2">
+            <div className="mb-2 md:mb-4">
               {section.text.slice(0, 1).map((p, i) => (
                 <p key={i} className="font-bold">
                   {p}
@@ -33,18 +33,8 @@ export function Section2Povecanje({ section }: Props) {
               ))}
             </ul>
           )}
-          <h2 className="text-2xl font-bold mb-4">{section.title2}</h2>
-          {Array.isArray(section.text) && (
-            <div className="mb-4 space-y-2">
-              {section.text.slice(1).map((p, i) => (
-                <p key={i} className="font-bold">
-                  {p}
-                </p>
-              ))}
-            </div>
-          )}
         </div>
-        <div>
+        <div className="md:order-1 md:col-span-3">
           {section.image && (
             <div className="text-center">
               <Image
@@ -52,7 +42,7 @@ export function Section2Povecanje({ section }: Props) {
                 width={500}
                 height={500}
                 alt={section.image.alt}
-                className="rounded w-full shadow mb-4"
+                className="rounded-lg w-full shadow"
               />
             </div>
           )}

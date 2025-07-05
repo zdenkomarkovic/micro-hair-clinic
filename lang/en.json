@@ -5,7 +5,7 @@
   "hero.subtitle": "Over 10 years of experience. SMP treatments led by award-winning artist Srđan Kostovski – now also available in Ljubljana.",
   "hero.text": "If you're considering a solution for hair loss, you're in the right place. What Srđan does isn't just technique – it's an art that changes lives. Check out the website, before/after photos, client reviews… and of course – book a consultation. You won’t regret it.",
   "hero.button": "Book a free consultation",
-  "footer.message": "Mi stvaramo priče koje se pamte.",
+  "footer.message": "Treatments",
   "footer.rights": "Sva prava zadržana.",
   "contact": {
     "title": "Pa izvolite kako vam je zgodnije...",
@@ -105,7 +105,7 @@
       {
         "title": "GENERAL QUESTIONS ABOUT SMP TREATMENT",
         "cta": "See all treatment types:",
-        "link": "/tretmani",
+        "link": "/#tretmani",
         "answers": [
           {
             "question": "How long does an SMP treatment take?",
@@ -149,7 +149,7 @@
       {
         "title": "SMP FOR BALDNESS",
         "cta": "More about this treatment:",
-        "link": "/tretmani",
+        "link": "/smp-za-plesavost",
         "answers": [
           {
             "question": "What does the result look like for bald men?",
@@ -168,7 +168,7 @@
       {
         "title": "SMP FOR THINNING HAIR",
         "cta": "More about this treatment:",
-        "link": "/tretmani",
+        "link": "/smp-povecanje-gostote-redki-lasje",
         "answers": [
           {
             "question": "Do I have to shave my head if I only have thinning hair?",
@@ -187,7 +187,7 @@
       {
         "title": "SMP FOR SCARS",
         "cta": "More about this treatment:",
-        "link": "/tretmani",
+        "link": "/smp-za-brazgotine",
         "answers": [
           {
             "question": "Can pigment be applied over scars?",
@@ -206,7 +206,7 @@
       {
         "title": "SMP AND ALOPECIA",
         "cta": "More about this treatment:",
-        "link": "/tretmani",
+        "link": "/smp-alopecija",
         "answers": [
           {
             "question": "Can SMP help with alopecia?",
@@ -223,7 +223,7 @@
       {
         "title": "CORRECTIONS OF POORLY DONE TREATMENTS",
         "cta": "More about this treatment:",
-        "link": "/tretmani",
+        "link": "/smp-korekcija",
         "answers": [
           {
             "question": "I had SMP done but I am not satisfied – what now?",
@@ -240,7 +240,7 @@
       {
         "title": "SMP FOR WOMEN",
         "cta": "More about this treatment:",
-        "link": "/tretmani",
+        "link": "/smp-za-zenske",
         "answers": [
           {
             "question": "Is SMP also done for women?",

@@ -43,7 +43,8 @@ export type HeroSectionType = {
   image: string;
   image2: string;
   alt: string;
-  ctas: Cta[];
+  ctas?: Cta[];
+  bullets?: string;
 };
 
 export type FaqListItem = {

@@ -13,8 +13,8 @@ export function SectionOziljci({ section, direction }: Props) {
       <div
         className={`${direction} container px-2 md:px-4 mx-auto flex flex-col  items-center  md:gap-20 `}
       >
-        <div className="mx-auto flex flex-col">
-          <h2 className="text-2xl font-bold mb-4">{section.title}</h2>
+        <div className="mx-auto flex flex-col md:space-y-6 text-center">
+          <h2 className="mb-4">{section.title}</h2>
           {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(0, 1).map((p, i) => (
@@ -40,7 +40,7 @@ export function SectionOziljci({ section, direction }: Props) {
                 width={500}
                 height={500}
                 alt={section.image.alt}
-                className="rounded w-full shadow mb-4"
+                className="rounded-lg w-full shadow mb-4"
               />
             </div>
           )}

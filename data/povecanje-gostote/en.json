@@ -75,13 +75,27 @@
     },
     {
       "id": "4",
-      "title": "Zakaj se klienti odločajo za SMP?",
-      "bullets": [
-        "Vizualno povečanje gostote pri redčenju las",
-        "Dopolnitev slabih ali delnih rezultatov presaditve",
-        "Kamuflaža brazgotin po FUE/FUT posegih",
-        "Idealna možnost tudi za tiste, ki niso kandidati za transplantacijo"
-      ]
+      "title": "GALERIJA – PRED IN PO",
+      "bullets": [],
+      "gallery": [
+        "/images/IMG_9079-min.jpeg",
+        "/images/IMG_9080-min.jpeg",
+        "/images/IMG_9081-min.jpeg",
+        "/images/IMG_9082-min.jpeg",
+        "/images/IMG_9084-min.jpeg",
+        "/images/IMG_9085-min.jpeg",
+        "/images/IMG_9087-min.jpeg",
+        "/images/IMG_9088-min.jpeg",
+        "/images/IMG_9089-min.jpeg",
+        "/images/IMG_9090-min.jpeg",
+        "/images/IMG_9092-min.jpeg",
+        "/images/IMG_9093-min.jpeg",
+        "/images/IMG_9094-min.jpeg",
+        "/images/IMG_9095-min.jpeg",
+        "/images/IMG_9097-min.jpeg",
+        "/images/IMG_9099-min.jpeg"
+      ],
+      "alt": "Korektivni SMP rezultat – naraven videz"
     }
   ],
   "gallery": [],

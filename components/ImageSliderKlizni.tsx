@@ -16,26 +16,27 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
   useEffect(() => {
     if (!emblaMainApi) return;
 
-    emblaMainApi.scrollTo(activeIndex, false);
-    const onSelect = () => setActiveIndex(emblaMainApi.selectedScrollSnap());
+    const onSelect = () => {
+      setActiveIndex(emblaMainApi.selectedScrollSnap());
+    };
+
     emblaMainApi.on("select", onSelect);
+    onSelect(); // inicijalni aktivni index
 
     return () => {
-      if (emblaMainApi) {
-        emblaMainApi.off("select", onSelect);
-      }
+      emblaMainApi.off("select", onSelect);
     };
-  }, [emblaMainApi, activeIndex]);
+  }, [emblaMainApi]);
 
   const scrollTo = useCallback(
     (index: number) => {
       if (emblaMainApi) {
         emblaMainApi.scrollTo(index);
-        setActiveIndex(index);
       }
     },
     [emblaMainApi]
   );
+
   function chunkArray<T>(arr: T[], size: number): T[][] {
     const result: T[][] = [];
     for (let i = 0; i < arr.length; i += size) {
@@ -43,22 +44,24 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
     }
     return result;
   }
+
   if (!images || images.length === 0) {
     return null;
   }
+
   return (
     <div className="hidden md:flex justify-center items-center relative">
       {/* Glavni slider */}
       <div className="flex-1 overflow-hidden" ref={emblaMainRef}>
-        <div className="flex ml-auto justify-center ">
+        <div className="flex">
           {images.map((src, index) => (
-            <div key={index} className="min-w-full ml-auto">
+            <div key={index} className="min-w-full">
               <Image
                 src={src}
                 width={1500}
                 height={1000}
                 alt="smp"
-                className="w-[790px] mx-auto h-auto object-cover"
+                className="w-[790px] rounded-lg mx-auto h-auto object-cover"
               />
             </div>
           ))}
@@ -75,7 +78,7 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
           ◀
         </button>
 
-        {/* Slider sa vidljivih 5-6 slika */}
+        {/* Slider sa thumbnail gridovima */}
         <div className="overflow-hidden" ref={emblaThumbRef}>
           <div className="flex">
             {chunkArray(images, 4).map((group, groupIndex) => (
@@ -89,7 +92,7 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
                     <button
                       key={realIndex}
                       onClick={() => scrollTo(realIndex)}
-                      className={`border-2 overflow-hidden transition w-72 h-72 ${
+                      className={`border-2 overflow-hidden rounded-lg transition w-72 h-72 ${
                         activeIndex === realIndex
                           ? "border-blue-500"
                           : "border-gray-300"
@@ -100,7 +103,7 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
                         width={100}
                         height={100}
                         alt="smp"
-                        className="w-full h-full object-cover"
+                        className="w-full h-full object-cover rounded-lg"
                       />
                     </button>
                   );

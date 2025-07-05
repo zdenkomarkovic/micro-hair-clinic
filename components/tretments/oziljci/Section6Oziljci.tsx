@@ -8,8 +8,8 @@ type Props = {
 
 export function Section6Oziljci({ section }: Props) {
   return (
-    <section id={section.id} className="py-10 px-4">
-      <h2 className="text-2xl font-bold mb-4">{section.title}</h2>
+    <section id={section.id} className="py-7 md:py-10 px-4 text-center">
+      <h2 className="mb-4">{section.title}</h2>
       <div className="container px-2 md:px-4 mx-auto flex flex-col md:flex-row items-center md:gap-20 ">
         <div className="mx-auto flex flex-col">
           {Array.isArray(section.text) && (

@@ -5,7 +5,7 @@
   "hero.subtitle": "Več kot 10 let izkušenj. SMP tretmaji pod vodstvom nagrajenega umetnika Srđana Kostovskega – zdaj tudi v Ljubljani.",
   "hero.text": "Če razmišljate o rešitvi za izpadanje las, ste na pravem mestu. Tisto, kar Srđan dela, ni samo tehnika – je umetnost, ki spreminja življenja. Poglejte si spletno stran, slike prej/potem, mnenja strank… in seveda – rezervirajte svetovanje. Ne boste obžalovali.",
   "hero.button": "Rezerviraj brezplačno svetovanje",
-  "footer.message": "Mi stvaramo priče koje se pamte.",
+  "footer.message": "Tretmaji",
   "footer.rights": "Sva prava zadržana.",
   "contact": {
     "title": "Pa izvolite kako vam je zgodnije...",
@@ -104,7 +104,7 @@
       {
         "title": "SPLOŠNA VPRAŠANJA O SMP TRETMAJU",
         "cta": " Oglej si vse vrste tretmajev:",
-        "link": "/tretmani",
+        "link": "/#tretmani",
         "answers": [
           {
             "question": "Koliko časa traja SMP tretma?",
@@ -148,7 +148,7 @@
       {
         "title": "SMP ZA PLEŠAVOST",
         "cta": "Več o tem tretmaju:",
-        "link": "/tretmani",
+        "link": "/smp-za-plesavost",
         "answers": [
           {
             "question": "Kako izgleda rezultat pri plešastih moških?",
@@ -167,7 +167,7 @@
       {
         "title": "SMP ZA REDČE LASJE",
         "cta": "Več o tem tretmaju:",
-        "link": "/tretmani",
+        "link": "/smp-povecanje-gostote-redki-lasje",
         "answers": [
           {
             "question": "Ali je treba obriti glavo, če so lasje le redki?",
@@ -186,7 +186,7 @@
       {
         "title": "SMP ZA BRAZGOTINE",
         "cta": "Več o tem tretmaju:",
-        "link": "/tretmani",
+        "link": "/smp-za-brazgotine",
         "answers": [
           {
             "question": "Ali se pigment lahko nanaša na brazgotino?",
@@ -205,7 +205,7 @@
       {
         "title": "SMP IN ALOPECIJA",
         "cta": "Več o tem tretmaju:",
-        "link": "/tretmani",
+        "link": "/smp-alopecija",
         "answers": [
           {
             "question": "Ali SMP lahko pomaga pri alopeciji?",
@@ -222,7 +222,7 @@
       {
         "title": "KOREKCIJE SLABO IZVEDENIH TRETMANOV",
         "cta": "Več o tem tretmaju:",
-        "link": "/tretmani",
+        "link": "/smp-korekcija",
         "answers": [
           {
             "question": "Izvedli so mi SMP, a nisem zadovoljen – kaj zdaj?",
@@ -239,7 +239,7 @@
       {
         "title": "SMP ZA ŽENSKE",
         "cta": "Več o tem tretmaju:",
-        "link": "/tretmani",
+        "link": "/smp-za-zenske",
         "answers": [
           {
             "question": "Ali se SMP izvaja tudi pri ženskah?",

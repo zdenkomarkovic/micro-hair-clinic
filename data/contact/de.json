@@ -1,0 +1,90 @@
+{
+  "slug": "zakazi-konsultaciju",
+  "title": "Zakaži besplatnu konsultaciju",
+  "hero": {
+    "heading": "Prvi korak ka prirodnom izgledu kose – bez obaveze",
+    "subtitle": "Pre nego što zakažeš SMP tretman, uradićemo besplatnu procenu i odgovoriti na sve što te zanima.",
+    "image": "/images/consulting.jpg",
+    "alt": "Besplatna konsultacija pre SMP tretmana",
+    "ctas": [
+      { "label": "Pošalji slike", "href": "#posalji-slike" },
+      { "label": "Popuni formu", "href": "#forma" },
+      { "label": "Kontaktiraj nas", "href": "#kontakt" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "proces",
+      "title": "Kako izgleda proces?",
+      "bullets": [
+        "📤 Pošalješ slike glave (napred, profil, odozgo)",
+        "🧠 Dobijaš stručno mišljenje – da li si kandidat za SMP",
+        "📞 Organizujemo konsultaciju (uživo ili video poziv)",
+        "📅 Ako se odlučiš – zakazujemo prvi tretman"
+      ],
+      "text": [
+        "Konsultacije su uvek diskretne i bez obaveze.",
+        "Možeš doći uživo ili se javiti online (Viber / WhatsApp).",
+        "Ako smatramo da ti SMP nije potreban, uputićemo te ka stručnjacima – triholozima ili dermatolozima."
+      ]
+    },
+    {
+      "id": "posalji-slike",
+      "title": "Pošalji slike ili poruku",
+      "text": [
+        "Za početnu procenu, dovoljno je da pošalješ nekoliko fotografija svoje glave.",
+        "Tvoja odluka je najvažnija – mi smo tu da ti pomognemo da je doneseš informisano, bez pritiska i očekivanja."
+      ],
+      "bullets": [
+        "📲 Viber / WhatsApp: +381 XX XXX XXXX",
+        "📧 Email: info@microhairclinic.rs",
+        "📸 Instagram DM: @microhairclinic.rs"
+      ],
+      "imagesNeeded": ["Napred", "Profil levo/desno", "Odozgo"]
+    },
+    {
+      "id": "forma",
+      "title": "Popuni kratku formu",
+      "form": {
+        "fields": [
+          { "label": "Ime i prezime", "type": "text" },
+          { "label": "Email", "type": "email" },
+          { "label": "Telefon (Viber/WhatsApp)", "type": "tel" },
+          {
+            "label": "Koji tretman te zanima?",
+            "type": "select",
+            "options": [
+              "Ćelavost",
+              "Proređena kosa",
+              "Alopecija",
+              "Ožiljci",
+              "Korekcija",
+              "Nisam siguran"
+            ]
+          },
+          { "label": "Poruka ili pitanje", "type": "textarea" }
+        ],
+        "submitButton": "Pošalji zahtev"
+      }
+    },
+    {
+      "id": "nisi-siguran",
+      "title": "Nisi siguran?",
+      "bullets": [
+        "📚 Pročitaj: Kako izgleda SMP tretman",
+        "💬 Pogledaj: Najčešća pitanja",
+        "📸 Pogledaj rezultate: Galerija pre i posle"
+      ]
+    },
+    {
+      "id": "kontakt",
+      "title": "Kontaktiraj nas",
+      "text": [
+        "Bilo da si spreman odmah ili tek istražuješ – javi se.",
+        "Mi ćemo ti pomoći da razumeš opcije, ali odluka je uvek tvoja.",
+        "✅ Mi ne nagovaramo – mi objašnjavamo.",
+        "✅ Ti odlučuješ kad, kako i da li želiš da nastaviš."
+      ]
+    }
+  ]
+}

@@ -2,12 +2,12 @@ export type Locale = "en" | "de" | "sl";
 
 const navTitles: Record<Locale, Record<string, string>> = {
   sl: {
-    home: "Naslovna",
-    tretmani: "Tretmani",
+    home: "Domov",
+    tretmani: "Tretmaji",
     contact: "Kontakt",
   },
   de: {
-    home: "Naslovna",
+    home: "Startseite",
     behandlungen: "Behandlungen",
     contact: "Kontakt",
   },
@@ -22,54 +22,94 @@ const routes: Record<Locale, Record<string, string>> = {
   sl: {
     home: "/sl",
     tretmani: "/sl/tretmani",
-    contact: "/sl/contact",
+    contact: "/sl/kontakt",
   },
   de: {
     home: "/de",
     behandlungen: "/de/behandlungen",
-    contact: "/de/contact",
+    contact: "/de/kontakt",
   },
   en: {
     home: "/en",
     treatments: "/en/treatments",
-    contact: "/en/contact",
+    contact: "/en/kontakt",
   },
 };
 
 // Podmeni za tretmane (možeš dodavati ili menjati linkove ovde)
 const treatmentSubmenu: Record<Locale, { title: string; link: string }[]> = {
   sl: [
-    { title: "SMP za plesavost", link: "/sl/smp-za-plesavost" },
     {
-      title: "SMP povečanje gostote",
+      title: "SMP za plešavost (videz obrite glave)",
+      link: "/sl/smp-za-plesavost",
+    },
+    {
+      title: "Redčenje las – zgostitev z ali brez presaditve",
       link: "/sl/smp-povecanje-gostote-redki-lasje",
     },
-    { title: "SMP za brazgotine", link: "/sl/smp-za-brazgotine" },
-    { title: "SMP alopecija", link: "/sl/smp-alopecija" },
-    { title: "SMP za ženske", link: "/sl/smp-za-zenske" },
-    { title: "SMP korekcija", link: "/sl/smp-korekcija" },
+    {
+      title: "SMP za brazgotine – po presaditvi, poškodbah ali operacijah",
+      link: "/sl/smp-za-brazgotine",
+    },
+    {
+      title: "Alopecija – areata, totalis, universalis",
+      link: "/sl/smp-alopecija",
+    },
+    {
+      title: "SMP za ženske – redki lasje, zmanjšan volumen",
+      link: "/sl/smp-za-zenske",
+    },
+    { title: "Korekcija neuspešnih SMP tretmajev", link: "/sl/smp-korekcija" },
   ],
   de: [
-    { title: "SMP bei Glatze", link: "/de/smp-za-plesavost" },
     {
-      title: "SMP zur Verdichtungsbehandlung",
+      title: "SMP bei Glatze (rasierter Kopf-Look)",
+      link: "/de/smp-za-plesavost",
+    },
+    {
+      title: "Haarausfall – Verdichtung mit oder ohne Haartransplantation",
       link: "/de/smp-povecanje-gostote-redki-lasje",
     },
-    { title: "SMP bei Narben", link: "/de/smp-za-brazgotine" },
-    { title: "SMP bei Alopezie", link: "/de/smp-alopecija" },
-    { title: "SMP für Frauen", link: "/de/smp-za-zenske" },
-    { title: "SMP Korrektur", link: "/de/smp-korekcija" },
+    {
+      title:
+        "SMP für Narben – nach Transplantation, Verletzungen oder Operationen",
+      link: "/de/smp-za-brazgotine",
+    },
+    {
+      title: "Alopezie – Areata, Totalis, Universalis",
+      link: "/de/smp-alopecija",
+    },
+    {
+      title: "SMP für Frauen – dünnes Haar, geringes Volumen",
+      link: "/de/smp-za-zenske",
+    },
+    {
+      title: "Korrektur misslungener SMP-Behandlungen",
+      link: "/de/smp-korekcija",
+    },
   ],
   en: [
-    { title: "SMP for Baldness", link: "/en/smp-za-plesavost" },
     {
-      title: "SMP Density Enhancement",
+      title: "SMP for baldness (shaved head look)",
+      link: "/en/smp-za-plesavost",
+    },
+    {
+      title: "Hair thinning – density treatment with or without transplant",
       link: "/en/smp-povecanje-gostote-redki-lasje",
     },
-    { title: "SMP for Scars", link: "/en/smp-za-brazgotine" },
-    { title: "SMP for Alopecia", link: "/en/smp-alopecija" },
-    { title: "SMP for Women", link: "/en/smp-za-zenske" },
-    { title: "SMP Correction", link: "/en/smp-korekcija" },
+    {
+      title: "SMP for scars – after transplant, injury, or surgery",
+      link: "/en/smp-za-brazgotine",
+    },
+    {
+      title: "Alopecia – areata, totalis, universalis",
+      link: "/en/smp-alopecija",
+    },
+    {
+      title: "SMP for women – thinning hair, reduced volume",
+      link: "/en/smp-za-zenske",
+    },
+    { title: "Correction of failed SMP treatments", link: "/en/smp-korekcija" },
   ],
 };
 

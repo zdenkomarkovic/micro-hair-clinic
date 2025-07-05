@@ -11,12 +11,12 @@ export function Section3Oziljci({ section, direction }: Props) {
   return (
     <section id={section.id} className="py-4 md:py-10 px-4">
       <div
-        className={`${direction} container px-2 md:px-4 mx-auto flex flex-col md:flex-row items-center md:gap-20 `}
+        className={`${direction} container px-2 md:px-4 mx-auto flex flex-col md:flex-row-reverse items-center md:gap-20 `}
       >
-        <div className="mx-auto flex flex-col">
-          <h2 className="text-2xl font-bold mb-4">{section.title}</h2>
+        <div className="mx-auto flex flex-col ">
+          <h2 className="mb-4 md:mb-10">{section.title}</h2>
           {Array.isArray(section.text) && (
-            <div className="mb-4 space-y-2">
+            <div className="mb-4 space-y-2 md:pl-32">
               {section.text.slice(0, 1).map((p, i) => (
                 <p key={i} className="font-bold">
                   {p}
@@ -25,15 +25,15 @@ export function Section3Oziljci({ section, direction }: Props) {
             </div>
           )}
           {section.bullets && (
-            <ul className="list-disc list-inside mb-4">
+            <ul className="list-disc list-inside mb-4 md:pl-32">
               {section.bullets.slice(0, 3).map((b, i) => (
                 <li key={i}>{b}</li>
               ))}
             </ul>
           )}
           {Array.isArray(section.text) && (
-            <div className="mb-4 space-y-2">
-              {section.text.slice(1, 2).map((p, i) => (
+            <div className="mb-4 space-y-2 md:pl-32">
+              {section.text.slice(1).map((p, i) => (
                 <p key={i} className="font-bold">
                   {p}
                 </p>
@@ -41,7 +41,7 @@ export function Section3Oziljci({ section, direction }: Props) {
             </div>
           )}
           {section.bullets && (
-            <ul className="list-disc list-inside mb-4">
+            <ul className="list-disc list-inside mb-4 md:pl-32">
               {section.bullets.slice(3).map((b, i) => (
                 <li key={i}>{b}</li>
               ))}
@@ -56,7 +56,7 @@ export function Section3Oziljci({ section, direction }: Props) {
                 width={500}
                 height={500}
                 alt={section.image.alt}
-                className="rounded w-full shadow mb-4"
+                className="rounded-lg w-full shadow mb-4"
               />
             </div>
           )}

@@ -31,7 +31,7 @@
       ],
       "text": ["Scalp scars most commonly result from:"],
       "image": {
-        "src": "/images/kratko 2 copy.JPG",
+        "src": "/images/IMG_9103-min.jpeg",
         "alt": "Types of scalp scars"
       }
     },
@@ -48,7 +48,7 @@
         "Treatment can be done even if hair is present (e.g. after FUE in the donor area)"
       ],
       "image": {
-        "src": "/images/kratko 2 copy.JPG",
+        "src": "/images/IMG_9107-min.jpeg",
         "alt": "Before and after SMP treatment for transplant scar"
       }
     },
@@ -66,7 +66,11 @@
         "FUT scars (strip method):",
         "SMP:",
         "Can be performed even after unsuccessful transplants"
-      ]
+      ],
+      "image": {
+        "src": "/images/IMG_7794.mp4",
+        "alt": "Pred in po SMP tretmaju za brazgotino po presaditvi"
+      }
     },
     {
       "id": "4",
@@ -81,7 +85,7 @@
       ],
       "text": ["Regardless of how the scar was caused, SMP enables:"],
       "image": {
-        "src": "/images/preiposle2.JPG",
+        "src": "/images/IMG_9110-min.jpeg",
         "alt": "SMP treatment for scar camouflage on the scalp"
       }
     },
@@ -95,19 +99,23 @@
         "Correction of poorly done SMP treatment"
       ],
       "gallery": [
-        "/images/preiposle1.JPG",
-        "/images/preiposle2.JPG",
-        "/images/preiposle3.JPG",
-        "/images/preiposle4.JPG",
-        "/images/preiposle1.JPG",
-        "/images/preiposle2.JPG",
-        "/images/preiposle3.JPG",
-        "/images/preiposle3.JPG",
-        "/images/preiposle4.JPG",
-        "/images/preiposle1.JPG",
-        "/images/preiposle2.JPG",
-        "/images/preiposle3.JPG",
-        "/images/preiposle4.JPG"
+        "/images/IMG_9118-min.jpeg",
+        "/images/IMG_9102-min.jpeg",
+        "/images/IMG_9103-min.jpeg",
+        "/images/IMG_9104-min.jpeg",
+        "/images/IMG_9105-min.jpeg",
+        "/images/IMG_9106-min.jpeg",
+        "/images/IMG_9107-min.jpeg",
+        "/images/IMG_9108-min.jpeg",
+        "/images/IMG_9109-min.jpeg",
+        "/images/IMG_9110-min.jpeg",
+        "/images/IMG_9111-min.jpeg",
+        "/images/IMG_9112-min.jpeg",
+        "/images/IMG_9113-min.jpeg",
+        "/images/IMG_9114-min.jpeg",
+        "/images/IMG_9115-min.jpeg",
+        "/images/IMG_9116-min.jpeg",
+        "/images/IMG_9117-min.jpeg"
       ],
       "alt": "FUE scar camouflage using SMP method"
     },
@@ -138,7 +146,7 @@
         "Pigment is carefully applied in layers, without irritation or pain."
       ],
       "image": {
-        "src": "/images/preiposle2.JPG",
+        "src": "/images/IMG_9116-min.jpeg",
         "alt": "How pigment covers the scar on the scalp"
       }
     }

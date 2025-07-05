@@ -57,13 +57,22 @@ export default function Header({ locale }: { locale: string }) {
       <nav className="container mx-auto px-4  ">
         <div className="flex justify-between items-center">
           <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-            <Link href="/" className="flex items-center space-x-4">
+            <Link href="/" className="">
               <Image
                 src={"/images/mhclogo.png"}
                 alt="micro-hair-clinic"
                 width={150}
                 height={200}
-                className="w-[100px] md:w-[150px] "
+                className={`w-[100px] md:w-[150px] ${isScrolled && "hidden"}`}
+              />
+              <Image
+                src={"/images/mhc3 2.PNG"}
+                alt="micro-hair-clinic"
+                width={150}
+                height={200}
+                className={`w-[100px] md:w-[150px] ${
+                  isScrolled ? "block" : "hidden"
+                }`}
               />
             </Link>
           </motion.div>

@@ -31,7 +31,7 @@
       ],
       "text": ["Narben auf der Kopfhaut entstehen meist durch:"],
       "image": {
-        "src": "/images/kratko 2 copy.JPG",
+        "src": "/images/IMG_9103-min.jpeg",
         "alt": "Arten von Narben auf der Kopfhaut"
       }
     },
@@ -48,7 +48,7 @@
         "Die Behandlung kann auch durchgeführt werden, wenn Haare vorhanden sind (z. B. nach FUE im Spenderbereich)"
       ],
       "image": {
-        "src": "/images/kratko 2 copy.JPG",
+        "src": "/images/IMG_9107-min.jpeg",
         "alt": "Vor und nach der SMP-Behandlung bei einer Transplantationsnarbe"
       }
     },
@@ -66,7 +66,11 @@
         "FUT-Narben (Streifenmethode):",
         "SMP:",
         "Kann auch nach erfolglosen Transplantationen durchgeführt werden"
-      ]
+      ],
+      "image": {
+        "src": "/images/IMG_7794.mp4",
+        "alt": "Pred in po SMP tretmaju za brazgotino po presaditvi"
+      }
     },
     {
       "id": "4",
@@ -81,7 +85,7 @@
       ],
       "text": ["Unabhängig von der Ursache ermöglicht SMP:"],
       "image": {
-        "src": "/images/preiposle2.JPG",
+        "src": "/images/IMG_9110-min.jpeg",
         "alt": "SMP-Behandlung zur Narben-Kamouflage auf der Kopfhaut"
       }
     },
@@ -95,19 +99,23 @@
         "Korrektur einer schlecht durchgeführten SMP"
       ],
       "gallery": [
-        "/images/preiposle1.JPG",
-        "/images/preiposle2.JPG",
-        "/images/preiposle3.JPG",
-        "/images/preiposle4.JPG",
-        "/images/preiposle1.JPG",
-        "/images/preiposle2.JPG",
-        "/images/preiposle3.JPG",
-        "/images/preiposle3.JPG",
-        "/images/preiposle4.JPG",
-        "/images/preiposle1.JPG",
-        "/images/preiposle2.JPG",
-        "/images/preiposle3.JPG",
-        "/images/preiposle4.JPG"
+        "/images/IMG_9118-min.jpeg",
+        "/images/IMG_9102-min.jpeg",
+        "/images/IMG_9103-min.jpeg",
+        "/images/IMG_9104-min.jpeg",
+        "/images/IMG_9105-min.jpeg",
+        "/images/IMG_9106-min.jpeg",
+        "/images/IMG_9107-min.jpeg",
+        "/images/IMG_9108-min.jpeg",
+        "/images/IMG_9109-min.jpeg",
+        "/images/IMG_9110-min.jpeg",
+        "/images/IMG_9111-min.jpeg",
+        "/images/IMG_9112-min.jpeg",
+        "/images/IMG_9113-min.jpeg",
+        "/images/IMG_9114-min.jpeg",
+        "/images/IMG_9115-min.jpeg",
+        "/images/IMG_9116-min.jpeg",
+        "/images/IMG_9117-min.jpeg"
       ],
       "alt": "FUE-Narben-Kamouflage mit der SMP-Methode"
     },
@@ -138,7 +146,7 @@
         "Das Pigment wird sorgfältig in Schichten aufgetragen – ohne Reizung oder Schmerzen."
       ],
       "image": {
-        "src": "/images/preiposle2.JPG",
+        "src": "/images/IMG_9116-min.jpeg",
         "alt": "Wie das Pigment die Narbe auf der Kopfhaut abdeckt"
       }
     }

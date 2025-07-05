@@ -5,7 +5,7 @@
   "hero.subtitle": "Über 10 Jahre Erfahrung. SMP-Behandlungen unter der Leitung des preisgekrönten Künstlers Srđan Kostovski – jetzt auch in Ljubljana.",
   "hero.text": "Wenn Sie über eine Lösung gegen Haarausfall nachdenken, sind Sie hier genau richtig. Was Srđan macht, ist nicht nur Technik – es ist eine Kunst, die Leben verändert. Sehen Sie sich die Website an, Vorher/Nachher-Bilder, Kundenmeinungen… und natürlich – buchen Sie ein Beratungsgespräch. Sie werden es nicht bereuen.",
   "hero.button": "Kostenloses Beratungsgespräch buchen",
-  "footer.message": "Mi stvaramo priče koje se pamte.",
+  "footer.message": "Behandlungen",
   "footer.rights": "Sva prava zadržana.",
   "contact": {
     "title": "Pa izvolite kako vam je zgodnije...",
@@ -109,7 +109,7 @@
       {
         "title": "ALLGEMEINE FRAGEN ZUR SMP-BEHANDLUNG",
         "cta": "Alle Behandlungstypen ansehen:",
-        "link": "/tretmani",
+        "link": "/#tretmani",
         "answers": [
           {
             "question": "Wie lange dauert eine SMP-Behandlung?",
@@ -153,7 +153,7 @@
       {
         "title": "SMP BEI KAHLHEIT",
         "cta": "Mehr über diese Behandlung:",
-        "link": "/tretmani",
+        "link": "/smp-za-plesavost",
         "answers": [
           {
             "question": "Wie sieht das Ergebnis bei kahlen Männern aus?",
@@ -172,7 +172,7 @@
       {
         "title": "SMP BEI AUSDÜNNENDEM HAAR",
         "cta": "Mehr über diese Behandlung:",
-        "link": "/tretmani",
+        "link": "/smp-povecanje-gostote-redki-lasje",
         "answers": [
           {
             "question": "Muss ich meinen Kopf rasieren, wenn ich nur ausdünnendes Haar habe?",
@@ -191,7 +191,7 @@
       {
         "title": "SMP FÜR NARBEN",
         "cta": "Mehr über diese Behandlung:",
-        "link": "/tretmani",
+        "link": "/smp-za-brazgotine",
         "answers": [
           {
             "question": "Kann Pigment über Narben aufgetragen werden?",
@@ -210,7 +210,7 @@
       {
         "title": "SMP UND ALOPEZIE",
         "cta": "Mehr über diese Behandlung:",
-        "link": "/tretmani",
+        "link": "/smp-alopecija",
         "answers": [
           {
             "question": "Kann SMP bei Alopezie helfen?",
@@ -227,7 +227,7 @@
       {
         "title": "KORREKTUREN VON SCHLECHT DURCHGEFÜHRTEN BEHANDLUNGEN",
         "cta": "Mehr über diese Behandlung:",
-        "link": "/tretmani",
+        "link": "/smp-korekcija",
         "answers": [
           {
             "question": "Ich hatte SMP, bin aber nicht zufrieden – was nun?",
@@ -244,7 +244,7 @@
       {
         "title": "SMP FÜR FRAUEN",
         "cta": "Mehr über diese Behandlung:",
-        "link": "/tretmani",
+        "link": "/smp-za-zenske",
         "answers": [
           {
             "question": "Wird SMP auch bei Frauen durchgeführt?",

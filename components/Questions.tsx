@@ -40,7 +40,7 @@ const CardBig = ({ data, i }: CardBigProps) => {
     <Accordion type="single" collapsible>
       <AccordionItem value={`${i + 1}`}>
         <AccordionTrigger className="">
-          <p>{data.title}</p>
+          <p className=" mx-auto md:mx-0">{data.title}</p>
           <Link
             href={data.link}
             className="hidden md:inline ml-auto mr-6 md:mr-52"
@@ -71,7 +71,7 @@ const Card = ({ data, i }: CardProps) => {
           <p>{data.question}</p>
         </AccordionTrigger>
         <AccordionContent>
-          <div className="flex gap-3">
+          <div className="flex gap-3 text-base md:text-lg">
             <p>{data.text}</p>
 
             <div>

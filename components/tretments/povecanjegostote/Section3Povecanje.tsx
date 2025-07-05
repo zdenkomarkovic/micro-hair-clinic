@@ -9,10 +9,10 @@ type Props = {
 
 export function Section3Povecanje({ section }: Props) {
   return (
-    <section id={section.id} className="py-10 px-4">
+    <section id={section.id} className="py-3 md:py-10 px-4">
       <div className="container px-2 md:px-4 mx-auto grid md:grid-cols-2  md:gap-20 ">
         <div className="mx-auto flex flex-col">
-          <h2 className="text-2xl font-bold mb-4">{section.title}</h2>
+          <h2 className=" mb-4">{section.title}</h2>
           {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(0, 1).map((p, i) => (
@@ -44,18 +44,9 @@ export function Section3Povecanje({ section }: Props) {
           )}
         </div>
         <div className="mx-auto flex flex-col">
-          <h2 className="text-2xl font-bold mb-4">{section.title2}</h2>
-          {Array.isArray(section.text) && (
-            <div className="mb-4 space-y-2">
-              {section.text.slice(6, 7).map((p, i) => (
-                <p key={i} className="font-bold">
-                  {p}
-                </p>
-              ))}
-            </div>
-          )}
+          <h2 className="mb-4 md:mb-10">{section.title2}</h2>
           {section.bullets && (
-            <ul className=" mb-4">
+            <ul className=" mb-4 md:mb-10">
               {section.bullets.slice(4).map((b, i) => (
                 <li key={i} className="flex items-center gap-3">
                   <FaCheckDouble className="text-green-500 " />
@@ -64,18 +55,10 @@ export function Section3Povecanje({ section }: Props) {
               ))}
             </ul>
           )}
-          {Array.isArray(section.text) && (
-            <div className="mb-4 space-y-2">
-              {section.text.slice(7).map((p, i) => (
-                <p key={i} className="font-bold">
-                  {p}
-                </p>
-              ))}
-            </div>
-          )}
+
           <a
             href={"https://wa.me/381645400100"}
-            className="bg-primary px-3 md:px-6 py-1 md:py-3 text-white flex items-center text-nowrap gap-1 md:gap-3 w-fit"
+            className="bg-primary mb-5 px-3 md:px-6 py-1 md:py-3 text-white flex items-center text-nowrap gap-1 md:gap-3 w-fit"
           >
             {section.link?.label}{" "}
             <FaAngleDoubleRight className="md:w-6 md:h-6" />
