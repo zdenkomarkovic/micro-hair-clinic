@@ -22,9 +22,11 @@ function getSafeLocale(locale: string): Locale {
 export default function Footer({
   locale,
   message,
+  rights,
 }: {
   locale: string;
   message: string;
+  rights: string;
 }) {
   const currentLocale = getSafeLocale(locale);
   const navList = getTreatmentSubmenu(currentLocale);
@@ -81,7 +83,7 @@ export default function Footer({
             <p className="pb-3">{message}</p>
             {navList.map((item, i) => {
               return (
-                <Link href={item.link} key={i} className=" text-base ">
+                <Link key={i} href={item.link} className=" text-base ">
                   <p className="py-1 transform  hover:scale-105 transition duration-300">
                     {item.title}
                   </p>
@@ -104,7 +106,7 @@ export default function Footer({
           </div>
         </div>
         <div className="flex flex-col md:flex-row justify-center text-center gap-2 md:gap-10 border-t-[1px] border-cool-green mt-10 pt-5">
-          <p>&copy; 2025 Micro Hair Clinic. Sva prava zadržana.</p>
+          <p>&copy; 2025 Micro Hair Clinic. {rights}</p>
           <a href="https://www.manikamwebsolutions.com/" target="_blank">
             izrada sajta:{" "}
             <span className="font-bold "> ManikamWebSolutions</span>
