@@ -6,45 +6,54 @@
     "subtitle": "Pre nego što zakažeš SMP tretman, uradićemo besplatnu procenu i odgovoriti na sve što te zanima.",
     "image": "/images/consulting.jpg",
     "alt": "Besplatna konsultacija pre SMP tretmana",
-    "ctas": [
-      { "label": "Pošalji slike", "href": "#posalji-slike" },
-      { "label": "Popuni formu", "href": "#forma" },
-      { "label": "Kontaktiraj nas", "href": "#kontakt" }
+    "bullets": [
+      "Konsultacije su diskretne",
+      "Možeš doći uživo ili se javiti online (Viber / WhatsApp)",
+      "Nema obaveze da odmah zakažeš tretman"
     ]
   },
   "sections": [
     {
-      "id": "proces",
-      "title": "Kako izgleda proces?",
+      "id": "6",
       "bullets": [
-        "📤 Pošalješ slike glave (napred, profil, odozgo)",
-        "🧠 Dobijaš stručno mišljenje – da li si kandidat za SMP",
-        "📞 Organizujemo konsultaciju (uživo ili video poziv)",
-        "📅 Ako se odlučiš – zakazujemo prvi tretman"
-      ],
-      "text": [
-        "Konsultacije su uvek diskretne i bez obaveze.",
-        "Možeš doći uživo ili se javiti online (Viber / WhatsApp).",
-        "Ako smatramo da ti SMP nije potreban, uputićemo te ka stručnjacima – triholozima ili dermatolozima."
+        "Konsultacije su diskretne",
+        "Možeš doći uživo ili se javiti online (Viber / WhatsApp)",
+        "Nema obaveze da odmah zakažeš tretman"
       ]
     },
     {
-      "id": "posalji-slike",
+      "id": "1",
+      "title": "Kako izgleda proces?",
+      "bullets": [
+        "Pošalješ slike glave (napred, profil, odozgo)",
+        "Dobijaš stručno mišljenje – da li si kandidat za SMP",
+        "Organizujemo konsultaciju (uživo ili video poziv)",
+        "Ako se odlučiš – zakazujemo prvi tretman"
+      ],
+      "text": [
+        "Ne nudimo tretman po svaku cenu. Ako smatramo da tvoja kosa može da se oporavi bez SMP-a, uputićemo te na trihologa ili dermatologa sa kojima sarađujemo."
+      ]
+    },
+    {
+      "id": "2",
       "title": "Pošalji slike ili poruku",
       "text": [
-        "Za početnu procenu, dovoljno je da pošalješ nekoliko fotografija svoje glave.",
-        "Tvoja odluka je najvažnija – mi smo tu da ti pomognemo da je doneseš informisano, bez pritiska i očekivanja."
+        "Slike koje treba poslati:",
+        "Tvoja odluka je najvažnija.",
+        "Mi smo ovde da ti pomognemo da je doneseš informisano, bez pritiska i bez očekivanja."
       ],
       "bullets": [
-        "📲 Viber / WhatsApp: +381 XX XXX XXXX",
-        "📧 Email: info@microhairclinic.rs",
-        "📸 Instagram DM: @microhairclinic.rs"
+        "Napred",
+        "Profil levo/desno",
+        "Odozgo",
+        "Mi ne nagovaramo – mi objašnjavamo",
+        "Ti odlučuješ kad, kako i da li želiš da nastaviš."
       ],
       "imagesNeeded": ["Napred", "Profil levo/desno", "Odozgo"]
     },
     {
-      "id": "forma",
-      "title": "Popuni kratku formu",
+      "id": "3",
+      "title": "Ili Popuni kratku formu",
       "form": {
         "fields": [
           { "label": "Ime i prezime", "type": "text" },
@@ -68,22 +77,20 @@
       }
     },
     {
-      "id": "nisi-siguran",
+      "id": "4",
       "title": "Nisi siguran?",
       "bullets": [
-        "📚 Pročitaj: Kako izgleda SMP tretman",
-        "💬 Pogledaj: Najčešća pitanja",
-        "📸 Pogledaj rezultate: Galerija pre i posle"
+        "Pročitaj: Kako izgleda SMP tretman",
+        "Pogledaj: Najčešća pitanja",
+        "Pogledaj rezultate: Galerija pre i posle"
       ]
     },
     {
-      "id": "kontakt",
-      "title": "Kontaktiraj nas",
+      "id": "5",
+      "title": "Još jednom – kontakt",
       "text": [
         "Bilo da si spreman odmah ili tek istražuješ – javi se.",
-        "Mi ćemo ti pomoći da razumeš opcije, ali odluka je uvek tvoja.",
-        "✅ Mi ne nagovaramo – mi objašnjavamo.",
-        "✅ Ti odlučuješ kad, kako i da li želiš da nastaviš."
+        "Mi ćemo ti pomoći da razumeš opcije, ali odluka je uvek tvoja."
       ]
     }
   ]
