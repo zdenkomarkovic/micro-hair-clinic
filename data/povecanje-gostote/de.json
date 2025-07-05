@@ -3,7 +3,7 @@
   "title": "Povečanje gostote pri redkih laseh | SMP in presaditev las",
   "hero": {
     "heading": "Povečanje gostote pri redkih laseh – z ali brez presaditve",
-    "subtitle": "Redčenje las je najpogostejša oblika izgube las pri moških. Pogosto se pojavi postopoma – lasje izgubljajo gostoto, pričeska izgubi obliko, lasišče pa postaja vse bolj vidno. Ne glede na to, ali si že opravil presaditev las ali šele raziskuješ možnosti – obstaja način, kako izboljšati videz gostote. A hkrati moraš vedeti tudi, kje so meje.",
+    "subtitle": "Ne glede na to, ali si že opravil presaditev las ali šele raziskuješ možnosti – obstaja način, kako izboljšati videz gostote. A hkrati moraš vedeti tudi, kje so meje",
     "image": "/images/redcenje las-min.JPG",
     "image2": "/images/redcenjemob.png",
     "alt": "smp-povecanje-gostote-redki-lasje",
@@ -35,12 +35,15 @@
         "Presaditev las je kirurški postopek, pri katerem se lasni mešički iz t. i. donorske regije (ponavadi zatilje) presadijo na območja, kjer so lasje že izpadli.",
         "Pogoste težave:",
         "Mnogi so po transplantaciji razočarani – bodisi zaradi slabega rezultata, bodisi zaradi nerealnih pričakovanj. A obstaja rešitev, ki lahko vse to dopolni."
-      ]
+      ],
+      "image": {
+        "src": "/images/IMG_9082-min.jpeg",
+        "alt": "Proces skalp mikropigmentacije"
+      }
     },
     {
       "id": "2",
       "title": "Skalp mikropigmentacija (SMP) – vizualni trik za gostejši videz",
-      "title2": "Pomembno: SMP ima meje",
       "bullets": [
         "Odlično deluje pri redkih laseh",
         "Dopolnjuje rezultat po presaditvi",
@@ -49,39 +52,73 @@
       ],
 
       "text": [
-        "SMP je neinvaziven postopek, kjer se s pomočjo pigmentov v lasišče ustvari videz senčenja, ki posnema gostejše lase. Od blizu so to mikro točke, od daleč – iluzija senčne globine, ki zmanjša kontrast med kožo in lasmi.",
+        "SMP je neinvaziven postopek, kjer se s pomočjo pigmentov v lasišče ustvari videz senčenja, ki posnema gostejše lase. Od blizu so to mikro točke, od daleč – iluzija senčne globine, ki zmanjša kontrast med kožo in lasmi."
+      ],
+      "image": {
+        "src": "/images/IMG_9088-min.jpeg",
+        "alt": "Proces skalp mikropigmentacije"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Pomembno: SMP ima meje",
+      "bullets": [],
+
+      "text": [
         "SMP je dvodimenzionalna rešitev – deluje vizualno, ne fizično. Ne dodaja gostote v smislu volumna, temveč ustvarja optično iluzijo gostejše linije.",
         "Če imaš večje površine popolnoma brez las, SMP ne more ustvariti videza bujne, trodimenzionalne pričeske. Lahko pa močno izboljša videz, zmanjša kontrast in elegantno premosti prehode med področji z lasmi in brez."
       ],
       "image": {
-        "src": "/images/herovideo.mp4",
+        "src": "/images/IMG_9092-min.jpeg",
         "alt": "Proces skalp mikropigmentacije"
       }
     },
     {
       "id": "3",
       "title": "Kombinacija SMP + transplantacija = Najboljši rezultat?",
+      "title2": "Zakaj se klienti odločajo za SMP?",
       "bullets": [
         "SMP zapolni vizualne praznine med grafti",
         "Poenoti območja, kjer je rast redka ali neenakomerna",
-        "Želiš naraven, urejen videz",
         "Skrije brazgotine na donorju ali temenu",
-        "Zmanjša potrebo po dodatnih kirurških posegih"
-      ],
-      "text": [
-        "Za mnoge je prav kombinacija presajenih las + SMP tretmaja ključ do popolnega videza:",
-        "Po SMP-ju je veliko naših klientov prvič res zadovoljnih s svojim izgledom."
-      ]
-    },
-    {
-      "id": "4",
-      "title": "Zakaj se klienti odločajo za SMP?",
-      "bullets": [
+        "Zmanjša potrebo po dodatnih kirurških posegih",
         "Vizualno povečanje gostote pri redčenju las",
         "Dopolnitev slabih ali delnih rezultatov presaditve",
         "Kamuflaža brazgotin po FUE/FUT posegih",
         "Idealna možnost tudi za tiste, ki niso kandidati za transplantacijo"
-      ]
+      ],
+      "text": [
+        "Za mnoge je prav kombinacija presajenih las + SMP tretmaja ključ do popolnega videza:",
+        "Po SMP-ju je veliko naših klientov prvič res zadovoljnih s svojim izgledom."
+      ],
+      "link": {
+        "label": "Pošlji slike lasišča za brezplačno oceno",
+        "href": "/kontakt"
+      }
+    },
+    {
+      "id": "4",
+      "title": "GALERIJA – PRED IN PO",
+      "bullets": [],
+      "gallery": [
+        "/images/IMG_9079-min.jpeg",
+        "/images/IMG_9080-min.jpeg",
+        "/images/IMG_9081-min.jpeg",
+        "/images/IMG_9082-min.jpeg",
+        "/images/IMG_9084-min.jpeg",
+        "/images/IMG_9085-min.jpeg",
+        "/images/IMG_9087-min.jpeg",
+        "/images/IMG_9088-min.jpeg",
+        "/images/IMG_9089-min.jpeg",
+        "/images/IMG_9090-min.jpeg",
+        "/images/IMG_9092-min.jpeg",
+        "/images/IMG_9093-min.jpeg",
+        "/images/IMG_9094-min.jpeg",
+        "/images/IMG_9095-min.jpeg",
+        "/images/IMG_9097-min.jpeg",
+        "/images/IMG_9099-min.jpeg"
+      ],
+      "alt": "Korektivni SMP rezultat – naraven videz"
     }
   ],
   "gallery": [],
