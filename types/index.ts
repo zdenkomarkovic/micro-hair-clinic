@@ -44,7 +44,7 @@ export type HeroSectionType = {
   image2: string;
   alt: string;
   ctas?: Cta[];
-  bullets?: string;
+  bullets?: string[];
 };
 
 export type FaqListItem = {
