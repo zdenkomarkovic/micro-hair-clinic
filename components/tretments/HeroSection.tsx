@@ -10,7 +10,7 @@ export type HeroData = {
   image: string;
   image2: string;
   alt: string;
-  ctas: { label: string; href: string }[];
+  ctas?: { label: string; href: string }[];
 };
 
 type Props = {
