@@ -9,10 +9,6 @@ export default {
   ],
   theme: {
     extend: {
-      direction: {
-        rtl: "rtl",
-        ltr: "ltr",
-      },
       colors: {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
@@ -50,13 +46,5 @@ export default {
       },
     },
   },
-  plugins: [
-    require("tailwindcss-animate"),
-    function ({ addUtilities }) {
-      addUtilities({
-        ".direction-rtl": { direction: "rtl" },
-        ".direction-ltr": { direction: "ltr" },
-      });
-    },
-  ],
+  plugins: [require("tailwindcss-animate")],
 } satisfies Config;
