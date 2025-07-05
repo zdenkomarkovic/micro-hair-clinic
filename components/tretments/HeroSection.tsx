@@ -65,7 +65,7 @@ export function HeroSection({ data }: Props) {
             {data.subtitle}
           </p>
           <div className="flex flex-col sm:flex-row mx-auto justify-center items-center gap-1 md:gap-4">
-            {data.ctas.map((cta, index) => (
+            {data.ctas?.map((cta, index) => (
               <a
                 key={cta.href}
                 href={cta.href}

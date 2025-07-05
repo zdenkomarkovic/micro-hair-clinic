@@ -41,7 +41,7 @@ export function HeroSectionContact({ data }: Props) {
           <div className="flex flex-col sm:flex-row mx-auto justify-center items-center gap-1 md:gap-4"></div>
         </div>
         <div className="flex flex-col md:flex-row mb-10 md:mb-0 md:gap-6 mx-auto text-white">
-          {data.bullets.map((bullet, i) => {
+          {data.bullets?.map((bullet, i) => {
             return <p key={i}>{bullet}</p>;
           })}
         </div>
