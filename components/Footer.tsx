@@ -81,7 +81,7 @@ export default function Footer({
             <p className="pb-3">{message}</p>
             {navList.map((item, i) => {
               return (
-                <Link href={item.link} className=" text-base ">
+                <Link href={item.link} key={i} className=" text-base ">
                   <p className="py-1 transform  hover:scale-105 transition duration-300">
                     {item.title}
                   </p>
