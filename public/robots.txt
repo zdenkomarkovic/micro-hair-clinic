@@ -6,4 +6,4 @@ Allow: /
 Host: https://microhairclinic.si
 
 # Sitemaps
-Sitemap: https://microhairclinic.si/sitemap.xml
+Sitemap: https://microhairclinic.si/api/sitemap
