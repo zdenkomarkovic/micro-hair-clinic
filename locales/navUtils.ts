@@ -4,16 +4,19 @@ const navTitles: Record<Locale, Record<string, string>> = {
   sl: {
     home: "Domov",
     tretmani: "Tretmaji",
+    about: "O nas",
     contact: "Kontakt",
   },
   de: {
     home: "Startseite",
     behandlungen: "Behandlungen",
+    about: "Über uns",
     contact: "Kontakt",
   },
   en: {
     home: "Home",
     treatments: "Treatments",
+    about: "About Us",
     contact: "Contact",
   },
 };
@@ -22,16 +25,19 @@ const routes: Record<Locale, Record<string, string>> = {
   sl: {
     home: "/sl",
     tretmani: "/sl/tretmani",
+    about: "/sl/about",
     contact: "/sl/kontakt",
   },
   de: {
     home: "/de",
     behandlungen: "/de/behandlungen",
+    about: "/de/about",
     contact: "/de/kontakt",
   },
   en: {
     home: "/en",
     treatments: "/en/treatments",
+    about: "/en/about",
     contact: "/en/kontakt",
   },
 };

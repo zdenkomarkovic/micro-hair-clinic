@@ -13,9 +13,14 @@ import { motion } from "framer-motion";
 import { Card } from "./ui/card";
 import Image from "@/node_modules/next/image";
 
-const ImageCarusel = () => {
+type Props = {
+  images: string[];
+  py: string;
+};
+
+const ImageCarusel = ({ images, py }: Props) => {
   return (
-    <div className=" container pl-10 md:pl-56 mx-auto">
+    <div className={` ${py} container pl-10 md:pl-56 mx-auto `}>
       <Carousel
         className="w-screen px-0 overflow-x-visible"
         opts={{
@@ -56,7 +61,7 @@ const ImageCard = ({ image }: { image: string }) => {
       className=""
     >
       <Card
-        className={` bg-transparent relative overflow-hidden  rounded-3xl text-white `}
+        className={` bg-transparent relative overflow-hidden  rounded-3xl text-white`}
       >
         <Image
           src={image}
@@ -69,16 +74,3 @@ const ImageCard = ({ image }: { image: string }) => {
     </motion.div>
   );
 };
-
-const images: string[] = [
-  "/images/preiposle.JPG",
-  "/images/preiposle2.JPG",
-  "/images/preiposle3.JPG",
-  "/images/preiposle4.JPG",
-  "/images/preiposle1.JPG",
-  "/images/preiposle9.JPG",
-  "/images/preiposle5.JPG",
-  "/images/preiposle6.JPG",
-  "/images/preiposle7.jpg",
-  "/images/preiposle8.jpg",
-];

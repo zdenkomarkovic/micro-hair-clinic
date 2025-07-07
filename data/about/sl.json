@@ -1,29 +1,28 @@
 {
   "slug": "o-nama",
   "title": "O nama – Micro Hair Clinic",
+  "hero": {
+    "heading": "O nama – Micro Hair Clinic",
+    "subtitle": "Vratiti samopouzdanje – to je naš pravi posao.",
+    "image": "/images/MOM Day 2-206-min.jpg",
+    "alt": "Micro hair clinic",
+    "bullets": [
+      "Micro Hair Clinic je više od studija za skalp mikropigmentaciju.",
+      "To je mesto gde muškarci i žene dolaze da ponovo prepoznaju sebe u ogledalu.",
+      "Naš osnivač, Srđan Kostovski, jedan je od najnagrađivanijih SMP artista u Evropi – ali pre svega, on je neko ko je sam prošao kroz proces gubitka kose. I zna kako to izgleda."
+    ]
+  },
   "sections": [
     {
       "id": "1",
-      "title": "Vratiti samopouzdanje – to je naš pravi posao.",
-      "text": [
-        "Micro Hair Clinic je više od studija za skalp mikropigmentaciju.",
-        "To je mesto gde muškarci i žene dolaze da ponovo prepoznaju sebe u ogledalu.",
-        "Naš osnivač, Srđan Kostovski, jedan je od najnagrađivanijih SMP artista u Evropi – ali pre svega, on je neko ko je sam prošao kroz proces gubitka kose. I zna kako to izgleda."
-      ]
-    },
-    {
-      "id": "2",
-      "title": "👨‍🎨 Srđanova priča",
+      "title": "Srđanova priča",
+      "title2": "Nagrade i priznanja",
       "text": [
         "\"Počeo sam da gubim kosu rano. Nije to bio trenutni šok – više osećaj da polako gubim deo sebe. Nisam bežao od toga, ali sam želeo rešenje koje neće izgledati kao 'rešenje'.\"",
         "Upoznajem se sa SMP-om, analiziram svaki rezultat, gledam svaku tačku. I odlučujem – ne samo da uradim tretman, već da naučim ovu veštinu kako treba.\"",
         "Srđan je školu skalp mikropigmentacije završio u Milanu, a 2015. otvara prvi SMP studio na Balkanu.",
         "Danas je njegov rad prepoznat širom Evrope, a njegovi tretmani postali su standard za prirodan izgled SMP-a."
-      ]
-    },
-    {
-      "id": "3",
-      "title": "🏆 Nagrade i priznanja",
+      ],
       "bullets": [
         "Gold Award 2023 – najbolji SMP artist Evrope i UK (TeamMicro)",
         "Best SMP Artist 2024 – SMP Connect konferencija, Portugal",
@@ -32,35 +31,33 @@
       ]
     },
     {
-      "id": "4",
-      "title": "💡 Naša filozofija",
+      "id": "3",
+      "title": "Naša filozofija",
+      "title2": "Klijenti iz celog regiona",
       "text": [
         "U industriji u kojoj mnogi gledaju kako da „zatvore klijenta“, mi prvo slušamo.",
         "Ne nudimo tretman ako ti nije potreban.",
         "Ako postoji šansa da ti kosa prirodno ojača – mi ćemo ti to reći.",
         "Ako se odlučiš za SMP, dobićeš tretman koji izgleda:",
-        "✅ prirodno i izbliza",
-        "✅ tačno po meri tvog lica i stila",
-        "✅ sa efektom koji traje godinama"
+        "prirodno i izbliza",
+        "tačno po meri tvog lica i stila",
+        "sa efektom koji traje godinama",
+        "\"Mi ne crtamo kosu – mi vraćamo identitet.\" – Srđan Kostovski",
+        "Micro Hair Clinic ima klijente iz:"
       ],
-      "text2": "\"Mi ne crtamo kosu – mi vraćamo identitet.\" – Srđan Kostovski"
-    },
-    {
-      "id": "5",
-      "title": "Klijenti iz celog regiona",
-      "text": [
-        "Micro Hair Clinic ima klijente iz:",
-        "• Srbije",
-        "• Hrvatske",
-        "• Bosne i Hercegovine",
-        "• Severne Makedonije",
-        "• dijaspore (Austrija, Nemačka, Švajcarska...)",
-        "Zbog velikog interesovanja, otvorili smo i centar u Ljubljani – www.microhairclinic.si"
+      "bullets": [
+        "Srbije",
+        "Hrvatske",
+        "Bosne i Hercegovine",
+        "Severne Makedonije",
+        "dijaspore (Austrija, Nemačka, Švajcarska...)",
+        "Zbog velikog interesovanja, otvorili smo i centar u Ljubljani"
       ]
     },
+
     {
-      "id": "6",
-      "title": "🎓 Edukacija novih artista",
+      "id": "5",
+      "title": "Edukacija novih artista",
       "text": [
         "Srđan je i SMP edukator.",
         "Organizuje individualne i grupne obuke za nove SMP stručnjake – jer industriji je potreban kvalitet, ne kvantitet.",
@@ -72,15 +69,8 @@
     }
   ],
   "finalCta": {
-    "title": "📞 Kontakt i sledeći korak",
+    "title": "Kontakt i sledeći korak",
     "text": "Nisi siguran da li si kandidat za tretman?\nIli jednostavno želiš da porazgovaraš bez pritiska?\n🎯 Pošalji nam slike – ili samo poruku. Ovde smo da pomognemo.",
-    "buttons": [
-      {
-        "label": "📤 Pošalji slike za procenu – Viber / WhatsApp"
-      },
-      {
-        "label": "📞 Zakaži besplatnu konsultaciju"
-      }
-    ]
+    "button": "Zakaži besplatnu konsultaciju"
   }
 }

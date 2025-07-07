@@ -1,96 +1,95 @@
 {
   "slug": "zakazi-konsultaciju",
-  "title": "Zakaži besplatnu konsultaciju",
+  "title": "Rezerviraj brezplačno posvetovanje",
   "hero": {
-    "heading": "Prvi korak ka prirodnom izgledu kose – bez obaveze",
-    "subtitle": "Pre nego što zakažeš SMP tretman, uradićemo besplatnu procenu i odgovoriti na sve što te zanima.",
-    "image": "/images/consulting.jpg",
-    "alt": "Besplatna konsultacija pre SMP tretmana",
+    "heading": "Prvi korak do naravnega videza las – brez obveznosti",
+    "subtitle": "Preden rezerviraš SMP tretma, bomo opravili brezplačno oceno in odgovorili na vsa tvoja vprašanja.",
+    "image": "/images/IMG_9061-min.jpeg",
+    "alt": "Brezplačno posvetovanje pred SMP tretmajem",
     "bullets": [
-      "Konsultacije su diskretne",
-      "Možeš doći uživo ili se javiti online (Viber / WhatsApp)",
-      "Nema obaveze da odmah zakažeš tretman"
+      "Posvetovanja so diskretna",
+      "Lahko prideš osebno ali nas kontaktiraš na spletu (Viber / WhatsApp)",
+      "Ni obveznosti, da takoj rezerviraš tretma"
     ]
   },
   "sections": [
     {
       "id": "6",
       "bullets": [
-        "Konsultacije su diskretne",
-        "Možeš doći uživo ili se javiti online (Viber / WhatsApp)",
-        "Nema obaveze da odmah zakažeš tretman"
+        "Posvetovanja so diskretna",
+        "Lahko prideš osebno ali nas kontaktiraš na spletu (Viber / WhatsApp)",
+        "Ni obveznosti, da takoj rezerviraš tretma"
       ]
     },
     {
       "id": "1",
-      "title": "Kako izgleda proces?",
+      "title": "Kako poteka postopek?",
       "bullets": [
-        "Pošalješ slike glave (napred, profil, odozgo)",
-        "Dobijaš stručno mišljenje – da li si kandidat za SMP",
-        "Organizujemo konsultaciju (uživo ili video poziv)",
-        "Ako se odlučiš – zakazujemo prvi tretman"
+        "Pošlješ slike glave (spredaj, profil, od zgoraj)",
+        "Prejmeš strokovno mnenje – ali si primeren za SMP",
+        "Organiziramo posvet (v živo ali video klic)",
+        "Če se odločiš – rezerviramo prvi tretma"
       ],
       "text": [
-        "Ne nudimo tretman po svaku cenu. Ako smatramo da tvoja kosa može da se oporavi bez SMP-a, uputićemo te na trihologa ili dermatologa sa kojima sarađujemo."
+        "Ne ponujamo tretmaja za vsako ceno. Če menimo, da se tvoji lasje lahko obnovijo brez SMP-ja, te bomo napotili k trihologu ali dermatologu, s katerimi sodelujemo."
       ]
     },
     {
       "id": "2",
-      "title": "Pošalji slike ili poruku",
+      "title": "Pošlji slike ali sporočilo",
       "text": [
-        "Slike koje treba poslati:",
-        "Tvoja odluka je najvažnija.",
-        "Mi smo ovde da ti pomognemo da je doneseš informisano, bez pritiska i bez očekivanja."
+        "Slike, ki jih je treba poslati:",
+        "Tvoja odločitev je najpomembnejša.",
+        "Tukaj smo, da ti pomagamo sprejeti informirano odločitev – brez pritiska in brez pričakovanj."
       ],
       "bullets": [
-        "Napred",
+        "Spredaj",
         "Profil levo/desno",
-        "Odozgo",
-        "Mi ne nagovaramo – mi objašnjavamo",
-        "Ti odlučuješ kad, kako i da li želiš da nastaviš."
+        "Od zgoraj",
+        "Ne prepričujemo – pojasnjujemo",
+        "Ti odločaš, kdaj, kako in ali želiš nadaljevati"
       ],
-      "imagesNeeded": ["Napred", "Profil levo/desno", "Odozgo"]
+      "imagesNeeded": ["Spredaj", "Profil levo/desno", "Od zgoraj"]
     },
     {
       "id": "3",
-      "title": "Ili Popuni kratku formu",
-      "form": {
-        "fields": [
-          { "label": "Ime i prezime", "type": "text" },
-          { "label": "Email", "type": "email" },
-          { "label": "Telefon (Viber/WhatsApp)", "type": "tel" },
-          {
-            "label": "Koji tretman te zanima?",
-            "type": "select",
-            "options": [
-              "Ćelavost",
-              "Proređena kosa",
-              "Alopecija",
-              "Ožiljci",
-              "Korekcija",
-              "Nisam siguran"
-            ]
-          },
-          { "label": "Poruka ili pitanje", "type": "textarea" }
-        ],
-        "submitButton": "Pošalji zahtev"
-      }
+      "title": "Ali izpolni kratek obrazec",
+      "label1": "Ime in priimek",
+      "placeholder1": "Vnesi ime in priimek",
+      "label2": "Email",
+      "placeholder2": "Vnesi svoj email",
+      "label3": "Telefon (Viber/WhatsApp)",
+      "placeholder3": "Vnesi svojo telefonsko številko (Viber/WhatsApp)",
+      "label4": "Kateri tretma te zanima?",
+      "typeselect": "select",
+      "options": [
+        "Plešavost",
+        "Redčenje las",
+        "Alopecija",
+        "Brazgotine",
+        "Korekcija",
+        "Nisem prepričan"
+      ],
+      "label5": "Sporočilo ali vprašanje",
+      "placeholder5": "Tvoje sporočilo za nas",
+      "type": "textarea",
+      "submitButton": "Pošlji povpraševanje"
     },
     {
       "id": "4",
-      "title": "Nisi siguran?",
+      "title": "Nisi prepričan?",
       "bullets": [
-        "Pročitaj: Kako izgleda SMP tretman",
-        "Pogledaj: Najčešća pitanja",
-        "Pogledaj rezultate: Galerija pre i posle"
+        "Preberi: Kako poteka SMP tretma",
+        "Oglej si: Najpogostejša vprašanja",
+        "Poglej rezultate: Galerija prej in potem"
       ]
     },
     {
       "id": "5",
-      "title": "Još jednom – kontakt",
+      "title": "Še enkrat – kontakt",
       "text": [
-        "Bilo da si spreman odmah ili tek istražuješ – javi se.",
-        "Mi ćemo ti pomoći da razumeš opcije, ali odluka je uvek tvoja."
+        "Ne glede na to, ali si pripravljen takoj ali šele raziskuješ – kontaktiraj nas.",
+        "Pomagali ti bomo razumeti možnosti, vendar je odločitev vedno tvoja."
       ]
     }
   ]

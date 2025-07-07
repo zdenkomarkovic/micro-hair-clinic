@@ -13,7 +13,7 @@ export function Section3({ section }: Props) {
         {section.title}
       </p>
 
-      <ContactForm />
+      <ContactForm section={section} />
     </section>
   );
 }

@@ -14,7 +14,7 @@ export function Section1Zenske({ section, direction }: Props) {
         className={`${direction} container px-2 md:px-4 mx-auto flex flex-col items-center md:gap-20 `}
       >
         <div className="mx-auto flex flex-col">
-          <h2 className="text-2xl font-bold mb-4">{section.title}</h2>
+          <h2 className="mb-4">{section.title}</h2>
           {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(0, 2).map((p, i) => (

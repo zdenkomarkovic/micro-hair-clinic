@@ -15,6 +15,19 @@ type Props = {
   text: Messages["cards2text"];
 };
 
+const images: string[] = [
+  "/images/preiposle.JPG",
+  "/images/preiposle2.JPG",
+  "/images/preiposle3.JPG",
+  "/images/preiposle4.JPG",
+  "/images/preiposle1.JPG",
+  "/images/preiposle9.JPG",
+  "/images/preiposle5.JPG",
+  "/images/preiposle6.JPG",
+  "/images/preiposle7.jpg",
+  "/images/preiposle8.jpg",
+];
+
 const Cards2 = ({ data, text }: Props) => {
   return (
     <div className=" overflow-hidden">
@@ -47,7 +60,7 @@ const Cards2 = ({ data, text }: Props) => {
           </ul>
         </div>
         <div>
-          <ImageCarusel />
+          <ImageCarusel images={images} py={""} />
           <h3 className="md:text-3xl pt-6">{text.subtitle2}</h3>
         </div>
       </div>

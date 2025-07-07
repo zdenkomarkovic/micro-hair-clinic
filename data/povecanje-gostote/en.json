@@ -1,20 +1,20 @@
 {
-  "slug": "smp-povecanje-gostote-redki-lasje",
-  "title": "Povečanje gostote pri redkih laseh | SMP in presaditev las",
+  "slug": "smp-density-increase-thinning-hair",
+  "title": "Increase Hair Density for Thinning Hair | SMP and Hair Transplant",
   "hero": {
-    "heading": "Povečanje gostote pri redkih laseh – z ali brez presaditve",
-    "subtitle": "Ne glede na to, ali si že opravil presaditev las ali šele raziskuješ možnosti – obstaja način, kako izboljšati videz gostote. A hkrati moraš vedeti tudi, kje so meje",
+    "heading": "Boost Hair Density for Thinning Hair – With or Without a Transplant",
+    "subtitle": "Whether you've already had a hair transplant or are just exploring options – there's a way to enhance the appearance of density. But it's important to understand the limitations.",
     "image": "/images/redcenje las-min.JPG",
     "image2": "/images/redcenjemob.png",
-    "alt": "smp-povecanje-gostote-redki-lasje",
+    "alt": "smp-density-increase-thinning-hair",
     "ctas": [
-      { "label": "Rezerviraj brezplačen posvet", "href": "/contact" },
+      { "label": "Book a Free Consultation", "href": "/contact" },
       {
-        "label": "Pošlji sporočilo preko Viberja",
+        "label": "Send a Viber Message",
         "href": "viber://chat?number=%2B381645400100"
       },
       {
-        "label": "Pošlji sporočilo preko WhatsAppa",
+        "label": "Send a WhatsApp Message",
         "href": "https://wa.me/381645400100"
       }
     ]
@@ -22,83 +22,81 @@
   "sections": [
     {
       "id": "1",
-      "title": "Presaditev las – kaj zmore in česa ne?",
+      "title": "Hair Transplant – What It Can and Can't Do",
       "bullets": [
-        "Cilj: zapolniti prizadeta območja z novo rastjo",
-        "Realnost: včasih ni dovolj las za popolno pokritost",
-        "Donorska regija ne nudi dovolj las",
-        "Rezultat je neenakomeren ali tanek",
-        "Opuščene površine ostajajo redke",
-        "Brazgotine po posegu so vidne"
+        "Goal: Fill in affected areas with new growth",
+        "Reality: Sometimes there isn’t enough hair for full coverage",
+        "Donor area doesn't provide enough grafts",
+        "Result is patchy or thin",
+        "Thinning areas remain visible",
+        "Scars from the procedure are noticeable"
       ],
       "text": [
-        "Presaditev las je kirurški postopek, pri katerem se lasni mešički iz t. i. donorske regije (ponavadi zatilje) presadijo na območja, kjer so lasje že izpadli.",
-        "Pogoste težave:",
-        "Mnogi so po transplantaciji razočarani – bodisi zaradi slabega rezultata, bodisi zaradi nerealnih pričakovanj. A obstaja rešitev, ki lahko vse to dopolni."
+        "A hair transplant is a surgical procedure in which hair follicles from the donor area (usually the back of the head) are transplanted to balding areas.",
+        "Common issues:",
+        "Many patients are disappointed after a transplant – either due to poor results or unrealistic expectations. But there’s a solution that can complement it."
       ],
       "image": {
         "src": "/images/IMG_9082-min.jpeg",
-        "alt": "Proces skalp mikropigmentacije"
+        "alt": "Scalp micropigmentation process"
       }
     },
     {
       "id": "2",
-      "title": "Skalp mikropigmentacija (SMP) – vizualni trik za gostejši videz",
+      "title": "Scalp Micropigmentation (SMP) – A Visual Trick for Thicker-Looking Hair",
       "bullets": [
-        "Odlično deluje pri redkih laseh",
-        "Dopolnjuje rezultat po presaditvi",
-        "Kamuflira brazgotine po FUE/FUT tehnikah",
-        "Rezultat traja 2–4 leta, brez operacije ali okrevanja"
+        "Works great for thinning hair",
+        "Enhances transplant results",
+        "Camouflages FUE/FUT scars",
+        "Lasts 2–4 years without surgery or downtime"
       ],
-
       "text": [
-        "SMP je neinvaziven postopek, kjer se s pomočjo pigmentov v lasišče ustvari videz senčenja, ki posnema gostejše lase. Od blizu so to mikro točke, od daleč – iluzija senčne globine, ki zmanjša kontrast med kožo in lasmi."
+        "SMP is a non-invasive procedure using pigments to create a shadowing effect on the scalp that mimics the look of denser hair. Up close, it's micro-dots; from a distance, it's the illusion of depth that reduces the contrast between skin and hair."
       ],
       "image": {
         "src": "/images/IMG_9088-min.jpeg",
-        "alt": "Proces skalp mikropigmentacije"
+        "alt": "Scalp micropigmentation process"
       }
     },
     {
       "id": "5",
-      "title": "Pomembno: SMP ima meje",
+      "title": "Important: SMP Has Its Limits",
       "bullets": [],
-
       "text": [
-        "SMP je dvodimenzionalna rešitev – deluje vizualno, ne fizično. Ne dodaja gostote v smislu volumna, temveč ustvarja optično iluzijo gostejše linije.",
-        "Če imaš večje površine popolnoma brez las, SMP ne more ustvariti videza bujne, trodimenzionalne pričeske. Lahko pa močno izboljša videz, zmanjša kontrast in elegantno premosti prehode med področji z lasmi in brez."
+        "SMP is a two-dimensional solution – it works visually, not physically. It doesn’t add volume but creates the optical illusion of a denser hairline.",
+        "If you have large completely bald areas, SMP can’t simulate a full, three-dimensional hairstyle. But it can dramatically improve appearance, reduce contrast, and create seamless transitions between hair and scalp."
       ],
       "image": {
         "src": "/images/IMG_9092-min.jpeg",
-        "alt": "Proces skalp mikropigmentacije"
+        "alt": "Scalp micropigmentation process"
       }
     },
     {
       "id": "3",
-      "title": "Kombinacija SMP + transplantacija = Najboljši rezultat?",
-      "title2": "Zakaj se klienti odločajo za SMP?",
+      "title": "Combination of SMP + Transplant = Best Results?",
+      "title2": "Why Clients Choose SMP",
       "bullets": [
-        "SMP zapolni vizualne praznine med grafti",
-        "Poenoti območja, kjer je rast redka ali neenakomerna",
-        "Skrije brazgotine na donorju ali temenu",
-        "Zmanjša potrebo po dodatnih kirurških posegih",
-        "Vizualno povečanje gostote pri redčenju las",
-        "Dopolnitev slabih ali delnih rezultatov presaditve",
-        "Kamuflaža brazgotin po FUE/FUT posegih",
-        "Idealna možnost tudi za tiste, ki niso kandidati za transplantacijo"
+        "SMP fills visual gaps between grafts",
+        "Blends areas with sparse or uneven growth",
+        "Hides donor or crown scars",
+        "Reduces the need for additional surgeries",
+        "Visually boosts density in thinning hair",
+        "Complements poor or partial transplant results",
+        "Camouflages FUE/FUT procedure scars",
+        "Ideal for those not eligible for a transplant"
       ],
       "text": [
-        "Za mnoge je prav kombinacija presajenih las + SMP tretmaja ključ do popolnega videza:",
-        "Po SMP-ju je veliko naših klientov prvič res zadovoljnih s svojim izgledom."
+        "For many, combining transplanted hair with SMP is the key to a complete look.",
+        "After SMP, many of our clients are satisfied with their appearance for the first time."
       ],
       "link": {
-        "label": "Pošlji slike lasišča za brezplačno oceno",
+        "label": "Send Scalp Photos for a Free Assessment",
         "href": "/kontakt"
       }
     },
     {
       "id": "4",
-      "title": "GALERIJA – PRED IN PO",
+      "title": "GALLERY – BEFORE AND AFTER",
       "bullets": [],
       "gallery": [
         "/images/IMG_9079-min.jpeg",
@@ -118,25 +116,25 @@
         "/images/IMG_9097-min.jpeg",
         "/images/IMG_9099-min.jpeg"
       ],
-      "alt": "Korektivni SMP rezultat – naraven videz"
+      "alt": "Corrective SMP result – natural appearance"
     }
   ],
   "gallery": [],
   "faqs": {
-    "title": "NAJPOGOSTEJŠA VPRAŠANJA",
-    "button": "Ogled vseh vprašanj in odgovorov"
+    "title": "FREQUENTLY ASKED QUESTIONS",
+    "button": "View All Questions and Answers"
   },
   "reviews": [
     {
-      "quote": "Zelo zadovoljen! Učinek je naraven, nihče ne opazi pigmentacije."
+      "quote": "Very satisfied! The effect looks natural, nobody notices the pigmentation."
     },
     {
-      "quote": "Srđan mi je pomagal povrniti samozavest. Hvala!"
+      "quote": "Srđan helped me regain my confidence. Thank you!"
     }
   ],
   "finalCta": {
-    "title": "Želiš izvedeti, ali je SMP zate?",
-    "text": "Pošlji fotografije in prejmi iskreno oceno – brez obveznosti.Posvet vodi nagrajeni SMP artist s 10+ leti izkušenj. Micro Hair Clinic | Ljubljana, Vprašaj vse, kar te zanima.",
-    "button": "Rezerviraj brezplačen termin zdaj."
+    "title": "Want to Know if SMP Is Right for You?",
+    "text": "Send your photos and get an honest evaluation – no strings attached. The consultation is led by an award-winning SMP artist with 10+ years of experience. Micro Hair Clinic | Ljubljana. Ask anything you want.",
+    "button": "Book a Free Appointment Now"
   }
 }

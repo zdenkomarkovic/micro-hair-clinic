@@ -1,96 +1,95 @@
 {
   "slug": "zakazi-konsultaciju",
-  "title": "Zakaži besplatnu konsultaciju",
+  "title": "Kostenlose Beratung vereinbaren",
   "hero": {
-    "heading": "Prvi korak ka prirodnom izgledu kose – bez obaveze",
-    "subtitle": "Pre nego što zakažeš SMP tretman, uradićemo besplatnu procenu i odgovoriti na sve što te zanima.",
-    "image": "/images/consulting.jpg",
-    "alt": "Besplatna konsultacija pre SMP tretmana",
+    "heading": "Der erste Schritt zu einem natürlichen Haarbild – unverbindlich",
+    "subtitle": "Bevor du eine SMP-Behandlung buchst, führen wir eine kostenlose Einschätzung durch und beantworten all deine Fragen.",
+    "image": "/images/IMG_9061-min.jpeg",
+    "alt": "Kostenlose Beratung vor der SMP-Behandlung",
     "bullets": [
-      "Konsultacije su diskretne",
-      "Možeš doći uživo ili se javiti online (Viber / WhatsApp)",
-      "Nema obaveze da odmah zakažeš tretman"
+      "Beratungen sind diskret",
+      "Du kannst persönlich vorbeikommen oder uns online kontaktieren (Viber / WhatsApp)",
+      "Keine Verpflichtung, sofort eine Behandlung zu buchen"
     ]
   },
   "sections": [
     {
       "id": "6",
       "bullets": [
-        "Konsultacije su diskretne",
-        "Možeš doći uživo ili se javiti online (Viber / WhatsApp)",
-        "Nema obaveze da odmah zakažeš tretman"
+        "Beratungen sind diskret",
+        "Du kannst persönlich vorbeikommen oder uns online kontaktieren (Viber / WhatsApp)",
+        "Keine Verpflichtung, sofort eine Behandlung zu buchen"
       ]
     },
     {
       "id": "1",
-      "title": "Kako izgleda proces?",
+      "title": "Wie läuft der Prozess ab?",
       "bullets": [
-        "Pošalješ slike glave (napred, profil, odozgo)",
-        "Dobijaš stručno mišljenje – da li si kandidat za SMP",
-        "Organizujemo konsultaciju (uživo ili video poziv)",
-        "Ako se odlučiš – zakazujemo prvi tretman"
+        "Du sendest Fotos deines Kopfes (von vorne, seitlich, von oben)",
+        "Du erhältst eine fachliche Einschätzung – ob du für SMP geeignet bist",
+        "Wir organisieren ein Beratungsgespräch (vor Ort oder per Videoanruf)",
+        "Wenn du dich entscheidest – vereinbaren wir den ersten Termin"
       ],
       "text": [
-        "Ne nudimo tretman po svaku cenu. Ako smatramo da tvoja kosa može da se oporavi bez SMP-a, uputićemo te na trihologa ili dermatologa sa kojima sarađujemo."
+        "Wir bieten keine Behandlung um jeden Preis an. Wenn wir glauben, dass sich dein Haar auch ohne SMP erholen kann, verweisen wir dich an einen Trichologen oder Dermatologen, mit dem wir zusammenarbeiten."
       ]
     },
     {
       "id": "2",
-      "title": "Pošalji slike ili poruku",
+      "title": "Sende uns deine Fotos oder eine Nachricht",
       "text": [
-        "Slike koje treba poslati:",
-        "Tvoja odluka je najvažnija.",
-        "Mi smo ovde da ti pomognemo da je doneseš informisano, bez pritiska i bez očekivanja."
+        "Diese Fotos solltest du senden:",
+        "Deine Entscheidung ist am wichtigsten.",
+        "Wir sind da, um dir zu helfen, eine informierte Entscheidung zu treffen – ohne Druck und ohne Erwartungen."
       ],
       "bullets": [
-        "Napred",
-        "Profil levo/desno",
-        "Odozgo",
-        "Mi ne nagovaramo – mi objašnjavamo",
-        "Ti odlučuješ kad, kako i da li želiš da nastaviš."
+        "Vorne",
+        "Profil links/rechts",
+        "Von oben",
+        "Wir überreden nicht – wir erklären",
+        "Du entscheidest wann, wie und ob du weitermachen möchtest"
       ],
-      "imagesNeeded": ["Napred", "Profil levo/desno", "Odozgo"]
+      "imagesNeeded": ["Vorne", "Profil links/rechts", "Von oben"]
     },
     {
       "id": "3",
-      "title": "Ili Popuni kratku formu",
-      "form": {
-        "fields": [
-          { "label": "Ime i prezime", "type": "text" },
-          { "label": "Email", "type": "email" },
-          { "label": "Telefon (Viber/WhatsApp)", "type": "tel" },
-          {
-            "label": "Koji tretman te zanima?",
-            "type": "select",
-            "options": [
-              "Ćelavost",
-              "Proređena kosa",
-              "Alopecija",
-              "Ožiljci",
-              "Korekcija",
-              "Nisam siguran"
-            ]
-          },
-          { "label": "Poruka ili pitanje", "type": "textarea" }
-        ],
-        "submitButton": "Pošalji zahtev"
-      }
+      "title": "Oder fülle das kurze Formular aus",
+      "label1": "Name und Nachname",
+      "placeholder1": "Gib deinen vollständigen Namen ein",
+      "label2": "Email",
+      "placeholder2": "Gib deine E-Mail-Adresse ein",
+      "label3": "Telefon (Viber/WhatsApp)",
+      "placeholder3": "Gib deine Telefonnummer ein (Viber/WhatsApp)",
+      "label4": "Für welche Behandlung interessierst du dich?",
+      "typeselect": "select",
+      "options": [
+        "Kahlheit",
+        "Haarverdünnung",
+        "Alopecia",
+        "Narben",
+        "Korrektur",
+        "Ich bin mir nicht sicher"
+      ],
+      "label5": "Nachricht oder Frage",
+      "placeholder5": "Deine Nachricht an uns",
+      "type": "textarea",
+      "submitButton": "Anfrage senden"
     },
     {
       "id": "4",
-      "title": "Nisi siguran?",
+      "title": "Nicht sicher?",
       "bullets": [
-        "Pročitaj: Kako izgleda SMP tretman",
-        "Pogledaj: Najčešća pitanja",
-        "Pogledaj rezultate: Galerija pre i posle"
+        "Lies: Wie läuft eine SMP-Behandlung ab?",
+        "Sieh dir an: Häufige Fragen",
+        "Sieh dir Ergebnisse an: Vorher-Nachher Galerie"
       ]
     },
     {
       "id": "5",
-      "title": "Još jednom – kontakt",
+      "title": "Noch einmal – Kontakt",
       "text": [
-        "Bilo da si spreman odmah ili tek istražuješ – javi se.",
-        "Mi ćemo ti pomoći da razumeš opcije, ali odluka je uvek tvoja."
+        "Egal ob du sofort bereit bist oder dich erst informieren willst – melde dich bei uns.",
+        "Wir helfen dir, deine Optionen zu verstehen – die Entscheidung liegt ganz bei dir."
       ]
     }
   ]

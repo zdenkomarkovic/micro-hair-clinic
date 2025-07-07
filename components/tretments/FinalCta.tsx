@@ -16,7 +16,7 @@ export function FinalCta({ data }: Props) {
         <div className="flex flex-col md:flex-row gap-4 md:gap-12 items-start text-center md:text-left">
           <p>{data.text}</p>
           <Link
-            href={"/contact"}
+            href={"/kontakt"}
             className="bg-primary px-4 md:px-6 py-2 md:py-3 text-nowrap uppercase flex gap-3 items-center mx-auto"
           >
             {data.button} <FaAngleDoubleRight className="w-6 h-6" />

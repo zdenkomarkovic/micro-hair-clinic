@@ -16,6 +16,7 @@ import {
 import { Input } from "./ui/input";
 import { Textarea } from "./ui/textarea";
 import { Button } from "./ui/button";
+import { SectionCommon } from "@/types/index";
 
 const contactFormSchema = z.object({
   name: z.string().min(2, { message: "Molimo unesite vase ime i prezime" }),
@@ -25,7 +26,12 @@ const contactFormSchema = z.object({
     message: "Poruka mora imati najmanje 10 karaktera.",
   }),
 });
-export default function Contact() {
+
+type Props = {
+  section: SectionCommon;
+};
+
+export default function Contact({ section }: Props) {
   const form = useForm<z.infer<typeof contactFormSchema>>({
     resolver: zodResolver(contactFormSchema),
     defaultValues: {
@@ -52,7 +58,7 @@ export default function Contact() {
     form.reset();
   };
   return (
-    <div className="mx-3  bg-gray-50 rounded-2xl shadow-2xl">
+    <div className="mx-5 md:mx-20  bg-gray-50 rounded-2xl shadow-2xl">
       <Form {...form}>
         <form
           className="grid grid-cols-3 items-center p-4 lg:p-10"
@@ -64,7 +70,7 @@ export default function Contact() {
               name="name"
               render={({ field }) => (
                 <FormItem>
-                  <FormLabel className="lg:text-xl">Ime i Prezime:</FormLabel>
+                  <FormLabel className="lg:text-xl">{section.label1}</FormLabel>
 
                   <FormControl>
                     <Input placeholder="Unesite ime i prezime" {...field} />
@@ -76,40 +82,38 @@ export default function Contact() {
 
             <FormField
               control={form.control}
-              name="phone"
-              render={({ field }) => (
-                <FormItem>
-                  <FormLabel className="lg:text-xl">Broj telefona:</FormLabel>
-                  <FormControl>
-                    <Input placeholder="Unesite vas broj telefona" {...field} />
-                  </FormControl>
-                  <FormMessage />
-                </FormItem>
-              )}
-            />
-
-            <FormField
-              control={form.control}
               name="email"
               render={({ field }) => (
                 <FormItem>
-                  <FormLabel className="lg:text-xl">Email:</FormLabel>
+                  <FormLabel className="lg:text-xl">{section.label2}</FormLabel>
                   <FormControl>
-                    <Input placeholder="john@example.com" {...field} />
+                    <Input placeholder={section.placeholder2} {...field} />
                   </FormControl>
                   <FormMessage />
                 </FormItem>
               )}
             />
-
+            <FormField
+              control={form.control}
+              name="phone"
+              render={({ field }) => (
+                <FormItem>
+                  <FormLabel className="lg:text-xl">{section.label3}</FormLabel>
+                  <FormControl>
+                    <Input placeholder={section.placeholder3} {...field} />
+                  </FormControl>
+                  <FormMessage />
+                </FormItem>
+              )}
+            />
             <FormField
               control={form.control}
               name="message"
               render={({ field }) => (
                 <FormItem>
-                  <FormLabel className="lg:text-xl">Vasa poruka:</FormLabel>
+                  <FormLabel className="lg:text-xl">{section.label5}</FormLabel>
                   <FormControl>
-                    <Textarea {...field} placeholder="Vasa poruka za nas" />
+                    <Textarea {...field} placeholder={section.placeholder5} />
                   </FormControl>
                   <FormMessage />
                 </FormItem>
@@ -119,7 +123,7 @@ export default function Contact() {
               disabled={isLoading}
               className="bg-gray-800  hover:bg-gray-600 transition-colors ease-in-out duration-500"
             >
-              {isLoading ? "Sending....." : "Send"}
+              {section.submitButton}
             </Button>
           </div>
         </form>
