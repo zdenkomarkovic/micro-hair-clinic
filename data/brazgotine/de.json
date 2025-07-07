@@ -8,7 +8,7 @@
     "image2": "/images/brazgotinemob.png",
     "alt": "SMP-Ergebnis – Narbenabdeckung auf der Kopfhaut",
     "ctas": [
-      { "label": "Kostenlose Beratung vereinbaren", "href": "/contact" },
+      { "label": "Kostenlose Beratung vereinbaren", "href": "/kontakt" },
       {
         "label": "Nachricht über Viber senden",
         "href": "viber://chat?number=%2B381645400100"

@@ -8,7 +8,7 @@
     "image2": "/images/redcenjemob.png",
     "alt": "smp-povecanje-gostote-redki-lasje",
     "ctas": [
-      { "label": "Rezerviraj brezplačen posvet", "href": "/contact" },
+      { "label": "Rezerviraj brezplačen posvet", "href": "/kontakt" },
       {
         "label": "Pošlji sporočilo preko Viberja",
         "href": "viber://chat?number=%2B381645400100"

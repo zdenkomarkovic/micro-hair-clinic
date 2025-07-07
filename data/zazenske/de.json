@@ -8,7 +8,7 @@
     "image2": "/images/zenskemob.png",
     "alt": "SMP-Ergebnis bei einer Frau mit lichtem Haar am Oberkopf",
     "ctas": [
-      { "label": "Kostenlose Beratung vereinbaren", "href": "/contact" },
+      { "label": "Kostenlose Beratung vereinbaren", "href": "/kontakt" },
       {
         "label": "Nachricht über Viber senden",
         "href": "viber://chat?number=%2B381645400100"

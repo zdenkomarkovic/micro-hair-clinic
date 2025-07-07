@@ -8,7 +8,7 @@
     "image2": "/images/alopecija-mob.png",
     "alt": "SMP-Ergebnis bei einem Kunden mit Alopezie Areata",
     "ctas": [
-      { "label": "Kostenlose Beratung buchen", "href": "/contact" },
+      { "label": "Kostenlose Beratung buchen", "href": "/kontakt" },
       {
         "label": "Nachricht über Viber senden",
         "href": "viber://chat?number=%2B381645400100"

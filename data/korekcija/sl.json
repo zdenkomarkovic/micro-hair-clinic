@@ -8,7 +8,7 @@
     "image2": "/images/neuspesnimob.png",
     "alt": "Popravek slabo izvedene mikropigmentacije lasišča – prej in potem",
     "ctas": [
-      { "label": "Rezerviraj brezplačen posvet", "href": "/contact" },
+      { "label": "Rezerviraj brezplačen posvet", "href": "/kontakt" },
       {
         "label": "Pošlji sporočilo preko Vibra",
         "href": "viber://chat?number=%2B381645400100"

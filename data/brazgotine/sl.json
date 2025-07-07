@@ -9,7 +9,7 @@
 
     "alt": "SMP rezultat – prekrita brazgotina na lasišču",
     "ctas": [
-      { "label": "Rezerviraj brezplačen posvet", "href": "/contact" },
+      { "label": "Rezerviraj brezplačen posvet", "href": "/kontakt" },
       {
         "label": "Pošlji sporočilo prek Viberja",
         "href": "viber://chat?number=%2B381645400100"

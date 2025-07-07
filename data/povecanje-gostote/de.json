@@ -8,7 +8,7 @@
     "image2": "/images/redcenjemob.png",
     "alt": "smp-dichte-erhoehen-duennes-haar",
     "ctas": [
-      { "label": "Kostenloses Beratungsgespräch buchen", "href": "/contact" },
+      { "label": "Kostenloses Beratungsgespräch buchen", "href": "/kontakt" },
       {
         "label": "Nachricht über Viber senden",
         "href": "viber://chat?number=%2B381645400100"
