@@ -3,6 +3,7 @@ import React from "react";
 import { FaInstagram } from "react-icons/fa";
 import { FaViber } from "react-icons/fa";
 import { FaWhatsappSquare } from "react-icons/fa";
+import { FaPhone } from "react-icons/fa6";
 
 type Props = {
   section: SectionCommon;
@@ -14,21 +15,29 @@ export function Section2({ section }: Props) {
       <div className="mx-auto flex flex-col text-center ">
         <div className="space-y-3 md:space-y-2 text-lg md:text-xl mx-auto py-6">
           <a
-            href="viber://chat?number=%2B381645400100"
+            href="tel:+38651479000"
+            className="py-[7px] flex border-b-[1px] border-gray-800"
+          >
+            <button className="hover:scale-110 transition-transform duration-500 px-4 md:px-8 flex gap-4 items-center">
+              <FaPhone className="" /> +3865 147 9000
+            </button>
+          </a>
+          <a
+            href="viber://chat?number=%2B38651479000"
             className="py-[7px] flex border-b-[1px] border-gray-800"
           >
             <button className="hover:scale-110 transition-transform duration-500 px-4 md:px-8 flex gap-4 items-center">
               <FaViber className="text-[27px]  p-1 bg-purple-600 text-white rounded-xl rounde" />{" "}
-              +38164 5400 100
+              +3865 147 9000
             </button>
           </a>
           <a
-            href="https://wa.me/381645400100"
+            href="https://wa.me/38651479000"
             className="py-[7px] flex border-b-[1px] border-gray-800"
           >
             <button className="hover:scale-110 transition-transform duration-500 px-4 md:px-8 flex gap-4 items-center">
               <FaWhatsappSquare className="text-[30px] rounded-2xl text-green-700 " />{" "}
-              +38164 5400 100
+              +3865 147 9000
             </button>
           </a>
           <a

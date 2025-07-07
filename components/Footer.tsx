@@ -44,14 +44,14 @@ export default function Footer({
             <div className="mx-auto w-fit">
               {" "}
               <p className="text-muted-foreground cursor-pointer text-center flex gap-2 items-center transform  hover:scale-105 transition duration-300">
-                <ImLocation2 /> ulica u Ljubljani
+                <ImLocation2 /> Tržaška cesta116 1000 Ljubljana
               </p>
             </div>
             <div className="mx-auto w-fit">
               {" "}
-              <a href="https://wa.me/381645400100">
+              <a href="https://wa.me/38651479000">
                 <p className="text-muted-foreground  flex gap-2 items-center transform  hover:scale-105 transition duration-300">
-                  <FaPhone className="" /> +38164 5400 100
+                  <FaPhone className="" /> +3865 147 9000
                 </p>
               </a>
             </div>
@@ -66,6 +66,7 @@ export default function Footer({
             <div className="flex space-x-4 justify-center ">
               <a
                 href="https://www.facebook.com/microhairclinic.rs/"
+                target={"_blank"}
                 className="transform  hover:scale-110 transition duration-300"
               >
                 <Facebook className="w-8 h-8" />
