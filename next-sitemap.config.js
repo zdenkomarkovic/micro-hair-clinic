@@ -1,13 +1,6 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  async rewrites() {
-    return [
-      {
-        source: "/sitemap.xml",
-        destination: "/api/sitemap",
-      },
-    ];
-  },
+/** @type {import('next-sitemap').IConfig} */
+module.exports = {
+  siteUrl: "https://microhairclinic.rs", // Zameni svojim domenom
+  generateRobotsTxt: true,
+  sitemapSize: 5000,
 };
-
-module.exports = nextConfig;

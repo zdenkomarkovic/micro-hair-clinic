@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://microhairclinic.si/sitemap.xml
