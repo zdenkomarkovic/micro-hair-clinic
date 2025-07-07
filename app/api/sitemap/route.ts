@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 
-const locales = ["sr", "en", "de", "sl"]; // tvoj set jezika
+const locales = ["en", "de", "sl"];
 
 const staticPages = [
   "",
@@ -17,10 +17,10 @@ const staticPages = [
 
 export async function GET() {
   const pages = locales.flatMap((locale) =>
-    staticPages.map(
-      (slug) =>
-        `<url><loc>https://microhairclinic.si/${locale}/${slug}</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>`
-    )
+    staticPages.map((slug) => {
+      const path = slug === "" ? "" : `/${slug}`;
+      return `<url><loc>https://microhairclinic.si/${locale}${path}</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>`;
+    })
   );
 
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
