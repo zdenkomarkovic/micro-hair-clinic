@@ -44,6 +44,7 @@ export type SectionCommon = {
   label4?: string;
   label5?: string;
   placeholder5?: string;
+  submitButton: string;
 };
 
 export type HeroSectionType = {

@@ -8,7 +8,7 @@
     "image2": "/images/zenskemob.png",
     "alt": "Rezultat SMP pri ženski z redkimi lasmi na temenu",
     "ctas": [
-      { "label": "Rezerviraj brezplačno posvetovanje", "href": "/contact" },
+      { "label": "Rezerviraj brezplačno posvetovanje", "href": "/kontakt" },
       {
         "label": "Pošlji sporočilo na Viber",
         "href": "viber://chat?number=%2B381645400100"
