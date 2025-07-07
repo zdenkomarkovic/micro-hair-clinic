@@ -49,17 +49,14 @@ export function Section1About({ section, direction }: Props) {
             </ul>
           )}
         </div>
-        <div>
-          <div className="text-center">
-            <Image
-              src={"/images/f94727ab-cc48-46a9-938f-07306270acba 5-min.JPG"}
-              width={500}
-              height={1000}
-              alt="micro hair clinic"
-              className="rounded-lg w-full shadow object-cover aspect-[6/9]"
-            />
-          </div>
-        </div>
+
+        <Image
+          src={"/images/f94727ab-cc48-46a9-938f-07306270acba 5-min.JPG"}
+          width={500}
+          height={1000}
+          alt="micro hair clinic"
+          className="rounded-lg w-full shadow object-cover md:aspect-[6/9]"
+        />
       </div>
     </section>
   );
