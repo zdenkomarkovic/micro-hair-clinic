@@ -1,92 +1,75 @@
 {
-  "slug": "o-nama",
-  "title": "O nama – Micro Hair Clinic",
+  "slug": "about-us",
+  "title": "About Us – Micro Hair Clinic",
   "hero": {
-    "heading": "Micro Hair Clinic – Vraćamo samopouzdanje",
-    "subtitle": "Više od studija za skalp mikropigmentaciju. Mesto gde se prepoznaješ u ogledalu.",
-    "image": "/images/srdjan.jpg",
-    "alt": "Osnivač Micro Hair Clinic – Srđan Kostovski",
-    "ctas": [
-      {
-        "label": "📤 Pošalji slike za procenu – Viber / WhatsApp",
-        "href": "/contact"
-      },
-      {
-        "label": "📞 Zakaži besplatnu konsultaciju",
-        "href": "/contact"
-      }
+    "heading": "About Us – Micro Hair Clinic",
+    "subtitle": "Restoring confidence – that's our real job.",
+    "image": "/images/MOM Day 2-206-min.jpg",
+    "alt": "Micro Hair Clinic",
+    "bullets": [
+      "Micro Hair Clinic is more than just a scalp micropigmentation studio.",
+      "It's where men and women come to once again recognize themselves in the mirror.",
+      "Our founder, Srđan Kostovski, is one of Europe’s most awarded SMP artists – but above all, someone who has personally experienced hair loss. And he understands."
     ]
   },
   "sections": [
     {
       "id": "1",
-      "title": "Naša misija",
+      "title": "Srđan’s Story",
+      "title2": "Awards & Recognition",
       "text": [
-        "🎯 Vratiti samopouzdanje – to je naš pravi posao.",
-        "Micro Hair Clinic je više od studija za skalp mikropigmentaciju. To je mesto gde muškarci i žene dolaze da ponovo prepoznaju sebe u ogledalu.",
-        "Naš osnivač, Srđan Kostovski, jedan je od najnagrađivanijih SMP artista u Evropi – ali pre svega, on je neko ko je sam prošao kroz proces gubitka kose. I zna kako to izgleda."
-      ]
-    },
-    {
-      "id": "2",
-      "title": "👨‍🎨 Srđanova priča",
-      "text": [
-        "\"Počeo sam da gubim kosu rano. Nije to bio trenutni šok – više osećaj da polako gubim deo sebe. Nisam bežao od toga, ali sam želeo rešenje koje neće izgledati kao 'rešenje'.\"",
-        "Upoznajem se sa SMP-om, analiziram svaki rezultat, gledam svaku tačku. I odlučujem – ne samo da uradim tretman, već da naučim ovu veštinu kako treba.",
-        "Srđan je školu skalp mikropigmentacije završio u Milanu, a 2015. otvara prvi SMP studio na Balkanu.",
-        "Danas je njegov rad prepoznat širom Evrope, a njegovi tretmani postali su standard za prirodan izgled SMP-a."
+        "\"I started losing my hair early. It wasn't a sudden shock – more a slow feeling of losing a part of who I am. I didn't run away from it, but I wanted a solution that didn't feel like a 'solution'.\"",
+        "I learned about SMP, studied every result, observed every dot. And I decided – not just to undergo the treatment, but to master this skill properly.\"",
+        "Srđan completed his scalp micropigmentation training in Milan, and in 2015 opened the first SMP studio in the Balkans.",
+        "Today his work is recognized across Europe, and his treatments are the standard for natural SMP results."
+      ],
+      "bullets": [
+        "Gold Award 2023 – Europe & UK’s Best SMP Artist (TeamMicro)",
+        "Best SMP Artist 2024 – SMP Connect Conference, Portugal",
+        "Top 10 SMP Artist in EU 2024 – TeamMicro selection",
+        "Micro Hair Clinic is officially listed among recommended SMP centers in Europe by TeamMicro"
       ]
     },
     {
       "id": "3",
-      "title": "🏆 Nagrade i priznanja",
+      "title": "Our Philosophy",
+      "title2": "Clients from the Entire Region",
+      "text": [
+        "In an industry where many focus on 'closing the client', we start by listening.",
+        "We don't offer treatment if it's not needed.",
+        "If there’s a chance your hair can recover naturally – we’ll tell you.",
+        "If you choose SMP, you get a treatment that looks:",
+        "natural and up close",
+        "customized to your face and style",
+        "with results that last for years",
+        "\"We don’t draw hair – we restore identity.\" – Srđan Kostovski",
+        "Micro Hair Clinic serves clients from:"
+      ],
       "bullets": [
-        "🥇 Gold Award 2023 – najbolji SMP artist Evrope i UK (TeamMicro)",
-        "🏅 Best SMP Artist 2024 – SMP Connect konferencija, Portugal",
-        "🏆 Top 10 SMP Artist in EU 2024 – izbor TeamMicro",
-        "✅ Micro Hair Clinic je na zvaničnoj listi preporučenih SMP centara u Evropi od strane TeamMicro"
+        "Serbia",
+        "Croatia",
+        "Bosnia & Herzegovina",
+        "North Macedonia",
+        "diaspora (Austria, Germany, Switzerland...)",
+        "Due to high demand, we also opened a center in Ljubljana"
       ]
     },
     {
-      "id": "4",
-      "title": "💡 Naša filozofija",
-      "text": [
-        "U industriji u kojoj mnogi gledaju kako da „zatvore klijenta“, mi prvo slušamo.",
-        "Ne nudimo tretman ako ti nije potreban.",
-        "Ako postoji šansa da ti kosa prirodno ojača – mi ćemo ti to reći.",
-        "Ako se odlučiš za SMP, dobićeš tretman koji izgleda prirodno i izbliza, tačno po meri tvog lica i stila, sa efektom koji traje godinama."
-      ],
-      "text2": "Mi ne crtamo kosu – mi vraćamo identitet. – Srđan Kostovski"
-    },
-    {
       "id": "5",
-      "title": "🌍 Klijenti iz celog regiona",
-      "bullets": [
-        "Srbije",
-        "Hrvatske",
-        "Bosne i Hercegovine",
-        "Severne Makedonije",
-        "dijaspore (Austrija, Nemačka, Švajcarska...)"
-      ],
-      "text": "Zbog velikog interesovanja, otvorili smo i centar u Ljubljani – www.microhairclinic.si"
-    },
-    {
-      "id": "6",
-      "title": "🎓 Edukacija novih artista",
+      "title": "Training New Artists",
       "text": [
-        "Srđan je i SMP edukator.",
-        "Organizuje individualne i grupne obuke za nove SMP stručnjake – jer industriji je potreban kvalitet, ne kvantitet.",
-        "Ako želiš da naučiš kako da postaneš SMP artist:"
+        "Srđan is also an SMP educator.",
+        "He organizes individual and group training sessions for new SMP professionals – because the industry needs quality, not quantity.",
+        "If you want to become an SMP artist:"
       ],
       "link": {
-        "label": "🔗 Prijavi se za edukaciju",
-        "href": "/edukacija"
+        "label": "🔗 Apply for Training"
       }
     }
   ],
   "finalCta": {
-    "title": "📞 Kontakt i sledeći korak",
-    "text": "Nisi siguran da li si kandidat za tretman? Ili jednostavno želiš da porazgovaraš bez pritiska? Pošalji nam slike – ili samo poruku. Ovde smo da pomognemo.",
-    "button": "Kontaktiraj nas"
+    "title": "Contact & Next Step",
+    "text": "Not sure if you're a candidate for the treatment?\nOr just want to chat without pressure?\n🎯 Send us your pictures – or just a message. We're here to help.",
+    "button": "Schedule a Free Consultation"
   }
 }

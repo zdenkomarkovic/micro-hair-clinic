@@ -13,7 +13,7 @@ export function Section1About({ section, direction }: Props) {
   return (
     <section id={section.id} className="py-10 px-4">
       <div
-        className={`${direction} container px-2 md:px-4 mx-auto grid md:grid-cols-3 items-center md:gap-20 `}
+        className={`${direction} container px-2 md:px-4 mx-auto grid grid-cols-1 md:grid-cols-3 items-center md:gap-20 `}
       >
         <div className="mx-auto flex flex-col col-span-2">
           <h2 className="mb-4">{section.title}</h2>
@@ -49,7 +49,6 @@ export function Section1About({ section, direction }: Props) {
             </ul>
           )}
         </div>
-
         <Image
           src={"/images/f94727ab-cc48-46a9-938f-07306270acba 5-min.JPG"}
           width={500}

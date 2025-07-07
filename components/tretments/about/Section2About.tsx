@@ -8,7 +8,7 @@ type Props = {
 
 export function Section2About({ section, direction }: Props) {
   return (
-    <section id={section.id} className="py-10 px-4">
+    <section id={section.id} className="md:py-10 px-4">
       <div
         className={`${direction} container px-2 md:px-4 mx-auto grid md:grid-cols-2 items-center `}
       >

@@ -1,76 +1,75 @@
 {
   "slug": "o-nama",
-  "title": "O nama – Micro Hair Clinic",
+  "title": "O nas – Micro Hair Clinic",
   "hero": {
-    "heading": "O nama – Micro Hair Clinic",
-    "subtitle": "Vratiti samopouzdanje – to je naš pravi posao.",
+    "heading": "O nas – Micro Hair Clinic",
+    "subtitle": "Vrniti samozavest – to je naša resnična naloga.",
     "image": "/images/MOM Day 2-206-min.jpg",
-    "alt": "Micro hair clinic",
+    "alt": "Micro Hair Clinic",
     "bullets": [
-      "Micro Hair Clinic je više od studija za skalp mikropigmentaciju.",
-      "To je mesto gde muškarci i žene dolaze da ponovo prepoznaju sebe u ogledalu.",
-      "Naš osnivač, Srđan Kostovski, jedan je od najnagrađivanijih SMP artista u Evropi – ali pre svega, on je neko ko je sam prošao kroz proces gubitka kose. I zna kako to izgleda."
+      "Micro Hair Clinic je več kot le študio za skalp mikropigmentacijo.",
+      "To je kraj, kjer moški in ženske znova prepoznajo sebe v ogledalu.",
+      "Naš ustanovitelj, Srđan Kostovski, je med najnagrajevanejšimi SMP artisti v Evropi – a predvsem, je nekdo, ki je sam doživel izgubo las. In ve, kako je to."
     ]
   },
   "sections": [
     {
       "id": "1",
-      "title": "Srđanova priča",
-      "title2": "Nagrade i priznanja",
+      "title": "Srđanova zgodba",
+      "title2": "Nagrade in priznanja",
       "text": [
-        "\"Počeo sam da gubim kosu rano. Nije to bio trenutni šok – više osećaj da polako gubim deo sebe. Nisam bežao od toga, ali sam želeo rešenje koje neće izgledati kao 'rešenje'.\"",
-        "Upoznajem se sa SMP-om, analiziram svaki rezultat, gledam svaku tačku. I odlučujem – ne samo da uradim tretman, već da naučim ovu veštinu kako treba.\"",
-        "Srđan je školu skalp mikropigmentacije završio u Milanu, a 2015. otvara prvi SMP studio na Balkanu.",
-        "Danas je njegov rad prepoznat širom Evrope, a njegovi tretmani postali su standard za prirodan izgled SMP-a."
+        "\"Las sem začel izgubljati zgodaj. Ni bil trenutni šok – bolj občutek, da pokončno izgubljam del sebe. Nisem bežal od tega, a hotel sem rešitev, ki ne bi izgledala kot 'rešitev'.\"",
+        "Učil sem se o SMP, analiziral rezultate, opazoval vsako točko. In odločil – ne samo narediti tretma, temveč se naučiti te veščine do potankosti.\"",
+        "Srđan je končal šolanje za skalp mikropigmentacijo v Milanu in leta 2015 odprl prvi SMP studio na Balkanu.",
+        "Danes je njegovo delo prepoznano po vsej Evropi, njegova tehnika pa velja za standard naravnega SMP videza."
       ],
       "bullets": [
-        "Gold Award 2023 – najbolji SMP artist Evrope i UK (TeamMicro)",
-        "Best SMP Artist 2024 – SMP Connect konferencija, Portugal",
-        "Top 10 SMP Artist in EU 2024 – izbor TeamMicro",
-        "Micro Hair Clinic je na zvaničnoj listi preporučenih SMP centara u Evropi od strane TeamMicro"
+        "Gold Award 2023 – najboljši SMP artist v Evropi in VB (TeamMicro)",
+        "Best SMP Artist 2024 – SMP Connect konferenca, Portugalska",
+        "Top 10 SMP Artist v EU 2024 – po izboru TeamMicro",
+        "Micro Hair Clinic je uradno na seznamu priporočil evropskih SMP centrov (TeamMicro)"
       ]
     },
     {
       "id": "3",
       "title": "Naša filozofija",
-      "title2": "Klijenti iz celog regiona",
+      "title2": "Stranke iz celega regijona",
       "text": [
-        "U industriji u kojoj mnogi gledaju kako da „zatvore klijenta“, mi prvo slušamo.",
-        "Ne nudimo tretman ako ti nije potreban.",
-        "Ako postoji šansa da ti kosa prirodno ojača – mi ćemo ti to reći.",
-        "Ako se odlučiš za SMP, dobićeš tretman koji izgleda:",
-        "prirodno i izbliza",
-        "tačno po meri tvog lica i stila",
-        "sa efektom koji traje godinama",
-        "\"Mi ne crtamo kosu – mi vraćamo identitet.\" – Srđan Kostovski",
-        "Micro Hair Clinic ima klijente iz:"
+        "V panogi, kjer mnogi gledajo, kako \"pridobiti stranko\", mi najprej poslušamo.",
+        "Ne ponudimo tretmaja, če ni potreben.",
+        "Če obstaja možnost, da se vaše lase obnovijo naravno – to povemo.",
+        "Če se odločite za SMP, prejmete tretma, ki izgleda:",
+        "naravno in iz blizu",
+        "prilagojeno vaši prepoznavnosti in stilu",
+        "z učinkom, ki traja leta",
+        "\"Ne rišemo las – vračamo identiteto.\" – Srđan Kostovski",
+        "Micro Hair Clinic ima stranke iz:"
       ],
       "bullets": [
         "Srbije",
-        "Hrvatske",
-        "Bosne i Hercegovine",
+        "Hrvaške",
+        "BiH",
         "Severne Makedonije",
-        "dijaspore (Austrija, Nemačka, Švajcarska...)",
-        "Zbog velikog interesovanja, otvorili smo i centar u Ljubljani"
+        "diaspore (Avstrija, Nemčija, Švica...)",
+        "Zaradi velikega povpraševanja smo odprli tudi center v Ljubljani"
       ]
     },
-
     {
       "id": "5",
-      "title": "Edukacija novih artista",
+      "title": "Izobraževanje novih artistov",
       "text": [
-        "Srđan je i SMP edukator.",
-        "Organizuje individualne i grupne obuke za nove SMP stručnjake – jer industriji je potreban kvalitet, ne kvantitet.",
-        "Ako želiš da naučiš kako da postaneš SMP artist:"
+        "Srđan je tudi SMP izobraževalec.",
+        "Organizira individualne in skupinske delavnice za nove SMP strokovnjake – ker industrija potrebuje kakovost, ne kvantiteto.",
+        "Če želite postati SMP artist:"
       ],
       "link": {
-        "label": "🔗 Prijavi se za edukaciju"
+        "label": "🔗 Prijavite se za izobraževanje"
       }
     }
   ],
   "finalCta": {
-    "title": "Kontakt i sledeći korak",
-    "text": "Nisi siguran da li si kandidat za tretman?\nIli jednostavno želiš da porazgovaraš bez pritiska?\n🎯 Pošalji nam slike – ili samo poruku. Ovde smo da pomognemo.",
-    "button": "Zakaži besplatnu konsultaciju"
+    "title": "Kontakt in naslednji korak",
+    "text": "Niste prepričani, ali ste kandidat za tretma?\nAli preprosto želite brez obveznosti stopiti v stik?\n🎯 Pošljite nam slike – ali samo sporočilo. Tukaj smo, da vam pomagamo.",
+    "button": "Rezervirajte brezplačno posvetovanje"
   }
 }

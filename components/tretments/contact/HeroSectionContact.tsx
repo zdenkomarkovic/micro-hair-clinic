@@ -1,3 +1,4 @@
+"use client";
 import Image from "@/node_modules/next/image";
 import React from "react";
 
@@ -15,17 +16,27 @@ type Props = {
 };
 
 export function HeroSectionContact({ data }: Props) {
+  const heroVideo = "/images/2108d76c67a04093aa2650d36e96b2db.MOV";
   return (
     <section className="hero relative h-screen md:h-[85dvh]">
-      <div className="absolute left-0 right-0 top-0  z-0">
-        <Image
+      <video
+        autoPlay
+        loop
+        playsInline
+        muted
+        className="absolute top-0 left-0 w-full h-full object-cover z-0"
+      >
+        <source src={heroVideo} type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
+      {/* <Image
           src={data.image}
           width={2000}
           height={1000}
           alt={data.alt}
           className=" w-full md:h-[85dvh] object-cover"
-        />
-      </div>
+        /> */}
+
       <div className="absolute top-0 left-0 w-full h-full bg-black/30 z-[1]" />
       <div className="container relative flex flex-col justify-between px-2 md:px-4 mx-auto pt-64 md:pt-96 md:pb-32 h-full text-center z-10">
         <div>
