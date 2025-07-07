@@ -61,15 +61,6 @@
       "label3": "Telefon (Viber/WhatsApp)",
       "placeholder3": "Vnesi svojo telefonsko številko (Viber/WhatsApp)",
       "label4": "Kateri tretma te zanima?",
-      "typeselect": "select",
-      "options": [
-        "Plešavost",
-        "Redčenje las",
-        "Alopecija",
-        "Brazgotine",
-        "Korekcija",
-        "Nisem prepričan"
-      ],
       "label5": "Sporočilo ali vprašanje",
       "placeholder5": "Tvoje sporočilo za nas",
       "type": "textarea",

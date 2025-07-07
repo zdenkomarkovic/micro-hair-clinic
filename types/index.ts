@@ -35,6 +35,15 @@ export type SectionCommon = {
     label: string;
     href?: string;
   };
+  label1?: string;
+  placeholder1?: string;
+  label2?: string;
+  placeholder2?: string;
+  label3?: string;
+  placeholder3?: string;
+  label4?: string;
+  label5?: string;
+  placeholder5?: string;
 };
 
 export type HeroSectionType = {
