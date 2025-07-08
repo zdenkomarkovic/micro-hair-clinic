@@ -1,3 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- SL -->
+  <url><loc>https://microhairclinic.si/sl</loc></url>
+  <url><loc>https://microhairclinic.si/sl/about</loc></url>
+  <url><loc>https://microhairclinic.si/sl/kontakt</loc></url>
+  <url><loc>https://microhairclinic.si/sl/smp-alopecija</loc></url>
+  <url><loc>https://microhairclinic.si/sl/smp-korekcija</loc></url>
+  <url><loc>https://microhairclinic.si/sl/smp-povecanje-gostote-redki-lasje</loc></url>
+  <url><loc>https://microhairclinic.si/sl/smp-vs-presaditev</loc></url>
+  <url><loc>https://microhairclinic.si/sl/smp-za-brazgotine</loc></url>
+  <url><loc>https://microhairclinic.si/sl/smp-za-plesavost</loc></url>
+  <url><loc>https://microhairclinic.si/sl/smp-za-zenske</loc></url>
+
+  <!-- EN -->
+  <url><loc>https://microhairclinic.si/en</loc></url>
+  <url><loc>https://microhairclinic.si/en/about</loc></url>
+  <url><loc>https://microhairclinic.si/en/kontakt</loc></url>
+  <url><loc>https://microhairclinic.si/en/smp-alopecija</loc></url>
+  <url><loc>https://microhairclinic.si/en/smp-korekcija</loc></url>
+  <url><loc>https://microhairclinic.si/en/smp-povecanje-gostote-redki-lasje</loc></url>
+  <url><loc>https://microhairclinic.si/en/smp-vs-presaditev</loc></url>
+  <url><loc>https://microhairclinic.si/en/smp-za-brazgotine</loc></url>
+  <url><loc>https://microhairclinic.si/en/smp-za-plesavost</loc></url>
+  <url><loc>https://microhairclinic.si/en/smp-za-zenske</loc></url>
+
+  <!-- DE -->
+  <url><loc>https://microhairclinic.si/de</loc></url>
+  <url><loc>https://microhairclinic.si/de/about</loc></url>
+  <url><loc>https://microhairclinic.si/de/kontakt</loc></url>
+  <url><loc>https://microhairclinic.si/de/smp-alopecija</loc></url>
+  <url><loc>https://microhairclinic.si/de/smp-korekcija</loc></url>
+  <url><loc>https://microhairclinic.si/de/smp-povecanje-gostote-redki-lasje</loc></url>
+  <url><loc>https://microhairclinic.si/de/smp-vs-presaditev</loc></url>
+  <url><loc>https://microhairclinic.si/de/smp-za-brazgotine</loc></url>
+  <url><loc>https://microhairclinic.si/de/smp-za-plesavost</loc></url>
+  <url><loc>https://microhairclinic.si/de/smp-za-zenske</loc></url>
+</urlset>
