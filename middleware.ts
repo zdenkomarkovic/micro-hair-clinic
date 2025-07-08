@@ -14,13 +14,21 @@ function getLocale(request: NextRequest, i18nConfig: I18nConfig): string {
   request.headers.forEach((value, key) => (negotiatorHeaders[key] = value));
 
   const languages = new Negotiator({ headers: negotiatorHeaders }).languages(
-    locales.slice() // ← kopija kao `string[]`
+    locales.slice()
   );
 
   return match(languages, locales, defaultLocale);
 }
 
 export function middleware(request: NextRequest) {
+  // ✨ Skip language redirect for sitemap and robots
+  if (
+    request.nextUrl.pathname === "/sitemap.xml" ||
+    request.nextUrl.pathname === "/robots.txt"
+  ) {
+    return NextResponse.next();
+  }
+
   let response: NextResponse | undefined;
   let nextLocale: string | undefined;
 
@@ -33,11 +41,9 @@ export function middleware(request: NextRequest) {
   );
 
   if (pathLocale) {
-    // Jezik već postoji u putanji, samo nastavi
     nextLocale = pathLocale;
     response = NextResponse.next();
   } else {
-    // Nema jezika u URL-u, automatski redirektuj
     const isFirstVisit = !request.cookies.has("NEXT_LOCALE");
     const locale = isFirstVisit ? getLocale(request, i18n) : defaultLocale;
 
