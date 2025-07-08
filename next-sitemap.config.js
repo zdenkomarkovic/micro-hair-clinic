@@ -4,7 +4,7 @@ module.exports = {
   generateRobotsTxt: true,
   sitemapSize: 5000,
   i18n: {
-    locales: ["sl", "en", "de"], // Dodaj sve jezike koje koristiš
+    locales: ["sl", "en", "de"],
     defaultLocale: "sl",
   },
 };
