@@ -1,5 +1,9 @@
+# *
 User-agent: *
 Allow: /
 
-Sitemap: https://microhairclinic.si/sitemap.xml
+# Host
+Host: https://microhairclinic.si
 
+# Sitemaps
+Sitemap: https://microhairclinic.si/sitemap.xml
