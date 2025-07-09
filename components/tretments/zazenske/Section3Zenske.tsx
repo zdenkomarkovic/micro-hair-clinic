@@ -8,8 +8,8 @@ type Props = {
 
 export function Section3Zenske({ section, direction }: Props) {
   return (
-    <section id={section.id} className="py-10 px-4">
-      <h2 className="text-2xl font-bold mb-4">{section.title}</h2>
+    <section id={section.id} className="py-4 md:py-10 px-4">
+      <h2 className="mb-4 md:mb-10">{section.title}</h2>
       <div
         className={`${direction} container px-2 md:px-4 mx-auto grid md:grid-cols-2 items-center `}
       >
@@ -42,7 +42,7 @@ export function Section3Zenske({ section, direction }: Props) {
             </div>
           )}
           {section.bullets && (
-            <ul className="list-disc list-inside mb-4">
+            <ul className="list-disc list-inside">
               {section.bullets.slice(5).map((b, i) => (
                 <li key={i}>{b}</li>
               ))}

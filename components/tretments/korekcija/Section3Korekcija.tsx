@@ -10,10 +10,10 @@ type Props = {
 
 export function Section3Korekcija({ section }: Props) {
   return (
-    <section id={section.id} className="py-10 px-4">
-      <div className="container px-2 md:px-4 mx-auto grid md:grid-cols-2  md:gap-20 ">
+    <section id={section.id} className="py-6 md:py-10 px-4">
+      <div className="container px-2 md:px-4 mx-auto grid md:grid-cols-2 gap-6 md:gap-20 ">
         <div className="mx-auto flex flex-col">
-          <h2 className="text-2xl font-bold mb-4">{section.title}</h2>
+          <h2 className="mb-4 md:mb-10">{section.title}</h2>
           {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(0, 1).map((p, i) => (
@@ -26,8 +26,8 @@ export function Section3Korekcija({ section }: Props) {
           {section.bullets && (
             <ul className=" mb-4">
               {section.bullets.slice(0, 4).map((b, i) => (
-                <li key={i} className="flex items-center gap-3">
-                  <ImCross className="text-red-500" />
+                <li key={i} className="flex items-start md:items-center gap-3 ">
+                  <ImCross className="text-red-500 mt-1 w-[20px]" />
                   {b}
                 </li>
               ))}
@@ -35,7 +35,7 @@ export function Section3Korekcija({ section }: Props) {
           )}
 
           {Array.isArray(section.text) && (
-            <div className="mb-4 space-y-2">
+            <div className="">
               {section.text.slice(1, 6).map((p, i) => (
                 <p key={i} className="font-bold">
                   {p}
@@ -44,8 +44,8 @@ export function Section3Korekcija({ section }: Props) {
             </div>
           )}
         </div>
-        <div className="mx-auto flex flex-col">
-          <h2 className="text-2xl font-bold mb-4">{section.title2}</h2>
+        <div className="mx-auto flex flex-col justify-between">
+          <h2 className="mb-4 md:mb-10">{section.title2}</h2>
           {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(6, 7).map((p, i) => (
@@ -58,8 +58,8 @@ export function Section3Korekcija({ section }: Props) {
           {section.bullets && (
             <ul className=" mb-4">
               {section.bullets.slice(4).map((b, i) => (
-                <li key={i} className="flex items-center gap-3">
-                  <FaCheckDouble className="text-green-500 " />
+                <li key={i} className="flex md:items-center gap-3">
+                  <FaCheckDouble className="text-green-500 mt-1 " />
                   {b}
                 </li>
               ))}
@@ -75,8 +75,8 @@ export function Section3Korekcija({ section }: Props) {
             </div>
           )}
           <a
-            href={"https://wa.me/381645400100"}
-            className="bg-primary px-3 md:px-6 py-1 md:py-3 text-white flex items-center text-nowrap gap-1 md:gap-3 w-fit"
+            href={"https://wa.me/38651479000"}
+            className="mx-auto bg-primary px-3 md:px-6 py-1 md:py-3 text-white flex items-center text-nowrap gap-1 md:gap-3 w-fit"
           >
             {section.link?.label}{" "}
             <FaAngleDoubleRight className="md:w-6 md:h-6" />

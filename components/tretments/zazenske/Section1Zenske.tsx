@@ -9,9 +9,9 @@ type Props = {
 
 export function Section1Zenske({ section, direction }: Props) {
   return (
-    <section id={section.id} className="py-10 px-4">
+    <section id={section.id} className="py-6 md:py-10 px-2 md:px-4">
       <div
-        className={`${direction} container px-2 md:px-4 mx-auto flex flex-col items-center md:gap-20 `}
+        className={`${direction} container px-2 md:px-4 mx-auto grid md:grid-cols-2 items-center  `}
       >
         <div className="mx-auto flex flex-col">
           <h2 className="mb-4">{section.title}</h2>
@@ -48,19 +48,18 @@ export function Section1Zenske({ section, direction }: Props) {
             </ul>
           )}
         </div>
-        <div>
-          {section.image && (
-            <div className="text-center">
-              <Image
-                src={section.image.src}
-                width={500}
-                height={500}
-                alt={section.image.alt}
-                className="rounded w-full shadow mb-4"
-              />
-            </div>
-          )}
-        </div>
+
+        {section.image && (
+          <div className="w-full">
+            <Image
+              src={"/images/IMG_91922.jpg"}
+              width={500}
+              height={500}
+              alt={section.image.alt}
+              className="rounded-lg w-full shadow-lg"
+            />
+          </div>
+        )}
       </div>
     </section>
   );

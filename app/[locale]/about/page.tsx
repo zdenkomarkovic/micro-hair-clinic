@@ -13,7 +13,6 @@ import { HeroSectionAbout } from "@/components/tretments/about/HeroSectionAbout"
 const images: string[] = [
   "/images/8898c7d5-3ac2-47b9-b768-19551cd4aaa0 4-min.JPG",
   "/images/f94727ab-cc48-46a9-938f-07306270acba 5-min.JPG",
-  "/images/IMG_0314-min.jpg",
   "/images/IMG_2514-min.JPG",
   "/images/MOM Day 2-134-min.jpg",
   "/images/MOM Day 2-195-min.jpg",

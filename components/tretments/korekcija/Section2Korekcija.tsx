@@ -8,10 +8,23 @@ type Props = {
 
 export function Section2Korekcija({ section }: Props) {
   return (
-    <section id={section.id} className="py-10 px-4">
-      <div className="container px-2 md:px-4 mx-auto flex flex-col md:flex-row items-center md:gap-20 ">
-        <div className="mx-auto flex flex-col">
-          <h2 className="text-2xl font-bold mb-4">{section.title}</h2>
+    <section id={section.id} className=" py-4 md:py-10 px-2 md:px-4">
+      <div className="container px-2 md:px-40 mx-auto grid grid-cols-1 md:grid-cols-3 items-center md:gap-3 ">
+        <div className="order-2 md:order-1 ">
+          {section.image && (
+            <div className="text-center">
+              <Image
+                src={"/images/a7c5e3b0-8064-4fb5-98a8-c96ece3ecc87.JPG"}
+                width={500}
+                height={500}
+                alt={section.image.alt}
+                className="rounded-lg w-full shadow aspect-[2/3] object-cover"
+              />
+            </div>
+          )}
+        </div>{" "}
+        <div className="mx-auto flex flex-col col-span-2 order-1 md:order-2">
+          <h2 className="mb-4 md:mb-10">{section.title}</h2>
           {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(0, 1).map((p, i) => (
@@ -68,19 +81,6 @@ export function Section2Korekcija({ section }: Props) {
                 <li key={i}>{b}</li>
               ))}
             </ul>
-          )}
-        </div>
-        <div>
-          {section.image && (
-            <div className="text-center">
-              <Image
-                src={section.image.src}
-                width={500}
-                height={500}
-                alt={section.image.alt}
-                className="rounded w-full shadow mb-4"
-              />
-            </div>
           )}
         </div>
       </div>

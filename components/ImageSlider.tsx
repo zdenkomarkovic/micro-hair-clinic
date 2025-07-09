@@ -4,7 +4,7 @@ import React, { useCallback, useEffect, useState } from "react";
 import useEmblaCarousel from "embla-carousel-react";
 import Image from "next/image";
 
-const ImageSliderKlizniMob = ({ images }: { images: string[] }) => {
+const ImageSlider = ({ images }: { images: string[] }) => {
   const [emblaMainRef, emblaMainApi] = useEmblaCarousel({ align: "start" });
   const [emblaThumbRef, emblaThumbApi] = useEmblaCarousel({
     containScroll: "trimSnaps",
@@ -40,19 +40,21 @@ const ImageSliderKlizniMob = ({ images }: { images: string[] }) => {
     return null;
   }
   return (
-    <div className="md:hidden relative">
+    <div className="relative">
       {/* Glavni slider */}
       <div className="overflow-hidden" ref={emblaMainRef}>
-        <div className="flex">
+        <div className="flex aspect-16/9">
           {images.map((src, index) => (
             <div key={index} className="min-w-full">
-              <Image
-                src={src}
-                width={1500}
-                height={1000}
-                alt="smp"
-                className="w-full  object-cover"
-              />
+              <div className="w-full aspect-video relative overflow-hidden ">
+                <Image
+                  src={src}
+                  width={1500}
+                  height={1000}
+                  alt="smp"
+                  className="w-full aspect-video object-cover"
+                />
+              </div>
             </div>
           ))}
         </div>
@@ -83,7 +85,7 @@ const ImageSliderKlizniMob = ({ images }: { images: string[] }) => {
                   src={src}
                   width={100}
                   height={100}
-                  alt="molerski radovi"
+                  alt="smp"
                   className="w-40 h-28  object-cover"
                 />
               </button>
@@ -103,4 +105,4 @@ const ImageSliderKlizniMob = ({ images }: { images: string[] }) => {
   );
 };
 
-export default ImageSliderKlizniMob;
+export default ImageSlider;

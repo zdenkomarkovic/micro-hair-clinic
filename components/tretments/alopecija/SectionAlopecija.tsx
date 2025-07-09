@@ -1,4 +1,3 @@
-import Image from "@/node_modules/next/image";
 import { SectionCommon } from "@/types/index";
 
 import React from "react";
@@ -24,18 +23,9 @@ export function SectionAlopecija({ section }: Props) {
             {section.bullets.map((b, i) => (
               <div
                 key={i}
-                className="flex flex-col justify-between h-full bg-primary-foreground border rounded-lg overflow-hidden"
+                className="flex flex-col justify-between h-full bg-primary-foreground border rounded-lg overflow-hidden shadow-md"
               >
-                <p className="font-bold p-6">{b}</p>
-                {section.images?.[i] && (
-                  <Image
-                    src={section.images[i].src}
-                    width={500}
-                    height={500}
-                    alt={section.images[i].alt}
-                    className="w-full object-cover"
-                  />
-                )}
+                <p className="font-bold p-2.5 md:p-4">{b}</p>
               </div>
             ))}
           </div>

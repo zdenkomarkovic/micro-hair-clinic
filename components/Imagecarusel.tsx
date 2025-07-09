@@ -1,6 +1,6 @@
 "use client";
 
-import React from "react";
+import React, { useState } from "react";
 import {
   Carousel,
   CarouselContent,
@@ -11,7 +11,7 @@ import {
 
 import { motion } from "framer-motion";
 import { Card } from "./ui/card";
-import Image from "@/node_modules/next/image";
+import Image from "next/image"; // ispravno, ne treba "@/node_modules"
 
 type Props = {
   images: string[];
@@ -19,6 +19,8 @@ type Props = {
 };
 
 const ImageCarusel = ({ images, py }: Props) => {
+  const [selectedImage, setSelectedImage] = useState<string | null>(null);
+
   return (
     <div className={` ${py} container pl-10 md:pl-56 mx-auto `}>
       <Carousel
@@ -39,7 +41,10 @@ const ImageCarusel = ({ images, py }: Props) => {
               className="pl-1 basis-[83%] md:basis-[45%] lg:basis-[24%]"
             >
               <div className="px-1 flex flex-col">
-                <ImageCard image={image}></ImageCard>
+                <ImageCard
+                  image={image}
+                  onClick={() => setSelectedImage(image)}
+                />
               </div>
             </CarouselItem>
           ))}
@@ -47,28 +52,48 @@ const ImageCarusel = ({ images, py }: Props) => {
         <CarouselPrevious />
         <CarouselNext />
       </Carousel>
+
+      {selectedImage && (
+        <div
+          className="fixed inset-0 bg-black/90 z-50 flex items-center justify-center"
+          onClick={() => setSelectedImage(null)}
+        >
+          <Image
+            src={selectedImage}
+            alt="fullscreen"
+            width={1000}
+            height={1000}
+            className="max-w-full max-h-full object-contain"
+          />
+        </div>
+      )}
     </div>
   );
 };
 
 export default ImageCarusel;
 
-const ImageCard = ({ image }: { image: string }) => {
+const ImageCard = ({
+  image,
+  onClick,
+}: {
+  image: string;
+  onClick?: () => void;
+}) => {
   return (
     <motion.div
       whileHover={{ scale: 1.05 }}
       whileTap={{ scale: 0.95 }}
-      className=""
+      onClick={onClick}
+      className="cursor-pointer"
     >
-      <Card
-        className={` bg-transparent relative overflow-hidden  rounded-3xl text-white`}
-      >
+      <Card className="bg-transparent relative overflow-hidden rounded-3xl text-white">
         <Image
           src={image}
-          width={200}
-          height={200}
+          width={500}
+          height={500}
           alt="micro-hair-clinic"
-          className=" w-full aspect-square object-cover"
+          className="w-full aspect-[4/5] object-cover"
         />
       </Card>
     </motion.div>

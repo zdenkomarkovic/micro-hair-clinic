@@ -5,12 +5,12 @@ import path from "path";
 import { FinalCta } from "@/components/tretments/FinalCta";
 import { HeroSection } from "@/components/tretments/HeroSection";
 import { isValidLocale } from "@/lib/locale";
-import { Section4 } from "@/components/tretments/Section4";
 import Questions from "@/components/tretments/Questions";
 import { Section1Korekcija } from "@/components/tretments/korekcija/Section1Korekcija";
 import { Section2Korekcija } from "@/components/tretments/korekcija/Section2Korekcija";
 import { Section3Korekcija } from "@/components/tretments/korekcija/Section3Korekcija";
 import { PageData, SectionCommon } from "@/types/index";
+import { Section4Korekcija } from "@/components/tretments/korekcija/Section4Korekcija";
 
 export default async function ComparePage({
   params,
@@ -45,7 +45,7 @@ export default async function ComparePage({
       <Section1Korekcija section={section1} />
       <Section2Korekcija section={section2} />
       <Section3Korekcija section={section3} />
-      <Section4 section={section4} />
+      <Section4Korekcija section={section4} />
       <FinalCta data={json.finalCta} />
       <Questions data={json.faqs} />
     </main>

@@ -8,10 +8,10 @@ type Props = {
 
 export function Section1Korekcija({ section }: Props) {
   return (
-    <section id={section.id} className="py-10 px-4">
-      <div className="container px-2 md:px-4 mx-auto flex flex-col md:flex-row items-center md:gap-20 ">
-        <div className="mx-auto flex flex-col">
-          <h2 className="text-2xl font-bold mb-4">{section.title}</h2>
+    <section id={section.id} className="py-6 md:py-10 px-4">
+      <div className="container px-2 md:px-4 mx-auto grid grid-cols-1 md:grid-cols-3 items-center md:gap-20 ">
+        <div className="mx-auto flex flex-col col-span-2">
+          <h2 className="mb-4 md:mb-10">{section.title}</h2>
           {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(0, 1).map((p, i) => (
@@ -29,7 +29,7 @@ export function Section1Korekcija({ section }: Props) {
             </ul>
           )}
 
-          <h2 className="text-2xl font-bold mb-4">{section.title2}</h2>
+          <h2 className=" md:py-6">{section.title2}</h2>
           {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(1, 2).map((p, i) => (
@@ -57,27 +57,16 @@ export function Section1Korekcija({ section }: Props) {
           )}
         </div>
         <div>
-          {section.image && (
-            <div>
-              <video controls autoPlay loop muted className="">
-                {" "}
-                <source src={section.image.src} type="video/mp4" />
-                Your browser does not support the video tag.
-              </video>
-            </div>
-            // <div className="text-center">
-            //   <Image
-            //     src={section.image.src}
-            //     width={500}
-            //     height={500}
-            //     alt={section.image.alt}
-            //     className="rounded w-full shadow mb-4"
-            //   />
-            // </div>
-          )}
+          <div>
+            <video controls autoPlay loop muted className="rounded-lg">
+              {" "}
+              <source src={"/images/1619705566473104.mp4"} type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
+          </div>
         </div>
       </div>
-      <h2 className="text-2xl font-bold mb-4">{section.title3}</h2>
+      <h2 className="py-6">{section.title3}</h2>
       {Array.isArray(section.text) && (
         <div className="mb-4 space-y-2 text-center">
           {section.text.slice(3).map((p, i) => (
