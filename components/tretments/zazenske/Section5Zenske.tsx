@@ -1,4 +1,3 @@
-import Image from "@/node_modules/next/image";
 import { SectionCommon } from "@/types/index";
 import React from "react";
 
