@@ -1,10 +1,10 @@
 import Link from "@/node_modules/next/link";
-import { FinalCta } from "@/types/type";
+import { FinCta } from "@/types/type";
 import React from "react";
 import { FaAngleDoubleRight } from "react-icons/fa";
 
 type Props = {
-  data: FinalCta;
+  data: FinCta;
   className?: string;
 };
 

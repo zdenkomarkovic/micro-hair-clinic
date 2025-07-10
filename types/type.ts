@@ -36,7 +36,7 @@ export type Faqs = {
   list: FaqItem[];
 };
 
-export type FinalCta = {
+export type FinCta = {
   title: string;
   text: string;
   button: string;
@@ -48,5 +48,5 @@ export type SmpContent = {
   hero: Hero;
   sections: Section[];
   faqs?: Faqs;
-  finalCta?: FinalCta;
+  finalCta?: FinCta;
 };
