@@ -1,6 +1,5 @@
 import React from "react";
 import { SectionCommon } from "@/types/index";
-import { FaAngleDoubleRight } from "react-icons/fa";
 
 type Props = {
   section: SectionCommon;

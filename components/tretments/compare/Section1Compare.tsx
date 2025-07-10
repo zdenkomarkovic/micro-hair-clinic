@@ -1,6 +1,4 @@
 import React from "react";
-import { FaAngleDoubleRight } from "react-icons/fa";
-import { ImCross } from "react-icons/im";
 import { FaCheckDouble } from "react-icons/fa6";
 import { SectionCommon } from "@/types/index";
 

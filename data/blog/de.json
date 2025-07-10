@@ -2,40 +2,49 @@
   "slug": "blog",
   "title": "Micro Hair Clinic",
   "hero": {
-    "heading": "Gubitak kose, samopouzdanje i rešenja",
-    "subtitle": "Pronađi odgovore, uporedi opcije i saznaj više o SMP tretmanima – iz prve ruke.",
+    "heading": "Haarausfall, Selbstbewusstsein und Lösungen",
+    "subtitle": "Finde Antworten, vergleiche Optionen und erfahre mehr über SMP-Behandlungen – aus erster Hand.",
     "image": "/images/MOM Day 2-206-min.jpg",
     "alt": "Micro Hair Clinic",
     "bullets": [
-      "Gubitak kose je lično, emotivno i često zbunjujuće iskustvo. Zato smo kreirali blog koji ne prodaje – već pomaže. Ovde ćeš pronaći iskrene tekstove o:",
-      "Prvim znacima opadanja kose",
-      "Poređenju različitih tretmana (SMP vs transplantacija)",
-      "Alopeciji kod muškaraca i žena",
-      "Psihološkom uticaju gubitka kose",
-      "Realnim iskustvima klijenata i rezultatima",
-      "Bez filtera. Bez trikova. Samo informacije koje su ti zaista potrebne pre nego što odlučiš."
+      "Haarausfall ist eine persönliche, emotionale und oft verwirrende Erfahrung. Deshalb haben wir einen Blog erstellt, der nicht verkauft – sondern hilft. Hier findest du ehrliche Beiträge über:",
+      "Erste Anzeichen von Haarausfall",
+      "Vergleich verschiedener Behandlungen (SMP vs Haartransplantation)",
+      "Alopezie bei Männern und Frauen",
+      "Psychologische Auswirkungen von Haarausfall",
+      "Echte Kundenerfahrungen und Ergebnisse",
+      "Keine Filter. Keine Tricks. Nur die Informationen, die du wirklich brauchst, bevor du dich entscheidest."
     ]
   },
-  "sections": [
-    {
-      "id": "1",
-      "title": "Najnoviji tekstovi",
-      "title2": "Nagrade in priznanja",
-      "text": [
-        "SMP ili transplantacija kose – šta je bolje za mene?",
-        "Zašto kosa opada muškarcima već u 20-im?",
-        "Skalp mikropigmentacija dan po dan – kako izgleda tretman"
-      ],
-      "bullets": [
-        "Uporedni vodič za muškarce koji traže rešenje za gubitak kose.",
-        "Kako prepoznati prve znake i koje greške izbeći dok je još vreme?",
-        "Realni tok kroz sve faze: konsultacije, pigmentacija, rezultat."
-      ]
-    }
-  ],
+  "blog": {
+    "title": "Neueste Beiträge",
+    "blogs": [
+      {
+        "title": "SMP oder Haartransplantation – was ist besser für mich?",
+        "text": "Ein Vergleichsleitfaden für Männer, die nach einer Lösung für Haarausfall suchen.",
+        "slug": "smp-vs-presaditev",
+        "img": "/images/smp plesavost-min.JPG",
+        "button": "Mehr erfahren"
+      },
+      {
+        "title": "Pflege nach der SMP-Behandlung – ein Tag-für-Tag-Leitfaden",
+        "slug": "nega-po-smp-tretmaju",
+        "text": "Wie du ein bestmögliches und langanhaltendes Ergebnis erzielst.",
+        "img": "/images/redcenje las-min.JPG",
+        "button": "Mehr erfahren"
+      },
+      {
+        "title": "Scalp Micropigmentation Tag für Tag – so sieht die Behandlung aus",
+        "slug": "kako-izgleda-smp-tretma",
+        "text": "Ein realistischer Ablauf durch alle Phasen: Beratung, Pigmentierung, Ergebnis.",
+        "img": "/images/smp za brazgotine-min.JPG",
+        "button": "Mehr erfahren"
+      }
+    ]
+  },
   "finalCta": {
-    "title": "Imaš pitanje?",
-    "text": "Slobodno se javi – bez pritiska, bez obaveze.",
-    "button": "Rezervirajte brezplačno posvetovanje"
+    "title": "Hast du eine Frage?",
+    "text": "Melde dich gerne – ganz unverbindlich und ohne Druck.",
+    "button": "Kostenlose Beratung buchen"
   }
 }
