@@ -1,8 +1,8 @@
 import React from "react";
-import { SectionCommon } from "@/types/index";
+import { Section } from "@/types/type";
 
 type Props = {
-  section: SectionCommon;
+  section: Section;
 };
 
 export function Section2Kako({ section }: Props) {

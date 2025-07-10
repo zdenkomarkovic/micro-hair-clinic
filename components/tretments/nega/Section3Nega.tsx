@@ -1,10 +1,10 @@
 import React from "react";
 import { ImCross } from "react-icons/im";
 import { FaCheckDouble } from "react-icons/fa6";
-import { SectionCommon } from "@/types/index";
+import { Section } from "@/types/type";
 
 type Props = {
-  section: SectionCommon;
+  section: Section;
 };
 
 export function Section3Nega({ section }: Props) {

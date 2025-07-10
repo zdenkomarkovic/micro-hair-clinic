@@ -4,11 +4,11 @@ import {
   AccordionTrigger,
   AccordionContent,
 } from "@/components/ui/accordion";
-import { FaqType } from "@/types/index";
+import { Faqs } from "@/types/type";
 import React from "react";
 
 type Props = {
-  data: FaqType;
+  data: Faqs;
 };
 
 const Questions = ({ data }: Props) => {

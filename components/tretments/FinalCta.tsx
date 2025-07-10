@@ -1,5 +1,5 @@
 import Link from "@/node_modules/next/link";
-import { FinalCta } from "@/types/index";
+import { FinalCta } from "@/types/type";
 import React from "react";
 import { FaAngleDoubleRight } from "react-icons/fa";
 

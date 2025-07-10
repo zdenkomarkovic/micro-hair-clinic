@@ -1,9 +1,9 @@
 import Image from "@/node_modules/next/image";
 import React from "react";
-import { HeroSection } from "@/types/index";
+import { Hero } from "@/types/type";
 
 type Props = {
-  data: HeroSection;
+  data: Hero;
 };
 
 export function HeroCompare({ data }: Props) {

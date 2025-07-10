@@ -1,104 +1,100 @@
 {
   "slug": "kako-izgleda-smp-tretma",
-  "title": "KAKO IZGLEDA SMP TRETMAN – KORAK PO KORAK",
+  "title": "HOW DOES SMP TREATMENT LOOK – STEP BY STEP",
   "hero": {
-    "heading": "KAKO IZGLEDA SMP TRETMAN – KORAK PO KORAK",
-    "subtitle": "Skalp mikropigmentacija nije samo tretman – to je proces koji daje realne, vidljive rezultate kroz pažljivo planirane korake. Svaka sesija ima svoju svrhu, a zajedno grade efekat koji izgleda potpuno prirodno.",
-    "image": "/images/smp-vs-transplantacija.webp",
-    "alt": "Poređenje SMP tretmana i transplantacije kose"
+    "heading": "HOW DOES SMP TREATMENT LOOK – STEP BY STEP",
+    "subtitle": "Scalp micropigmentation is not just a treatment – it is a process that delivers real, visible results through carefully planned steps. Each session has its purpose, and together they create an effect that looks completely natural.",
+    "image": "/images/MOM Day 2-206-min.jpg",
+    "alt": "Micro Hair Clinic"
   },
   "sections": [
     {
       "id": "1",
-      "title": "KONSULTACIJE – UŽIVO ILI ONLINE",
+      "title": "CONSULTATIONS – IN PERSON OR ONLINE",
       "bullets": [
-        "Detaljna analiza vlasišta i tipa kože",
-        "Razgovor o tvojim željama i očekivanjima",
-        "Predlog oblika frontalne linije",
-        "Broj sesija i procena gustine",
-        "Konsultacije radimo u studiju, ali i putem WhatsApp/Viber video poziva.",
-        "Bez operacije"
+        "Detailed analysis of the scalp and skin type",
+        "Discussion about your wishes and expectations",
+        "Proposal for the shape of the frontal hairline",
+        "Number of sessions and density assessment"
       ],
-      "button": "Zakaži svoj termin"
+      "text": [
+        "Consultations are conducted in the studio or via WhatsApp/Viber video calls."
+      ],
+      "button": "Book your appointment"
     },
     {
       "id": "2",
-      "title": "PRVA SESIJA – OSNOVNI SLOJ",
+      "title": "FIRST SESSION – BASE LAYER",
+      "title2": "SECOND SESSION – DENSITY AND DETAILS",
       "text": [
-        "Ova sesija postavlja temelj – ovde se vidi prvi efekat SMP tretmana."
+        "This session lays the foundation – the first effect of the SMP treatment can be seen here."
       ],
       "bullets": [
-        "Crta se dogovorena linija kose",
-        "Počinje pigmentacija osnovnog sloja",
-        "Definiše se pokrivenost glavnih zona (teme, zalisci, potiljak)"
+        "The agreed hairline is drawn",
+        "Base layer pigmentation begins",
+        "Coverage of main areas (crown, temples, nape) is defined",
+        "Performed 10–20 days after the first session",
+        "Pigment from the first session has stabilized",
+        "Density is increased, creating a transition between areas",
+        "A realistic 'hair' look begins to form"
       ]
     },
     {
       "id": "3",
-      "title": "DRUGA SESIJA – GUSTINA I DETALJI",
+      "title": "THIRD SESSION – FINISH AND BALANCE",
       "bullets": [
-        "Obavlja se 10–20 dana nakon prve",
-        "Pigment iz prve sesije se stabilizovao",
-        "Pojačava se gustina, pravi se prelaz između zona",
-        "Počinje da se formira realističan izgled “dlake”"
+        "Final processing of all areas",
+        "Detail refinement and possible frontal line corrections",
+        "Final control of density and uniformity"
+      ],
+      "text": [
+        "If necessary, a fourth session can be scheduled at no additional cost."
       ]
     },
     {
       "id": "4",
-      "title": "TREĆA SESIJA – FINIŠ I BALANS",
+      "title": "WHAT IS ALLOWED AND WHAT IS NOT AFTER THE TREATMENT",
       "bullets": [
-        "Završna obrada svih zona",
-        "Dorada detalja i moguće korekcije frontalne linije",
-        "Finalna kontrola gustine i ujednačenosti"
+        "Dry healing for the first 24 hours – do not wet the treated area",
+        "Use healing balm",
+        "Dry the treated area with a clean paper tissue, without rubbing",
+        "If itching – gently tap, do not scratch",
+        "Wear a cap or hat outdoors",
+        "Once healed – use sunscreen (SPF) to protect the pigment",
+        "Keep hair short for optimal visual effect",
+        "Avoid excessive sweating in the first 24 hours",
+        "Do not wash hair for the first 3 days",
+        "Do not use clippers for 3 days",
+        "Do not shave the head for 5 days",
+        "Do not use styling products (gel, wax, etc.) for 7 days",
+        "Pause Minoxidil use if applicable – 7 days",
+        "Do not swim in the sea or pool for 14 days",
+        "Avoid sauna and solarium for one month"
       ],
       "text": [
-        "Po potrebi, može se zakazati i četvrta sesija – bez dodatne naplate."
+        "What to do after the treatment:",
+        "What not to do after the treatment:",
+        "Following these guidelines significantly contributes to proper healing and the long-lasting SMP effect."
       ]
     },
     {
       "id": "5",
-      "title": "ŠTA SME I ŠTA NE SME NAKON TRETMANA",
-      "bullets": [
-        "Suvo zarastanje prvih 24h – ne kvašiti tretirano područje",
-        "Koristiti balzam za zarastanje",
-        "Tretirano mesto sušiti čistom papirnom maramicom, bez trljanja",
-        "Ako svrbi – nežno tapkati, ne češkati",
-        "Na otvorenom – nositi kačket ili šešir",
-        "Kada zaraste – koristiti kremu za sunčanje (SPF) za zaštitu pigmenta",
-        "Održavati kosu kratko podšišanom za optimalan vizuelni efekat",
-        "Ne izlagati se preteranom znojenju u prvih 24h",
-        "Ne prati kosu prvih 3 dana",
-        "Ne koristiti mašinicu za šišanje 3 dana",
-        "Ne brijati glavu 5 dana",
-        "Ne koristiti proizvode za stilizovanje (gel, vosak itd.) 7 dana",
-        "Pauzirati Minoksidil ako se koristi – 7 dana",
-        "Ne plivati u moru ili bazenu 14 dana",
-        "Izbegavati saunu i solarijum mesec dana"
-      ],
+      "title": "For more questions and answers, visit our complete FAQ page.",
       "text": [
-        "Šta treba raditi nakon tretmana:",
-        "Šta ne sme da se radi nakon tretmana:",
-        "Pridržavanje ovih smernica značajno doprinosi pravilnom zarastanju i dugotrajnosti SMP efekta."
-      ]
-    },
-    {
-      "id": "6",
-      "title": "Za više pitanja i odgovora, poseti našu kompletnu FAQ stranicu.",
-      "text": [
-        "Za sve dodatne nedoumice – slobodno nas kontaktiraj. Tu smo da objasnimo, bez pritiska."
+        "For any additional concerns – feel free to contact us. We are here to explain without pressure."
       ]
     }
   ],
   "faqs": {
-    "title": "NAJČEŠĆA PITANJA O SMP PROCESU",
+    "title": "MOST FREQUENT QUESTIONS ABOUT THE SMP PROCESS",
     "list": [
       {
-        "q": "Koliko traje jedna sesija?",
-        "a": "Obično traje između 2 i 4 sata, u zavisnosti od veličine regije."
+        "q": "How long does one session last?",
+        "a": "Usually lasts between 2 and 4 hours, depending on the size of the area."
       },
       {
-        "q": "Da li mogu na posao posle tretmana?",
-        "a": "Da – većina klijenata nastavlja svoje svakodnevne aktivnosti narednog dana."
+        "q": "Can I go to work after the treatment?",
+        "a": "Yes – most clients resume their daily activities the next day."
       }
     ]
   }

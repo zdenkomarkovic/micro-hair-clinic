@@ -1,9 +1,9 @@
 import React from "react";
-import { SectionCommon } from "@/types/index";
 import Link from "@/node_modules/next/link";
+import { Section } from "@/types/type";
 
 type Props = {
-  section: SectionCommon;
+  section: Section;
 };
 
 export function Section5Kako({ section }: Props) {

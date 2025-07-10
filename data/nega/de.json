@@ -1,0 +1,124 @@
+{
+  "slug": "nega-po-smp-tretmaju",
+  "title": "Nachsorge nach SMP-Behandlung – Tagesanleitung",
+  "hero": {
+    "heading": "Nachsorge nach SMP-Behandlung – Tagesanleitung",
+    "subtitle": "Warum ist Nachsorge wichtig?",
+    "image": "/images/MOM Day 2-206-min.jpg",
+    "alt": "Micro Hair Clinic",
+    "bullets": [
+      "Scalp Micropigmentation (SMP) sorgt für den Eindruck von dichtem und natürlichem Haar – aber nur bei richtiger Pflege nach der Behandlung.",
+      "Diese Seite gibt dir klare und einfache Anweisungen, wie du das beste Ergebnis erzielst und sicherstellst, dass das Pigment jahrelang hält."
+    ]
+  },
+  "sections": [
+    {
+      "id": "1",
+      "title": "Tagesanleitung",
+      "title2": "Tag 1 (Behandlungstag)",
+      "bullets": [
+        "Behandelten Bereich trocken halten",
+        "Bei Schwitzen – mit sauberem Papiertaschentuch tupfen",
+        "Auf sauberer Bettwäsche schlafen",
+        "Draußen: Trage eine Mütze oder einen Hut",
+        "Berühre die behandelte Stelle nicht mit den Händen",
+        "Keine Creme/Lotion am selben Tag verwenden",
+        "Sonnenexposition vermeiden"
+      ],
+      "text": ["Was erlaubt ist:", "Was nicht erlaubt ist:"]
+    },
+    {
+      "id": "2",
+      "title": "Tag 2–4",
+      "text": ["Erlaubt:", "Verboten:"],
+      "bullets": [
+        "Heilbalsam verwenden (nach Empfehlung)",
+        "Nur tupfen zum Trocknen verwenden",
+        "Bei Bedarf milde, alkoholfreie Feuchtigkeitscreme auftragen",
+        "Kopf nicht waschen",
+        "Kein Rasierer, Trimmer oder Schermaschine benutzen",
+        "Kein Sport, keine Sauna oder Solarium",
+        "Keine Stylingprodukte verwenden"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Tag 5–7",
+      "text": ["Du kannst:", "Weiterhin vermeiden:"],
+      "bullets": [
+        "Kopf mit mildem, lauwarmem Wasser waschen (nicht reiben)",
+        "Beginne vorsichtig mit dem Schneiden (Schere)",
+        "Aggressive Shampoos",
+        "Wachs, Gel, Schaum",
+        "Sonnenbaden und Meer"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Nach 7 Tagen",
+      "bullets": [
+        "SPF 50 Creme verwenden – jedes Mal, wenn du länger als 10 Minuten draußen bist",
+        "Kopfhaut mit leichten, ölfreien Lotionen pflegen",
+        "Haarschneider 1–2 Mal pro Woche verwenden",
+        "Rasur (wenn durchgeführt) frühestens nach 10 Tagen"
+      ],
+      "text": [
+        "In die normale Routine aufnehmen:",
+        "Gewohnte Haarschneide-Routine (bei „Buzz Cut“):"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Was du in den nächsten 4 Wochen vermeiden solltest",
+      "bullets": [
+        "Sauna",
+        "Solarium",
+        "Schwimmbad und Meer",
+        "Intensives Training ohne Kopfbedeckung",
+        "Minoxidil (mindestens 7 Tage Pause nach jeder Sitzung)"
+      ],
+      "text": [
+        "Wenn unerwartete Symptome auftreten (Juckreiz, Rötung, Empfindlichkeit) – kontaktiere uns sofort."
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Empfohlene Produkte (auf Anfrage)",
+      "bullets": [
+        "Heilbalsam",
+        "SPF-Creme (nicht fettend)",
+        "Mildes, sulfatfreies Shampoo",
+        "Saubere Papiertaschentücher / Einmalhandtücher"
+      ],
+      "text": [
+        "Bei der Beratung erhältst du genaue Empfehlungen für deine Haut."
+      ]
+    }
+  ],
+  "faqs": {
+    "title": "Häufig gestellte Fragen",
+    "list": [
+      {
+        "q": "Wie lange dauert die Heilung?",
+        "a": "Optisch – 2–5 Tage. Vollständig – 7–10 Tage. Während dieser Zeit stabilisiert sich das Pigment in der Haut."
+      },
+      {
+        "q": "Kann ich meinen Kopf nach der ersten Woche jeden Tag waschen?",
+        "a": "Ja, aber nur mit milden Produkten. Nicht reiben – nur spülen und tupfen."
+      },
+      {
+        "q": "Wird das Pigment verblassen, wenn ich nicht aufpasse?",
+        "a": "Es kann zu Verblassen, Verschmieren oder ungleichmäßigem Farbton kommen. Deshalb ist die Pflege sehr wichtig."
+      },
+      {
+        "q": "Was, wenn ich Juckreiz habe?",
+        "a": "Nicht kratzen! Mit einem trockenen Tuch tupfen. Juckreiz ist ein Zeichen der Heilung."
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Hast du weitere Fragen?",
+    "text": "Kontaktiere uns gerne – wir sind auch nach der Behandlung für dich da. Zufriedene Kunden sind gut informierte Kunden.",
+    "button": "Kontaktiere uns für Unterstützung"
+  }
+}

@@ -1,4 +1,4 @@
-export type Locale = "sr" | "en" | "de" | "sl";
+export type Locale = "en" | "de" | "sl";
 
 export type Cta = {
   label: string;

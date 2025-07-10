@@ -1,134 +1,119 @@
 {
   "slug": "smp-vs-transplantacija",
-  "title": "SMP ili transplantacija kose – šta je bolje?",
+  "title": "SMP oder Haartransplantation – was ist besser?",
   "hero": {
-    "heading": "SMP ili transplantacija kose – šta je bolje za mene?",
-    "subtitle": "Gubitak kose je nešto sa čim se suočava sve veći broj muškaraca – i sve mlađih. Ako si na ovoj stranici, verovatno si već guglao:",
-    "image": "/images/smp-vs-transplantacija.webp",
-    "alt": "Poređenje SMP tretmana i transplantacije kose",
+    "heading": "SMP oder Haartransplantation – was ist besser für mich?",
+    "subtitle": "Haarausfall betrifft immer mehr Männer – und das in immer jüngerem Alter.",
+    "image": "/images/MOM Day 2-206-min.jpg",
+    "alt": "Micro Hair Clinic",
     "bullets": [
-      "Transplantacija kose cena",
-      "SMP iskustva",
-      "Kako da vratim kosu bez operacije",
-      "Oba rešenja – ",
-      "SMP i transplantacija",
-      " – imaju svoje prednosti. Ali nisu za svakoga.",
-      "U ovom članku ti dajemo iskren, stručno utemeljen i jednostavan vodič: šta je razlika, koje su prednosti, nedostaci i – šta je bolje baš za tebe."
+      "Wenn du auf dieser Seite bist, hast du wahrscheinlich schon gesucht nach:",
+      "Haartransplantation Kosten",
+      "SMP Erfahrungen",
+      "Wie bekomme ich Haare zurück ohne OP",
+      "Beide Lösungen – SMP und Transplantation – haben ihre Vorteile. Aber sie sind nicht für jeden geeignet.",
+      "In diesem Artikel geben wir dir einen ehrlichen, fachlich fundierten und einfachen Leitfaden: Was sind die Unterschiede, Vor- und Nachteile – und was passt besser zu dir."
     ]
   },
   "sections": [
     {
       "id": "1",
-      "title": "Šta je SMP?",
+      "title": "Was ist SMP?",
+      "title2": "Was ist eine Haartransplantation?",
       "bullets": [
-        "SMP (scalp micropigmentation) je neinvazivan tretman u kojem se u skalp ubacuju pigmenti da bi se imitirao izgled folikula kose.",
-        "Efekat:",
-        "kod ćelavih – izgledaš kao da si se namerno obrijao na nulu",
-        "kod proređene kose – vizuelno deluje gušće",
-        "kod ožiljaka – tretman ih diskretno kamuflira",
-        "Bez operacije",
-        "Bez bola",
-        "Bez oporavka",
-        "Rezultat traje 2–4 godine"
+        "bei Glatze – wirkt wie absichtlich kahl rasiert",
+        "bei lichtem Haar – optisch mehr Dichte",
+        "bei Narben – Behandlung kaschiert sie dezent",
+        "Keine Operation",
+        "Keine Schmerzen",
+        "Keine Ausfallzeit",
+        "Ergebnis hält 2–4 Jahre",
+        "FUE – einzelne Haarfollikel",
+        "FUT – Hautstreifen mit mehreren Haaren"
+      ],
+      "text": [
+        "SMP (Scalp Micropigmentation) ist eine nicht-invasive Behandlung, bei der Pigmente in die Kopfhaut eingebracht werden, um den Eindruck von Haarfollikeln zu erzeugen.",
+        "Effekt:",
+        "Bei der Transplantation wird dein eigenes Haar vom Hinterkopf entnommen und dorthin versetzt, wo es fehlt.",
+        "Es gibt zwei Methoden:",
+        "Der Eingriff ist chirurgisch, erfordert eine lokale Betäubung und eine Erholungszeit.",
+        "Das Ergebnis ist dauerhaft – vorausgesetzt, die Haarwurzeln wachsen an."
       ]
     },
     {
       "id": "2",
-      "title": "Šta je transplantacija kose?",
-      "text": [
-        "Transplantacija koristi tvoju kosu sa zadnjeg dela glave i presađuje je napred (gde nedostaje).",
-        "Postoje 2 metode:",
-        "Proces je hirurški, zahteva lokalnu anesteziju i period oporavka.",
-        "Rezultat je dugoročan – pod uslovom da se koreni prime."
-      ],
-      "bullets": [
-        "FUE – pojedinačni folikuli",
-        "FUT – traka kože sa više vlasi"
-      ]
-    },
-    {
-      "id": "3",
-      "title": "Uporedna tabela – SMP vs transplantacija",
+      "title": "Vergleichstabelle – SMP vs Transplantation",
       "table": [
-        ["Faktor", "SMP", "Transplantacija"],
-        ["Intenzivnost", "Neinvazivna", "Hirurška procedura"],
-        ["Vreme oporavka", "Nema", "7–14 dana"],
-        ["Efekat", "Vizuelna simulacija folikula", "Prava kosa"],
+        ["Faktor", "SMP", "Transplantation"],
+        ["Intensität", "Nicht-invasiv", "Chirurgischer Eingriff"],
+        ["Erholungszeit", "Keine", "7–14 Tage"],
+        ["Effekt", "Visuelle Simulation von Follikeln", "Echtes Haar"],
         [
-          "Trajnost",
-          "2–4 godine (osveženje po potrebi)",
-          "Potencijalno doživotno (uz negu)"
+          "Haltbarkeit",
+          "2–4 Jahre (Auffrischung bei Bedarf)",
+          "Potentiell lebenslang (mit Pflege)"
         ],
-        ["Vidljivost rezultata", "Odmah", "Nakon 6–12 meseci"],
-        ["Cena", "Pristupačnije)", "Znatno skuplje (posebno u inostranstvu)"],
+        ["Sichtbarkeit des Ergebnisses", "Sofort", "Nach 6–12 Monaten"],
+        ["Kosten", "Günstiger", "Deutlich teurer (v. a. im Ausland)"],
         [
-          "Idealno za",
-          "Ćelavost, proređena kosa, ožiljci",
-          "Manji stepen gubitka, kvalitetna zona donora"
+          "Ideal für",
+          "Glatze, lichtes Haar, Narben",
+          "Geringer Haarverlust, gute Spenderzone"
         ]
       ]
     },
     {
+      "id": "3",
+      "title": "Wann ist SMP die bessere Wahl?",
+      "title2": "Wann ist Transplantation die bessere Wahl?",
+      "bullets": [
+        "Wenn dir nicht genug Spenderhaare zur Verfügung stehen",
+        "Wenn du ein schnelles, natürliches Ergebnis ohne OP willst",
+        "Wenn du komplett kahl bist (Norwood 6–7)",
+        "Wenn du Narben von früheren Transplantationen hast",
+        "Wenn du aussehen willst wie bewusst kahl rasiert",
+        "Wenn du dichte Haare im Hinterkopfbereich hast",
+        "Wenn du echtes Haar willst, das du wachsen lassen kannst",
+        "Wenn du einen geringen Haarverlust hast (Norwood 2–3)",
+        "Wenn du bereit bist für einen chirurgischen Eingriff und höhere Kosten"
+      ],
+      "text": [
+        "Aber auch nach einer Transplantation entscheiden sich viele später für SMP – um Lücken zu füllen, die transplantierte Haare nicht abdecken konnten."
+      ],
+      "link": { "label": "SMP bei Glatze", "href": "/smp-za-plesavost" }
+    },
+    {
       "id": "4",
-      "title": "Kada je SMP bolji izbor?",
-      "bullets": [
-        "Ako ti nedostaje dovoljna donorska kosa za transplantaciju",
-        "Ako želiš brz, prirodan rezultat bez operacije",
-        "Ako si ćelav u potpunosti (Norwood 6–7)",
-        "Ako imaš ožiljke od prethodnih transplantacija",
-        "Ako želiš da izgledaš kao da si namerno obrijan"
-      ],
-      "link": { "label": "SMP za ćelavost", "href": "/smp-za-plesavost" }
-    },
-    {
-      "id": "5",
-      "title": "Kada je transplantacija bolji izbor?",
-      "bullets": [
-        "Ako imaš gustu kosu u potiljačnoj regiji",
-        "Ako želiš pravu kosu koju možeš da puštaš",
-        "Ako imaš manje zahvaćenu zonu gubitka (Norwood 2–3)",
-        "Ako si spreman za hirurški tretman i više ulaganja"
-      ],
+      "title": "Können SMP und Transplantation kombiniert werden?",
       "text": [
-        "Ali čak i nakon transplantacije, mnogi klijenti kasnije rade SMP – da popune praznine koje presađene dlake nisu pokrile."
-      ],
-      "link": {
-        "label": "SMP nakon transplantacije",
-        "href": "/smp-nakon-transplantacije"
-      }
-    },
-    {
-      "id": "6",
-      "title": "Mogu li se kombinovati SMP i transplantacija?",
-      "text": [
-        "Da – i to je često najbolji pristup.",
-        "Primer:",
-        "Muškarac uradi transplantaciju i dobije novu liniju kose, ali kosa nije dovoljno gusta.",
-        "Uz SMP, senčenje čini da izgleda duplo gušće.",
-        "Kombinacija je efikasna kada želiš i strukturu i volumen."
+        "Ja – und das ist oft der beste Ansatz.",
+        "Beispiel:",
+        "Ein Mann lässt eine Transplantation durchführen und bekommt eine neue Haarlinie, aber die Dichte reicht nicht aus.",
+        "Mit SMP sorgt das Schattieren für doppelte optische Dichte.",
+        "Die Kombination ist effektiv, wenn du sowohl Struktur als auch Volumen willst."
       ]
     },
     {
-      "id": "7",
-      "title": "Iskreno: šta je bolje?",
+      "id": "5",
+      "title": "Ehrlich: Was ist besser?",
       "text": [
-        "Nema univerzalnog odgovora.",
-        "Zato svaki klijent kod nas dobija personalizovanu procenu, na osnovu:",
-        "Ako ti SMP nije rešenje – mi ćemo ti to reći.",
-        "Ako transplantacija ima smisla – dobićeš realnu procenu.",
-        "Ako si već pokušao sve – SMP je možda tvoj pravi novi početak."
+        "Es gibt keine allgemeingültige Antwort.",
+        "Deshalb bekommt jeder Kunde bei uns eine individuelle Einschätzung basierend auf:",
+        "Wenn SMP nicht die richtige Lösung ist – sagen wir es dir.",
+        "Wenn eine Transplantation sinnvoll ist – bekommst du eine realistische Einschätzung.",
+        "Wenn du schon alles probiert hast – ist SMP vielleicht dein echter Neustart."
       ],
       "bullets": [
-        "gustine kose",
-        "veličine regije bez kose",
-        "estetike lica",
-        "očekivanja"
+        "Haar­dichte",
+        "Größe der kahlen Stelle",
+        "Gesichtsästhetik",
+        "Erwartungen"
       ]
     }
   ],
   "finalCta": {
-    "title": "Zatraži besplatnu procenu",
-    "text": "Znaš da ti kosa opada – ali ne znaš šta da radiš? Pošalji fotografije glave i javi se za procenu – bez obaveze. Dobijaš iskren odgovor, ne prodajni govor.",
-    "button": "Zatraži besplatnu procenu"
+    "title": "Fordere eine kostenlose Einschätzung an",
+    "text": "Du weißt, dass dir die Haare ausfallen – aber nicht, was du tun sollst? Sende uns Fotos deiner Kopfhaut und fordere eine kostenlose Einschätzung an – ganz ohne Verpflichtung. Du bekommst eine ehrliche Meinung, keine Verkaufsshow.",
+    "button": "Kostenlose Einschätzung anfordern"
   }
 }

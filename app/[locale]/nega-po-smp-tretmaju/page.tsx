@@ -6,12 +6,12 @@ import { FinalCta } from "@/components/tretments/FinalCta";
 import { isValidLocale } from "@/lib/locale";
 import { HeroCompare } from "@/components/tretments/compare/HeroCompare";
 import { Section1Kako } from "@/components/tretments/kakoizgledatretman/Section1Kako";
-import { SectionCommon } from "@/types/index";
 import { Section1Nega } from "@/components/tretments/nega/Section1Nega";
 import { Section2Nega } from "@/components/tretments/nega/Section2Nega";
 import { Section3Nega } from "@/components/tretments/nega/Section3Nega";
 import { Section4Nega } from "@/components/tretments/nega/Section4Nega";
 import Questions from "@/components/tretments/Questions";
+import { Section, SmpContent } from "@/types/type";
 
 export default async function ComparePage({
   params,
@@ -30,16 +30,16 @@ export default async function ComparePage({
   let json;
   try {
     const file = await readFile(filePath, "utf-8");
-    json = JSON.parse(file);
+    json = JSON.parse(file) as SmpContent;
   } catch {
     return notFound();
   }
-  const section1: SectionCommon = json.sections.find((s) => s.id === "1")!;
-  const section2: SectionCommon = json.sections.find((s) => s.id === "2")!;
-  const section3: SectionCommon = json.sections.find((s) => s.id === "3")!;
-  const section4: SectionCommon = json.sections.find((s) => s.id === "4")!;
-  const section5: SectionCommon = json.sections.find((s) => s.id === "5")!;
-  const section6: SectionCommon = json.sections.find((s) => s.id === "6")!;
+  const section1: Section = json.sections.find((s) => s.id === "1")!;
+  const section2: Section = json.sections.find((s) => s.id === "2")!;
+  const section3: Section = json.sections.find((s) => s.id === "3")!;
+  const section4: Section = json.sections.find((s) => s.id === "4")!;
+  const section5: Section = json.sections.find((s) => s.id === "5")!;
+  const section6: Section = json.sections.find((s) => s.id === "6")!;
   return (
     <main>
       <HeroCompare data={json.hero} />
@@ -49,8 +49,10 @@ export default async function ComparePage({
       <Section4Nega section={section4} />
       <Section1Kako section={section5} className="" />
       <Section1Kako section={section6} className="pt-10" />
-      <Questions data={json.faqs} />
-      <FinalCta data={json.finalCta} className="my-6 md:my-8" />
+      {json.faqs && <Questions data={json.faqs} />}
+      {json.finalCta && (
+        <FinalCta data={json.finalCta} className="my-6 md:my-8" />
+      )}
     </main>
   );
 }

@@ -1,0 +1,124 @@
+{
+  "slug": "nega-po-smp-tretmaju",
+  "title": "Aftercare After SMP Treatment – Day-by-Day Guide",
+  "hero": {
+    "heading": "Aftercare After SMP Treatment – Day-by-Day Guide",
+    "subtitle": "Why is aftercare important?",
+    "image": "/images/MOM Day 2-206-min.jpg",
+    "alt": "Micro Hair Clinic",
+    "bullets": [
+      "Scalp micropigmentation (SMP) gives the effect of thick and natural hair – but only if properly cared for after the treatment.",
+      "This page provides you with clear and simple instructions to achieve the best result and ensure the pigment remains durable for years."
+    ]
+  },
+  "sections": [
+    {
+      "id": "1",
+      "title": "Day-by-Day Guide",
+      "title2": "Day 1 (treatment day)",
+      "bullets": [
+        "Keep the treated area dry",
+        "If you sweat – gently dab with a clean tissue",
+        "Sleep on clean bedding",
+        "Outdoors: wear a cap or hat",
+        "Do not touch the treated area with your hands",
+        "Do not use cream/lotion on the same day",
+        "Avoid sun exposure"
+      ],
+      "text": ["What is allowed:", "What is not allowed:"]
+    },
+    {
+      "id": "2",
+      "title": "Days 2–4",
+      "text": ["Allowed:", "Prohibited:"],
+      "bullets": [
+        "Use healing balm (as recommended)",
+        "Dry by gently patting only",
+        "If needed, apply a mild alcohol-free moisturizer",
+        "Do not wash hair",
+        "Do not use razor, clipper, trimmer",
+        "Do not exercise, use sauna or solarium",
+        "Do not use any styling products"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Days 5–7",
+      "text": ["You can:", "Still avoid:"],
+      "bullets": [
+        "Wash your head with mild lukewarm shower (no rubbing)",
+        "Start trimming with scissors, carefully",
+        "Harsh shampoos",
+        "Wax, gel, foam",
+        "Sunbathing and swimming in the sea"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "After 7 days",
+      "bullets": [
+        "Use SPF 50 cream – every time you stay outside for more than 10 minutes",
+        "Moisturize scalp (light oil-free lotions)",
+        "Clipper 1–2 times per week",
+        "Shaving (if you do) earliest after 10 days"
+      ],
+      "text": [
+        "Include in your regular routine:",
+        "Normal trimming routine (if you wear “buzz cut”):"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "What to avoid for the next 4 weeks",
+      "bullets": [
+        "Sauna",
+        "Solarium",
+        "Pool and sea",
+        "Intense training without head covering",
+        "Minoxidil (pause at least 7 days after each session)"
+      ],
+      "text": [
+        "If anything unexpected happens (itching, redness, sensitivity) – contact us immediately."
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Recommended products (on request)",
+      "bullets": [
+        "Healing balm",
+        "SPF cream (non-greasy)",
+        "Mild sulfate-free shampoo",
+        "Clean paper tissues / disposable towels"
+      ],
+      "text": [
+        "At consultations, you will get precise recommendations for your skin."
+      ]
+    }
+  ],
+  "faqs": {
+    "title": "Frequently Asked Questions",
+    "list": [
+      {
+        "q": "How long does healing take?",
+        "a": "Visually – 2–5 days. Completely – 7–10 days. During this time pigment stabilizes in the skin."
+      },
+      {
+        "q": "Can I wash my head every day after the first week?",
+        "a": "Yes, but with mild products. Do not rub – rinse and pat dry."
+      },
+      {
+        "q": "Will the pigment fade if I don’t take care?",
+        "a": "Fading, smudging, or uneven tone can occur. That’s why aftercare is crucial."
+      },
+      {
+        "q": "What if I have itching?",
+        "a": "Don’t scratch! Dab with a dry tissue. Itching is a sign of healing."
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Have more questions?",
+    "text": "Feel free to contact us – we’re here to help even after the treatment. Satisfied clients are well-informed clients.",
+    "button": "Contact us for support"
+  }
+}
