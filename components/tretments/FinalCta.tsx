@@ -1,15 +1,18 @@
 import Link from "@/node_modules/next/link";
-import { FinalCtaType } from "@/types/index";
+import { FinalCta } from "@/types/index";
 import React from "react";
 import { FaAngleDoubleRight } from "react-icons/fa";
 
 type Props = {
-  data: FinalCtaType;
+  data: FinalCta;
+  className?: string;
 };
 
-export function FinalCta({ data }: Props) {
+export function FinalCta({ data, className = "" }: Props) {
   return (
-    <section className="py-4 md:py-10 px-4 text-center bg-black text-white">
+    <section
+      className={`py-4 md:py-10 px-4 text-center bg-black text-white ${className}`}
+    >
       <div className="container px-2 md:px-4 mx-auto ">
         <h2 className="mb-6 text-center md:text-left">{data.title}</h2>
 
@@ -17,7 +20,7 @@ export function FinalCta({ data }: Props) {
           <p>{data.text}</p>
           <Link
             href={"/kontakt"}
-            className="bg-primary px-4 md:px-6 py-2 md:py-3 text-nowrap uppercase flex gap-3 items-center mx-auto"
+            className="bg-primary px-4 md:px-6 py-2 md:py-3  text-nowrap md:uppercase flex gap-3 items-center mx-auto"
           >
             {data.button} <FaAngleDoubleRight className="w-6 h-6" />
           </Link>

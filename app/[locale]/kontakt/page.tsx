@@ -45,6 +45,15 @@ export default async function ComparePage({
           <Section2 section={section2} /> <Section3 section={section3} />
         </div>{" "}
       </div>
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31326.76876940462!2d14.479759131342139!3d46.05266742457155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47652d498c3df797%3A0x47b87314e6452271!2zVHLFvmHFoWthIGMuIDExNiwgMTAwMCBManVibGphbmEsINCh0LvQvtCy0LXQvdC40ZjQsA!5e0!3m2!1ssr!2srs!4v1752150133359!5m2!1ssr!2srs"
+        width="600"
+        height="600"
+        style={{ border: "0" }}
+        loading="lazy"
+        referrerPolicy="no-referrer-when-downgrade"
+        className="w-full mx-auto"
+      ></iframe>
     </main>
   );
 }

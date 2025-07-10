@@ -2,92 +2,95 @@
   "slug": "smp-vs-transplantacija",
   "title": "SMP ili transplantacija kose – šta je bolje?",
   "hero": {
-    "heading": "SMP ili transplantacija kose?",
-    "subtitle": "Iskreno poređenje za one koji žele rešenje – ne bajke.",
+    "heading": "SMP ili transplantacija kose – šta je bolje za mene?",
+    "subtitle": "Gubitak kose je nešto sa čim se suočava sve veći broj muškaraca – i sve mlađih. Ako si na ovoj stranici, verovatno si već guglao:",
     "image": "/images/smp-vs-transplantacija.webp",
     "alt": "Poređenje SMP tretmana i transplantacije kose",
-    "ctas": [
-      { "label": "📞 Zakaži besplatnu konsultaciju", "href": "/kontakt" },
-      { "label": "💬 Pošalji slike na Viber", "href": "viber://chat" },
-      { "label": "📲 WhatsApp konsultacija", "href": "https://wa.me/..." }
+    "bullets": [
+      "Transplantacija kose cena",
+      "SMP iskustva",
+      "Kako da vratim kosu bez operacije",
+      "Oba rešenja – ",
+      "SMP i transplantacija",
+      " – imaju svoje prednosti. Ali nisu za svakoga.",
+      "U ovom članku ti dajemo iskren, stručno utemeljen i jednostavan vodič: šta je razlika, koje su prednosti, nedostaci i – šta je bolje baš za tebe."
     ]
   },
   "sections": [
     {
-      "id": "uvod",
-      "title": "SMP ili transplantacija – šta je za tebe?",
-      "text": [
-        "Ako tražiš rešenje za gubitak kose, verovatno si već guglao: transplantacija kose cena, SMP iskustva, kako da vratim kosu bez operacije.",
-        "U ovom vodiču dajemo jasno poređenje – bez marketinga, bez zavaravanja. Samo činjenice."
+      "id": "1",
+      "title": "Šta je SMP?",
+      "bullets": [
+        "SMP (scalp micropigmentation) je neinvazivan tretman u kojem se u skalp ubacuju pigmenti da bi se imitirao izgled folikula kose.",
+        "Efekat:",
+        "kod ćelavih – izgledaš kao da si se namerno obrijao na nulu",
+        "kod proređene kose – vizuelno deluje gušće",
+        "kod ožiljaka – tretman ih diskretno kamuflira",
+        "Bez operacije",
+        "Bez bola",
+        "Bez oporavka",
+        "Rezultat traje 2–4 godine"
       ]
     },
     {
-      "id": "sta-je-smp",
-      "title": "Šta je SMP?",
-      "bullets": [
-        "Vizuelni efekat obrijane glave kod ćelavih",
-        "Gušći izgled kod proređene kose",
-        "Diskretna kamuflaža ožiljaka",
-        "Bez operacije, bola i oporavka",
-        "Rezultat traje 2–4 godine"
-      ],
-      "image": {
-        "src": "/images/sta-je-smp.webp",
-        "alt": "Rezultat SMP tretmana – efekat folikula"
-      }
-    },
-    {
-      "id": "sta-je-transplantacija",
+      "id": "2",
       "title": "Šta je transplantacija kose?",
-      "bullets": [
-        "Koristi tvoju kosu sa potiljka (zona donora)",
-        "Presađuje je napred (zona bez kose)",
-        "FUE – pojedinačni folikuli, FUT – traka kože",
-        "Hirurška procedura uz lokalnu anesteziju",
-        "Potrebno vreme za oporavak i rast"
+      "text": [
+        "Transplantacija koristi tvoju kosu sa zadnjeg dela glave i presađuje je napred (gde nedostaje).",
+        "Postoje 2 metode:",
+        "Proces je hirurški, zahteva lokalnu anesteziju i period oporavka.",
+        "Rezultat je dugoročan – pod uslovom da se koreni prime."
       ],
-      "image": {
-        "src": "/images/transplantacija.webp",
-        "alt": "Proces transplantacije kose"
-      }
+      "bullets": [
+        "FUE – pojedinačni folikuli",
+        "FUT – traka kože sa više vlasi"
+      ]
     },
     {
-      "id": "tabela",
+      "id": "3",
       "title": "Uporedna tabela – SMP vs transplantacija",
       "table": [
         ["Faktor", "SMP", "Transplantacija"],
         ["Intenzivnost", "Neinvazivna", "Hirurška procedura"],
         ["Vreme oporavka", "Nema", "7–14 dana"],
-        ["Efekat", "Vizuelna simulacija", "Prava kosa"],
-        ["Trajnost", "2–4 godine", "Potencijalno doživotna"],
-        ["Rezultat", "Odmah", "6–12 meseci"],
-        ["Cena", "Pristupačna", "Znatno skuplja"],
-        ["Idealno za", "Ćelavost, proređena kosa", "Manji stepen gubitka"]
+        ["Efekat", "Vizuelna simulacija folikula", "Prava kosa"],
+        [
+          "Trajnost",
+          "2–4 godine (osveženje po potrebi)",
+          "Potencijalno doživotno (uz negu)"
+        ],
+        ["Vidljivost rezultata", "Odmah", "Nakon 6–12 meseci"],
+        ["Cena", "Pristupačnije)", "Znatno skuplje (posebno u inostranstvu)"],
+        [
+          "Idealno za",
+          "Ćelavost, proređena kosa, ožiljci",
+          "Manji stepen gubitka, kvalitetna zona donora"
+        ]
       ]
     },
     {
-      "id": "kada-smp",
+      "id": "4",
       "title": "Kada je SMP bolji izbor?",
       "bullets": [
-        "Nemaš dovoljno donorske kose",
-        "Želiš brz, prirodan rezultat",
-        "Ćelav si u potpunosti (Norwood 6–7)",
-        "Imaš ožiljke od transplantacije",
-        "Želiš izgled obrijane glave"
+        "Ako ti nedostaje dovoljna donorska kosa za transplantaciju",
+        "Ako želiš brz, prirodan rezultat bez operacije",
+        "Ako si ćelav u potpunosti (Norwood 6–7)",
+        "Ako imaš ožiljke od prethodnih transplantacija",
+        "Ako želiš da izgledaš kao da si namerno obrijan"
       ],
       "link": { "label": "SMP za ćelavost", "href": "/smp-za-plesavost" }
     },
     {
-      "id": "kada-transplantacija",
+      "id": "5",
       "title": "Kada je transplantacija bolji izbor?",
       "bullets": [
-        "Imaš gustu donatorsku zonu",
-        "Želiš kosu koju možeš puštati",
-        "Zahvaćena zona je manja (Norwood 2–3)",
-        "Spreman si na hirurški tretman"
+        "Ako imaš gustu kosu u potiljačnoj regiji",
+        "Ako želiš pravu kosu koju možeš da puštaš",
+        "Ako imaš manje zahvaćenu zonu gubitka (Norwood 2–3)",
+        "Ako si spreman za hirurški tretman i više ulaganja"
       ],
       "text": [
-        "Čak i nakon transplantacije, mnogi klijenti kasnije rade SMP – da popune praznine."
+        "Ali čak i nakon transplantacije, mnogi klijenti kasnije rade SMP – da popune praznine koje presađene dlake nisu pokrile."
       ],
       "link": {
         "label": "SMP nakon transplantacije",
@@ -95,31 +98,37 @@
       }
     },
     {
-      "id": "kombinacija",
+      "id": "6",
       "title": "Mogu li se kombinovati SMP i transplantacija?",
       "text": [
-        "Da – i to često daje najbolje rezultate. Transplantacija za liniju, SMP za gušći efekat.",
-        "Kombinacija je idealna ako želiš i strukturu i volumen."
+        "Da – i to je često najbolji pristup.",
+        "Primer:",
+        "Muškarac uradi transplantaciju i dobije novu liniju kose, ali kosa nije dovoljno gusta.",
+        "Uz SMP, senčenje čini da izgleda duplo gušće.",
+        "Kombinacija je efikasna kada želiš i strukturu i volumen."
       ]
     },
     {
-      "id": "zakljucak",
-      "title": "Šta je bolje – iskreno?",
+      "id": "7",
+      "title": "Iskreno: šta je bolje?",
       "text": [
-        "Ne postoji univerzalni odgovor. Svaki slučaj je poseban.",
-        "Zato nudimo personalizovanu procenu – bez obaveze.",
-        "Ako ti SMP nije rešenje, reći ćemo ti. Ako transplantacija ima smisla, to ćeš znati odmah."
+        "Nema univerzalnog odgovora.",
+        "Zato svaki klijent kod nas dobija personalizovanu procenu, na osnovu:",
+        "Ako ti SMP nije rešenje – mi ćemo ti to reći.",
+        "Ako transplantacija ima smisla – dobićeš realnu procenu.",
+        "Ako si već pokušao sve – SMP je možda tvoj pravi novi početak."
+      ],
+      "bullets": [
+        "gustine kose",
+        "veličine regije bez kose",
+        "estetike lica",
+        "očekivanja"
       ]
     }
   ],
-  "faqs": [],
-  "reviews": [],
   "finalCta": {
-    "text": "Zatraži besplatnu procenu. Pošalji slike glave – dobićeš iskren savet, ne prodajni govor.",
-    "ctas": [
-      { "label": "📤 Pošalji slike na Viber", "href": "viber://chat" },
-      { "label": "📤 Pošalji slike na WhatsApp", "href": "https://wa.me/..." },
-      { "label": "📞 Zakaži konsultaciju", "href": "/kontakt" }
-    ]
+    "title": "Zatraži besplatnu procenu",
+    "text": "Znaš da ti kosa opada – ali ne znaš šta da radiš? Pošalji fotografije glave i javi se za procenu – bez obaveze. Dobijaš iskren odgovor, ne prodajni govor.",
+    "button": "Zatraži besplatnu procenu"
   }
 }

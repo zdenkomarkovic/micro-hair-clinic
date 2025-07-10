@@ -1,0 +1,50 @@
+{
+  "slug": "blog",
+  "title": "Micro Hair Clinic",
+  "hero": {
+    "heading": "Gubitak kose, samopouzdanje i rešenja",
+    "subtitle": "Pronađi odgovore, uporedi opcije i saznaj više o SMP tretmanima – iz prve ruke.",
+    "image": "/images/MOM Day 2-206-min.jpg",
+    "alt": "Micro Hair Clinic",
+    "bullets": [
+      "Gubitak kose je lično, emotivno i često zbunjujuće iskustvo. Zato smo kreirali blog koji ne prodaje – već pomaže. Ovde ćeš pronaći iskrene tekstove o:",
+      "Prvim znacima opadanja kose",
+      "Poređenju različitih tretmana (SMP vs transplantacija)",
+      "Alopeciji kod muškaraca i žena",
+      "Psihološkom uticaju gubitka kose",
+      "Realnim iskustvima klijenata i rezultatima",
+      "Bez filtera. Bez trikova. Samo informacije koje su ti zaista potrebne pre nego što odlučiš."
+    ]
+  },
+  "blog": {
+    "title": "Najnoviji tekstovi",
+    "blogs": [
+      {
+        "title": "SMP ili transplantacija kose – šta je bolje za mene?",
+        "text": "Uporedni vodič za muškarce koji traže rešenje za gubitak kose.",
+        "slug": "smp-vs-presaditev",
+        "img": "/images/smp plesavost-min.JPG",
+        "button": "Procitajte vise"
+      },
+      {
+        "title": "Nega nakon SMP tretmana – vodič dan po dan",
+        "slug": "nega-po-smp-tretmaju",
+        "text": "Kako da postigneš najbolji rezultat postojan godinama.",
+        "img": "/images/redcenje las-min.JPG",
+        "button": "Procitajte vise"
+      },
+      {
+        "title": "Skalp mikropigmentacija dan po dan – kako izgleda tretman",
+        "slug": "kako-izgleda-smp-tretma",
+        "text": "Realni tok kroz sve faze: konsultacije, pigmentacija, rezultat.",
+        "img": "/images/smp za brazgotine-min.JPG",
+        "button": "Procitajte vise"
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Imaš pitanje?",
+    "text": "Slobodno se javi – bez pritiska, bez obaveze.",
+    "button": "Rezervirajte brezplačno posvetovanje"
+  }
+}

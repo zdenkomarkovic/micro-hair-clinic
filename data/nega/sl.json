@@ -1,0 +1,122 @@
+{
+  "slug": "nega-po-smp-tretmaju",
+  "title": "Nega nakon SMP tretmana – vodič dan po dan",
+  "hero": {
+    "heading": "Nega nakon SMP tretmana – vodič dan po dan",
+    "subtitle": "Zašto je nega važna?",
+    "image": "/images/MOM Day 2-206-min.jpg",
+    "alt": "Micro Hair Clinic",
+    "bullets": [
+      "Skalp mikropigmentacija (SMP) daje efekat guste i prirodne kose – ali samo ako se pravilno neguje nakon tretmana.",
+      "Ova stranica ti daje jasna i jednostavna uputstva kako da postigneš najbolji rezultat i osiguraš da pigment ostane postojan godinama."
+    ]
+  },
+  "sections": [
+    {
+      "id": "1",
+      "title": "Vodič po danima",
+      "title2": "Dan 1 (dan tretmana)",
+      "bullets": [
+        "Održavaj tretiranu zonu suvom",
+        "Ako se znojiš – tapkaj čistom papirnom maramicom",
+        "Spavaj na čistoj posteljini",
+        "Na otvorenom: nosi kačket ili šešir",
+        "Ne dodiruj tretirano mesto rukama",
+        "Ne koristi kremu/losion isti dan",
+        "Ne izlaži se suncu"
+      ],
+      "text": ["Šta treba:", "Šta ne smeš:"]
+    },
+    {
+      "id": "2",
+      "title": "Dan 2–4",
+      "text": ["Dozvoljeno:", "Zabrane:"],
+      "bullets": [
+        "Koristi balzam za zarastanje (po preporuci)",
+        "Sušenje isključivo tapkanjem",
+        "Po potrebi, nanesi blagu hidratantnu kremu bez alkohola",
+        "Ne prati kosu",
+        "Ne koristi britvu, mašinicu, trimer",
+        "Ne treniraj, ne idi u saunu ili solarijum",
+        "Ne koristi nikakve preparate za stilizovanje"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Dan 5–7",
+      "text": ["Možeš:", "I dalje izbegavaj:"],
+      "bullets": [
+        "Oprati glavu blagim mlakim tušem (bez trljanja)",
+        "Početi sa šišanjem (makazama, pažljivo",
+        "Agresivne šampone",
+        "Vosak, gel, penu",
+        "Sunčanje i more"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Nakon 7 dana",
+      "bullets": [
+        "Kremu sa SPF 50 – koristi svaki put kada si napolju duže od 10 minuta",
+        "Hidrataciju kože glave (lagani losioni bez ulja)",
+        "Mašinica 1–2 puta nedeljno",
+        "Brijanje (ako radiš) najranije posle 10 dana"
+      ],
+      "text": [
+        "U redovnu rutinu uvedi:",
+        "Uobičajena rutina šišanja (ako nosiš „na nulu“):"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Šta izbegavati naredne 4 nedelje",
+      "bullets": [
+        "Sauna",
+        "Solarijum",
+        "Bazen i more",
+        "Intenzivno treniranje bez pokrivene glave",
+        "Minoksidil (pauza minimum 7 dana nakon svake sesije)"
+      ],
+      "text": [
+        "Ako se nešto neočekivano desi (svrab, crvenilo, osetljivost) – javi nam se odmah."
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Preporučeni proizvodi (na upit)",
+      "bullets": [
+        "Balzam za zarastanje",
+        "SPF krema (ne masna)",
+        "Blagi šampon bez sulfata",
+        "Čista papirna maramica / jednokratne peškire"
+      ],
+      "text": ["Na konsultacijama dobijaš tačne preporuke za svoju kožu."]
+    }
+  ],
+  "faqs": {
+    "title": "Česta pitanja",
+    "list": [
+      {
+        "q": "Koliko traje zarastanje?",
+        "a": "Vizuelno – 2–5 dana. Potpuno – 7–10 dana. U tom periodu pigment se stabilizuje u koži."
+      },
+      {
+        "q": "Da li mogu da perem glavu svaki dan posle prve nedelje?",
+        "a": "Da, ali blagim preparatima. Ne trljaj – ispiraj i tapkaj."
+      },
+      {
+        "q": "Da li će mi opasti pigment ako ne pazim?",
+        "a": "Može doći do bledila, razlivanja ili neravnomernog tona. Zato je nega ključna."
+      },
+      {
+        "q": "Šta ako imam svrab?",
+        "a": "Ne češi! Tapkaj suvom maramicom. Svrab je znak zarastanja."
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Imaš dodatno pitanje?",
+    "text": "Slobodno se javi – tu smo da objasnimo i posle tretmana. Zadovoljni klijenti su oni koji su informisani.",
+    "button": "Kontaktiraj nas za podršku"
+  }
+}

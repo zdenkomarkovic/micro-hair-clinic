@@ -1,0 +1,105 @@
+{
+  "slug": "kako-izgleda-smp-tretma",
+  "title": "KAKO IZGLEDA SMP TRETMAN – KORAK PO KORAK",
+  "hero": {
+    "heading": "KAKO IZGLEDA SMP TRETMAN – KORAK PO KORAK",
+    "subtitle": "Skalp mikropigmentacija nije samo tretman – to je proces koji daje realne, vidljive rezultate kroz pažljivo planirane korake. Svaka sesija ima svoju svrhu, a zajedno grade efekat koji izgleda potpuno prirodno.",
+    "image": "/images/smp-vs-transplantacija.webp",
+    "alt": "Poređenje SMP tretmana i transplantacije kose"
+  },
+  "sections": [
+    {
+      "id": "1",
+      "title": "KONSULTACIJE – UŽIVO ILI ONLINE",
+      "bullets": [
+        "Detaljna analiza vlasišta i tipa kože",
+        "Razgovor o tvojim željama i očekivanjima",
+        "Predlog oblika frontalne linije",
+        "Broj sesija i procena gustine",
+        "Konsultacije radimo u studiju, ali i putem WhatsApp/Viber video poziva.",
+        "Bez operacije"
+      ],
+      "button": "Zakaži svoj termin"
+    },
+    {
+      "id": "2",
+      "title": "PRVA SESIJA – OSNOVNI SLOJ",
+      "text": [
+        "Ova sesija postavlja temelj – ovde se vidi prvi efekat SMP tretmana."
+      ],
+      "bullets": [
+        "Crta se dogovorena linija kose",
+        "Počinje pigmentacija osnovnog sloja",
+        "Definiše se pokrivenost glavnih zona (teme, zalisci, potiljak)"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "DRUGA SESIJA – GUSTINA I DETALJI",
+      "bullets": [
+        "Obavlja se 10–20 dana nakon prve",
+        "Pigment iz prve sesije se stabilizovao",
+        "Pojačava se gustina, pravi se prelaz između zona",
+        "Počinje da se formira realističan izgled “dlake”"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "TREĆA SESIJA – FINIŠ I BALANS",
+      "bullets": [
+        "Završna obrada svih zona",
+        "Dorada detalja i moguće korekcije frontalne linije",
+        "Finalna kontrola gustine i ujednačenosti"
+      ],
+      "text": [
+        "Po potrebi, može se zakazati i četvrta sesija – bez dodatne naplate."
+      ]
+    },
+    {
+      "id": "5",
+      "title": "ŠTA SME I ŠTA NE SME NAKON TRETMANA",
+      "bullets": [
+        "Suvo zarastanje prvih 24h – ne kvašiti tretirano područje",
+        "Koristiti balzam za zarastanje",
+        "Tretirano mesto sušiti čistom papirnom maramicom, bez trljanja",
+        "Ako svrbi – nežno tapkati, ne češkati",
+        "Na otvorenom – nositi kačket ili šešir",
+        "Kada zaraste – koristiti kremu za sunčanje (SPF) za zaštitu pigmenta",
+        "Održavati kosu kratko podšišanom za optimalan vizuelni efekat",
+        "Ne izlagati se preteranom znojenju u prvih 24h",
+        "Ne prati kosu prvih 3 dana",
+        "Ne koristiti mašinicu za šišanje 3 dana",
+        "Ne brijati glavu 5 dana",
+        "Ne koristiti proizvode za stilizovanje (gel, vosak itd.) 7 dana",
+        "Pauzirati Minoksidil ako se koristi – 7 dana",
+        "Ne plivati u moru ili bazenu 14 dana",
+        "Izbegavati saunu i solarijum mesec dana"
+      ],
+      "text": [
+        "Šta treba raditi nakon tretmana:",
+        "Šta ne sme da se radi nakon tretmana:",
+        "Pridržavanje ovih smernica značajno doprinosi pravilnom zarastanju i dugotrajnosti SMP efekta."
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Za više pitanja i odgovora, poseti našu kompletnu FAQ stranicu.",
+      "text": [
+        "Za sve dodatne nedoumice – slobodno nas kontaktiraj. Tu smo da objasnimo, bez pritiska."
+      ]
+    }
+  ],
+  "faqs": {
+    "title": "NAJČEŠĆA PITANJA O SMP PROCESU",
+    "list": [
+      {
+        "q": "Koliko traje jedna sesija?",
+        "a": "Obično traje između 2 i 4 sata, u zavisnosti od veličine regije."
+      },
+      {
+        "q": "Da li mogu na posao posle tretmana?",
+        "a": "Da – većina klijenata nastavlja svoje svakodnevne aktivnosti narednog dana."
+      }
+    ]
+  }
+}

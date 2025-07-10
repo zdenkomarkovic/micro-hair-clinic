@@ -2,15 +2,14 @@ import { notFound } from "next/navigation";
 import { i18n, Locale } from "@/i18n-config";
 import { readFile } from "fs/promises";
 import path from "path";
-import { FinalCta } from "@/components/tretments/FinalCta";
 import { isValidLocale } from "@/lib/locale";
-import TableSection from "@/components/TableSection";
 import { HeroCompare } from "@/components/tretments/compare/HeroCompare";
-import { Section1Compare } from "@/components/tretments/compare/Section1Compare";
 import { SectionCommon } from "@/types/index";
-import { Section3Compare } from "@/components/tretments/compare/Section3Compare";
-import { Section4Compare } from "@/components/tretments/compare/Section4Compare";
-import { Section5Compare } from "@/components/tretments/compare/Section5Compare";
+import { Section1Kako } from "@/components/tretments/kakoizgledatretman/Section1Kako";
+import { Section2Kako } from "@/components/tretments/kakoizgledatretman/Section2Kako";
+import { Section3Kako } from "@/components/tretments/kakoizgledatretman/Section3Kako";
+import Questions from "@/components/tretments/Questions";
+import { Section5Kako } from "@/components/tretments/kakoizgledatretman/Section5Kako";
 
 export default async function ComparePage({
   params,
@@ -24,7 +23,11 @@ export default async function ComparePage({
     ? localeParam
     : i18n.defaultLocale;
 
-  const filePath = path.join(process.cwd(), "data/compare", `${locale}.json`);
+  const filePath = path.join(
+    process.cwd(),
+    "data/smp-tretma",
+    `${locale}.json`
+  );
 
   let json;
   try {
@@ -41,13 +44,12 @@ export default async function ComparePage({
   return (
     <main>
       <HeroCompare data={json.hero} />
-      <Section1Compare section={section1} />
-      <TableSection data={section2} />
-      <Section3Compare section={section3} />
-      <Section4Compare section={section4} />
-      <Section5Compare section={section5} />
-
-      <FinalCta data={json.finalCta} className="my-6 md:my-8" />
+      <Section1Kako section={section1} className={"py-10"} />
+      <Section2Kako section={section2} />
+      <Section1Kako section={section3} className={"py-10"} />
+      <Section3Kako section={section4} />
+      <Questions data={json.faqs} />
+      <Section5Kako section={section5} />
     </main>
   );
 }

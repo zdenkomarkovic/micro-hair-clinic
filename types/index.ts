@@ -90,3 +90,38 @@ export type PageData = {
     | { title: string; text?: string; person: ReviewItem[] };
   finalCta: FinalCtaType;
 };
+
+export type HeroSection = {
+  heading: string;
+  subtitle: string;
+  image: string;
+  alt: string;
+  bullets: string[];
+};
+
+export type BlogItem = {
+  title: string;
+  text: string;
+  slug: string;
+  img: string;
+  button: string;
+};
+
+export type BlogSection = {
+  title: string;
+  blogs: BlogItem[];
+};
+
+export type FinalCta = {
+  title: string;
+  text: string;
+  button: string;
+};
+
+export type BlogPage = {
+  slug: string;
+  title: string;
+  hero: HeroSection;
+  blog: BlogSection;
+  finalCta: FinalCta;
+};
