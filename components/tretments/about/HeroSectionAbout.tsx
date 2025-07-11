@@ -19,7 +19,7 @@ export function HeroSectionAbout({ data }: Props) {
     <section className="hero relative h-screen md:h-[85dvh]">
       <div className="absolute left-0 right-0 top-0  z-0">
         <Image
-          src={"/images/MOM Day 2-206-min.jpg"}
+          src={"/images/MOM Day 2-134.jpg"}
           width={2000}
           height={1000}
           alt={data.alt}

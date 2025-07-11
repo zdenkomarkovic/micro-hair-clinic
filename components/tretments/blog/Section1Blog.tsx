@@ -30,7 +30,7 @@ export function Section1Blog({ data, direction }: Props) {
                       width={500}
                       height={500}
                       alt={blog.slug}
-                      className="w-full"
+                      className="w-full aspect-[16/8] object-cover"
                     />
                     <p className="p-2 md:p-4">{blog.text}</p>
                     <Link
