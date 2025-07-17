@@ -6,6 +6,7 @@ const navTitles: Record<Locale, Record<string, string>> = {
     tretmani: "Tretmaji",
     about: "O nas",
     blog: "Blog",
+    galerija: "Galerija",
     contact: "Kontakt",
   },
   de: {
@@ -13,6 +14,7 @@ const navTitles: Record<Locale, Record<string, string>> = {
     behandlungen: "Behandlungen",
     about: "Über uns",
     blog: "Blog",
+    galerija: "Galerie",
     contact: "Kontakt",
   },
   en: {
@@ -20,6 +22,7 @@ const navTitles: Record<Locale, Record<string, string>> = {
     treatments: "Treatments",
     about: "About Us",
     blog: "Blog",
+    galerija: "Gallery",
     contact: "Contact",
   },
 };
@@ -30,6 +33,7 @@ const routes: Record<Locale, Record<string, string>> = {
     tretmani: "/sl/tretmani",
     about: "/sl/about",
     blog: "/sl/blog",
+    galerija: "/sl/galerija",
     contact: "/sl/kontakt",
   },
   de: {
@@ -37,6 +41,7 @@ const routes: Record<Locale, Record<string, string>> = {
     behandlungen: "/de/behandlungen",
     about: "/de/about",
     blog: "/de/blog",
+    galerija: "/sl/galerija",
     contact: "/de/kontakt",
   },
   en: {
@@ -44,6 +49,7 @@ const routes: Record<Locale, Record<string, string>> = {
     treatments: "/en/treatments",
     about: "/en/about",
     blog: "/en/blog",
+    galerija: "/en/galerija",
     contact: "/en/kontakt",
   },
 };
