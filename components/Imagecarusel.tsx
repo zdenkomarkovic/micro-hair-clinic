@@ -22,9 +22,9 @@ const ImageCarusel = ({ images, py }: Props) => {
   const [selectedImage, setSelectedImage] = useState<string | null>(null);
 
   return (
-    <div className={` ${py} container pl-10 md:pl-56 mx-auto `}>
+    <div className={` ${py} container md:pl-56 mx-auto `}>
       <Carousel
-        className="w-screen px-0 overflow-x-visible"
+        className="md:w-screen px-0 overflow-x-visible"
         opts={{
           loop: true,
           direction: "rtl",
@@ -38,7 +38,7 @@ const ImageCarusel = ({ images, py }: Props) => {
           {images.map((image, i) => (
             <CarouselItem
               key={i}
-              className="pl-1 basis-[83%] md:basis-[45%] lg:basis-[24%]"
+              className="pl-1 basis-[88%] md:basis-[45%] lg:basis-[24%]"
             >
               <div className="px-1 flex flex-col">
                 <ImageCard
@@ -49,8 +49,8 @@ const ImageCarusel = ({ images, py }: Props) => {
             </CarouselItem>
           ))}
         </CarouselContent>
-        <CarouselPrevious />
-        <CarouselNext />
+        <CarouselPrevious className="hidden md:flex" />
+        <CarouselNext className="hidden md:flex" />
       </Carousel>
 
       {selectedImage && (

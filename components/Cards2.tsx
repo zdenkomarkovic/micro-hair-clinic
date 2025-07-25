@@ -31,14 +31,14 @@ const images: string[] = [
 const Cards2 = ({ data, text }: Props) => {
   return (
     <div className=" overflow-hidden">
-      <div className="container px-5 mx-auto pt-10 pb-5 md:pt-16 border-b-2 space-y-10 md:space-y-10">
-        <div className="grid md:grid-cols-3 text-center gap-6 md:gap-8 items-stretch">
+      <div className="container md:px-5 mx-auto pt-10 pb-5 md:pt-16 border-b-2 space-y-10 md:space-y-10">
+        <div className="grid md:grid-cols-3 text-center gap-6 md:gap-8 items-stretch px-2 md:px-0">
           {data.map((item, i) => {
             const Icon = ikonice[i % ikonice.length];
             return <OneCard key={i} item={item} icon={Icon} />;
           })}
         </div>
-        <div className="space-y-6">
+        <div className="space-y-6 px-2 md:px-0">
           <h2>{text.title}</h2>
           <p>{text.text}</p>
 
