@@ -5,6 +5,7 @@ import { z } from "zod";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { sendMail } from "@/lib/send-mail";
 import { toast } from "sonner";
+import { useGoogleAnalytics } from "@/hooks/useGoogleAnalytics";
 import {
   Form,
   FormField,
@@ -42,6 +43,7 @@ export default function Contact({ section }: Props) {
     },
   });
   const isLoading = form.formState.isSubmitting;
+  const { trackFormSubmission } = useGoogleAnalytics();
   const onSubmit = async (values: z.infer<typeof contactFormSchema>) => {
     const mailText = `Ime: ${values.name}\n Telefon: ${values.phone}\n Email: ${values.email}\n Poruka: ${values.message}`;
     const response = await sendMail({
@@ -52,6 +54,7 @@ export default function Contact({ section }: Props) {
 
     if (response?.messageId) {
       toast.success("Application Submitted Successfully.");
+      trackFormSubmission('contact_form');
     } else {
       toast.error("Failed To send application.");
     }

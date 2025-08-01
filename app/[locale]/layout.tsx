@@ -9,6 +9,7 @@ import { isValidLocale } from "@/lib/locale";
 import { LocaleProvider } from "../../lib/LocaleContext";
 import { Metadata } from "@/node_modules/next/types";
 import CallButton from "@/components/CallButton";
+import GoogleAnalyticsComponent from "@/components/GoogleAnalytics";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -65,6 +66,9 @@ export default async function LocaleLayout({
           <CallButton />
           <Footer locale={locale} rights={rights} message={message} />
         </LocaleProvider>
+        {process.env.NEXT_PUBLIC_GA_ID && (
+          <GoogleAnalyticsComponent gaId={process.env.NEXT_PUBLIC_GA_ID} />
+        )}
       </body>
     </html>
   );

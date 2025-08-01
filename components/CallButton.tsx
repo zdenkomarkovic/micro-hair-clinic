@@ -3,10 +3,12 @@ import React, { useEffect, useState } from "react";
 import { FaViber } from "react-icons/fa";
 import { usePathname } from "next/navigation";
 import { IoLogoWhatsapp } from "react-icons/io5";
+import { useGoogleAnalytics } from "@/hooks/useGoogleAnalytics";
 
 const CallButton = () => {
   const [showCallButton, setShowCallButton] = useState(true);
   const pathname = usePathname();
+  const { trackPhoneCall } = useGoogleAnalytics();
 
   useEffect(() => {
     const heroSection = document.querySelector(".hero");
@@ -45,10 +47,15 @@ const CallButton = () => {
         <a
           href="viber://contact?number=%2B381645400100"
           className="p-1 hover:scale-110"
+          onClick={() => trackPhoneCall('viber')}
         >
           <FaViber className="bg-purple-600  rounded-full w-10 h-10 text-white " />
         </a>
-        <a href="https://wa.me/381645400100" className="p-1 hover:scale-110">
+        <a 
+          href="https://wa.me/381645400100" 
+          className="p-1 hover:scale-110"
+          onClick={() => trackPhoneCall('whatsapp')}
+        >
           <IoLogoWhatsapp className="bg-green-500 text-white p-[1px] rounded-full w-10 h-10" />
         </a>
       </div>
