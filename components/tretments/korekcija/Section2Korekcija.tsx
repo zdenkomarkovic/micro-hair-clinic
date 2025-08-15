@@ -75,13 +75,6 @@ export function Section2Korekcija({ section }: Props) {
               ))}
             </div>
           )}
-          {section.bullets && (
-            <ul className="list-disc list-inside mb-4">
-              {section.bullets.slice(2, 4).map((b, i) => (
-                <li key={i}>{b}</li>
-              ))}
-            </ul>
-          )}
         </div>
       </div>
     </section>

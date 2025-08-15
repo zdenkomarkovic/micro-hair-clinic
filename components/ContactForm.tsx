@@ -54,7 +54,7 @@ export default function Contact({ section }: Props) {
 
     if (response?.messageId) {
       toast.success("Application Submitted Successfully.");
-      trackFormSubmission('contact_form');
+      trackFormSubmission("contact_form");
     } else {
       toast.error("Failed To send application.");
     }
@@ -76,7 +76,7 @@ export default function Contact({ section }: Props) {
                   <FormLabel className="lg:text-xl">{section.label1}</FormLabel>
 
                   <FormControl>
-                    <Input placeholder="Unesite ime i prezime" {...field} />
+                    <Input placeholder={section.placeholder1} {...field} />
                   </FormControl>
                   <FormMessage />
                 </FormItem>

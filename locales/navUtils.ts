@@ -62,7 +62,7 @@ const treatmentSubmenu: Record<Locale, { title: string; link: string }[]> = {
       link: "/sl/smp-za-plesavost",
     },
     {
-      title: "Redčenje las – zgostitev z ali brez presaditve",
+      title: "Redki lasje – zgostitev brez presaditve ",
       link: "/sl/smp-povecanje-gostote-redki-lasje",
     },
     {
