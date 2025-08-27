@@ -30,18 +30,18 @@ const Hero = ({ title, subtitle, text, button }: HeroProps) => {
       <div className="z-10 container mx-auto px-2 md:px-4 relative h-full flex flex-col justify-between py-2 md:py-10">
         <div className="flex-grow flex items-center">
           <div className="">
-            <h1 className="text-white ">{title}</h1>
+            <h1 className="text-primary ">{title}</h1>
           </div>
         </div>
         <div className="">
-          <h2 className="pt-40 pb-10 text-lg text-white md:text-3xl">
+          <h2 className="pt-40 pb-10 text-lg text-primary-foreground md:text-3xl">
             {subtitle}
           </h2>
 
           <div className="flex flex-col md:flex-row gap-2 md:gap-10 md:px-32 items-center ">
-            <Button className="bg-primary md:text-xl md:px-6 md:py-5">
+            <button className="bg-secondary hover:brightness-90 transition duration-300 mx-auto text-white px-2 md:px-4 py-1 md:py-2 rounded-lg text-nowrap">
               {button}
-            </Button>
+            </button>
             <p className="text-white text-xs md:text-lg">{text}</p>
           </div>
         </div>

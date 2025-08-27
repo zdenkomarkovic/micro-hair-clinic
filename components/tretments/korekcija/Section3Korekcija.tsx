@@ -76,7 +76,7 @@ export function Section3Korekcija({ section }: Props) {
           )}
           <a
             href={"https://wa.me/38651479000"}
-            className="mx-auto bg-primary px-3 md:px-6 py-1 md:py-3 text-white flex items-center text-nowrap gap-1 md:gap-3 w-fit"
+            className="mx-auto bg-secondary hover:brightness-90 px-3 md:px-6 py-1 md:py-3 text-white flex items-center text-nowrap gap-1 md:gap-3 w-fit"
           >
             {section.link?.label}{" "}
             <FaAngleDoubleRight className="md:w-6 md:h-6" />

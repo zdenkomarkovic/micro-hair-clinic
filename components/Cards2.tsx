@@ -86,9 +86,9 @@ const OneCard = ({
       transition={{ duration: 0.5 }}
       className="transition-shadow duration-300 rounded-lg hover:shadow-lg"
     >
-      <Card className="h-full bg-gray-50">
+      <Card className="h-full bg-background">
         <CardHeader className="flex flex-col items-center ">
-          <Icon className="w-6 md:w-8 h-6 md:h-8 text-primary" />
+          <Icon className="w-6 md:w-8 h-6 md:h-8 text-secondary" />
           <h2>{item.title}</h2>
         </CardHeader>
         <CardContent className="">
@@ -107,7 +107,7 @@ const OneCard = ({
           >
             <Link
               href={item.link}
-              className="flex items-center gap-2 text-primary bg-gray-200 px-3 py-1 cursor-pointer rounded-md"
+              className="flex items-center gap-2 text-white bg-secondary px-3 py-1 cursor-pointer rounded-md"
             >
               {item.button} <FaAngleDoubleRight />
             </Link>

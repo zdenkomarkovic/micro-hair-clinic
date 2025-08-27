@@ -9,7 +9,7 @@ type Props = {
 
 export function Section3Oziljci({ section, direction }: Props) {
   return (
-    <section id={section.id} className="py-4 md:py-10 px-4">
+    <section id={section.id} className="py-4 md:py-10 px-4 bg-background">
       <div
         className={`${direction} container px-2 md:px-4 mx-auto flex flex-col md:flex-row-reverse items-center md:gap-20 `}
       >

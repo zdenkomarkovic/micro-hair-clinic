@@ -8,7 +8,10 @@ type Props = {
 
 export function Section2Korekcija({ section }: Props) {
   return (
-    <section id={section.id} className=" py-4 md:py-10 px-2 md:px-4">
+    <section
+      id={section.id}
+      className=" py-4 md:py-10 px-2 md:px-4 bg-background"
+    >
       <div className="container px-2 md:px-40 mx-auto grid grid-cols-1 md:grid-cols-3 items-center md:gap-3 ">
         <div className="order-2 md:order-1 ">
           {section.image && (

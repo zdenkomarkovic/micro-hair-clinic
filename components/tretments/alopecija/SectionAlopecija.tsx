@@ -23,7 +23,7 @@ export function SectionAlopecija({ section }: Props) {
             {section.bullets.map((b, i) => (
               <div
                 key={i}
-                className="flex flex-col justify-between h-full bg-primary-foreground border rounded-lg overflow-hidden shadow-md"
+                className="flex flex-col justify-between h-full bg-background border rounded-lg overflow-hidden shadow-md"
               >
                 <p className="font-bold p-2.5 md:p-4">{b}</p>
               </div>

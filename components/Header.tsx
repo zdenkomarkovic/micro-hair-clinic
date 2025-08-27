@@ -45,11 +45,7 @@ export default function Header({ locale }: { locale: string }) {
 
   return (
     <motion.header
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        isScrolled
-          ? "bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 shadow-md"
-          : "bg-transparent text-white"
-      }`}
+      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 bg-white text-primary`}
       initial={{ y: -100 }}
       animate={{ y: 0 }}
       transition={{ type: "spring", stiffness: 300, damping: 30 }}
@@ -59,20 +55,11 @@ export default function Header({ locale }: { locale: string }) {
           <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
             <Link href="/" className="">
               <Image
-                src={"/images/mhclogo.png"}
-                alt="micro-hair-clinic"
-                width={150}
-                height={200}
-                className={`w-[100px] md:w-[150px] ${isScrolled && "hidden"}`}
-              />
-              <Image
                 src={"/images/mhc3 2.PNG"}
                 alt="micro-hair-clinic"
                 width={150}
                 height={200}
-                className={`w-[100px] md:w-[150px] ${
-                  isScrolled ? "block" : "hidden"
-                }`}
+                className={`w-[100px] md:w-[150px]`}
               />
             </Link>
           </motion.div>
@@ -84,7 +71,7 @@ export default function Header({ locale }: { locale: string }) {
                   <Link
                     key={i}
                     href={item.link}
-                    className="hover:text-primary transition-colors uppercase"
+                    className=" hover:text-secondary transition-colors uppercase"
                   >
                     {item.title}
                   </Link>
@@ -94,7 +81,7 @@ export default function Header({ locale }: { locale: string }) {
               if ("list" in item) {
                 return (
                   <div key={i} className="relative group">
-                    <span className="hover:text-primary transition-colors uppercase cursor-pointer flex gap-1.5">
+                    <span className="hover:text-secondary transition-colors uppercase cursor-pointer flex gap-1.5">
                       {item.title}
                       <ChevronDownIcon />
                     </span>

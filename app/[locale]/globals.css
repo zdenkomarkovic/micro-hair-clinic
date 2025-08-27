@@ -24,15 +24,15 @@ h3 {
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
+    --background: 210, 22%, 96%;
     --foreground: 222.2 84% 4.9%;
     --card: 0 0% 100%;
     --card-foreground: 222.2 84% 4.9%;
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
-    --primary: 167, 73%, 60%;
-    --primary-foreground: 210 40% 98%;
-    --secondary: 44, 15%, 81%;
+    --primary: 0, 0%, 20%;
+    --primary-foreground: 205, 24%, 55%;
+    --secondary: 208, 31%, 42%;
     --secondary-foreground: 222.2 47.4% 11.2%;
     --muted: 210 40% 96.1%;
     --muted-foreground: 215.4 16.3% 46.9%;
@@ -54,4 +54,11 @@ h3 {
 
 .scrollbar-hidden::-webkit-scrollbar {
   display: none;
+}
+
+.firstbg {
+  background-color: #4a6d8c;
+}
+.firsttext {
+  color: #4a6d8c;
 }

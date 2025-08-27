@@ -8,7 +8,10 @@ type Props = {
 
 export function Section6Oziljci({ section }: Props) {
   return (
-    <section id={section.id} className="py-7 md:py-10 px-4 text-center">
+    <section
+      id={section.id}
+      className="py-7 md:py-10 px-4 text-center bg-background"
+    >
       <h2 className="mb-4">{section.title}</h2>
       <div className="container px-2 md:px-4 mx-auto flex flex-col md:flex-row items-center md:gap-20 ">
         <div className="mx-auto flex flex-col">
@@ -33,7 +36,7 @@ export function Section6Oziljci({ section }: Props) {
           {" "}
           <a
             href={"https://wa.me/381645400100"}
-            className="bg-primary px-3 md:px-6 py-1 md:py-3 text-white flex items-center text-nowrap gap-1 md:gap-3 "
+            className="bg-secondary hover:brightness-90 px-3 md:px-6 py-1 md:py-3 text-white flex items-center text-nowrap gap-1 md:gap-3 "
           >
             {section.link?.label}{" "}
             <FaAngleDoubleRight className="md:w-6 md:h-6" />

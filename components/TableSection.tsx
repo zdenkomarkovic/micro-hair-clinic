@@ -13,7 +13,7 @@ export default function TableSection({ data }: Props) {
   return (
     <section
       id={data.id}
-      className="py-3 md:py-6 mx-auto container px-2 md:px-32 text-center"
+      className="py-3 md:py-6 mx-auto container px-2 md:px-32 text-center "
     >
       <h2 className="mb-4 md:mb-10">{data.title}</h2>
       <table className="w-full border border-gray-300 text-sm md:text-xl">

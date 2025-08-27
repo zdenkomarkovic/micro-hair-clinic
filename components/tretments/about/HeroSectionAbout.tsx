@@ -29,8 +29,8 @@ export function HeroSectionAbout({ data }: Props) {
       <div className="absolute top-0 left-0 w-full h-full bg-black/30 z-[1]" />
       <div className="container relative flex flex-col justify-between px-2 md:px-4 mx-auto pt-64 md:pt-96 md:pb-32 h-full text-center z-10">
         <div>
-          <h1 className="text-white z-50">{data.heading}</h1>
-          <p className="hidden md:block text-lg mb-2 md:text-2xl z-50 text-white">
+          <h1 className="text-primary z-50">{data.heading}</h1>
+          <p className="hidden text-primary-foreground md:block text-lg mb-2 md:text-2xl z-50">
             {data.subtitle}
           </p>
         </div>

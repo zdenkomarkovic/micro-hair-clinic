@@ -80,12 +80,12 @@ export default function Footer({
               </a>
             </div>
           </div>
-          <div className="text-center">
+          <div className="text-center text-primary-foreground">
             <p className="pb-3">{message}</p>
             {navList.map((item, i) => {
               return (
                 <Link key={i} href={item.link} className=" text-base ">
-                  <p className="py-1 transform  hover:scale-105 transition duration-300">
+                  <p className="py-1 transform  hover:scale-105 hover:text-white transition duration-300 ">
                     {item.title}
                   </p>
                 </Link>
@@ -110,7 +110,10 @@ export default function Footer({
           <p>&copy; 2025 Micro Hair Clinic. {rights}</p>
           <a href="https://www.manikamwebsolutions.com/" target="_blank">
             izrada sajta:{" "}
-            <span className="font-bold "> ManikamWebSolutions</span>
+            <span className="font-bold text-primary-foreground hover:text-white">
+              {" "}
+              ManikamWebSolutions
+            </span>
           </a>{" "}
         </div>
       </div>

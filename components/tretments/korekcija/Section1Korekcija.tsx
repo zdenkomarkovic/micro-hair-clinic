@@ -78,7 +78,7 @@ export function Section1Korekcija({ section }: Props) {
       )}
       <a
         href={section.link?.href}
-        className="bg-primary px-6 py-3 text-white flex items-center gap-3 w-fit mx-auto"
+        className="bg-secondary hover:brightness-90 rounded-lg px-6 py-3 text-white flex items-center gap-3 w-fit mx-auto"
       >
         {section.link?.label} <FaAngleDoubleRight className="w-6 h-6" />
       </a>

@@ -18,7 +18,7 @@ export function Section1({ section }: Props) {
             {section.bullets.map((b, i) => (
               <div
                 key={i}
-                className="flex flex-col justify-between h-full bg-primary-foreground border rounded-lg overflow-hidden"
+                className="flex flex-col justify-between h-full bg-background border rounded-lg overflow-hidden"
               >
                 <p className="font-bold p-4">{b}</p>
                 {section.images?.[i] && (

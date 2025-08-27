@@ -8,7 +8,7 @@ type Props = {
 
 export function Section2Alopecija({ section }: Props) {
   return (
-    <section id={section.id} className="py-4 md:py-10  px-4">
+    <section id={section.id} className="py-4 md:py-10  px-4 bg-background">
       <div className="container px-2 md:px-4 mx-auto grid grid-cols-1 md:grid-cols-3 items-center md:gap-20 ">
         <div className="mx-auto flex flex-col col-span-2">
           <h2 className="mb-4 md:mb-6">{section.title}</h2>
@@ -73,7 +73,7 @@ export function Section2Alopecija({ section }: Props) {
           )}
           <a
             href={"https://wa.me/381645400100"}
-            className="bg-primary px-3 md:px-6 py-1 md:py-3 text-white flex items-center text-nowrap gap-1 md:gap-3 w-fit mx-auto mt-4"
+            className="bg-secondary hover:brightness-90 px-3 md:px-6 py-1 md:py-3 text-white flex items-center text-nowrap gap-1 md:gap-3 w-fit mx-auto mt-4"
           >
             {section.link?.label}{" "}
             <FaAngleDoubleRight className="md:w-6 md:h-6" />

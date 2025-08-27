@@ -9,7 +9,10 @@ type Props = {
 
 export function Section2Zenske({ section, direction }: Props) {
   return (
-    <section id={section.id} className="py-4 md:py-10 px-2 md:px-4">
+    <section
+      id={section.id}
+      className="py-4 md:py-10 px-2 md:px-4 bg-background"
+    >
       <div
         className={`${direction} container px-2 md:px-4 mx-auto grid md:grid-cols-2 items-center md:gap-20 `}
       >

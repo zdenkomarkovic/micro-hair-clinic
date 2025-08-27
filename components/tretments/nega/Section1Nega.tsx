@@ -15,7 +15,7 @@ export function Section1Nega({ section }: Props) {
         {section.title2}
       </p>
       <div className="container px-2 md:px-4 mx-auto grid md:grid-cols-2 gap-4 md:gap-8 ">
-        <div className="mx-auto w-full flex flex-col border rounded-lg p-4 md:p-6 shadow-lg">
+        <div className="bg-background mx-auto w-full flex flex-col border rounded-lg p-4 md:p-6 shadow-lg">
           {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(0, 1).map((p, i) => (
@@ -35,7 +35,7 @@ export function Section1Nega({ section }: Props) {
             </ul>
           )}
         </div>
-        <div className="mx-auto w-full flex flex-col justify-between  border rounded-lg p-4 md:p-6 shadow-lg">
+        <div className="bg-background mx-auto w-full flex flex-col justify-between  border rounded-lg p-4 md:p-6 shadow-lg">
           {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
               {section.text.slice(1, 2).map((p, i) => (

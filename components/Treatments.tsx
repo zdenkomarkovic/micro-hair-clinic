@@ -30,9 +30,9 @@ const Treatments = ({ data }: Props) => {
               <motion.div
                 whileInView={{ y: [100, 50, 0], opacity: [0, 0.5, 1] }}
                 transition={{ duration: 0.3 }}
-                className="flex flex-col justify-between h-full border rounded-xl  overflow-hidden bg-gray-50"
+                className="flex flex-col justify-between h-full border rounded-xl  overflow-hidden bg-background"
               >
-                <h3 className="transition-transform duration-300 hover:scale-105 h-1/5 p-3  md:p-6">
+                <h3 className="transition-transform text-primary duration-300 hover:scale-105 h-1/5 p-3  md:p-6">
                   {tretman.title}
                 </h3>{" "}
                 <div className=" overflow-hidden">

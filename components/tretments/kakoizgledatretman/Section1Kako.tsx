@@ -36,7 +36,7 @@ export function Section1Kako({ section, className = "" }: Props) {
             {section.button && (
               <a
                 href="viber://chat?number=%2B38651479000"
-                className=" flex gap-3 items-center bg-primary py-1 px-3"
+                className="text-white flex gap-3 items-center bg-secondary hover:brightness-90 py-2 px-4 rounded-lg"
               >
                 {section.button} <FaAngleDoubleRight className="w-6 h-6" />
               </a>

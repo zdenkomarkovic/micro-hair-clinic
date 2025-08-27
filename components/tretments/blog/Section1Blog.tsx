@@ -19,7 +19,7 @@ export function Section1Blog({ data, direction }: Props) {
               {data.blogs.map((blog, i) => (
                 <div
                   key={i}
-                  className="flex flex-col justify-between border rounded-lg shadow-lg pb-3 md:pb-6 text-center"
+                  className="flex flex-col justify-between border rounded-lg shadow-lg pb-3 md:pb-6 text-center bg-background"
                 >
                   <p className="p-3 md:p-6 text-primary font-bold text-xl md:text-2xl">
                     {blog.title}
@@ -35,7 +35,7 @@ export function Section1Blog({ data, direction }: Props) {
                     <p className="p-2 md:p-4">{blog.text}</p>
                     <Link
                       href={blog.slug}
-                      className="bg-primary px-3 py-1 rounded-sm text-white"
+                      className="bg-secondary hover:brightness-90 px-4 py-2 rounded-sm text-white"
                     >
                       {blog.button}
                     </Link>

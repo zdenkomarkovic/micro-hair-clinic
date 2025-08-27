@@ -9,7 +9,7 @@ type Props = {
 
 export function Section3Povecanje({ section }: Props) {
   return (
-    <section id={section.id} className="py-3 md:py-10 px-4">
+    <section id={section.id} className="py-3 md:py-10 px-4 bg-background">
       <div className="container px-2 md:px-4 mx-auto grid md:grid-cols-2  md:gap-20 ">
         <div className="mx-auto flex flex-col">
           <h2 className=" mb-4">{section.title}</h2>
@@ -58,7 +58,7 @@ export function Section3Povecanje({ section }: Props) {
 
           <a
             href={"https://wa.me/381645400100"}
-            className="bg-primary mb-5 px-3 md:px-6 py-1 md:py-3 text-white flex items-center text-nowrap gap-1 md:gap-3 w-fit"
+            className="bg-secondary hover:brightness-90 mb-5 px-3 md:px-6 py-1 md:py-3 text-white rounded-lg flex items-center text-nowrap gap-1 md:gap-3 w-fit"
           >
             {section.link?.label}{" "}
             <FaAngleDoubleRight className="md:w-6 md:h-6" />

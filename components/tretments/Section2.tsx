@@ -9,7 +9,10 @@ type Props = {
 
 export function Section2({ section }: Props) {
   return (
-    <section id={section.id} className="mb:py-10 px-2 md:px-8">
+    <section
+      id={section.id}
+      className="py-6 md:py-10 px-2 md:px-8 bg-background"
+    >
       <h2 className="mb-4 md:mb-12">{section.title}</h2>
       <div className="container px-2 md:px-4 mx-auto grid md:grid-cols-7 md:flex-row gap-4 md:gap-20 ">
         <div className="mx-auto md:col-span-5">
@@ -18,7 +21,7 @@ export function Section2({ section }: Props) {
               {section.bullets.map((b, i) => (
                 <li key={i} className="flex gap-3 items-start">
                   <span className="pt-[2px] text-primary">
-                    <FaCircleChevronRight className="w-6 h-6" />
+                    <FaCircleChevronRight className="w-6 h-6 text-secondary" />
                   </span>
                   <span>{b}</span>
                 </li>
