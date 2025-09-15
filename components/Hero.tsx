@@ -23,7 +23,7 @@ const Hero = ({ title, subtitle, text, button }: HeroProps) => {
         className="absolute top-0 left-0 w-full h-full object-cover z-0"
       >
         <source src={heroVideo} type="video/mp4" />
-        Your browser does not support the video tag.
+        Your browserr does not support the video tag.
       </video>
       {/* Overlay (opcionalno) */}
       <div className="z-10 container mx-auto px-2 md:px-4 relative h-full flex flex-col justify-between py-2 md:py-10">
