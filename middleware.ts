@@ -41,18 +41,17 @@ export function middleware(request: NextRequest) {
   );
 
   if (pathLocale) {
+    // Ako je već na ispravnoj lokalizovanoj ruti, samo nastavi
     nextLocale = pathLocale;
     response = NextResponse.next();
   } else {
     const isFirstVisit = !request.cookies.has("NEXT_LOCALE");
     const locale = isFirstVisit ? getLocale(request, i18n) : defaultLocale;
 
-    let newPath = `/${locale}${pathname}`;
+    let newPath = `/${locale}${pathname === '/' ? '/' : pathname}`;
     if (request.nextUrl.search) newPath += request.nextUrl.search;
 
-    const url = basePath + newPath;
-
-    response = NextResponse.redirect(new URL(url, request.url));
+    response = NextResponse.redirect(new URL(newPath, request.url));
     nextLocale = locale;
   }
 
@@ -64,6 +63,8 @@ export function middleware(request: NextRequest) {
 }
 
 export const config = {
-  matcher:
-    "/((?!api|_next/static|_next/image|images/|favicon.ico|.*\\.svg$).*)",
+  matcher: [
+    '/',
+    '/((?!api|_next/static|_next/image|favicon.ico|images/|.*\\.svg$).*)'
+  ],
 };

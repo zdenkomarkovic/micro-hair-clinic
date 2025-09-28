@@ -10,6 +10,7 @@ import { LocaleProvider } from "../../lib/LocaleContext";
 import { Metadata } from "@/node_modules/next/types";
 import CallButton from "@/components/CallButton";
 import GoogleAnalyticsComponent from "@/components/GoogleAnalytics";
+import StructuredData from "@/components/StructuredData";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -22,17 +23,40 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SMP mikropigmentacija lasišča – Micro Hair Clinic",
+  title: "Mikropigmentacija lasišča Ljubljana | SMP tretmani | Hair Tattoo Slovenija",
   description:
-    "Odkrijte SMP – neinvaziven tretma za videz gostih, obritih las. Brez operacije, zdravil ali brazgotin. Rezervirajte posvet!",
+    "Profesionalni SMP tretmani u Ljubljani. Mikropigmentacija lasišča za plešavost, brazgotine i redke lasje. Tetovaža lasišča bez boli - rezervirajte posvet!",
   icons: {
     icon: "/images/android-chrome-192x192.png",
     apple: "/images/apple-touch-icon.png",
   },
-
-  keywords: [],
+  keywords: [
+    "mikropigmentacija lasišča",
+    "hair tattoo slovenija", 
+    "tetovaža lasišča ljubljana",
+    "smp slovenija",
+    "smp ljubljana",
+    "scalp micropigmentacija",
+    "plesavost tretman",
+    "smp tretman ljubljana",
+    "mikropigmentacija ljubljana",
+    "hair tattoo ljubljana"
+  ],
   alternates: {
-    canonical: "https://",
+    canonical: "https://microhairclinic.si",
+  },
+  openGraph: {
+    title: "Mikropigmentacija lasišča Ljubljana | SMP tretmani",
+    description: "Profesionalni SMP tretmani u Ljubljani. Mikropigmentacija lasišča za plešavost, brazgotine i redke lasje.",
+    url: "https://microhairclinic.si",
+    siteName: "Micro Hair Clinic",
+    locale: "sl_SI",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Mikropigmentacija lasišča Ljubljana | SMP tretmani",
+    description: "Profesionalni SMP tretmani u Ljubljani. Mikropigmentacija lasišča za plešavost, brazgotine i redke lasje.",
   },
 };
 
@@ -57,6 +81,9 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale} dir={getDirection(locale)}>
+      <head>
+        <StructuredData locale={locale} />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased text-muted-foreground bg- text-base md:text-xl`}
       >
