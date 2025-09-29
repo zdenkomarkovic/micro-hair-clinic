@@ -15,11 +15,12 @@ export function Section5({ section }: Props) {
         <div className="flex flex-col-reverse md:flex-row-reverse gap-6 md:gap-20">
           <div className="md:w-1/3 ">
             <Image
-              src="/images/srdjanartist.JPG"
+              src="/optimized/srdjanartist.webp"
               width={700}
               height={700}
               alt="srdjan micro hair clinic"
               className="w-full rounded-lg "
+              unoptimized
             />
           </div>
           <div className="md:w-2/3 flex flex-col justify-between">

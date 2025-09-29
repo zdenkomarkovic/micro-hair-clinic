@@ -17,11 +17,12 @@ export function Section2Korekcija({ section }: Props) {
           {section.image && (
             <div className="text-center">
               <Image
-                src={"/images/a7c5e3b0-8064-4fb5-98a8-c96ece3ecc87.JPG"}
+                src={"/optimized/a7c5e3b0-8064-4fb5-98a8-c96ece3ecc87.webp"}
                 width={500}
                 height={500}
                 alt={section.image.alt}
                 className="rounded-lg w-full shadow aspect-[2/3] object-cover"
+                unoptimized
               />
             </div>
           )}

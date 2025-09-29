@@ -4,8 +4,8 @@
   "hero": {
     "heading": "SMP za brazgotine – presaditve, poškodbe in KOREKCIJA LASIŠČA",
     "subtitle": "Prekrivanje brazgotin na temenu in zatilju s pomočjo mikropigmentacije – brez operacije, brez bolečin, brez okrevanja.",
-    "image": "/images/smp za brazgotine-min.JPG",
-    "image2": "/images/brazgotinemob.png",
+    "image": "/optimized/smp za brazgotine-min.webp",
+    "image2": "/optimized/brazgotinemob.webp",
 
     "alt": "SMP rezultat – prekrita brazgotina na lasišču",
     "ctas": [
@@ -32,7 +32,7 @@
       ],
       "text": ["Brazgotine na lasišču najpogosteje nastanejo zaradi:"],
       "image": {
-        "src": "/images/IMG_9103-min.jpeg",
+        "src": "/optimized/IMG_9103-min.webp",
         "alt": "Vrste brazgotin na lasišču"
       }
     },
@@ -49,7 +49,7 @@
         "Tretma je možen tudi, če so lasje prisotni (npr. po FUE na zatilju)"
       ],
       "image": {
-        "src": "/images/IMG_9107-min.jpeg",
+        "src": "/optimized/IMG_9107-min.webp",
         "alt": "Pred in po SMP tretmaju za brazgotino po presaditvi"
       }
     },
@@ -86,7 +86,7 @@
       ],
       "text": ["Ne glede na izvor brazgotine SMP omogoča:"],
       "image": {
-        "src": "/images/IMG_9110-min.jpeg",
+        "src": "/optimized/IMG_9110-min.webp",
         "alt": "SMP tretma za kamuflažo brazgotine na glavi"
       }
     },
@@ -100,23 +100,23 @@
         "Popravek slabo izvedenega SMP tretmaja"
       ],
       "gallery": [
-        "/images/IMG_9118-min.jpeg",
-        "/images/IMG_9102-min.jpeg",
-        "/images/IMG_9103-min.jpeg",
-        "/images/IMG_9104-min.jpeg",
-        "/images/IMG_9105-min.jpeg",
-        "/images/IMG_9106-min.jpeg",
-        "/images/IMG_9107-min.jpeg",
-        "/images/IMG_9108-min.jpeg",
-        "/images/IMG_9109-min.jpeg",
-        "/images/IMG_9110-min.jpeg",
-        "/images/IMG_9111-min.jpeg",
-        "/images/IMG_9112-min.jpeg",
-        "/images/IMG_9113-min.jpeg",
-        "/images/IMG_9114-min.jpeg",
-        "/images/IMG_9115-min.jpeg",
-        "/images/IMG_9116-min.jpeg",
-        "/images/IMG_9117-min.jpeg"
+        "/optimized/IMG_9118-min.webp",
+          "/optimized/IMG_9102-min.webp",
+        "/optimized/IMG_9103-min.webp",
+        "/optimized/IMG_9104-min.webp",
+          "/optimized/IMG_9105-min.webp",
+        "/optimized/IMG_9106-min.webp",
+        "/optimized/IMG_9107-min.webp",
+        "/optimized/IMG_9108-min.webp",
+        "/optimized/IMG_9109-min.webp",
+        "/optimized/IMG_9110-min.webp",
+        "/optimized/IMG_9111-min.webp",
+        "/optimized/IMG_9112-min.webp",
+        "/optimized/IMG_9113-min.webp",
+        "/optimized/IMG_9114-min.webp",
+        "/optimized/IMG_9115-min.webp",
+        "/optimized/IMG_9116-min.webp",
+        "/optimized/IMG_9117-min.webp"
       ],
       "alt": "Kamuflaža FUE brazgotin z metodo SMP"
     },
@@ -147,7 +147,7 @@
         "Pigment se nanaša previdno, v plasteh – brez draženja ali bolečin."
       ],
       "image": {
-        "src": "/images/IMG_9116-min.jpeg",
+        "src": "/optimized/IMG_9116-min.webp",
         "alt": "Kako pigment prekrije brazgotino na glavi"
       }
     }

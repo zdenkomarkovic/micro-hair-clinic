@@ -4,8 +4,8 @@
   "hero": {
     "heading": "SMP for Scars – Transplants, Injuries, and Scalp Camouflage",
     "subtitle": "Covering scars on the crown and back of the head with micropigmentation – no surgery, no pain, no downtime.",
-    "image": "/images/smp za brazgotine-min.JPG",
-    "image2": "/images/brazgotinemob.png",
+    "image": "/optimized/smp za brazgotine-min.webp",
+    "image2": "/optimized/brazgotinemob.webp",
     "alt": "SMP result – scar coverage on the scalp",
     "ctas": [
       { "label": "Book a Free Consultation", "href": "/kontakt" },
@@ -31,7 +31,7 @@
       ],
       "text": ["Scalp scars most commonly result from:"],
       "image": {
-        "src": "/images/IMG_9103-min.jpeg",
+        "src": "/optimized/IMG_9103-min.webp",
         "alt": "Types of scalp scars"
       }
     },
@@ -48,7 +48,7 @@
         "Treatment can be done even if hair is present (e.g. after FUE in the donor area)"
       ],
       "image": {
-        "src": "/images/IMG_9107-min.jpeg",
+        "src": "/optimized/IMG_9107-min.webp",
         "alt": "Before and after SMP treatment for transplant scar"
       }
     },
@@ -85,7 +85,7 @@
       ],
       "text": ["Regardless of how the scar was caused, SMP enables:"],
       "image": {
-        "src": "/images/IMG_9110-min.jpeg",
+        "src": "/optimized/IMG_9110-min.webp",
         "alt": "SMP treatment for scar camouflage on the scalp"
       }
     },
@@ -99,23 +99,23 @@
         "Correction of poorly done SMP treatment"
       ],
       "gallery": [
-        "/images/IMG_9118-min.jpeg",
-        "/images/IMG_9102-min.jpeg",
-        "/images/IMG_9103-min.jpeg",
-        "/images/IMG_9104-min.jpeg",
-        "/images/IMG_9105-min.jpeg",
-        "/images/IMG_9106-min.jpeg",
-        "/images/IMG_9107-min.jpeg",
-        "/images/IMG_9108-min.jpeg",
-        "/images/IMG_9109-min.jpeg",
-        "/images/IMG_9110-min.jpeg",
-        "/images/IMG_9111-min.jpeg",
-        "/images/IMG_9112-min.jpeg",
-        "/images/IMG_9113-min.jpeg",
-        "/images/IMG_9114-min.jpeg",
-        "/images/IMG_9115-min.jpeg",
-        "/images/IMG_9116-min.jpeg",
-        "/images/IMG_9117-min.jpeg"
+          "/optimized/IMG_9118-min.webp",
+        "/optimized/IMG_9102-min.webp",
+        "/optimized/IMG_9103-min.webp",
+        "/optimized/IMG_9104-min.webp",
+        "/optimized/IMG_9105-min.webp",
+          "/optimized/IMG_9106-min.webp",
+        "/optimized/IMG_9107-min.webp",
+        "/optimized/IMG_9108-min.webp",
+        "/optimized/IMG_9109-min.webp",
+        "/optimized/IMG_9110-min.webp",
+        "/optimized/IMG_9111-min.webp",
+          "/optimized/IMG_9112-min.webp",
+        "/optimized/IMG_9113-min.webp",
+        "/optimized/IMG_9114-min.webp",
+        "/optimized/IMG_9115-min.webp",
+        "/optimized/IMG_9116-min.webp",
+        "/optimized/IMG_9117-min.webp"
       ],
       "alt": "FUE scar camouflage using SMP method"
     },
@@ -146,7 +146,7 @@
         "Pigment is carefully applied in layers, without irritation or pain."
       ],
       "image": {
-        "src": "/images/IMG_9116-min.jpeg",
+        "src": "/optimized/IMG_9116-min.webp",
         "alt": "How pigment covers the scar on the scalp"
       }
     }

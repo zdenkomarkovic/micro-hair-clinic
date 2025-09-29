@@ -4,8 +4,8 @@
   "hero": {
     "heading": "SMP Korrekturen – natürliches Aussehen statt schlechter Behandlung",
     "subtitle": "Eine schlechte SMP-Behandlung ist nicht das Ende. Korrekturen sind möglich – aber nicht um jeden Preis. Wir stellen das natürliche Aussehen der Kopfhaut wieder her, wenn es wirklich machbar ist.",
-    "image": "/images/neuspesni smp tretmani-min.JPG",
-    "image2": "/images/neuspesnimob.png",
+    "image": "/optimized/neuspesni smp tretmani-min.webp",
+    "image2": "/optimized/neuspesnimob.webp",
     "alt": "Korrektur einer schlecht ausgeführten Skalp-Mikropigmentierung – vorher und nachher",
     "ctas": [
       { "label": "Kostenlose Beratung buchen", "href": "/kontakt" },
@@ -69,7 +69,7 @@
         "Korrektur von Flecken und Asymmetrien"
       ],
       "image": {
-        "src": "/images/preiposle5.JPG",
+        "src": "/optimized/preiposle5.webp",
         "alt": "Korrektur einer SMP-Behandlung mit grauem Pigment"
       }
     },
@@ -112,23 +112,23 @@
         "Korrektur von SMP mit Tattoo-Technik"
       ],
       "gallery": [
-        "/images/IMG_9512-min.JPG",
-        "/images/IMG_1752-min.jpg",
-        "/images/IMG_1753-min.jpg",
-        "/images/IMG_1754-min.jpg",
-        "/images/IMG_1755-min.jpg",
-        "/images/IMG_1756-min.jpg",
-        "/images/IMG_1757-min.jpg",
-        "/images/IMG_1758-min.jpg",
-        "/images/IMG_1875.jpg",
-        "/images/IMG_2816-min.JPG",
-        "/images/IMG_2818-min.JPG",
-        "/images/IMG_2819-min.JPG",
-        "/images/IMG_2820-min.JPG",
-        "/images/IMG_2822-min.JPG",
-        "/images/IMG_9511 3-min.JPG",
-        "/images/IMG_9511-min.JPG",
-        "/images/IMG_9512 3-min.JPG"
+          "/optimized/IMG_9512-min.webp",
+        "/optimized/IMG_1752-min.webp",
+        "/optimized/IMG_1753-min.webp",
+        "/optimized/IMG_1754-min.webp",
+        "/optimized/IMG_1755-min.webp",
+          "/optimized/IMG_1756-min.webp",
+        "/optimized/IMG_1757-min.webp",
+        "/optimized/IMG_1758-min.webp",
+        "/optimized/IMG_1875.webp",
+        "/optimized/IMG_2816-min.webp",
+        "/optimized/IMG_2818-min.webp",
+        "/optimized/IMG_2819-min.webp",
+        "/optimized/IMG_2820-min.webp",
+        "/optimized/IMG_2822-min.webp",
+        "/optimized/IMG_9511 3-min.webp",
+        "/optimized/IMG_9511-min.webp",
+        "/optimized/IMG_9512 3-min.webp"
       ],
       "alt": "Korrektives SMP Ergebnis – natürliches Aussehen"
     },

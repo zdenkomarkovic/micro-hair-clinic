@@ -4,8 +4,8 @@
   "hero": {
     "heading": "SMP bei Alopezie – Lösung für fleckenhaften oder vollständigen Haarausfall",
     "subtitle": "Scalp Micropigmentation stellt das Aussehen von Haaren wieder her, selbst wenn kein Nachwachsen möglich ist – ohne Operation, ohne Schmerzen, ohne Wartezeit.",
-    "image": "/images/alopcije.jpg",
-    "image2": "/images/alopecija-mob.png",
+    "image": "/optimized/alopcije.webp",
+    "image2": "/optimized/alopecija-mob.webp",
     "alt": "SMP-Ergebnis bei einem Kunden mit Alopezie Areata",
     "ctas": [
       { "label": "Kostenlose Beratung buchen", "href": "/kontakt" },
@@ -35,15 +35,15 @@
       ],
       "images": [
         {
-          "src": "/images/preiposle2.JPG",
+          "src": "/optimized/preiposle2.webp",
           "alt": "Arten der Alopezie: Areata, Totalis, Universalis – grafische Darstellung"
         },
         {
-          "src": "/images/preiposle4.JPG",
+          "src": "/optimized/preiposle4.webp",
           "alt": "Arten der Alopezie: Areata, Totalis, Universalis – grafische Darstellung"
         },
         {
-          "src": "/images/preiposle4.JPG",
+          "src": "/optimized/preiposle4.webp",
           "alt": "Arten der Alopezie: Areata, Totalis, Universalis – grafische Darstellung"
         }
       ]
@@ -92,14 +92,14 @@
         "Pigmente sind hypoallergen, die Behandlung ist sicher und kann wiederholt werden."
       ],
       "gallery": [
-        "/images/IMG_9021-min.jpeg",
-        "/images/IMG_9139-min.jpeg",
-        "/images/IMG_9140-min.jpeg",
-        "/images/IMG_9141-min.jpeg",
-        "/images/IMG_9190.jpg",
-        "/images/IMG_91902.jpg",
-        "/images/IMG_9191-min.jpeg",
-        "/images/IMG_9191-min2.jpeg"
+          "/optimized/IMG_9021-min.webp",
+        "/optimized/IMG_9139-min.webp",
+        "/optimized/IMG_9140-min.webp",
+        "/optimized/IMG_9141-min.webp",
+        "/optimized/IMG_9190.webp",
+        "/optimized/IMG_91902.webp",
+        "/optimized/IMG_9191-min.webp",
+        "/optimized/IMG_9191-min2.webp"
       ],
       "alt": "SMP bei Alopezie Areata – Vorher und Nachher"
     }

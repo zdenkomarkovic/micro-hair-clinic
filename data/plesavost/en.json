@@ -4,8 +4,8 @@
   "hero": {
     "heading": "Scalp Micropigmentation – Solution for Hair Loss in Men",
     "subtitle": "A non-invasive method for men with pronounced baldness – no surgery, no waiting.",
-    "image": "/images/smp plesavost-min.webp",
-    "image2": "/images/plesavostmob.png",
+    "image": "/optimized/smp plesavost-min.webp",
+    "image2": "/optimized/plesavostmob.webp",
     "alt": "SMP result on a man with baldness (Norwood 6)",
     "ctas": [
       { "label": "Book a Free Consultation", "href": "/kontakt" },
@@ -30,7 +30,7 @@
         "Most common cause: androgenic alopecia"
       ],
       "image": {
-        "src": "/images/norwood-skala.webp",
+        "src": "/optimized/norwood-skala.webp",
         "alt": "Stages of hair loss in men – Norwood scale"
       }
     },
@@ -93,19 +93,19 @@
         "Dots per session: 15,000–20,000, up to 60,000 total at Norwood 7"
       ],
       "gallery": [
-        "/images/kratko-osisana (1).JPG",
-        "/images/kratko-osisana (2).JPG",
-        "/images/kratko-osisana (3).JPG",
-        "/images/kratko-osisana (4).JPG",
-        "/images/kratko-osisana (5).JPG",
-        "/images/kratko-osisana (6).JPG",
-        "/images/kratko-osisana (7).JPG",
-        "/images/kratko-osisana (8).JPG",
-        "/images/kratko-osisana (9).JPG",
-        "/images/kratko-osisana (10).JPG",
-        "/images/kratko-osisana (11).JPG",
-        "/images/kratko-osisana (12).JPG",
-        "/images/kratko-osisana (13).JPG"
+              "/optimized/kratko-osisana (1).webp",
+        "/optimized/kratko-osisana (2).webp",
+        "/optimized/kratko-osisana (3).webp",
+        "/optimized/kratko-osisana (4).webp",
+        "/optimized/kratko-osisana (5).webp",
+        "/optimized/kratko-osisana (6).webp",
+        "/optimized/kratko-osisana (7).webp",
+        "/optimized/kratko-osisana (8).webp",
+          "/optimized/kratko-osisana (9).webp",
+        "/optimized/kratko-osisana (10).webp",
+        "/optimized/kratko-osisana (11).webp",
+        "/optimized/kratko-osisana (12).webp",
+        "/optimized/kratko-osisana (13).webp"
       ]
     },
     {

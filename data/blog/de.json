@@ -4,7 +4,7 @@
   "hero": {
     "heading": "Haarausfall, Selbstbewusstsein und Lösungen",
     "subtitle": "Finde Antworten, vergleiche Optionen und erfahre mehr über SMP-Behandlungen – aus erster Hand.",
-    "image": "/images/MOM Day 2-206-min.jpg",
+    "image": "/optimized/MOM Day 2-206-min.webp",
     "alt": "Micro Hair Clinic",
     "bullets": [
       "Haarausfall ist eine persönliche, emotionale und oft verwirrende Erfahrung. Deshalb haben wir einen Blog erstellt, der nicht verkauft – sondern hilft. Hier findest du ehrliche Beiträge über:",
@@ -23,21 +23,21 @@
         "title": "SMP oder Haartransplantation – was ist besser für mich?",
         "text": "Ein Vergleichsleitfaden für Männer, die nach einer Lösung für Haarausfall suchen.",
         "slug": "smp-vs-presaditev",
-        "img": "/images/smp plesavost-min.JPG",
+        "img": "/optimized/smp plesavost-min.webp",
         "button": "Mehr erfahren"
       },
       {
         "title": "Pflege nach der SMP-Behandlung – ein Tag-für-Tag-Leitfaden",
         "slug": "nega-po-smp-tretmaju",
         "text": "Wie du ein bestmögliches und langanhaltendes Ergebnis erzielst.",
-        "img": "/images/redcenje las-min.JPG",
+        "img": "/optimized/redcenje las-min.webp",
         "button": "Mehr erfahren"
       },
       {
         "title": "Scalp Micropigmentation Tag für Tag – so sieht die Behandlung aus",
         "slug": "kako-izgleda-smp-tretma",
         "text": "Ein realistischer Ablauf durch alle Phasen: Beratung, Pigmentierung, Ergebnis.",
-        "img": "/images/smp za brazgotine-min.JPG",
+        "img": "/optimized/smp za brazgotine-min.webp",
         "button": "Mehr erfahren"
       }
     ]

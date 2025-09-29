@@ -4,8 +4,8 @@
   "hero": {
     "heading": "Mehr Haardichte bei dünnem Haar – mit oder ohne Transplantation",
     "subtitle": "Egal ob du bereits eine Haartransplantation hattest oder dich erst informierst – es gibt Möglichkeiten, das Erscheinungsbild der Dichte zu verbessern. Aber du solltest auch die Grenzen kennen.",
-    "image": "/images/redcenje las-min.JPG",
-    "image2": "/images/redcenjemob.png",
+    "image":  "/optimized/redcenje las-min.webp",
+    "image2": "/optimized/redcenjemob.webp",
     "alt": "smp-dichte-erhoehen-duennes-haar",
     "ctas": [
       { "label": "Kostenloses Beratungsgespräch buchen", "href": "/kontakt" },
@@ -37,7 +37,7 @@
         "Viele Patienten sind nach der Transplantation enttäuscht – entweder wegen schlechter Ergebnisse oder unrealistischer Erwartungen. Doch es gibt eine Lösung zur Ergänzung."
       ],
       "image": {
-        "src": "/images/IMG_9082-min.jpeg",
+        "src": "/optimized/IMG_9082-min.webp",
         "alt": "Scalp Micropigmentation Prozess"
       }
     },
@@ -54,7 +54,7 @@
         "SMP ist ein nicht-invasives Verfahren, bei dem durch Pigmentierung ein Schattierungseffekt erzeugt wird, der dichteres Haar imitiert. Aus der Nähe sieht man Mikropunkte – aus der Ferne entsteht die Illusion von Fülle durch geringeren Kontrast zwischen Haut und Haar."
       ],
       "image": {
-        "src": "/images/IMG_9088-min.jpeg",
+        "src": "/optimized/IMG_9088-min.webp",
         "alt": "Scalp Micropigmentation Prozess"
       }
     },
@@ -67,7 +67,7 @@
         "Bei größeren kahlen Stellen kann SMP keinen vollen 3D-Haarschnitt simulieren. Aber es kann das Aussehen deutlich verbessern, den Kontrast reduzieren und die Übergänge elegant gestalten."
       ],
       "image": {
-        "src": "/images/IMG_9092-min.jpeg",
+        "src": "/optimized/IMG_9092-min.webp",
         "alt": "Scalp Micropigmentation Prozess"
       }
     },
@@ -99,22 +99,22 @@
       "title": "GALERIE – VORHER UND NACHHER",
       "bullets": [],
       "gallery": [
-        "/images/IMG_9079-min.jpeg",
-        "/images/IMG_9080-min.jpeg",
-        "/images/IMG_9081-min.jpeg",
-        "/images/IMG_9082-min.jpeg",
-        "/images/IMG_9084-min.jpeg",
-        "/images/IMG_9085-min.jpeg",
-        "/images/IMG_9087-min.jpeg",
-        "/images/IMG_9088-min.jpeg",
-        "/images/IMG_9089-min.jpeg",
-        "/images/IMG_9090-min.jpeg",
-        "/images/IMG_9092-min.jpeg",
-        "/images/IMG_9093-min.jpeg",
-        "/images/IMG_9094-min.jpeg",
-        "/images/IMG_9095-min.jpeg",
-        "/images/IMG_9097-min.jpeg",
-        "/images/IMG_9099-min.jpeg"
+            "/optimized/IMG_9079-min.webp",
+        "/optimized/IMG_9080-min.webp",
+        "/optimized/IMG_9081-min.webp",
+        "/optimized/IMG_9082-min.webp",
+        "/optimized/IMG_9084-min.webp",
+        "/optimized/IMG_9085-min.webp",
+        "/optimized/IMG_9087-min.webp",
+        "/optimized/IMG_9088-min.webp",
+        "/optimized/IMG_9089-min.webp",
+        "/optimized/IMG_9090-min.webp",
+        "/optimized/IMG_9092-min.webp",
+        "/optimized/IMG_9093-min.webp",
+        "/optimized/IMG_9094-min.webp",
+        "/optimized/IMG_9095-min.webp",
+        "/optimized/IMG_9097-min.webp",
+        "/optimized/IMG_9099-min.webp"
       ],
       "alt": "Korrektives SMP Ergebnis – natürliches Aussehen"
     }

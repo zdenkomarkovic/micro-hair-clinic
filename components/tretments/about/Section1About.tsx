@@ -50,11 +50,12 @@ export function Section1About({ section, direction }: Props) {
           )}
         </div>
         <Image
-          src={"/images/f94727ab-cc48-46a9-938f-07306270acba 5-min.JPG"}
+          src={"/optimized/f94727ab-cc48-46a9-938f-07306270acba 5-min.webp"}
           width={500}
           height={1000}
           alt="micro hair clinic"
           className="rounded-lg w-full shadow object-cover md:aspect-[6/9]"
+          unoptimized
         />
       </div>
     </section>

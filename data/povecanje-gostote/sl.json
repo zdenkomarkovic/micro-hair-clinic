@@ -4,8 +4,8 @@
   "hero": {
     "heading": "Povečanje gostote pri redkih laseh – brez presaditve",
     "subtitle": "Ne glede na to, ali si že opravil presaditev las ali šele raziskuješ možnosti – obstaja način, kako izboljšati videz gostote. A hkrati moraš vedeti tudi, kje so meje",
-    "image": "/images/redcenje las-min.JPG",
-    "image2": "/images/redcenjemob.png",
+    "image": "/optimized/redcenje las-min.webp",
+    "image2": "/optimized/redcenjemob.webp",
     "alt": "smp-povecanje-gostote-redki-lasje",
     "ctas": [
       { "label": "Rezerviraj brezplačen posvet", "href": "/kontakt" },
@@ -37,7 +37,7 @@
         "Mnogi so po transplantaciji razočarani – bodisi zaradi slabega rezultata, bodisi zaradi nerealnih pričakovanj. A obstaja rešitev, ki lahko vse to dopolni."
       ],
       "image": {
-        "src": "/images/IMG_9082-min.jpeg",
+        "src": "/optimized/IMG_9082-min.webp",
         "alt": "Proces skalp mikropigmentacije"
       }
     },
@@ -55,7 +55,7 @@
         "SMP je neinvaziven postopek, kjer se s pomočjo pigmentov v lasišče ustvari videz senčenja, ki posnema gostejše lase. Od blizu so to mikro točke, od daleč – iluzija senčne globine, ki zmanjša kontrast med kožo in lasmi."
       ],
       "image": {
-        "src": "/images/IMG_9088-min.jpeg",
+        "src": "/optimized/IMG_9088-min.webp",
         "alt": "Proces skalp mikropigmentacije"
       }
     },
@@ -69,7 +69,7 @@
         "Če imaš večje površine popolnoma brez las, SMP ne more ustvariti videza bujne, trodimenzionalne pričeske. Lahko pa močno izboljša videz, zmanjša kontrast in elegantno premosti prehode med področji z lasmi in brez."
       ],
       "image": {
-        "src": "/images/IMG_9092-min.jpeg",
+        "src": "/optimized/IMG_9092-min.webp",
         "alt": "Proces skalp mikropigmentacije"
       }
     },
@@ -101,22 +101,22 @@
       "title": "GALERIJA – PRED IN PO",
       "bullets": [],
       "gallery": [
-        "/images/IMG_9079-min.jpeg",
-        "/images/IMG_9080-min.jpeg",
-        "/images/IMG_9081-min.jpeg",
-        "/images/IMG_9082-min.jpeg",
-        "/images/IMG_9084-min.jpeg",
-        "/images/IMG_9085-min.jpeg",
-        "/images/IMG_9087-min.jpeg",
-        "/images/IMG_9088-min.jpeg",
-        "/images/IMG_9089-min.jpeg",
-        "/images/IMG_9090-min.jpeg",
-        "/images/IMG_9092-min.jpeg",
-        "/images/IMG_9093-min.jpeg",
-        "/images/IMG_9094-min.jpeg",
-        "/images/IMG_9095-min.jpeg",
-        "/images/IMG_9097-min.jpeg",
-        "/images/IMG_9099-min.jpeg"
+        " /optimized/IMG_9079-min.webp",
+        "/optimized/IMG_9080-min.webp",
+        "/optimized/IMG_9081-min.webp",
+        "/optimized/IMG_9082-min.webp",
+        "/optimized/IMG_9084-min.webp",
+          "/optimized/IMG_9085-min.webp",
+        "/optimized/IMG_9087-min.webp",
+        "/optimized/IMG_9088-min.webp",
+        "/optimized/IMG_9089-min.webp",
+        "/optimized/IMG_9090-min.webp",
+        "/optimized/IMG_9092-min.webp",
+        "/optimized/IMG_9093-min.webp",
+        "/optimized/IMG_9094-min.webp",
+        "/optimized/IMG_9095-min.webp",
+        "/optimized/IMG_9097-min.webp",
+        "/optimized/IMG_9099-min.webp"
       ],
       "alt": "Korektivni SMP rezultat – naraven videz"
     }

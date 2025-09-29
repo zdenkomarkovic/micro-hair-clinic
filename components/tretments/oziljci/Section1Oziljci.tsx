@@ -50,6 +50,7 @@ export function Section1Oziljci({ section, direction }: Props) {
                 height={500}
                 alt={section.image.alt}
                 className="rounded-lg w-full shadow mb-4"
+                unoptimized
               />
             </div>
           )}

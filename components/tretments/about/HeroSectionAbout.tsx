@@ -19,11 +19,12 @@ export function HeroSectionAbout({ data }: Props) {
     <section className="hero relative h-screen md:h-[85dvh]">
       <div className="absolute left-0 right-0 top-0  z-0">
         <Image
-          src={"/images/MOM Day 2-134.jpg"}
+          src={"/optimized/MOM Day 2-134.webp"}
           width={2000}
           height={1000}
           alt={data.alt}
           className=" w-full h-screen md:h-[85dvh] object-cover"
+          unoptimized
         />
       </div>
       <div className="absolute top-0 left-0 w-full h-full bg-black/30 z-[1]" />

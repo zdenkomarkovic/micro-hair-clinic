@@ -4,8 +4,8 @@
   "hero": {
     "heading": "Boost Hair Density for Thinning Hair – With or Without a Transplant",
     "subtitle": "Whether you've already had a hair transplant or are just exploring options – there's a way to enhance the appearance of density. But it's important to understand the limitations.",
-    "image": "/images/redcenje las-min.JPG",
-    "image2": "/images/redcenjemob.png",
+    "image": "/optimized/redcenje las-min.webp",
+    "image2": "/optimized/redcenjemob.webp",
     "alt": "smp-density-increase-thinning-hair",
     "ctas": [
       { "label": "Book a Free Consultation", "href": "/kontakt" },
@@ -37,7 +37,7 @@
         "Many patients are disappointed after a transplant – either due to poor results or unrealistic expectations. But there’s a solution that can complement it."
       ],
       "image": {
-        "src": "/images/IMG_9082-min.jpeg",
+        "src": "/optimized/IMG_9082-min.webp",
         "alt": "Scalp micropigmentation process"
       }
     },
@@ -54,7 +54,7 @@
         "SMP is a non-invasive procedure using pigments to create a shadowing effect on the scalp that mimics the look of denser hair. Up close, it's micro-dots; from a distance, it's the illusion of depth that reduces the contrast between skin and hair."
       ],
       "image": {
-        "src": "/images/IMG_9088-min.jpeg",
+        "src": "/optimized/IMG_9088-min.webp",
         "alt": "Scalp micropigmentation process"
       }
     },
@@ -67,7 +67,7 @@
         "If you have large completely bald areas, SMP can’t simulate a full, three-dimensional hairstyle. But it can dramatically improve appearance, reduce contrast, and create seamless transitions between hair and scalp."
       ],
       "image": {
-        "src": "/images/IMG_9092-min.jpeg",
+        "src": "/optimized/IMG_9092-min.webp",
         "alt": "Scalp micropigmentation process"
       }
     },
@@ -99,22 +99,22 @@
       "title": "GALLERY – BEFORE AND AFTER",
       "bullets": [],
       "gallery": [
-        "/images/IMG_9079-min.jpeg",
-        "/images/IMG_9080-min.jpeg",
-        "/images/IMG_9081-min.jpeg",
-        "/images/IMG_9082-min.jpeg",
-        "/images/IMG_9084-min.jpeg",
-        "/images/IMG_9085-min.jpeg",
-        "/images/IMG_9087-min.jpeg",
-        "/images/IMG_9088-min.jpeg",
-        "/images/IMG_9089-min.jpeg",
-        "/images/IMG_9090-min.jpeg",
-        "/images/IMG_9092-min.jpeg",
-        "/images/IMG_9093-min.jpeg",
-        "/images/IMG_9094-min.jpeg",
-        "/images/IMG_9095-min.jpeg",
-        "/images/IMG_9097-min.jpeg",
-        "/images/IMG_9099-min.jpeg"
+              "/optimized/IMG_9079-min.webp",
+        "/optimized/IMG_9080-min.webp",
+        "/optimized/IMG_9081-min.webp",
+        "/optimized/IMG_9082-min.webp",
+        "/optimized/IMG_9084-min.webp",
+          "/optimized/IMG_9085-min.webp",
+        "/optimized/IMG_9087-min.webp",
+        "/optimized/IMG_9088-min.webp",
+        "/optimized/IMG_9089-min.webp",
+        "/optimized/IMG_9090-min.webp",
+          "/optimized/IMG_9092-min.webp",
+        "/optimized/IMG_9093-min.webp",
+        "/optimized/IMG_9094-min.webp",
+        "/optimized/IMG_9095-min.webp",
+        "/optimized/IMG_9097-min.webp",
+          "/optimized/IMG_9099-min.webp"
       ],
       "alt": "Corrective SMP result – natural appearance"
     }

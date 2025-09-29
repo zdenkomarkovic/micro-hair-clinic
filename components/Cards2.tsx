@@ -16,16 +16,16 @@ type Props = {
 };
 
 const images: string[] = [
-  "/images/preiposle.JPG",
-  "/images/preiposle2.JPG",
-  "/images/preiposle3.JPG",
-  "/images/preiposle4.JPG",
-  "/images/preiposle1.JPG",
-  "/images/preiposle9.JPG",
-  "/images/preiposle5.JPG",
-  "/images/preiposle6.JPG",
-  "/images/preiposle7.jpg",
-  "/images/preiposle8.jpg",
+  "/optimized/preiposle.webp",  
+  "/optimized/preiposle2.webp",
+  "/optimized/preiposle3.webp",
+  "/optimized/preiposle4.webp",
+  "/optimized/preiposle1.webp",
+  "/optimized/preiposle9.webp",
+  "/optimized/preiposle5.webp",
+  "/optimized/preiposle6.webp",
+  "/optimized/preiposle7.webp",
+  "/optimized/preiposle8.webp",
 ];
 
 const Cards2 = ({ data, text }: Props) => {

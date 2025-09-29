@@ -14,11 +14,12 @@ const MeetArtist = ({ data }: Props) => {
       <div className="flex flex-col-reverse md:flex-row-reverse gap-6 md:gap-20">
         <div className="md:w-1/4 ">
           <Image
-            src="/images/srdjanartist.JPG"
+            src="/optimized/srdjanartist.webp"
             width={700}
             height={700}
             alt="srdjan micro hair clinic"
             className="w-full rounded-lg "
+            unoptimized
           />
         </div>
         <div className="md:w-2/4 flex flex-col justify-between">

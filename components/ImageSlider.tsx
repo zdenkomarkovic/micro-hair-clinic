@@ -53,6 +53,7 @@ const ImageSlider = ({ images }: { images: string[] }) => {
                   height={1000}
                   alt="smp"
                   className="w-full aspect-video object-cover"
+                  unoptimized
                 />
               </div>
             </div>
@@ -87,6 +88,7 @@ const ImageSlider = ({ images }: { images: string[] }) => {
                   height={100}
                   alt="smp"
                   className="w-40 h-28  object-cover"
+                  unoptimized
                 />
               </button>
             ))}

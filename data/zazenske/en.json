@@ -4,8 +4,8 @@
   "hero": {
     "heading": "SMP for Women – Visual Thickening of Thinning Hair",
     "subtitle": "A discreet solution for thinning part lines, crown hair loss, and reduced volume – no shaving, no medication, no stress.",
-    "image": "/images/smp za zenske-min.JPG",
-    "image2": "/images/zenskemob.png",
+    "image": "/optimized/smp za zenske-min.webp",
+    "image2": "/optimized/zenskemob.webp",
     "alt": "SMP result on a woman with thinning hair at the crown",
     "ctas": [
       { "label": "Book a free consultation", "href": "/kontakt" },
@@ -38,7 +38,7 @@
         "Most frequently affected areas:"
       ],
       "image": {
-        "src": "/images/kratko 2 copy.JPG",
+        "src": "/optimized/kratko 2 copy.webp",
         "alt": "Areas most affected by female hair thinning"
       }
     },
@@ -56,7 +56,7 @@
         "Pigment is carefully applied between existing hairs without damaging the roots."
       ],
       "image": {
-        "src": "/images/kratko 2 copy.JPG",
+        "src": "/optimized/kratko 2 copy.webp",
         "alt": "Hair thickening for women with scalp micropigmentation"
       }
     },
@@ -99,7 +99,7 @@
         "Closing the part line and shading the crown",
         "Combining with longer hair"
       ],
-      "gallery": ["/images/IMG_9023-min.jpeg", "/images/IMG_9192.webp"],
+      "gallery": ["/optimized/IMG_9023-min.webp", "/optimized/IMG_9192.webp"],
       "alt": "SMP treatment on a woman with thinning hair"
     },
     {
@@ -115,7 +115,7 @@
         "After the treatment, you can wash your hair and continue with daily activities."
       ],
       "image": {
-        "src": "/images/preiposle3.JPG",
+          "src": "/optimized/preiposle3.webp",
         "alt": "How pigment mimics hair density"
       }
     }

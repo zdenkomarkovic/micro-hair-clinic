@@ -4,7 +4,7 @@
   "hero": {
     "heading": "Izpadanje las, samozavest in rešitve",
     "subtitle": "Poišči odgovore, primerjaj možnosti in iz prve roke izvej več o SMP tretmajih.",
-    "image": "/images/MOM Day 2-206-min.jpg",
+    "image": "/optimized/MOM Day 2-206-min.webp",
     "alt": "Micro Hair Clinic",
     "bullets": [
       "Izpadanje las je osebna, čustvena in pogosto zmedena izkušnja. Zato smo ustvarili blog, ki ne prodaja – temveč pomaga. Tukaj boš našel iskrene zapise o:",
@@ -23,21 +23,21 @@
         "title": "SMP ali presaditev las – kaj je boljše zame?",
         "text": "Primerjalni vodnik za moške, ki iščejo rešitev za izpadanje las.",
         "slug": "smp-vs-presaditev",
-        "img": "/images/norwood-skala.webp",
+        "img": "/optimized/norwood-skala.webp",
         "button": "Preberite več"
       },
       {
         "title": "Nega po SMP tretmaju – vodnik dan za dnem",
         "slug": "nega-po-smp-tretmaju",
         "text": "Kako doseči najboljši rezultat, ki bo obstojen več let.",
-        "img": "/images/redcenje las-min.JPG",
+        "img": "/optimized/redcenje las-min.webp",
         "button": "Preberite več"
       },
       {
         "title": "Skalp mikropigmentacija dan za dnem – kako poteka tretma",
         "slug": "kako-izgleda-smp-tretma",
         "text": "Resnični potek skozi vse faze: posvet, pigmentacija, rezultat.",
-        "img": "/images/blog.JPG",
+        "img": "/optimized/blog.webp",
         "button": "Preberite več"
       }
     ]

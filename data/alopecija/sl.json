@@ -4,8 +4,8 @@
   "hero": {
     "heading": "SMP za alopecijo – rešitev za izpadanje las na lisah ali celotno",
     "subtitle": "Mikropigmentacija lasišča povrne videz las tudi, ko rast ni več mogoča – brez operacije, brez bolečin, brez čakanja.",
-    "image": "/images/alopcije.jpg",
-    "image2": "/images/alopecija-mob.png",
+    "image": "/optimized/alopcije.webp",
+    "image2": "/optimized/alopecija-mob.webp",
     "alt": "SMP rezultat pri klientu z alopecijo areato",
     "ctas": [
       { "label": "Rezerviraj brezplačen posvet", "href": "/kontakt" },
@@ -35,15 +35,15 @@
       ],
       "images": [
         {
-          "src": "/images/preiposle2.JPG",
+          "src": "/optimized/preiposle2.webp",
           "alt": "Vrste alopecije: areata, totalis, universalis – grafični prikaz"
         },
         {
-          "src": "/images/preiposle4.JPG",
+          "src": "/optimized/preiposle4.webp",
           "alt": "Vrste alopecije: areata, totalis, universalis – grafični prikaz"
         },
         {
-          "src": "/images/preiposle4.JPG",
+          "src": "/optimized/preiposle4.webp",
           "alt": "Vrste alopecije: areata, totalis, universalis – grafični prikaz"
         }
       ]
@@ -92,14 +92,14 @@
         "Pigmenti so hipoalergeni, tretma je varen in ga je mogoče ponavljati."
       ],
       "gallery": [
-        "/images/IMG_9021-min.jpeg",
-        "/images/IMG_9139-min.jpeg",
-        "/images/IMG_9140-min.jpeg",
-        "/images/IMG_9141-min.jpeg",
-        "/images/IMG_9190.jpg",
-        "/images/IMG_91902.jpg",
-        "/images/IMG_9191-min.jpeg",
-        "/images/IMG_9191-min2.jpeg"
+         "/optimized/IMG_9021-min.webp",
+        "/optimized/IMG_9139-min.webp",
+        "/optimized/IMG_9140-min.webp",
+        "/optimized/IMG_9141-min.webp",
+        "/optimized/IMG_9190.webp",
+        "/optimized/IMG_91902.webp",
+        "/optimized/IMG_9191-min.webp",
+        "/optimized/IMG_9191-min2.webp"
       ],
       "alt": "SMP pri alopeciji areati – prej in potem"
     }

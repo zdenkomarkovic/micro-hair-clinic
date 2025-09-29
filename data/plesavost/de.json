@@ -4,8 +4,8 @@
   "hero": {
     "heading": "Skalp Mikropigmentierung – Lösung bei Haarausfall bei Männern",
     "subtitle": "Nicht-invasive Methode für Männer mit starkem Haarausfall – ohne Operation, ohne Wartezeit.",
-    "image": "/images/smp plesavost-min.webp",
-    "image2": "/images/plesavostmob.png",
+    "image": "/optimized/smp plesavost-min.webp",
+    "image2": "/optimized/plesavostmob.webp",
     "alt": "SMP Ergebnis bei Mann mit Glatze (Norwood 6)",
     "ctas": [
       { "label": "Kostenlose Beratung vereinbaren", "href": "/kontakt" },
@@ -30,7 +30,7 @@
         "Häufigste Ursache: androgenetische Alopezie"
       ],
       "image": {
-        "src": "/images/norwood-skala.webp",
+        "src": "/optimized/norwood-skala.webp",
         "alt": "Phasen des Haarausfalls bei Männern – Norwood Skala"
       }
     },
@@ -95,19 +95,19 @@
         "Punkte pro Sitzung: 15.000–20.000, insgesamt bis zu 60.000 bei Norwood 7"
       ],
       "gallery": [
-        "/images/kratko-osisana (1).JPG",
-        "/images/kratko-osisana (2).JPG",
-        "/images/kratko-osisana (3).JPG",
-        "/images/kratko-osisana (4).JPG",
-        "/images/kratko-osisana (5).JPG",
-        "/images/kratko-osisana (6).JPG",
-        "/images/kratko-osisana (7).JPG",
-        "/images/kratko-osisana (8).JPG",
-        "/images/kratko-osisana (9).JPG",
-        "/images/kratko-osisana (10).JPG",
-        "/images/kratko-osisana (11).JPG",
-        "/images/kratko-osisana (12).JPG",
-        "/images/kratko-osisana (13).JPG"
+            "/optimized/kratko-osisana (1).webp",
+          "/optimized/kratko-osisana (2).webp",
+        "/optimized/kratko-osisana (3).webp",
+        "/optimized/kratko-osisana (4).webp",
+        "/optimized/kratko-osisana (5).webp",
+        "/optimized/kratko-osisana (6).webp",
+        "/optimized/kratko-osisana (7).webp",
+        "/optimized/kratko-osisana (8).webp",
+        "/optimized/kratko-osisana (9).webp",
+        "/optimized/kratko-osisana (10).webp",
+        "/optimized/kratko-osisana (11).webp",
+        "/optimized/kratko-osisana (12).webp",
+        "/optimized/kratko-osisana (13).webp"
       ]
     },
     {

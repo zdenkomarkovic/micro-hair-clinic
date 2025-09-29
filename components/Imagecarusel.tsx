@@ -64,6 +64,7 @@ const ImageCarusel = ({ images, py }: Props) => {
             width={1000}
             height={1000}
             className="max-w-full max-h-full object-contain"
+            unoptimized
           />
         </div>
       )}
@@ -94,6 +95,7 @@ const ImageCard = ({
           height={500}
           alt="micro-hair-clinic"
           className="w-full aspect-[4/5] object-cover"
+          unoptimized
         />
       </Card>
     </motion.div>

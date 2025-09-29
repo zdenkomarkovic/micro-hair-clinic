@@ -4,8 +4,8 @@
   "hero": {
     "heading": "Skalp mikropigmentacija – rešitev za izpadanje las pri moških",
     "subtitle": "Neinvazivna metoda za moške z izrazito plešavostjo – brez operacije, brez čakanja.",
-    "image": "/images/smp plesavost-min.webp",
-    "image2": "/images/plesavostmob.png",
+    "image":  "/optimized/smp plesavost-min.webp",
+    "image2": "/optimized/plesavostmob.webp",
     "alt": "SMP rezultat pri moškem z plešavostjo (Norwood 6)",
     "ctas": [
       { "label": "Rezerviraj brezplačen posvet", "href": "/kontakt" },
@@ -30,7 +30,7 @@
         "Najpogostejši vzrok: androgena alopecija"
       ],
       "image": {
-        "src": "/images/norwood-skala.webp",
+        "src": "/optimized/norwood-skala.webp",
         "alt": "Faze izpadanja las pri moških – Norwoodova lestvica"
       }
     },
@@ -96,19 +96,19 @@
         "Število pik na sejo: 15.000–20.000, skupaj do 60.000 pri Norwood 7"
       ],
       "gallery": [
-        "/images/kratko-osisana (1).JPG",
-        "/images/kratko-osisana (2).JPG",
-        "/images/kratko-osisana (3).JPG",
-        "/images/kratko-osisana (4).JPG",
-        "/images/kratko-osisana (5).JPG",
-        "/images/kratko-osisana (6).JPG",
-        "/images/kratko-osisana (7).JPG",
-        "/images/kratko-osisana (8).JPG",
-        "/images/kratko-osisana (9).JPG",
-        "/images/kratko-osisana (10).JPG",
-        "/images/kratko-osisana (11).JPG",
-        "/images/kratko-osisana (12).JPG",
-        "/images/kratko-osisana (13).JPG"
+          "/optimized/kratko-osisana (1).webp",
+        "/optimized/kratko-osisana (2).webp",
+        "/optimized/kratko-osisana (3).webp",
+        "/optimized/kratko-osisana (4).webp",
+        "/optimized/kratko-osisana (5).webp",
+        "/optimized/kratko-osisana (6).webp",
+              "/optimized/kratko-osisana (7).webp",
+        "/optimized/kratko-osisana (8).webp",
+        "/optimized/kratko-osisana (9).webp",
+          "/optimized/kratko-osisana (10).webp",
+        "/optimized/kratko-osisana (11).webp",
+          "/optimized/kratko-osisana (12).webp",
+        "/optimized/kratko-osisana (13).webp"
       ]
     },
     {

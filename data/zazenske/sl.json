@@ -4,8 +4,8 @@
   "hero": {
     "heading": "SMP za ženske – vizualno zgostitev redkih las",
     "subtitle": "Diskretna rešitev za tanek prečes, izpadanje na temenu in zmanjšan volumen – brez britja, brez zdravil, brez stresa.",
-    "image": "/images/smp za zenske-min.JPG",
-    "image2": "/images/zenskemob.png",
+    "image": "/optimized/smp za zenske-min.webp",
+    "image2": "/optimized/zenskemob.png",
     "alt": "Rezultat SMP pri ženski z redkimi lasmi na temenu",
     "ctas": [
       { "label": "Rezerviraj brezplačno posvetovanje", "href": "/kontakt" },
@@ -38,7 +38,7 @@
         "Najpogosteje prizadeta območja so:"
       ],
       "image": {
-        "src": "/images/kratko 2 copy.JPG",
+        "src": "/optimized/kratko 2 copy.webp",
         "alt": "Območja najpogostejšega redčenja las pri ženskah"
       }
     },
@@ -56,7 +56,7 @@
         "Pigment se natančno nanaša med obstoječe lase, brez poškodovanja korenin."
       ],
       "image": {
-        "src": "/images/kratko 2 copy.JPG",
+        "src": "/optimized/kratko 2 copy.webp",
         "alt": "Zgostitev las pri ženskah s skalp mikropigmentacijo"
       }
     },
@@ -96,7 +96,7 @@
         "Zapiranje prečesa in senčenje temena",
         "Kombinacija z daljšimi lasmi"
       ],
-      "gallery": ["/images/IMG_9023-min.jpeg", "/images/IMG_9192.webp"],
+      "gallery": ["/optimized/IMG_9023-min.webp", "/optimized/IMG_9192.webp"],
       "alt": "SMP tretma pri ženski z redkimi lasmi"
     },
     {
@@ -112,7 +112,7 @@
         "Po tretmaju lahko umiješ lase in nadaljuješ z vsakodnevnimi aktivnostmi."
       ],
       "image": {
-        "src": "/images/preiposle3.JPG",
+          "src": "/optimized/preiposle3.webp",
         "alt": "Kako pigment posnema gostoto las"
       }
     }

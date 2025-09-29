@@ -48,11 +48,13 @@ export function Section2Zenske({ section, direction }: Props) {
         {section.image && (
           <div className="text-center w-full md:order-1">
             <Image
-              src={"/images/IMG_9192 (1).jpg"}
+              src={"/optimized/IMG_9192 (1).webp"}
               width={500}
               height={500}
               alt={section.image.alt}
               className="rounded-lg w-full shadow-lg"
+              unoptimized
+
             />
           </div>
         )}

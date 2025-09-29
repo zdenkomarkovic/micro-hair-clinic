@@ -28,6 +28,7 @@ export function Section1({ section }: Props) {
                     height={500}
                     alt={section.images[i].alt}
                     className="w-full object-cover"
+                    unoptimized
                   />
                 )}
               </div>
