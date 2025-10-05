@@ -3,7 +3,8 @@
     "allow": [
       "Bash(curl -s https://microhairclinic.si/robots.txt)",
       "Bash(curl -s https://microhairclinic.si/sitemap.xml)",
-      "Bash(npm run build:*)"
+      "Bash(npm run build:*)",
+      "Bash(git checkout:*)"
     ],
     "deny": [],
     "ask": []

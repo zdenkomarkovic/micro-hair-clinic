@@ -46,12 +46,18 @@ export function middleware(request: NextRequest) {
   }
 
   // Samo redirect za root ili nevalidne putanje
-  const locale = getLocale(request, i18n);
+  // Za crawlere i botove uvek koristi defaultLocale
+  const userAgent = request.headers.get('user-agent') || '';
+  const isBot = /bot|crawler|spider|crawling|google|bing|yandex|baidu|duckduck/i.test(userAgent);
+
+  const locale = isBot ? defaultLocale : getLocale(request, i18n);
   let newPath = `/${locale}${pathname === '/' ? '' : pathname}`;
   if (request.nextUrl.search) newPath += request.nextUrl.search;
 
   const redirectResponse = NextResponse.redirect(new URL(newPath, request.url));
-  redirectResponse.cookies.set("NEXT_LOCALE", locale);
+  if (!isBot) {
+    redirectResponse.cookies.set("NEXT_LOCALE", locale);
+  }
 
   return redirectResponse;
 }

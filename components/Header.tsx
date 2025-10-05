@@ -29,7 +29,7 @@ const localeMeta = {
 };
 
 export default function Header({ locale }: { locale: string }) {
-  const { locales, defaultLocale } = i18n;
+  const { locales } = i18n;
   const currentLocale = getSafeLocale(locale);
   const navList = getNavList(currentLocale);
   const [isScrolled, setIsScrolled] = useState(false);
@@ -119,7 +119,7 @@ export default function Header({ locale }: { locale: string }) {
             {locales.map((code) => (
               <Link
                 key={code}
-                href={code === defaultLocale ? "/" : `/${code}`}
+                href={`/${code}`}
                 className="flex items-center gap-2 hover:opacity-80"
               >
                 <span className="text-sm md:text-base">
