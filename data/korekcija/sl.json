@@ -47,8 +47,7 @@
       "image": {
         "src": "/images/herovideo.mp4",
         "alt": "Primer slabega SMP tretmaja – napačna oblika in pigment"
-      },
-      "link": { "label": "Več o izobraževanju", "href": "/edukacija" }
+      }
     },
     {
       "id": "2",
@@ -112,12 +111,12 @@
         "Korekcija SMP narejenega s tetovažno tehniko"
       ],
       "gallery": [
-            "/optimized/IMG_9512-min.webp",
+        "/optimized/IMG_9512-min.webp",
         "/optimized/IMG_1752-min.webp",
         "/optimized/IMG_1753-min.webp",
         "/optimized/IMG_1754-min.webp",
         "/optimized/IMG_1755-min.webp",
-          "/optimized/IMG_1756-min.webp",
+        "/optimized/IMG_1756-min.webp",
         "/optimized/IMG_1757-min.webp",
         "/optimized/IMG_1758-min.webp",
         "/optimized/IMG_1875.webp",

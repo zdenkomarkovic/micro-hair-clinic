@@ -47,8 +47,7 @@
       "image": {
         "src": "/images/herovideo.mp4",
         "alt": "Beispiel einer schlechten SMP-Behandlung – falsche Form und Pigment"
-      },
-      "link": { "label": "Mehr über Schulungen", "href": "/edukacija" }
+      }
     },
     {
       "id": "2",
@@ -112,12 +111,12 @@
         "Korrektur von SMP mit Tattoo-Technik"
       ],
       "gallery": [
-          "/optimized/IMG_9512-min.webp",
+        "/optimized/IMG_9512-min.webp",
         "/optimized/IMG_1752-min.webp",
         "/optimized/IMG_1753-min.webp",
         "/optimized/IMG_1754-min.webp",
         "/optimized/IMG_1755-min.webp",
-          "/optimized/IMG_1756-min.webp",
+        "/optimized/IMG_1756-min.webp",
         "/optimized/IMG_1757-min.webp",
         "/optimized/IMG_1758-min.webp",
         "/optimized/IMG_1875.webp",

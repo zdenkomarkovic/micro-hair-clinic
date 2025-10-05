@@ -1,6 +1,6 @@
 import { SectionCommon } from "@/types/index";
 import React from "react";
-import { FaAngleDoubleRight } from "react-icons/fa";
+// import { FaAngleDoubleRight } from "react-icons/fa";
 
 type Props = {
   section: SectionCommon;
@@ -76,12 +76,12 @@ export function Section1Korekcija({ section }: Props) {
           ))}
         </div>
       )}
-      <a
+      {/* <a
         href={section.link?.href}
         className="bg-secondary hover:brightness-90 rounded-lg px-6 py-3 text-white flex items-center gap-3 w-fit mx-auto"
       >
         {section.link?.label} <FaAngleDoubleRight className="w-6 h-6" />
-      </a>
+      </a> */}
     </section>
   );
 }

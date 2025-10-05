@@ -4,7 +4,7 @@
   "hero": {
     "heading": "SMP Corrections – a natural look instead of a bad SMP",
     "subtitle": "A poor SMP job isn't the end. Corrections are possible—but not at any cost. We restore your scalp’s natural appearance when it's truly achievable.",
-    "image":  "/optimized/neuspesni smp tretmani-min.webp",
+    "image": "/optimized/neuspesni smp tretmani-min.webp",
     "image2": "/optimized/neuspesnimob.webp",
     "alt": "Correction of a poorly done scalp micropigmentation – before and after",
     "ctas": [
@@ -47,8 +47,7 @@
       "image": {
         "src": "/images/herovideo.mp4",
         "alt": "Example of a poor SMP job – incorrect shape and pigment"
-      },
-      "link": { "label": "Learn more about training", "href": "/edukacija" }
+      }
     },
     {
       "id": "2",
@@ -112,7 +111,7 @@
         "Correction of SMP done with tattoo technique"
       ],
       "gallery": [
-          "/optimized/IMG_9512-min.webp",
+        "/optimized/IMG_9512-min.webp",
         "/optimized/IMG_1752-min.webp",
         "/optimized/IMG_1753-min.webp",
         "/optimized/IMG_1754-min.webp",
