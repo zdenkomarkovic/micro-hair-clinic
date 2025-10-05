@@ -22,43 +22,23 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
-  title: "Mikropigmentacija lasišča Ljubljana | SMP tretmani | Hair Tattoo Slovenija",
-  description:
-    "Profesionalni SMP tretmani u Ljubljani. Mikropigmentacija lasišča za plešavost, brazgotine i redke lasje. Tetovaža lasišča bez boli - rezervirajte posvet!",
-  icons: {
-    icon: "/images/android-chrome-192x192.png",
-    apple: "/images/apple-touch-icon.png",
-  },
-  keywords: [
-    "mikropigmentacija lasišča",
-    "hair tattoo slovenija", 
-    "tetovaža lasišča ljubljana",
-    "smp slovenija",
-    "smp ljubljana",
-    "scalp micropigmentacija",
-    "plesavost tretman",
-    "smp tretman ljubljana",
-    "mikropigmentacija ljubljana",
-    "hair tattoo ljubljana"
-  ],
-  alternates: {
-    canonical: "https://microhairclinic.si",
-  },
-  openGraph: {
-    title: "Mikropigmentacija lasišča Ljubljana | SMP tretmani",
-    description: "Profesionalni SMP tretmani u Ljubljani. Mikropigmentacija lasišča za plešavost, brazgotine i redke lasje.",
-    url: "https://microhairclinic.si",
-    siteName: "Micro Hair Clinic",
-    locale: "sl_SI",
-    type: "website",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Mikropigmentacija lasišča Ljubljana | SMP tretmani",
-    description: "Profesionalni SMP tretmani u Ljubljani. Mikropigmentacija lasišča za plešavost, brazgotine i redke lasje.",
-  },
-};
+export async function generateMetadata({
+  params,
+}: {
+  children: React.ReactNode;
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const awaitedParams = await params;
+  const locale = isValidLocale(awaitedParams.locale) ? awaitedParams.locale : i18n.defaultLocale;
+
+  return {
+    icons: {
+      icon: "/images/android-chrome-192x192.png",
+      apple: "/images/apple-touch-icon.png",
+    },
+    metadataBase: new URL('https://microhairclinic.si'),
+  };
+}
 
 export async function generateStaticParams(): Promise<{ locale: string }[]> {
   return [{ locale: "sl" }, { locale: "en" }, { locale: "de" }];
