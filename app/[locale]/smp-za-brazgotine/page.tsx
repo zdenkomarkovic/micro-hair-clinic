@@ -14,6 +14,43 @@ import { Section5Oziljci } from "@/components/tretments/oziljci/Section5Oziljci"
 import { Section6Oziljci } from "@/components/tretments/oziljci/Section6Oziljci";
 import { PageData, SectionCommon } from "@/types/index";
 import { SectionOziljci } from "@/components/tretments/oziljci/SectionOziljci";
+import { Metadata } from "next";
+import { generateAlternateLinks } from "@/lib/seo";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const awaitedParams = await params;
+  const locale: Locale = isValidLocale(awaitedParams.locale) ? awaitedParams.locale : i18n.defaultLocale;
+
+  const titles = {
+    sl: "SMP za brazgotine Ljubljana | Mikropigmentacija lasišča za brazgotine",
+    en: "SMP for Scars Ljubljana | Scalp Micropigmentation for Scars",
+    de: "SMP bei Narben Ljubljana | Kopfhaut-Mikropigmentierung bei Narben"
+  };
+
+  const descriptions = {
+    sl: "SMP tretman za prikrivanje brazgotin - učinkovita rešitev za brazgotine po presaditvi las, FUE, FUT, poškodbe in opekline.",
+    en: "SMP treatment for scar camouflage - effective solution for scars from hair transplants, FUE, FUT, injuries and burns.",
+    de: "SMP-Behandlung zur Narbenabdeckung - effektive Lösung für Narben von Haartransplantationen, FUE, FUT, Verletzungen und Verbrennungen."
+  };
+
+  return {
+    title: titles[locale] || titles.sl,
+    description: descriptions[locale] || descriptions.sl,
+    alternates: generateAlternateLinks(`/${locale}/smp-za-brazgotine`),
+    openGraph: {
+      title: titles[locale] || titles.sl,
+      description: descriptions[locale] || descriptions.sl,
+      url: `https://microhairclinic.si/${locale}/smp-za-brazgotine`,
+      siteName: "Micro Hair Clinic",
+      locale: locale === 'sl' ? 'sl_SI' : locale === 'de' ? 'de_DE' : 'en_US',
+      type: "website",
+    },
+  };
+}
 
 export default async function ComparePage({
   params,

@@ -10,6 +10,43 @@ import { SectionAlopecija } from "@/components/tretments/alopecija/SectionAlopec
 import { Section4 } from "@/components/tretments/Section4";
 import Questions from "@/components/tretments/Questions";
 import { PageData, SectionCommon } from "@/types/index";
+import { Metadata } from "next";
+import { generateAlternateLinks } from "@/lib/seo";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const awaitedParams = await params;
+  const locale: Locale = isValidLocale(awaitedParams.locale) ? awaitedParams.locale : i18n.defaultLocale;
+
+  const titles = {
+    sl: "SMP za alopecijo Ljubljana | Mikropigmentacija lasišča | Alopecia areata",
+    en: "SMP for Alopecia Ljubljana | Scalp Micropigmentation | Alopecia areata",
+    de: "SMP bei Alopezie Ljubljana | Kopfhaut-Mikropigmentierung | Alopecia areata"
+  };
+
+  const descriptions = {
+    sl: "SMP tretman za alopecijo areato - učinkovita rešitev za krožno plešavost in avtoimmunsko izgubo las.",
+    en: "SMP treatment for alopecia areata - effective solution for patchy hair loss and autoimmune hair loss.",
+    de: "SMP-Behandlung bei Alopecia areata - effektive Lösung für kreisrunden Haarausfall und autoimmunbedingten Haarverlust."
+  };
+
+  return {
+    title: titles[locale] || titles.sl,
+    description: descriptions[locale] || descriptions.sl,
+    alternates: generateAlternateLinks(`/${locale}/smp-alopecija`),
+    openGraph: {
+      title: titles[locale] || titles.sl,
+      description: descriptions[locale] || descriptions.sl,
+      url: `https://microhairclinic.si/${locale}/smp-alopecija`,
+      siteName: "Micro Hair Clinic",
+      locale: locale === 'sl' ? 'sl_SI' : locale === 'de' ? 'de_DE' : 'en_US',
+      type: "website",
+    },
+  };
+}
 
 export default async function ComparePage({
   params,

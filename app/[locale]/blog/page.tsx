@@ -7,6 +7,45 @@ import { i18n } from "@/i18n-config";
 import { notFound } from "@/node_modules/next/navigation";
 import { HeroBlog } from "@/components/tretments/blog/HeroBlog";
 import { Section1Blog } from "@/components/tretments/blog/Section1Blog";
+import { generateAlternateLinks } from "@/lib/seo";
+import { Metadata } from "next";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const awaitedParams = await params;
+  const localeParam = awaitedParams.locale;
+
+  const locale: Locale = isValidLocale(localeParam) ? localeParam : i18n.defaultLocale;
+
+  const titles = {
+    sl: "Blog | Micro Hair Clinic | SMP nasveti in novice",
+    en: "Blog | Micro Hair Clinic | SMP Tips and News",
+    de: "Blog | Micro Hair Clinic | SMP-Tipps und Neuigkeiten"
+  };
+
+  const descriptions = {
+    sl: "Preberite naš blog o SMP tretmanih, nasvetih za nego, trendih v mikropigmentaciji lasišča in novicah iz sveta SMP.",
+    en: "Read our blog about SMP treatments, care tips, scalp micropigmentation trends and news from the SMP world.",
+    de: "Lesen Sie unseren Blog über SMP-Behandlungen, Pflegetipps, Trends in der Kopfhaut-Mikropigmentierung und Neuigkeiten aus der SMP-Welt."
+  };
+
+  return {
+    title: titles[locale as keyof typeof titles] || titles.sl,
+    description: descriptions[locale as keyof typeof descriptions] || descriptions.sl,
+    alternates: generateAlternateLinks(`/${locale}/blog`),
+    openGraph: {
+      title: titles[locale as keyof typeof titles] || titles.sl,
+      description: descriptions[locale as keyof typeof descriptions] || descriptions.sl,
+      url: `https://microhairclinic.si/${locale}/blog`,
+      siteName: "Micro Hair Clinic",
+      locale: locale === 'sl' ? 'sl_SI' : locale === 'de' ? 'de_DE' : 'en_US',
+      type: "website",
+    },
+  };
+}
 
 export default async function ComparePage({
   params,

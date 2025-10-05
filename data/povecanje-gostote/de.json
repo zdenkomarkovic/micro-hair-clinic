@@ -4,7 +4,7 @@
   "hero": {
     "heading": "Mehr Haardichte bei dünnem Haar – mit oder ohne Transplantation",
     "subtitle": "Egal ob du bereits eine Haartransplantation hattest oder dich erst informierst – es gibt Möglichkeiten, das Erscheinungsbild der Dichte zu verbessern. Aber du solltest auch die Grenzen kennen.",
-    "image":  "/optimized/redcenje las-min.webp",
+    "image": "/optimized/redcenje las-min.webp",
     "image2": "/optimized/redcenjemob.webp",
     "alt": "smp-dichte-erhoehen-duennes-haar",
     "ctas": [
@@ -99,7 +99,7 @@
       "title": "GALERIE – VORHER UND NACHHER",
       "bullets": [],
       "gallery": [
-            "/optimized/IMG_9079-min.webp",
+        "/optimized/IMG_9079-min.webp",
         "/optimized/IMG_9080-min.webp",
         "/optimized/IMG_9081-min.webp",
         "/optimized/IMG_9082-min.webp",

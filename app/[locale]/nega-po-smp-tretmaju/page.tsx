@@ -12,6 +12,45 @@ import { Section3Nega } from "@/components/tretments/nega/Section3Nega";
 import { Section4Nega } from "@/components/tretments/nega/Section4Nega";
 import Questions from "@/components/tretments/Questions";
 import { Section, SmpContent } from "@/types/type";
+import { generateAlternateLinks } from "@/lib/seo";
+import { Metadata } from "next";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const awaitedParams = await params;
+  const localeParam = awaitedParams.locale;
+
+  const locale: Locale = isValidLocale(localeParam) ? localeParam : i18n.defaultLocale;
+
+  const titles = {
+    sl: "Nega po SMP tretmaju | Navodila za nego mikropigmentacije",
+    en: "SMP Aftercare | Scalp Micropigmentation Care Instructions",
+    de: "SMP-Nachsorge | Pflegeanleitung für Kopfhaut-Mikropigmentierung"
+  };
+
+  const descriptions = {
+    sl: "Navodila za nego po SMP tretmanu - kako skrbeti za mikropigmentacijo lasišča za optimalne in dolgotrajne rezultate.",
+    en: "Aftercare instructions after SMP treatment - how to care for scalp micropigmentation for optimal and long-lasting results.",
+    de: "Nachsorgeanweisungen nach SMP-Behandlung - wie Sie Ihre Kopfhaut-Mikropigmentierung für optimale und langanhaltende Ergebnisse pflegen."
+  };
+
+  return {
+    title: titles[locale as keyof typeof titles] || titles.sl,
+    description: descriptions[locale as keyof typeof descriptions] || descriptions.sl,
+    alternates: generateAlternateLinks(`/${locale}/nega-po-smp-tretmaju`),
+    openGraph: {
+      title: titles[locale as keyof typeof titles] || titles.sl,
+      description: descriptions[locale as keyof typeof descriptions] || descriptions.sl,
+      url: `https://microhairclinic.si/${locale}/nega-po-smp-tretmaju`,
+      siteName: "Micro Hair Clinic",
+      locale: locale === 'sl' ? 'sl_SI' : locale === 'de' ? 'de_DE' : 'en_US',
+      type: "website",
+    },
+  };
+}
 
 export default async function ComparePage({
   params,

@@ -60,7 +60,7 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
                 src={src}
                 width={1500}
                 height={1000}
-                alt="smp"
+                alt={`SMP rezultat pred in po - mikropigmentacija lasišča ${index + 1}`}
                 className="w-[790px] rounded-lg mx-auto h-auto object-cover"
               />
             </div>
@@ -102,7 +102,7 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
                         src={src}
                         width={100}
                         height={100}
-                        alt="smp"
+                        alt={`SMP galerija thumbnail ${index + 1}`}
                         className="w-full h-full object-cover rounded-lg"
                       />
                     </button>

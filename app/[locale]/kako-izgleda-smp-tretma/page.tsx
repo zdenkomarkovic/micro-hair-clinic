@@ -10,6 +10,45 @@ import { Section3Kako } from "@/components/tretments/kakoizgledatretman/Section3
 import Questions from "@/components/tretments/Questions";
 import { Section5Kako } from "@/components/tretments/kakoizgledatretman/Section5Kako";
 import { Section, SmpContent } from "@/types/type";
+import { generateAlternateLinks } from "@/lib/seo";
+import { Metadata } from "next";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const awaitedParams = await params;
+  const localeParam = awaitedParams.locale;
+
+  const locale: Locale = isValidLocale(localeParam) ? localeParam : i18n.defaultLocale;
+
+  const titles = {
+    sl: "Kako izgleda SMP tretma | Potek mikropigmentacije lasišča",
+    en: "What SMP Treatment Looks Like | Scalp Micropigmentation Process",
+    de: "Wie sieht eine SMP-Behandlung aus | Ablauf der Kopfhaut-Mikropigmentierung"
+  };
+
+  const descriptions = {
+    sl: "Spoznajte potek SMP tretmana korak za korakom - od prvega posveta do končnega rezultata mikropigmentacije lasišča.",
+    en: "Learn the SMP treatment process step by step - from initial consultation to final scalp micropigmentation results.",
+    de: "Lernen Sie den SMP-Behandlungsablauf Schritt für Schritt kennen - von der ersten Beratung bis zum endgültigen Ergebnis der Kopfhaut-Mikropigmentierung."
+  };
+
+  return {
+    title: titles[locale as keyof typeof titles] || titles.sl,
+    description: descriptions[locale as keyof typeof descriptions] || descriptions.sl,
+    alternates: generateAlternateLinks(`/${locale}/kako-izgleda-smp-tretma`),
+    openGraph: {
+      title: titles[locale as keyof typeof titles] || titles.sl,
+      description: descriptions[locale as keyof typeof descriptions] || descriptions.sl,
+      url: `https://microhairclinic.si/${locale}/kako-izgleda-smp-tretma`,
+      siteName: "Micro Hair Clinic",
+      locale: locale === 'sl' ? 'sl_SI' : locale === 'de' ? 'de_DE' : 'en_US',
+      type: "website",
+    },
+  };
+}
 
 export default async function ComparePage({
   params,

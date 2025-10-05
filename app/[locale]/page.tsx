@@ -1,7 +1,7 @@
 import Hero from "@/components/Hero";
-// import { generateAlternateLinks } from "@/lib/seo";
+import { generateAlternateLinks } from "@/lib/seo";
 import { Messages } from "@/types/messages";
-// import { Metadata } from "next";
+import { Metadata } from "next";
 import { getIntl } from "../../lib/intl";
 import { i18n } from "@/i18n-config";
 import { isValidLocale } from "@/lib/locale";
@@ -12,24 +12,42 @@ import Questions from "@/components/Questions";
 import MeetArtist from "@/components/MeetArtist";
 import TretmanFlow from "@/components/TretmanFlow";
 
-// export async function generateMetadata({
-//   params,
-// }: {
-//   params: Promise<{ locale: string }>;
-// }): Promise<Metadata> {
-//   const awaitedParams = await params;
-//   const localeParam = awaitedParams.locale;
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const awaitedParams = await params;
+  const localeParam = awaitedParams.locale;
 
-//   const locale = isValidLocale(localeParam) ? localeParam : i18n.defaultLocale;
+  const locale = isValidLocale(localeParam) ? localeParam : i18n.defaultLocale;
 
-//   const intl = await getIntl(locale);
+  const titles = {
+    sl: "Mikropigmentacija lasišča Ljubljana | SMP tretmani | Hair Tattoo Slovenija",
+    en: "Scalp Micropigmentation Ljubljana | SMP Treatments | Hair Tattoo Slovenia",
+    de: "Kopfhaut-Mikropigmentierung Ljubljana | SMP-Behandlungen | Hair Tattoo Slowenien"
+  };
 
-//   return {
-//     title: intl.formatMessage({ id: "page.home.head.title" }),
-//     description: intl.formatMessage({ id: "page.home.head.meta.description" }),
-//     alternates: generateAlternateLinks(""),
-//   };
-// }
+  const descriptions = {
+    sl: "Profesionalni SMP tretmani v Ljubljani. Mikropigmentacija lasišča za plešavost, brazgotine in redke lase. Tetovaža lasišča brez bolečine - rezervirajte posvet!",
+    en: "Professional SMP treatments in Ljubljana. Scalp micropigmentation for baldness, scars and thinning hair. Pain-free hair tattoo - book a consultation!",
+    de: "Professionelle SMP-Behandlungen in Ljubljana. Kopfhaut-Mikropigmentierung bei Haarausfall, Narben und dünnem Haar. Schmerzfreies Hair Tattoo - Beratung buchen!"
+  };
+
+  return {
+    title: titles[locale as keyof typeof titles] || titles.sl,
+    description: descriptions[locale as keyof typeof descriptions] || descriptions.sl,
+    alternates: generateAlternateLinks(`/${locale}`),
+    openGraph: {
+      title: titles[locale as keyof typeof titles] || titles.sl,
+      description: descriptions[locale as keyof typeof descriptions] || descriptions.sl,
+      url: `https://microhairclinic.si/${locale}`,
+      siteName: "Micro Hair Clinic",
+      locale: locale === 'sl' ? 'sl_SI' : locale === 'de' ? 'de_DE' : 'en_US',
+      type: "website",
+    },
+  };
+}
 
 export default async function Home({
   params,

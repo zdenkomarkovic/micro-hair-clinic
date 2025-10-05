@@ -11,6 +11,43 @@ import { Section2Korekcija } from "@/components/tretments/korekcija/Section2Kore
 import { Section3Korekcija } from "@/components/tretments/korekcija/Section3Korekcija";
 import { PageData, SectionCommon } from "@/types/index";
 import { Section4Korekcija } from "@/components/tretments/korekcija/Section4Korekcija";
+import { Metadata } from "next";
+import { generateAlternateLinks } from "@/lib/seo";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const awaitedParams = await params;
+  const locale: Locale = isValidLocale(awaitedParams.locale) ? awaitedParams.locale : i18n.defaultLocale;
+
+  const titles = {
+    sl: "SMP korekcija Ljubljana | Popravek neuspešnega SMP tretmana",
+    en: "SMP Correction Ljubljana | Failed SMP Treatment Fix",
+    de: "SMP-Korrektur Ljubljana | Fehlgeschlagene SMP-Behandlung beheben"
+  };
+
+  const descriptions = {
+    sl: "Korekcija neuspešnih SMP tretmanov - popravek barve, gostote in nepravilnih pigmentacij. Strokovno odpravljamo napake predhodnih tretmanov.",
+    en: "Correction of failed SMP treatments - fixing color, density and irregular pigmentation. Professional correction of previous treatment mistakes.",
+    de: "Korrektur fehlgeschlagener SMP-Behandlungen - Behebung von Farbe, Dichte und unregelmäßiger Pigmentierung. Professionelle Korrektur früherer Behandlungsfehler."
+  };
+
+  return {
+    title: titles[locale] || titles.sl,
+    description: descriptions[locale] || descriptions.sl,
+    alternates: generateAlternateLinks(`/${locale}/smp-korekcija`),
+    openGraph: {
+      title: titles[locale] || titles.sl,
+      description: descriptions[locale] || descriptions.sl,
+      url: `https://microhairclinic.si/${locale}/smp-korekcija`,
+      siteName: "Micro Hair Clinic",
+      locale: locale === 'sl' ? 'sl_SI' : locale === 'de' ? 'de_DE' : 'en_US',
+      type: "website",
+    },
+  };
+}
 
 export default async function ComparePage({
   params,

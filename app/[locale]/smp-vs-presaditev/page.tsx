@@ -11,6 +11,43 @@ import { Section3Compare } from "@/components/tretments/compare/Section3Compare"
 import { Section4Compare } from "@/components/tretments/compare/Section4Compare";
 import { Section5Compare } from "@/components/tretments/compare/Section5Compare";
 import { Section, SmpContent } from "@/types/type";
+import { Metadata } from "next";
+import { generateAlternateLinks } from "@/lib/seo";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const awaitedParams = await params;
+  const locale: Locale = isValidLocale(awaitedParams.locale) ? awaitedParams.locale : i18n.defaultLocale;
+
+  const titles = {
+    sl: "SMP vs presaditev las Ljubljana | Primerjava metod | Mikropigmentacija",
+    en: "SMP vs Hair Transplant Ljubljana | Method Comparison | Micropigmentation",
+    de: "SMP vs Haartransplantation Ljubljana | Methodenvergleich | Mikropigmentierung"
+  };
+
+  const descriptions = {
+    sl: "Primerjava SMP in presaditve las - prednosti, slabosti, cena in rezultati. Katera metoda je prava za vas?",
+    en: "Comparison of SMP and hair transplant - advantages, disadvantages, cost and results. Which method is right for you?",
+    de: "Vergleich von SMP und Haartransplantation - Vorteile, Nachteile, Kosten und Ergebnisse. Welche Methode ist die richtige für Sie?"
+  };
+
+  return {
+    title: titles[locale] || titles.sl,
+    description: descriptions[locale] || descriptions.sl,
+    alternates: generateAlternateLinks(`/${locale}/smp-vs-presaditev`),
+    openGraph: {
+      title: titles[locale] || titles.sl,
+      description: descriptions[locale] || descriptions.sl,
+      url: `https://microhairclinic.si/${locale}/smp-vs-presaditev`,
+      siteName: "Micro Hair Clinic",
+      locale: locale === 'sl' ? 'sl_SI' : locale === 'de' ? 'de_DE' : 'en_US',
+      type: "website",
+    },
+  };
+}
 
 export default async function ComparePage({
   params,

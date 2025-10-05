@@ -29,7 +29,7 @@ export function Section1Blog({ data, direction }: Props) {
                       src={blog.img}
                       width={500}
                       height={500}
-                      alt={blog.slug}
+                      alt={blog.text}
                       className="w-full aspect-[16/8] object-cover"
                       unoptimized
                     />

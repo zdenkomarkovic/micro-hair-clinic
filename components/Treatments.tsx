@@ -40,7 +40,7 @@ const Treatments = ({ data }: Props) => {
                     src={tretman.img}
                     width={500}
                     height={300}
-                    alt={tretman.slug}
+                    alt={tretman.title}
                     className="w-full  aspect-[16/9] object-cover transition-transform duration-300 hover:scale-105"
                     unoptimized
                   />

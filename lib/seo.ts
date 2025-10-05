@@ -1,5 +1,5 @@
-const baseUrl = "https://example.com"; // Zameni svojim domenom
-const supportedLocales = ["sr", "en"];
+const baseUrl = "https://microhairclinic.si";
+const supportedLocales = ["sl", "en", "de"];
 
 export function generateAlternateLinks(pathname: string) {
   const languages: Record<string, string> = {};

@@ -60,7 +60,7 @@ const ImageCarusel = ({ images, py }: Props) => {
         >
           <Image
             src={selectedImage}
-            alt="fullscreen"
+            alt="SMP rezultat galerija - uvećana fotografija"
             width={1000}
             height={1000}
             className="max-w-full max-h-full object-contain"
@@ -93,7 +93,7 @@ const ImageCard = ({
           src={image}
           width={500}
           height={500}
-          alt="micro-hair-clinic"
+          alt="SMP tretman - fotografija iz galerije Micro Hair Clinic"
           className="w-full aspect-[4/5] object-cover"
           unoptimized
         />
