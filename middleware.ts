@@ -21,10 +21,15 @@ function getLocale(request: NextRequest, i18nConfig: I18nConfig): string {
 }
 
 export function middleware(request: NextRequest) {
-  // ✨ Skip language redirect for sitemap and robots
+  const pathname = request.nextUrl.pathname;
+
+  // ✨ Skip language redirect for sitemap, robots, and static files
   if (
-    request.nextUrl.pathname === "/sitemap.xml" ||
-    request.nextUrl.pathname === "/robots.txt"
+    pathname === "/sitemap.xml" ||
+    pathname === "/robots.txt" ||
+    pathname.startsWith("/sitemap-") ||
+    pathname.startsWith("/_next") ||
+    pathname.startsWith("/api")
   ) {
     return NextResponse.next();
   }
@@ -33,8 +38,6 @@ export function middleware(request: NextRequest) {
   let nextLocale: string | undefined;
 
   const { locales, defaultLocale } = i18n;
-
-  const { basePath, pathname } = request.nextUrl;
 
   const pathLocale = locales.find(
     (locale) => pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`
