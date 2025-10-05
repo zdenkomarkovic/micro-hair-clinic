@@ -34,13 +34,13 @@ export function SectionOziljci({ section, direction }: Props) {
         </div>
         <div>
           {section.image && (
-            <div className="text-center">
+            <div className="">
               <Image
                 src={section.image.src}
                 width={500}
                 height={500}
                 alt={section.image.alt}
-                className="rounded-lg w-full shadow mb-4"
+                className="rounded-lg  shadow mb-4"
                 unoptimized
               />
             </div>
