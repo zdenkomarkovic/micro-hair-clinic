@@ -22,15 +22,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export async function generateMetadata({
-  params,
-}: {
-  children: React.ReactNode;
-  params: Promise<{ locale: string }>;
-}): Promise<Metadata> {
-  const awaitedParams = await params;
-  const locale = isValidLocale(awaitedParams.locale) ? awaitedParams.locale : i18n.defaultLocale;
-
+export async function generateMetadata(): Promise<Metadata> {
   return {
     icons: {
       icon: "/images/android-chrome-192x192.png",
