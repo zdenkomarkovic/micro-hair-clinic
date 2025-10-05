@@ -14,9 +14,9 @@ export default function StructuredData({ locale }: StructuredDataProps) {
       : locale === 'de'
       ? "Professionelle SMP-Behandlungen - Kopfhaut-Mikropigmentierung in Ljubljana"
       : "Professional SMP treatments - scalp micropigmentation in Ljubljana",
-    "url": "https://microhairclinic.si",
-    "logo": "https://microhairclinic.si/images/mhclogo.png",
-    "image": "https://microhairclinic.si/images/preiposle.jpg",
+    "url": "https://www.microhairclinic.si",
+    "logo": "https://www.microhairclinic.si/images/mhclogo.png",
+    "image": "https://www.microhairclinic.si/images/preiposle.jpg",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Ljubljana",

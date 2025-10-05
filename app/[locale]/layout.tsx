@@ -28,7 +28,7 @@ export async function generateMetadata(): Promise<Metadata> {
       icon: "/images/android-chrome-192x192.png",
       apple: "/images/apple-touch-icon.png",
     },
-    metadataBase: new URL('https://microhairclinic.si'),
+    metadataBase: new URL('https://www.microhairclinic.si'),
   };
 }
 

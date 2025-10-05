@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: "https://microhairclinic.si",
+  siteUrl: "https://www.microhairclinic.si",
   generateRobotsTxt: true,
   sitemapSize: 5000,
   changefreq: "weekly",
@@ -14,7 +14,7 @@ module.exports = {
       },
     ],
     additionalSitemaps: [
-      'https://microhairclinic.si/sitemap.xml',
+      'https://www.microhairclinic.si/sitemap.xml',
     ],
   },
   transform: async (config, path) => {

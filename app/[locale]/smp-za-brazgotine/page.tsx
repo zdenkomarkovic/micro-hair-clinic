@@ -44,7 +44,7 @@ export async function generateMetadata({
     openGraph: {
       title: titles[locale] || titles.sl,
       description: descriptions[locale] || descriptions.sl,
-      url: `https://microhairclinic.si/${locale}/smp-za-brazgotine`,
+      url: `https://www.microhairclinic.si/${locale}/smp-za-brazgotine`,
       siteName: "Micro Hair Clinic",
       locale: locale === 'sl' ? 'sl_SI' : locale === 'de' ? 'de_DE' : 'en_US',
       type: "website",

@@ -1,4 +1,4 @@
-const baseUrl = "https://microhairclinic.si";
+const baseUrl = "https://www.microhairclinic.si";
 const supportedLocales = ["sl", "en", "de"];
 
 export function generateAlternateLinks(pathname: string) {

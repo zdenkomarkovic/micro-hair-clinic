@@ -41,7 +41,7 @@ export async function generateMetadata({
     openGraph: {
       title: titles[locale as keyof typeof titles] || titles.sl,
       description: descriptions[locale as keyof typeof descriptions] || descriptions.sl,
-      url: `https://microhairclinic.si/${locale}`,
+      url: `https://www.microhairclinic.si/${locale}`,
       siteName: "Micro Hair Clinic",
       locale: locale === 'sl' ? 'sl_SI' : locale === 'de' ? 'de_DE' : 'en_US',
       type: "website",
