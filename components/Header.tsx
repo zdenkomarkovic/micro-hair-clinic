@@ -53,7 +53,7 @@ export default function Header({ locale }: { locale: string }) {
       <nav className="container mx-auto px-4  ">
         <div className="flex justify-between items-center">
           <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-            <Link href="/" className="">
+            <Link href={`/${currentLocale}`} className="">
               <Image
                 src={"/images/mhc3 2.PNG"}
                 alt="micro-hair-clinic"

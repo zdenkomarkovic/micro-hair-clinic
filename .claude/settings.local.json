@@ -5,7 +5,8 @@
       "Bash(curl -s https://microhairclinic.si/sitemap.xml)",
       "Bash(npm run build:*)",
       "Bash(git checkout:*)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "Bash(npm run dev:*)"
     ],
     "deny": [],
     "ask": []
