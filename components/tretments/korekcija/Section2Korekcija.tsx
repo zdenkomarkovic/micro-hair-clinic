@@ -22,7 +22,8 @@ export function Section2Korekcija({ section }: Props) {
                 height={500}
                 alt={section.image.alt}
                 className="rounded-lg w-full shadow aspect-[2/3] object-cover"
-                unoptimized
+                loading="lazy"
+                quality={80}
               />
             </div>
           )}

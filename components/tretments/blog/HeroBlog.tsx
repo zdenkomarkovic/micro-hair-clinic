@@ -16,7 +16,8 @@ export function HeroBlog({ data }: Props) {
           height={1000}
           alt={data.alt}
           className="w-full h-screen md:h-[85dvh] object-cover"
-          unoptimized
+          priority
+          quality={85}
         />
       </div>
       <div className="absolute top-0 left-0 w-full h-full bg-black/30 z-[1]" />

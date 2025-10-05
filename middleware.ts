@@ -34,9 +34,6 @@ export function middleware(request: NextRequest) {
     return NextResponse.next();
   }
 
-  let response: NextResponse | undefined;
-  let nextLocale: string | undefined;
-
   const { locales, defaultLocale } = i18n;
 
   const pathLocale = locales.find(
@@ -44,25 +41,19 @@ export function middleware(request: NextRequest) {
   );
 
   if (pathLocale) {
-    // Ako je već na ispravnoj lokalizovanoj ruti, samo nastavi
-    nextLocale = pathLocale;
-    response = NextResponse.next();
-  } else {
-    const isFirstVisit = !request.cookies.has("NEXT_LOCALE");
-    const locale = isFirstVisit ? getLocale(request, i18n) : defaultLocale;
-
-    let newPath = `/${locale}${pathname === '/' ? '/' : pathname}`;
-    if (request.nextUrl.search) newPath += request.nextUrl.search;
-
-    response = NextResponse.redirect(new URL(newPath, request.url));
-    nextLocale = locale;
+    // Ako je već na ispravnoj lokalizovanoj ruti, samo nastavi BEZ redirecta
+    return NextResponse.next();
   }
 
-  if (nextLocale) {
-    response.cookies.set("NEXT_LOCALE", nextLocale);
-  }
+  // Samo redirect za root ili nevalidne putanje
+  const locale = getLocale(request, i18n);
+  let newPath = `/${locale}${pathname === '/' ? '' : pathname}`;
+  if (request.nextUrl.search) newPath += request.nextUrl.search;
 
-  return response;
+  const redirectResponse = NextResponse.redirect(new URL(newPath, request.url));
+  redirectResponse.cookies.set("NEXT_LOCALE", locale);
+
+  return redirectResponse;
 }
 
 export const config = {

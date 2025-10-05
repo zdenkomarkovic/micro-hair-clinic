@@ -20,7 +20,8 @@ export function Section5({ section }: Props) {
               height={700}
               alt="srdjan micro hair clinic"
               className="w-full rounded-lg "
-              unoptimized
+              loading="lazy"
+              quality={80}
             />
           </div>
           <div className="md:w-2/3 flex flex-col justify-between">

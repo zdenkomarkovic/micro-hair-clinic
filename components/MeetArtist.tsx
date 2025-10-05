@@ -19,7 +19,8 @@ const MeetArtist = ({ data }: Props) => {
             height={700}
             alt="srdjan micro hair clinic"
             className="w-full rounded-lg "
-            unoptimized
+            loading="lazy"
+            quality={80}
           />
         </div>
         <div className="md:w-2/4 flex flex-col justify-between">

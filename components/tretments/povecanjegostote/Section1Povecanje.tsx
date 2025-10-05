@@ -74,7 +74,8 @@ export function Section1Povecanje({ section }: Props) {
                 height={500}
                 alt={section.image.alt}
                 className="rounded-lg w-full shadow"
-                unoptimized
+                loading="lazy"
+                quality={80}
               />
             </div>
           )}

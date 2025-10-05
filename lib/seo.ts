@@ -4,17 +4,23 @@ const supportedLocales = ["sl", "en", "de"];
 export function generateAlternateLinks(pathname: string) {
   const languages: Record<string, string> = {};
 
-  supportedLocales.forEach((locale) => {
-    // Ako pathname već ima locale (npr. /sl/about), koristi ga kao-jeste
-    // Ako pathname nema locale, dodaj ga
-    const url = pathname.startsWith(`/${locale}`)
-      ? `${baseUrl}${pathname}`
-      : `${baseUrl}/${locale}${pathname === `/${locale}` ? '' : pathname}`;
-    languages[locale] = url;
+  // Ukloni postojeći locale iz pathname da dobijemo čist path
+  let cleanPath = pathname;
+  supportedLocales.forEach((loc) => {
+    if (pathname.startsWith(`/${loc}/`)) {
+      cleanPath = pathname.substring(loc.length + 1); // npr. /sl/about -> /about
+    } else if (pathname === `/${loc}`) {
+      cleanPath = ''; // npr. /sl -> ''
+    }
   });
 
-  // x-default treba biti slovenački homepage
-  languages["x-default"] = `${baseUrl}/sl`;
+  // Dodaj svaki locale sa čistim path-om
+  supportedLocales.forEach((locale) => {
+    languages[locale] = `${baseUrl}/${locale}${cleanPath}`;
+  });
+
+  // x-default je slovenački
+  languages["x-default"] = `${baseUrl}/sl${cleanPath}`;
 
   return {
     canonical: `${baseUrl}${pathname}`,

@@ -53,8 +53,8 @@ export function Section2Zenske({ section, direction }: Props) {
               height={500}
               alt={section.image.alt}
               className="rounded-lg w-full shadow-lg"
-              unoptimized
-
+              loading="lazy"
+              quality={80}
             />
           </div>
         )}
