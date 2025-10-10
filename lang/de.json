@@ -1,149 +1,139 @@
 {
-  "page.home.head.title": "Manikam Web Solutions – Profesionalna izrada sajtova i softvera",
-  "page.home.head.meta.description": "Manikam Web Solutions je agencija za izradu softvera i sajtova koja pruža profesionalna, prilagođena digitalna rešenja za rast vašeg biznisa.",
-  "hero.title": "Mikropigmentierung der Kopfhaut (SMP) – effektive Lösung gegen Haarausfall bei Männern",
-  "hero.subtitle": "Über 10 Jahre Erfahrung. SMP-Behandlungen unter der Leitung des preisgekrönten Künstlers Srđan Kostovski – jetzt auch in Ljubljana.",
-  "hero.text": "Wenn Sie über eine Lösung gegen Haarausfall nachdenken, sind Sie hier genau richtig. Was Srđan macht, ist nicht nur Technik – es ist eine Kunst, die Leben verändert. Sehen Sie sich die Website an, Vorher/Nachher-Bilder, Kundenmeinungen… und natürlich – buchen Sie ein Beratungsgespräch. Sie werden es nicht bereuen.",
-  "hero.button": "Kostenloses Beratungsgespräch buchen",
-  "footer.message": "Behandlungen",
-  "footer.rights": "Sva prava zadržana.",
-  "contact": {
-    "title": "Pa izvolite kako vam je zgodnije...",
-    "name": "Ime i Prezime:",
-    "broj": "Broj telefona:",
-    "message": "Vaša poruka:",
-    "plh.name": "Unesite ime i prezime:",
-    "plh.broj": "Unesite vaš broj telefona:",
-    "plh.message": "Vaša poruka za nas"
-  },
+  "hero.title": "Kopfhaut-Mikropigmentierung (SMP) Ljubljana – effektive Lösung gegen Haarausfall",
+  "hero.subtitle": "SMP-Behandlungen Ljubljana: Mehr als 10 Jahre Erfahrung. Kopfhaut-Mikropigmentierung unter Leitung des ausgezeichneten SMP-Künstlers Srđan Kostovski.",
+  "hero.text": "Suchen Sie eine Lösung für Haarausfall in Ljubljana? Die Kopfhaut-Mikropigmentierung (SMP-Behandlung) ist eine nicht-invasive Hair-Tattoo-Technik, die Leben verändert. Sehen Sie Vorher-Nachher-Bilder der SMP-Behandlung, Kundenmeinungen zur Kopfhaut-Mikropigmentierung… und buchen Sie eine kostenlose SMP-Beratung in Ljubljana.",
+  "hero.button": "Kostenlose Beratung buchen – SMP Ljubljana",
+  "footer.message": "SMP-Behandlungen",
+  "footer.rights": "Alle Rechte vorbehalten.",
+
   "cardwithimage": {
-    "title": "WARUM MICRO HAIR CLINIC?",
+    "title": "WARUM KOPFHAUT-MIKROPIGMENTIERUNG BEI MICRO HAIR CLINIC LJUBLJANA?",
     "text": [
-      "Über 10 Jahre Erfahrung",
-      "Mehr als 1.000 zufriedene Kunden",
-      "Studio in Ljubljana – gut erreichbar aus ganz Slowenien und darüber hinaus",
-      "Wir bilden neue Künstler aus, die bald Behandlungen durchführen werden",
-      "Srđan Kostovski – mehrfach ausgezeichneter SMP-Künstler",
-      "Lösungen für Glatzenbildung, dünner werdendes Haar, Narben, Alopezie",
-      "Natürliches Aussehen, ohne Operation, ohne Ausfallzeit"
+      "Mehr als 10 Jahre Erfahrung in SMP-Behandlungen",
+      "Mehr als 1000 zufriedene Kunden – Kopfhaut-Mikropigmentierung",
+      "SMP-Studio Ljubljana – in ganz Slowenien zugänglich",
+      "Wir bilden neue SMP-Künstler für Behandlungen in Slowenien aus",
+      "Srđan Kostovski – mehrfach ausgezeichneter SMP-Experte",
+      "Lösungen bei Glatzenbildung, dünner werdendem Haar, Narben, Alopezie – SMP-Behandlung",
+      "Hair Tattoo – natürlicher Look, keine Operation, keine Erholungszeit"
     ]
   },
   "cards2": [
     {
-      "title": "Noch am Recherchieren?",
-      "text": "Was ist SMP? Warum fallen Haare aus?",
-      "button": "Leitfaden für Einsteiger",
+      "title": "Sie erkunden SMP?",
+      "text": "Was ist Kopfhaut-Mikropigmentierung? Warum fallen Haare aus?",
+      "button": "SMP-Anfängerleitfaden",
       "link": "/smp-vs-presaditev"
     },
     {
-      "title": "Vergleichen Sie Optionen?",
-      "text": "Haartransplantation oder SMP? Tut es weh?",
-      "button": "Vergleichsleitfaden",
+      "title": "Vergleichen Sie Optionen bei Haarausfall?",
+      "text": "Haartransplantation oder SMP-Behandlung? Tut Kopfhaut-Mikropigmentierung weh?",
+      "button": "SMP-Vergleichsleitfaden",
       "link": "/smp-vs-presaditev"
     },
     {
-      "title": "Schon entschieden?",
-      "text": "Bereit für eine Behandlung?",
-      "button": "Termin jetzt buchen",
+      "title": "Bereit für die SMP-Behandlung?",
+      "text": "Möchten Sie Kopfhaut-Mikropigmentierung in Ljubljana?",
+      "button": "Jetzt SMP-Termin buchen",
       "link": "/kontakt"
     }
   ],
   "cards2text": {
-    "title": "WAS IST SMP?",
-    "text": "Wenn Sie unter Haarausfall leiden und nicht wissen, wo Sie anfangen sollen – Sie sind nicht allein. Vielleicht haben Sie bereits gesucht: „Warum fallen meine Haare aus“, „Ich bin 25 und habe Geheimratsecken“, „Lösung gegen Haarausfall“...",
-    "span": "SMP – Kopfhaut-Mikropigmentierung",
-    "text2": " ist ein nicht-invasives Verfahren, bei dem mit einer speziellen Technik und Pigment das Aussehen dichter, rasierter Haare erzeugt wird.",
-    "subtitle": "Wirkung:",
-    "subtitle2": "Vorher / Nachher",
+    "title": "WAS IST KOPFHAUT-MIKROPIGMENTIERUNG (SMP-BEHANDLUNG)?",
+    "text": "Wenn Ihnen Haare ausfallen und Sie eine Lösung gegen Glatzenbildung suchen – Sie sind nicht allein. Vielleicht haben Sie schon gesucht nach: \"gegen Haarausfall\", \"SMP Ljubljana\", \"Lösung für Glatzenbildung\"...",
+    "span": "Kopfhaut-Mikropigmentierung (SMP – Scalp Micropigmentation) ",
+    "text2": "ist ein nicht-invasiver Hair-Tattoo-Prozess, bei dem mit spezieller SMP-Technik und Pigment das Aussehen dichter, rasierter Haare erzeugt wird. SMP-Behandlung ist eine effektive Lösung gegen Haarausfall.",
+    "subtitle": "Effekt der SMP-Behandlung:",
+    "subtitle2": "SMP Vorher / Nachher",
     "list1": [
-      "Natürlicher Look rasierten Haares",
-      "Rekonstruierte Haarlinie",
-      "Ideal für Männer und Frauen"
+      "natürliches Aussehen rasierter Haare – Hair Tattoo",
+      "verdichtete Haarlinie durch Kopfhaut-Mikropigmentierung",
+      "SMP-Behandlung ideal für Männer und Frauen",
+      "Kopfhaut-Mikropigmentierung ist eine dauerhafte Lösung gegen Glatzenbildung"
     ],
     "list2": [
       "Keine Operation",
       "Keine Medikamente",
-      "Keine Narben oder Ausfallzeit"
+      "Keine Narben oder Erholungszeit – Hair Tattoo SMP"
     ]
   },
   "datatreatments": {
-    "cta": "Sie wissen nicht, welche Behandlung für Sie geeignet ist? – Schreiben Sie uns über Viber / WhatsApp",
-    "title": "Behandlungsarten",
+    "title": "Arten von SMP-Behandlungen – Kopfhaut-Mikropigmentierung Ljubljana",
+    "cta": "Sie wissen nicht, welche SMP-Behandlung die richtige für Sie ist? – Kontaktieren Sie uns über Viber / WhatsApp für Beratung zur Kopfhaut-Mikropigmentierung",
     "tretmans": [
       {
-        "title": "SMP bei Kahlheit (Look einer rasierten Glatze)",
+        "title": "SMP gegen Glatzenbildung Ljubljana – Hair Tattoo (rasierter Kopflook)",
         "slug": "smp-za-plesavost",
         "img": "/optimized/smp plesavost-min.webp"
       },
       {
-        "title": "Haarausfall – Verdichtung mit oder ohne Transplantation",
+        "title": "Kopfhaut-Mikropigmentierung bei dünner werdendem Haar – Verdichtung SMP-Behandlung",
         "slug": "smp-povecanje-gostote-redki-lasje",
         "img": "/optimized/redcenje las-min.webp"
       },
       {
-        "title": "SMP bei Narben – durch Transplantation, Verletzungen oder Operationen",
+        "title": "SMP bei Narben Ljubljana – Mikropigmentierung nach Transplantation",
         "slug": "smp-za-brazgotine",
         "img": "/optimized/smp za brazgotine-min.webp"
       },
       {
-        "title": "Alopezie – areata, totalis, universalis",
+        "title": "SMP-Behandlung bei Alopezie – Areata, Totalis, Universalis",
         "slug": "smp-alopecija",
         "img": "/optimized/alopcije.webp"
       },
       {
-        "title": "SMP für Frauen – dünner werdendes Haar, weniger Volumen",
+        "title": "Kopfhaut-Mikropigmentierung für Frauen – SMP-Behandlung dünnes Haar",
         "slug": "smp-za-zenske",
         "img": "/optimized/smp za zenske-min.webp"
       },
       {
-        "title": "Korrektur misslungener SMP-Behandlungen",
+        "title": "Korrektur SMP-Behandlung – Nachbesserung der Kopfhaut-Mikropigmentierung",
         "slug": "smp-korekcija",
         "img": "/optimized/neuspesni smp tretmani-min.webp"
       }
     ]
   },
-
   "questions": {
-    "title": "Häufig gestellte Fragen – Mikropigmentierung der Kopfhaut (SMP)",
+    "title": "Häufige Fragen – Kopfhaut-Mikropigmentierung (SMP-Behandlung) Ljubljana",
     "categories": [
       {
-        "title": "ALLGEMEINE FRAGEN ZUR SMP-BEHANDLUNG",
-        "cta": "Alle Behandlungstypen ansehen:",
+        "title": "ALLGEMEINE FRAGEN ZUR SMP-BEHANDLUNG – KOPFHAUT-MIKROPIGMENTIERUNG",
+        "cta": "Sehen Sie alle SMP-Behandlungen – Kopfhaut-Mikropigmentierung:",
         "link": "/#tretmani",
         "answers": [
           {
-            "question": "Wie lange dauert eine SMP-Behandlung?",
-            "text": "SMP wird in 2 bis 4 Sitzungen durchgeführt, im Abstand von 7–14 Tagen. Jede Sitzung dauert etwa 2–3 Stunden.",
+            "question": "Wie lange dauert eine SMP-Behandlung – Kopfhaut-Mikropigmentierung?",
+            "text": "Die SMP-Behandlung (Kopfhaut-Mikropigmentierung) erfolgt in 2 bis 4 Sitzungen im Abstand von 7–14 Tagen. Jede SMP-Sitzung dauert ca. 2–3 Stunden.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Tut SMP weh?",
-            "text": "Die Behandlung ist leicht unangenehm, aber die meisten Kunden beschreiben es als Kratzgefühl. Lokalanästhesie wird nur in besonderen Fällen (auf Wunsch des Kunden) verwendet.",
+            "question": "Tut die SMP-Behandlung (Kopfhaut-Mikropigmentierung) weh?",
+            "text": "Die SMP-Behandlung ist leicht unangenehm, die meisten Kunden beschreiben ein kratzendes Gefühl. Kopfhaut-Mikropigmentierung erfordert keine lokale Betäubung, außer in speziellen Fällen (auf Wunsch des Kunden).",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Wie lange hält der Effekt von SMP an?",
-            "text": "Der Effekt hält 2 bis 4 Jahre, danach wird eine Auffrischung des Pigments mit einer Sitzung empfohlen.",
+            "question": "Wie lange hält der Effekt der SMP-Behandlung (Kopfhaut-Mikropigmentierung)?",
+            "text": "Der Effekt der Kopfhaut-Mikropigmentierung (SMP-Behandlung) hält 2 bis 4 Jahre, danach wird eine Auffrischung des SMP-Pigments in einer Sitzung empfohlen.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Ist SMP dasselbe wie ein Tattoo?",
-            "text": "Nein. SMP verwendet spezielle Pigmente, feinere Nadeln und flachere Einstiche. Es verläuft nicht und ändert nicht die Farbe wie klassische Tattoos.",
+            "question": "Ist Kopfhaut-Mikropigmentierung (SMP) wie ein Tattoo?",
+            "text": "Nein. Die SMP-Behandlung (Kopfhaut-Mikropigmentierung) verwendet spezielle Hair-Tattoo-Pigmente, feine Nadeln und flache Stiche. SMP verläuft nicht und ändert die Farbe nicht wie normale Tattoos.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Wer kann SMP machen lassen?",
-            "text": "SMP wird Männern und Frauen empfohlen mit:",
+            "question": "Wer kann eine SMP-Behandlung (Kopfhaut-Mikropigmentierung) durchführen?",
+            "text": "Die SMP-Behandlung und Kopfhaut-Mikropigmentierung empfehlen wir Männern und Frauen mit:",
             "list": [
-              "Kahlheit (Norwood 3–7)",
-              "ausdünnendem Haar",
-              "Alopezie (Areata, Totalis)",
-              "Narben auf der Kopfhaut",
-              "schlecht durchgeführten SMP-Behandlungen",
+              "Glatzenbildung (Norwood 3–7) – SMP-Lösung",
+              "dünner werdendem Haar – Kopfhaut-Mikropigmentierung",
+              "Alopezie (Areata, Totalis) – SMP-Behandlung",
+              "Narben auf der Kopfhaut – Hair Tattoo",
+              "schlecht ausgeführte SMP-Behandlungen",
               ""
             ],
             "text2": ""
@@ -151,137 +141,137 @@
         ]
       },
       {
-        "title": "SMP BEI KAHLHEIT",
-        "cta": "Mehr über diese Behandlung:",
+        "title": "SMP BEI GLATZENBILDUNG – KOPFHAUT-MIKROPIGMENTIERUNG LJUBLJANA",
+        "cta": "Mehr zur SMP-Behandlung bei Glatzenbildung:",
         "link": "/smp-za-plesavost",
         "answers": [
           {
-            "question": "Wie sieht das Ergebnis bei kahlen Männern aus?",
-            "text": "Der Effekt ähnelt einem kurz rasierten Kopf. Das Pigment imitiert Haarfollikel und folgt der natürlichen Kopfform.",
+            "question": "Wie sieht das Ergebnis der Kopfhaut-Mikropigmentierung (SMP) bei kahlen Männern aus?",
+            "text": "Die SMP-Behandlung erzeugt den Effekt eines kurz rasierten Kopfes auf Null. Kopfhaut-Mikropigmentierung imitiert Haarfollikel und folgt der natürlichen Kopfform – Hair Tattoo.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Ist der Unterschied zwischen Pigment und echtem Haar sichtbar?",
-            "text": "Wenn die Behandlung professionell durchgeführt wird – nein. Der Farbton des Pigments wird an deine Haar- und Hautfarbe angepasst.",
+            "question": "Ist ein Unterschied zwischen SMP-Pigment und echtem Haar sichtbar?",
+            "text": "Wenn die SMP-Behandlung (Kopfhaut-Mikropigmentierung) fachgerecht durchgeführt wird – nein. Der Ton des SMP-Pigments wird nach Haar- und Hautfarbe ausgewählt.",
             "list": ["", "", ""],
             "text2": ""
           }
         ]
       },
       {
-        "title": "SMP BEI AUSDÜNNENDEM HAAR",
-        "cta": "Mehr über diese Behandlung:",
+        "title": "SMP BEI DÜNNEM HAAR – KOPFHAUT-MIKROPIGMENTIERUNG",
+        "cta": "Mehr zur SMP-Behandlung bei dünnem Haar:",
         "link": "/smp-povecanje-gostote-redki-lasje",
         "answers": [
           {
-            "question": "Muss ich meinen Kopf rasieren, wenn ich nur ausdünnendes Haar habe?",
-            "text": "Nein. Bei dieser Behandlung bleibt deine natürliche Haarlänge erhalten und das Pigment wird verwendet, um helle Lücken zu füllen.",
+            "question": "Muss der Kopf für SMP rasiert werden, wenn das Haar nur dünn ist?",
+            "text": "Nein. Bei Kopfhaut-Mikropigmentierung zur Haarverdichtung wird die natürliche Haarlänge beibehalten, SMP-Pigment füllt helle Lücken aus.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Kann ich SMP mit einer Haartransplantation kombinieren?",
-            "text": "Ja. SMP wird oft nach einer Transplantation durchgeführt, um die Dichte zu erhöhen und Lücken zu füllen.",
+            "question": "Kann ich SMP-Behandlung (Kopfhaut-Mikropigmentierung) mit Haartransplantation kombinieren?",
+            "text": "Ja. SMP wird häufig nach Haartransplantationen durchgeführt, um die Dichte mit Kopfhaut-Mikropigmentierung zu erhöhen und Lücken zu füllen.",
             "list": ["", "", ""],
             "text2": ""
           }
         ]
       },
       {
-        "title": "SMP FÜR NARBEN",
-        "cta": "Mehr über diese Behandlung:",
+        "title": "SMP BEI NARBEN – KOPFHAUT-MIKROPIGMENTIERUNG LJUBLJANA",
+        "cta": "Mehr zur SMP-Behandlung bei Narben:",
         "link": "/smp-za-brazgotine",
         "answers": [
           {
-            "question": "Kann Pigment über Narben aufgetragen werden?",
-            "text": "Ja – SMP deckt effektiv Narben von Transplantationen (FUE/FUT) sowie Narben durch Verletzungen oder Operationen ab.",
+            "question": "Kann SMP-Pigment (Kopfhaut-Mikropigmentierung) auf Narben aufgetragen werden?",
+            "text": "Ja – SMP deckt effektiv Narben nach Transplantationen (FUE/FUT) sowie Verletzungsnarben ab. Kopfhaut-Mikropigmentierung ist ideal für Narben.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Ist SMP auf Narbengewebe sicher?",
-            "text": "Ja, die Behandlung wird jedoch vorsichtig und schichtweise durchgeführt – nach Analyse des Hautzustands.",
+            "question": "Ist SMP (Kopfhaut-Mikropigmentierung) auf Narbengewebe sicher?",
+            "text": "Ja, SMP wird vorsichtig und schichtweise durchgeführt – Kopfhaut-Mikropigmentierung nach Analyse des Hautzustands.",
             "list": ["", "", ""],
             "text2": ""
           }
         ]
       },
       {
-        "title": "SMP UND ALOPEZIE",
-        "cta": "Mehr über diese Behandlung:",
+        "title": "SMP UND ALOPEZIE – KOPFHAUT-MIKROPIGMENTIERUNG",
+        "cta": "Mehr zur SMP-Behandlung bei Alopezie:",
         "link": "/smp-alopecija",
         "answers": [
           {
-            "question": "Kann SMP bei Alopezie helfen?",
-            "text": "Ja. Bei Alopecia areata, totalis oder universalis kann SMP:",
+            "question": "Kann SMP-Behandlung (Kopfhaut-Mikropigmentierung) bei Alopezie helfen?",
+            "text": "Ja. Bei Alopezie Areata, Totalis oder Universalis kann SMP (Kopfhaut-Mikropigmentierung):",
             "list": [
-              "kahle Stellen abdecken",
-              "das Aussehen der Kopfhaut ausgleichen",
-              "die Haarlinie optisch wiederherstellen"
+              "haarlose Stellen abdecken – Hair Tattoo",
+              "Aussehen der Kopfhaut mit SMP angleichen",
+              "visuell die Haarlinie wiederherstellen – Kopfhaut-Mikropigmentierung"
             ],
             "text2": ""
           }
         ]
       },
       {
-        "title": "KORREKTUREN VON SCHLECHT DURCHGEFÜHRTEN BEHANDLUNGEN",
-        "cta": "Mehr über diese Behandlung:",
+        "title": "KORREKTUR SCHLECHT AUSGEFÜHRTER SMP-BEHANDLUNGEN – KOPFHAUT-MIKROPIGMENTIERUNG",
+        "cta": "Mehr zur SMP-Korrektur:",
         "link": "/smp-korekcija",
         "answers": [
           {
-            "question": "Ich hatte SMP, bin aber nicht zufrieden – was nun?",
-            "text": "Wenn die Behandlung schlecht gemacht wurde (schlechte Linie, Farbe, Punkte), ist es möglich:",
+            "question": "Meine SMP-Behandlung (Kopfhaut-Mikropigmentierung) war nicht zufriedenstellend – was nun?",
+            "text": "Wenn die SMP-Behandlung schlecht durchgeführt wurde (schlechte Linie, Farbe, Punkte), ist eine Korrektur der Kopfhaut-Mikropigmentierung möglich:",
             "list": [
-              "die Linie zu korrigieren",
-              "die Farbe zu neutralisieren",
-              "das Aussehen auszugleichen"
+              "Korrektur der SMP-Linie",
+              "Neutralisierung der SMP-Farbe",
+              "gleichmäßiges Erscheinungsbild der Kopfhaut-Mikropigmentierung"
             ],
-            "text2": "Wenn eine Korrektur des Pigments nicht möglich ist – empfehlen wir eine Laserentfernung."
+            "text2": "Wenn SMP-Pigment nicht korrigiert werden kann – empfehlen wir Laserentfernung."
           }
         ]
       },
       {
-        "title": "SMP FÜR FRAUEN",
-        "cta": "Mehr über diese Behandlung:",
+        "title": "SMP FÜR FRAUEN – KOPFHAUT-MIKROPIGMENTIERUNG LJUBLJANA",
+        "cta": "Mehr zur SMP-Behandlung für Frauen:",
         "link": "/smp-za-zenske",
         "answers": [
           {
-            "question": "Wird SMP auch bei Frauen durchgeführt?",
-            "text": "Ja. Die Behandlung ist speziell angepasst für:",
+            "question": "Wird SMP-Behandlung (Kopfhaut-Mikropigmentierung) auch bei Frauen durchgeführt?",
+            "text": "Ja. SMP ist speziell für Frauen angepasst mit:",
             "list": [
-              "ausgedünnten Scheitel",
-              "ausgedünnte Kopfhaut",
-              "postpartalen oder hormonellen Haarausfall"
+              "ausgedünnter Scheitel – SMP-Behandlung",
+              "Dünner werdendes Haar am Scheitel – Kopfhaut-Mikropigmentierung",
+              "postpartaler oder hormonbedingter Haarausfall – SMP-Lösung"
             ],
             "text2": ""
           },
           {
             "question": "Muss eine Frau den Kopf für SMP rasieren?",
-            "text": "Nein. Die Behandlung wird zwischen den vorhandenen Haaren durchgeführt, ohne Rasur.",
+            "text": "Nein. SMP wird zwischen den vorhandenen Haaren durchgeführt, ohne Rasur.",
             "list": ["", "", ""],
             "text2": ""
           }
         ]
       },
       {
-        "title": "FRAGEN ZU PREISEN UND KONTAKT",
-        "cta": "Zur Kontaktseite gehen",
+        "title": "FRAGEN ZU SMP-PREISEN UND KONTAKT – KOPFHAUT-MIKROPIGMENTIERUNG LJUBLJANA",
+        "cta": "Zur Kontaktseite – SMP Ljubljana",
         "link": "/kontakt",
         "answers": [
           {
-            "question": "Wie viel kostet eine SMP-Behandlung?",
-            "text": "Der Preis hängt ab von:",
+            "question": "Wie viel kostet SMP (Kopfhaut-Mikropigmentierung) in Ljubljana?",
+            "text": "Der Preis der SMP-Behandlung hängt ab von:",
             "list": [
-              "der behandelten Fläche",
-              "der Art der Behandlung",
-              "der Anzahl der Sitzungen"
+              "Größe des behandelten Bereichs – SMP-Behandlung",
+              "Art der Kopfhaut-Mikropigmentierung",
+              "Anzahl der SMP-Sitzungen"
             ],
-            "text2": "Die Einschätzung ist kostenlos und individuell. Sende Fotos deines Kopfes per Viber/WhatsApp."
+            "text2": "Die SMP-Einschätzung ist kostenlos. Senden Sie Bilder des Kopfes über Viber/WhatsApp zur Bewertung der Kopfhaut-Mikropigmentierung."
           },
           {
-            "question": "Wo befindet sich die Micro Hair Clinic?",
-            "text": "Das Studio befindet sich in Belgrad, und es gibt auch ein Zentrum in Ljubljana.",
+            "question": "Wo befindet sich die Micro Hair Clinic für SMP?",
+            "text": "Das SMP-Studio befindet sich in Belgrad, die Micro Hair Clinic hat auch ein Zentrum in Ljubljana.",
             "list": ["", "", ""],
             "text2": ""
           }
@@ -290,36 +280,36 @@
     ]
   },
   "artist": {
-    "title": "LERNEN SIE DEN KÜNSTLER KENNEN",
-    "text": "Srđan hat selbst Haarausfall erlebt und sich nach einer erfolgreichen SMP-Behandlung entschieden, anderen zu helfen. Ausgebildet in Mailand, mit über einem Jahrzehnt Erfahrung.",
-    "award1": "Gold Award 2023 – Bester SMP-Künstler in Europa und Großbritannien",
+    "title": "TREFFEN SIE DEN SMP-KÜNSTLER – KOPFHAUT-MIKROPIGMENTIERUNG",
+    "text": "Srđan hat selbst Haarausfall erlebt und sich nach erfolgreicher SMP-Behandlung (Kopfhaut-Mikropigmentierung) entschieden, anderen zu helfen. SMP-Experte ausgebildet in Mailand, mit über einem Jahrzehnt Erfahrung in Hair-Tattoo-Technik.",
+    "award1": "Gold Award 2023 – bester SMP-Künstler (Kopfhaut-Mikropigmentierung) in Europa und UK",
     "award2": "Best SMP Artist 2024 – SMP Connect, Portugal",
-    "award3": "TeamMicro Zertifizierte Klinik",
-    "text2": "Ich bin nicht nur ein Künstler – ich bin ein Mann, der versteht, wie es ist, Haare zu verlieren. Und ich weiß, wie es sich anfühlt, sie wieder zu haben."
+    "award3": "TeamMicro Certified Klinik – SMP-Behandlungen",
+    "text2": "Ich bin nicht nur SMP-Künstler – ich bin ein Mann, der versteht, wie es ist, Haare zu verlieren. Und ich weiß, wie es aussieht, sie wieder zu haben – mit Kopfhaut-Mikropigmentierung."
   },
   "tretmanFlow": {
-    "title": "WIE SIEHT DIE BEHANDLUNG AUS?",
-    "description": "Hinweis: Während des gesamten Prozesses wird eine feine Nadel und ein spezielles Pigment verwendet, das für die Kopfhaut entwickelt wurde. Der Kunde kann bereits am Tag nach der Behandlung seine täglichen Aktivitäten fortsetzen.",
+    "title": "WIE LÄUFT DIE SMP-BEHANDLUNG AB – KOPFHAUT-MIKROPIGMENTIERUNG?",
+    "description": "Hinweis: Während des gesamten SMP-Prozesses (Kopfhaut-Mikropigmentierung) wird eine feine Nadel und spezielles Hair-Tattoo-Pigment verwendet, entwickelt für die Kopfhaut. Der Kunde kann bereits am Tag nach der SMP-Behandlung wieder normalen Aktivitäten nachgehen.",
     "text": [
       {
-        "bold": "1 Kostenlose Beratung und Analyse ",
-        "normal": "– entweder persönlich im Studio oder per Viber/WhatsApp Videoanruf möglich"
+        "bold": "1 Kostenlose SMP-Beratung ",
+        "normal": "– Analyse der Kopfhaut-Mikropigmentierung live im Studio Ljubljana oder per Viber/WhatsApp Videoanruf möglich"
       },
       {
-        "bold": "2 Erste Sitzung ",
-        "normal": "– die vordere Haarlinie und die Form der Pigmentierung werden bestimmt, danach wird die Grundschicht des Pigments aufgetragen"
+        "bold": "2 Erste SMP-Sitzung ",
+        "normal": "– Die Frontlinie und Form der Kopfhaut-Mikropigmentierung wird festgelegt, dann wird die Grundschicht des SMP-Pigments aufgetragen"
       },
       {
-        "bold": "3 Zweite Sitzung ",
-        "normal": "– wird normalerweise 10–20 Tage nach der ersten durchgeführt. Dieser Zeitraum dient dazu, dass sich das Pigment aus der ersten Sitzung in der Haut stabilisiert. Während dieser Sitzung wird die Dichte erhöht, Übergänge und Details definiert, um ein noch natürlicheres Aussehen zu erzielen."
+        "bold": "3 Zweite Sitzung der Kopfhaut-Mikropigmentierung ",
+        "normal": "– Normalerweise erfolgt die SMP-Behandlung 10–20 Tage nach der ersten Sitzung. Ziel ist die Stabilisierung des SMP-Pigments. In dieser Sitzung wird die Dichte erhöht und Übergänge definiert – Hair Tattoo wirkt natürlicher."
       },
       {
-        "bold": "4 Dritte Sitzung ",
-        "normal": "– die abschließende Behandlung, bei der nach den vorherigen beiden Sitzungen die vordere Haarlinie und eventuelle Mängel, die während der vorherigen Behandlungen festgestellt wurden, verfeinert werden können. Falls weitere Anpassungen erforderlich sind, kann dem Kunden eine zusätzliche Behandlung ohne zusätzliche Kosten angeboten werden."
+        "bold": "4 Dritte SMP-Sitzung ",
+        "normal": "– Abschließende Behandlung der Kopfhaut-Mikropigmentierung, bei der die Frontlinie und alle SMP-Mängel korrigiert werden. Bei Bedarf einer zusätzlichen Anpassung kann der Kunde eine weitere Sitzung ohne Zusatzkosten erhalten."
       },
       {
-        "bold": "5 Pflege ",
-        "normal": "nach 2–4 Jahren kann eine Farbauffrischung in einer Sitzung durchgeführt werden."
+        "bold": "5 SMP-Pflege ",
+        "normal": "Nach 2–4 Jahren ist eine Auffrischung der Kopfhaut-Mikropigmentierung in einer Sitzung möglich."
       }
     ]
   }

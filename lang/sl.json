@@ -1,143 +1,134 @@
 {
-  "page.home.head.title": "",
-  "page.home.head.meta.description": "",
-  "hero.title": "Mikropigmentacija lasišča (SMP) – učinkovita rešitev za izpadanje las pri moških",
-  "hero.subtitle": "Več kot 10 let izkušenj. SMP tretmaji pod vodstvom nagrajenega umetnika Srđana Kostovskega – zdaj tudi v Ljubljani.",
-  "hero.text": "Če razmišljate o rešitvi za izpadanje las, ste na pravem mestu. Tisto, kar Srđan dela, ni samo tehnika – je umetnost, ki spreminja življenja. Poglejte si spletno stran, slike prej/potem, mnenja strank… in seveda – rezervirajte svetovanje. Ne boste obžalovali.",
-  "hero.button": "Rezerviraj brezplačno svetovanje",
-  "footer.message": "Tretmaji",
+  "hero.title": "Mikropigmentacija lasišča (SMP) Ljubljana – učinkovita rešitev za izpadanje las",
+  "hero.subtitle": "SMP tretmani Ljubljana: Več kot 10 let izkušenj. Mikropigmentacija lasišča pod vodstvom nagrajenega SMP umetnika Srđana Kostovskega.",
+  "hero.text": "Iščete rešitev za izpadanje las v Ljubljani? Mikropigmentacija lasišča (SMP tretman) je neinvazivna hair tattoo tehnika, ki spreminja življenja. Poglejte si slike pred in po SMP tretmaju, mnenja strank o mikropigmentaciji lasišča… in rezervirajte brezplačno svetovanje za SMP Ljubljana.",
+  "hero.button": "Rezerviraj brezplačno svetovanje – SMP Ljubljana",
+  "footer.message": "SMP Tretmaji",
   "footer.rights": "Sva prava zadržana.",
-  "contact": {
-    "title": "Pa izvolite kako vam je zgodnije...",
-    "name": "Ime i Prezime:",
-    "broj": "Broj telefona:",
-    "message": "Vaša poruka:",
-    "plh.name": "Unesite ime i prezime:",
-    "plh.broj": "Unesite vaš broj telefona:",
-    "plh.message": "Vaša poruka za nas"
-  },
+
   "cardwithimage": {
-    "title": "ZAKAJ MICRO HAIR CLINIC?",
+    "title": "ZAKAJ MIKROPIGMENTACIJA LASIŠČA PRI MICRO HAIR CLINIC LJUBLJANA?",
     "text": [
-      "Več kot 10 let izkušenj",
-      "Več kot 1000 zadovoljnih strank",
-      "Studio v Ljubljani – dostopen po celi Sloveniji in širše",
-      "Pripravljamo nove artiste, ki bodo kmalu izvajali tretmaje",
-      "Srđan Kostovski – večkrat nagrajen SMP umetnik",
-      "Rešitve za plešavost, redčenje las, brazgotine, alopecijo",
-      "Naraven videz, brez operacije, brez okrevanja"
+      "Več kot 10 let izkušenj v SMP tretmanih",
+      "Več kot 1000 zadovoljnih strank – mikropigmentacija lasišča",
+      "SMP studio Ljubljana – dostopen po celi Sloveniji",
+      "Pripravljamo nove SMP artiste za tretmaje v Sloveniji",
+      "Srđan Kostovski – večkrat nagrajen SMP strokovnjak",
+      "Rešitve za plešavost, redčenje las, brazgotine, alopecijo – SMP tretman",
+      "Hair tattoo – naraven videz, brez operacije, brez okrevanja"
     ]
   },
   "cards2": [
     {
-      "title": "Šele raziskujete?",
-      "text": "Kaj je SMP? Zakaj izpadajo lasje?",
-      "button": "Vodnik za začetnike",
+      "title": "Šele raziskujete SMP?",
+      "text": "Kaj je mikropigmentacija lasišča? Zakaj izpadajo lasje?",
+      "button": "Vodnik za SMP začetnike",
       "link": "/smp-vs-presaditev"
     },
     {
-      "title": "Primerjate možnosti?",
-      "text": "Presaditev ali SMP? Ali boli?",
-      "button": "Primerjalni vodnik",
+      "title": "Primerjate možnosti za izpadanje las?",
+      "text": "Presaditev las ali SMP tretman? Ali mikropigmentacija lasišča boli?",
+      "button": "Primerjalni vodnik SMP",
       "link": "/smp-vs-presaditev"
     },
     {
-      "title": "Ste že odločeni?",
-      "text": "Želite tretma?",
-      "button": "Rezervirajte termin zdaj",
-      "link": "/Kontakt"
+      "title": "Ste odločeni za SMP tretman?",
+      "text": "Želite mikropigmentacijo lasišča v Ljubljani?",
+      "button": "Rezervirajte SMP termin zdaj",
+      "link": "/kontakt"
     }
   ],
   "cards2text": {
-    "title": "KAJ JE SMP?",
-    "text": "Če vam izpadajo lasje in ne veste, kje začeti – niste edini. Morda ste že iskali: “zakaj mi izpadajo lasje”, “imam 25 let in zalizce”, “rešitev za plešavost”...",
-    "span": "SMP – mikropigmentacija lasišča ",
-    "text2": "lasišča je neinvaziven postopek, kjer se s posebno tehniko in pigmentom ustvari videz gostih, obritih las.",
-    "subtitle": "Učinek:",
-    "subtitle2": "Pred / Po",
+    "title": "KAJ JE MIKROPIGMENTACIJA LASIŠČA (SMP TRETMAN)?",
+    "text": "Če vam izpadajo lasje in iščete rešitev za plešavost – niste edini. Morda ste že iskali: \"kaj proti izpadanju las\", \"SMP Ljubljana\", \"rešitev za plešavost\"...",
+    "span": "Mikropigmentacija lasišča (SMP – Scalp Micropigmentation) ",
+    "text2": "je neinvaziven hair tattoo postopek, kjer se s posebno SMP tehniko in pigmentom ustvari videz gostih, obritih las. SMP tretman je učinkovita rešitev za izpadanje las.",
+    "subtitle": "Učinek SMP tretmana:",
+    "subtitle2": "SMP Pred / Po",
     "list1": [
-      "naraven videz obritih las",
-      "zgoščena lasna linija",
-      "idealno za moške in ženske"
+      "naraven videz obritih las – hair tattoo",
+      "zgoščena lasna linija z mikropigmentacijo lasišča",
+      "SMP tretman idealen za moške in ženske",
+      "mikropigmentacija lasišča je trajna rešitev za plešavost"
     ],
-    "list2": ["Brez operacije", "Brez zdravil", "Brez brazgotin ali okrevanja"]
+    "list2": ["Brez operacije", "Brez zdravil", "Brez brazgotin ali okrevanja – hair tattoo SMP"]
   },
   "datatreatments": {
-    "title": "Vrste tretmanov",
-    "cta": "Ne veste, kateri tretma je pravi za vas? – Pišite nam preko Viber / WhatsApp",
+    "title": "Vrste SMP tretmanov – Mikropigmentacija lasišča Ljubljana",
+    "cta": "Ne veste, kateri SMP tretman je pravi za vas? – Kontaktirajte nas preko Viber / WhatsApp za svetovanje o mikropigmentaciji lasišča",
     "tretmans": [
       {
-        "title": "SMP za plešavost (videz obrite glave)",
+        "title": "SMP za plešavost Ljubljana – hair tattoo (videz obrite glave)",
         "slug": "smp-za-plesavost",
         "img": "/optimized/smp plesavost-min.webp"
       },
       {
-        "title": "Redčenje las – zgostitev z ali brez presaditve",
+        "title": "Mikropigmentacija lasišča za redčenje las – zgostitev SMP tretman",
         "slug": "smp-povecanje-gostote-redki-lasje",
         "img": "/optimized/redcenje las-min.webp"
       },
       {
-        "title": "SMP za brazgotine – po presaditvi, poškodbah ali operacijah",
+        "title": "SMP za brazgotine Ljubljana – mikropigmentacija po presaditvi",
         "slug": "smp-za-brazgotine",
         "img": "/optimized/smp za brazgotine-min.webp"
       },
       {
-        "title": "Alopecija – areata, totalis, universalis",
+        "title": "SMP tretman za alopecijo – areata, totalis, universalis",
         "slug": "smp-alopecija",
         "img": "/optimized/alopcije.webp"
       },
       {
-        "title": "SMP za ženske – redki lasje, zmanjšan volumen",
+        "title": "Mikropigmentacija lasišča za ženske – SMP tretman redki lasje",
         "slug": "smp-za-zenske",
         "img": "/optimized/smp za zenske-min.webp"
       },
       {
-        "title": "Korekcija neuspešnih SMP tretmajev",
+        "title": "Korekcija SMP tretmana – popravek mikropigmentacije lasišča",
         "slug": "smp-korekcija",
         "img": "/optimized/neuspesni smp tretmani-min.webp"
       }
     ]
   },
   "questions": {
-    "title": "Pogosta vprašanja – Scalp micropigmentacija (SMP)",
+    "title": "Pogosta vprašanja – Mikropigmentacija lasišča (SMP tretman) Ljubljana",
     "categories": [
       {
-        "title": "SPLOŠNA VPRAŠANJA O SMP TRETMAJU",
-        "cta": " Oglej si vse vrste tretmajev:",
+        "title": "SPLOŠNA VPRAŠANJA O SMP TRETMAJU – MIKROPIGMENTACIJA LASIŠČA",
+        "cta": " Oglej si vse vrste SMP tretmajev – mikropigmentacija lasišča:",
         "link": "/#tretmani",
         "answers": [
           {
-            "question": "Koliko časa traja SMP tretma?",
-            "text": "SMP se izvaja v 2 do 4 sejah, v razmiku 7–14 dni. Vsaka seja traja približno 2–3 ure.",
+            "question": "Koliko časa traja SMP tretma – mikropigmentacija lasišča?",
+            "text": "SMP tretman (mikropigmentacija lasišča) se izvaja v 2 do 4 sejah, v razmiku 7–14 dni. Vsaka SMP seja traja približno 2–3 ure.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Ali SMP boli?",
-            "text": "Tretma je rahlo neprijeten, a večina strank ga opiše kot občutek praskanja. Lokalna anestezija se ne uporablja, razen v posebnih primerih (na zahtevo stranke).",
+            "question": "Ali SMP tretman (mikropigmentacija lasišča) boli?",
+            "text": "SMP tretman je rahlo neprijeten, a večina strank ga opiše kot občutek praskanja. Mikropigmentacija lasišča ne zahteva lokalne anestezije, razen v posebnih primerih (na zahtevo stranke).",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Koliko časa traja učinek SMP?",
-            "text": "Učinek traja 2 do 4 leta, nato se priporoča osvežitev pigmenta z eno sejo.",
+            "question": "Koliko časa traja učinek SMP tretmana (mikropigmentacija lasišča)?",
+            "text": "Učinek mikropigmentacije lasišča (SMP tretman) traja 2 do 4 leta, nato se priporoča osvežitev SMP pigmenta z eno sejo.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Je SMP enako kot tetovaža?",
-            "text": "Ne. SMP uporablja posebne pigmente, finje igle in plitve vbode. Ne razliva se in ne spreminja barve kot navadne tetovaže.",
+            "question": "Je mikropigmentacija lasišča (SMP) enako kot tetovaža?",
+            "text": "Ne. SMP tretman (mikropigmentacija lasišča) uporablja posebne hair tattoo pigmente, finje igle in plitve vbode. SMP se ne razliva in ne spreminja barve kot navadne tetovaže.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Kdo lahko opravi SMP?",
-            "text": "SMP priporočamo moškim in ženskam z:",
+            "question": "Kdo lahko opravi SMP tretman (mikropigmentacija lasišča)?",
+            "text": "SMP tretman in mikropigmentacijo lasišča priporočamo moškim in ženskam z:",
             "list": [
-              "plešavostjo (Norwood 3–7)",
-              "redčimi lasmi",
-              "alopecijo (areata, totalis)",
-              "brazgotinami na lasišču",
+              "plešavostjo (Norwood 3–7) – SMP rešitev",
+              "redčimi lasmi – mikropigmentacija lasišča",
+              "alopecijo (areata, totalis) – SMP tretman",
+              "brazgotinami na lasišču – hair tattoo",
               "slabo izvedenimi SMP tretmaji",
               ""
             ],
@@ -146,137 +137,137 @@
         ]
       },
       {
-        "title": "SMP ZA PLEŠAVOST",
-        "cta": "Več o tem tretmaju:",
+        "title": "SMP ZA PLEŠAVOST – MIKROPIGMENTACIJA LASIŠČA LJUBLJANA",
+        "cta": "Več o SMP tretmaju za plešavost:",
         "link": "/smp-za-plesavost",
         "answers": [
           {
-            "question": "Kako izgleda rezultat pri plešastih moških?",
-            "text": "Učinek je kot na kratko obrita glava na ničlo. Pigment imitira lasne folikle in sledi naravni obliki glave.",
+            "question": "Kako izgleda rezultat mikropigmentacije lasišča (SMP) pri plešastih moških?",
+            "text": "SMP tretman ustvari učinek kot na kratko obrita glava na ničlo. Mikropigmentacija lasišča imitira lasne folikle in sledi naravni obliki glave – hair tattoo.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Ali je viden razliko med pigmentom in pravimi lasmi?",
-            "text": "Če je tretma izveden strokovno – ne. Ton pigmenta se izbere glede na barvo tvojih las in kože.",
+            "question": "Ali je viden razlika med SMP pigmentom in pravimi lasmi?",
+            "text": "Če je SMP tretman (mikropigmentacija lasišča) izveden strokovno – ne. Ton SMP pigmenta se izbere glede na barvo las in kože.",
             "list": ["", "", ""],
             "text2": ""
           }
         ]
       },
       {
-        "title": "SMP ZA REDČE LASJE",
-        "cta": "Več o tem tretmaju:",
+        "title": "SMP ZA REDČE LASJE – MIKROPIGMENTACIJA LASIŠČA",
+        "cta": "Več o SMP tretmaju za redčenje las:",
         "link": "/smp-povecanje-gostote-redki-lasje",
         "answers": [
           {
-            "question": "Ali je treba obriti glavo, če so lasje le redki?",
-            "text": "Ne. Pri tem tretmaju ohranimo tvojo naravno dolžino las, pigment pa se uporabi za zapolnitev svetlih vrzeli.",
+            "question": "Ali je treba obriti glavo za SMP tretman, če so lasje le redki?",
+            "text": "Ne. Pri mikropigmentaciji lasišča za redčenje las ohranimo naravno dolžino, SMP pigment pa se uporabi za zapolnitev svetlih vrzeli.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Ali lahko kombiniram SMP s presaditvijo las?",
-            "text": "Da. SMP se pogosto izvaja po transplantaciji, da se poveča gostota in zapolnijo vrzeli.",
+            "question": "Ali lahko kombiniram SMP tretman (mikropigmentacijo lasišča) s presaditvijo las?",
+            "text": "Da. SMP tretman se pogosto izvaja po transplantaciji las, da se poveča gostota z mikropigmentacijo lasišča in zapolnijo vrzeli.",
             "list": ["", "", ""],
             "text2": ""
           }
         ]
       },
       {
-        "title": "SMP ZA BRAZGOTINE",
-        "cta": "Več o tem tretmaju:",
+        "title": "SMP ZA BRAZGOTINE – MIKROPIGMENTACIJA LASIŠČA LJUBLJANA",
+        "cta": "Več o SMP tretmaju za brazgotine:",
         "link": "/smp-za-brazgotine",
         "answers": [
           {
-            "question": "Ali se pigment lahko nanaša na brazgotino?",
-            "text": "Da – SMP učinkovito prikrije brazgotine po transplantaciji (FUE/FUT), pa tudi tiste, nastale zaradi poškodb ali operacij.",
+            "question": "Ali se SMP pigment (mikropigmentacija lasišča) lahko nanaša na brazgotino?",
+            "text": "Da – SMP tretman učinkovito prikrije brazgotine po transplantaciji (FUE/FUT), pa tudi tiste, nastale zaradi poškodb. Mikropigmentacija lasišča je idealna za brazgotine.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Ali je SMP varen na brazgotinskem tkivu?",
-            "text": "Da, vendar se tretma izvaja previdno in po plasteh – po analizi stanja kože.",
+            "question": "Ali je SMP tretman (mikropigmentacija lasišča) varen na brazgotinskem tkivu?",
+            "text": "Da, SMP tretman se izvaja previdno in po plasteh – mikropigmentacija lasišča po analizi stanja kože.",
             "list": ["", "", ""],
             "text2": ""
           }
         ]
       },
       {
-        "title": "SMP IN ALOPECIJA",
-        "cta": "Več o tem tretmaju:",
+        "title": "SMP IN ALOPECIJA – MIKROPIGMENTACIJA LASIŠČA",
+        "cta": "Več o SMP tretmaju za alopecijo:",
         "link": "/smp-alopecija",
         "answers": [
           {
-            "question": "Ali SMP lahko pomaga pri alopeciji?",
-            "text": "Da. Pri alopeciji areata, totalis ali universalis lahko SMP:",
+            "question": "Ali SMP tretman (mikropigmentacija lasišča) lahko pomaga pri alopeciji?",
+            "text": "Da. Pri alopeciji areata, totalis ali universalis lahko SMP tretman (mikropigmentacija lasišča):",
             "list": [
-              "pokrije madeže brez las",
-              "ujednači videz lasišča",
-              "vizualno povrne linijo las"
+              "pokrije madeže brez las – hair tattoo",
+              "ujednači videz lasišča z SMP",
+              "vizualno povrne linijo las – mikropigmentacija lasišča"
             ],
             "text2": ""
           }
         ]
       },
       {
-        "title": "KOREKCIJE SLABO IZVEDENIH TRETMANOV",
-        "cta": "Več o tem tretmaju:",
+        "title": "KOREKCIJE SLABO IZVEDENIH SMP TRETMANOV – MIKROPIGMENTACIJA LASIŠČA",
+        "cta": "Več o korekciji SMP tretmaja:",
         "link": "/smp-korekcija",
         "answers": [
           {
-            "question": "Izvedli so mi SMP, a nisem zadovoljen – kaj zdaj?",
-            "text": "Če je bil tretma slabše izveden (slaba linija, barva, pike), je mogoče:",
+            "question": "Izvedli so mi SMP tretman (mikropigmentacija lasišča), a nisem zadovoljen – kaj zdaj?",
+            "text": "Če je bil SMP tretman slabše izveden (slaba linija, barva, pike), je mogoče korekcija mikropigmentacije lasišča:",
             "list": [
-              "korekcija linije",
-              "nevtralizacija barve",
-              "ujednačen izgled"
+              "korekcija SMP linije",
+              "nevtralizacija SMP barve",
+              "ujednačen izgled mikropigmentacije lasišča"
             ],
-            "text2": "Če pigmenta ni mogoče popraviti – priporočamo lasersko odstranjevanje."
+            "text2": "Če SMP pigmenta ni mogoče popraviti – priporočamo lasersko odstranjevanje."
           }
         ]
       },
       {
-        "title": "SMP ZA ŽENSKE",
-        "cta": "Več o tem tretmaju:",
+        "title": "SMP ZA ŽENSKE – MIKROPIGMENTACIJA LASIŠČA LJUBLJANA",
+        "cta": "Več o SMP tretmaju za ženske:",
         "link": "/smp-za-zenske",
         "answers": [
           {
-            "question": "Ali se SMP izvaja tudi pri ženskah?",
-            "text": "Da. Tretma je posebej prilagojen za:",
+            "question": "Ali se SMP tretman (mikropigmentacija lasišča) izvaja tudi pri ženskah?",
+            "text": "Da. SMP tretman (mikropigmentacija lasišča) je posebej prilagojen za ženske z:",
             "list": [
-              "razredčen del las (razdeljek)",
-              "redčenje na temenu",
-              "poporodno ali hormonsko izpadanje las"
+              "razredčen del las (razdeljek) – SMP tretman",
+              "redčenje na temenu – mikropigmentacija lasišča",
+              "poporodno ali hormonsko izpadanje las – SMP rešitev"
             ],
             "text2": ""
           },
           {
-            "question": "Ali mora ženska obriti glavo za SMP?",
-            "text": "Ne. Tretma se izvaja med obstoječimi lasmi, brez potrebe po britju.",
+            "question": "Ali mora ženska obriti glavo za SMP tretman (mikropigmentacija lasišča)?",
+            "text": "Ne. SMP tretman (mikropigmentacija lasišča) se izvaja med obstoječimi lasmi, brez potrebe po britju.",
             "list": ["", "", ""],
             "text2": ""
           }
         ]
       },
       {
-        "title": "VPRAŠANJA O CENAH IN KONTAKTU",
-        "cta": "Pojdi na kontaktno stran",
+        "title": "VPRAŠANJA O CENAH SMP TRETMANA IN KONTAKTU – MIKROPIGMENTACIJA LASIŠČA LJUBLJANA",
+        "cta": "Pojdi na kontaktno stran – SMP Ljubljana",
         "link": "/kontakt",
         "answers": [
           {
-            "question": "Koliko stane SMP tretma?",
-            "text": "Cena je odvisna od:",
+            "question": "Koliko stane SMP tretman (mikropigmentacija lasišča) v Ljubljani?",
+            "text": "Cena SMP tretmana (mikropigmentacija lasišča) je odvisna od:",
             "list": [
-              "obsega obdelanega območja",
-              "vrste tretmaja",
-              "števila sej"
+              "obsega obdelanega območja – SMP tretman",
+              "vrste mikropigmentacije lasišča",
+              "števila SMP sej"
             ],
-            "text2": "Ocena je brezplačna in prilagojena. Pošlji slike glave prek Viber/WhatsApp."
+            "text2": "Ocena SMP tretmana je brezplačna. Pošlji slike glave prek Viber/WhatsApp za oceno mikropigmentacije lasišča."
           },
           {
-            "question": "Kje se nahaja Micro Hair Clinic?",
-            "text": "Studio se nahaja v Beogradu, odprt pa imamo tudi center v Ljubljani.",
+            "question": "Kje se nahaja Micro Hair Clinic za SMP tretman?",
+            "text": "SMP studio se nahaja v Beogradu, Micro Hair Clinic za mikropigmentacijo lasišča pa ima center tudi v Ljubljani.",
             "list": ["", "", ""],
             "text2": ""
           }
@@ -285,36 +276,36 @@
     ]
   },
   "artist": {
-    "title": "SPOZNAJTE USTVARJALCA",
-    "text": "Srđan je sam doživel izpadanje las in po uspešnem SMP tretmaju se odločil, da pomaga drugim. Izšolan v Milanu, z več kot desetletjem izkušenj.",
-    "award1": "Gold Award 2023 – najboljši SMP umetnik v Evropi in UK",
+    "title": "SPOZNAJTE SMP UMETNIKA – MIKROPIGMENTACIJA LASIŠČA",
+    "text": "Srđan je sam doživel izpadanje las in po uspešnem SMP tretmaju (mikropigmentacija lasišča) se odločil, da pomaga drugim. SMP strokovnjak izšolan v Milanu, z več kot desetletjem izkušenj v hair tattoo tehniki.",
+    "award1": "Gold Award 2023 – najboljši SMP umetnik (mikropigmentacija lasišča) v Evropi in UK",
     "award2": "Best SMP Artist 2024 – SMP Connect, Portugalska",
-    "award3": "TeamMicro Certified klinika",
-    "text2": "Nisem samo umetnik – sem moški, ki razume, kako je, ko izgubljaš lase. In vem, kako izgleda, ko jih spet imaš."
+    "award3": "TeamMicro Certified klinika – SMP tretmani",
+    "text2": "Nisem samo SMP umetnik – sem moški, ki razume, kako je, ko izgubljaš lase. In vem, kako izgleda, ko jih spet imaš – z mikropigmentacijo lasišča."
   },
   "tretmanFlow": {
-    "title": "KAKO POTIČE TRETMAN?",
-    "description": "Opomba: Med celotnim postopkom se uporablja fina igla in poseben pigment, zasnovan za lasišče. Stranka lahko že dan po tretmaju nadaljuje z vsakodnevnimi dejavnostmi.",
+    "title": "KAKO POTEKA SMP TRETMAN – MIKROPIGMENTACIJA LASIŠČA?",
+    "description": "Opomba: Med celotnim SMP postopkom (mikropigmentacija lasišča) se uporablja fina igla in poseben hair tattoo pigment, zasnovan za lasišče. Stranka lahko že dan po SMP tretmaju nadaljuje z vsakodnevnimi dejavnostmi.",
     "text": [
       {
-        "bold": "1 Brezplačne posvetovalne in analize ",
-        "normal": "– mogoče v živo v studiu ali preko Viber/WhatsApp video klica"
+        "bold": "1 Brezplačno svetovanje SMP tretman ",
+        "normal": "– analiza mikropigmentacije lasišča mogoča v živo v studiu Ljubljana ali preko Viber/WhatsApp video klica"
       },
       {
-        "bold": "2 Prva seja ",
-        "normal": "– določi se frontalna linija las in oblika pigmentacije, nato se nanese osnovni sloj pigmenta"
+        "bold": "2 Prva seja SMP tretmana ",
+        "normal": "– določi se frontalna linija las in oblika mikropigmentacije lasišča, nato se nanese osnovni sloj SMP pigmenta"
       },
       {
-        "bold": "3 Druga seja ",
-        "normal": "– običajno se opravi v razmiku 10–20 dni po prvi. Namen tega časovnega razmika je, da se pigment iz prve seje stabilizira v koži. Med to sejo se poveča gostota, opredelijo prehodi in podrobnosti, da je videz še bolj naraven."
+        "bold": "3 Druga seja mikropigmentacije lasišča ",
+        "normal": "– običajno se SMP tretman opravi v razmiku 10–20 dni po prvi seji. Namen je, da se SMP pigment stabilizira. Med to sejo mikropigmentacije lasišča se poveča gostota, opredelijo prehodi – hair tattoo postane bolj naraven."
       },
       {
-        "bold": "4 Tretja seja ",
-        "normal": "– končni tretma, pri katerem se, ko imata prejšnji dve seji svoj videz, lahko dodela frontalna linija in vse pomanjkljivosti, opažene med prejšnjimi tretmaji. Če ocenimo, da je potrebna dodatna prilagoditev, je stranki omogočen še en dodaten tretma brez dodatnih stroškov."
+        "bold": "4 Tretja seja SMP tretmana ",
+        "normal": "– končni tretma mikropigmentacije lasišča, pri katerem se dodeela frontalna linija in vse pomanjkljivosti SMP. Če je potrebna dodatna prilagoditev SMP tretmana, je stranki omogočen še en dodaten tretma brez dodatnih stroškov."
       },
       {
-        "bold": "5 Vzdrževanje ",
-        "normal": "po 2–4 letih je možna osvežitev barve z eno sejo."
+        "bold": "5 Vzdrževanje SMP tretmana ",
+        "normal": "po 2–4 letih je možna osvežitev mikropigmentacije lasišča z eno sejo."
       }
     ]
   }
