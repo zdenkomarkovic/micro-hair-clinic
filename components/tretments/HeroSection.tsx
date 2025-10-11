@@ -60,14 +60,11 @@ export function HeroSection({ data }: Props) {
       <div className="container relative flex flex-col justify-end px-2 md:px-4 mx-auto ga h-full text-center z-10 mb-5">
         <div>
           <h1 className="text-white z-50">{data.heading}</h1>
-          <p className="hidden md:block text-lg mb-2 md:text-xl z-50 text-white">
+          <p className="text-base md:text-lg mb-2 md:text-xl z-50 text-white">
             {data.subtitle}
           </p>
         </div>
         <div className="w-fit mx-auto space-y-6 mb-6">
-          <p className="md:hidden text-base mb-2 md:text-xl z-50 text-white">
-            {data.subtitle}
-          </p>
           <div className="flex flex-col sm:flex-row mx-auto justify-center items-center gap-1 md:gap-4">
             {data.ctas?.map((cta, index) => (
               <a
