@@ -38,10 +38,10 @@ const Hero = ({ title, subtitle, text, button }: HeroProps) => {
           </h2>
 
           <div className="flex flex-col md:flex-row gap-2 md:gap-10 md:px-32 items-center ">
-            <button className="bg-secondary hover:brightness-90 transition duration-300 mx-auto text-white px-2 md:px-4 py-1 md:py-2 rounded-lg text-nowrap">
+            <button className="bg-secondary hover:brightness-90 transition duration-300 mx-auto text-white px-2 md:px-4 md:text-nowrap py-1 md:py-2 rounded-lg ">
               {button}
             </button>
-            <p className="text-white text-xs md:text-lg">{text}</p>
+            <p className="text-white text-xs  md:text-lg mb-2">{text}</p>
           </div>
         </div>
       </div>

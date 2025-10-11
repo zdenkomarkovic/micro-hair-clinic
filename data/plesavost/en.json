@@ -1,20 +1,23 @@
 {
-  "slug": "smp-za-plesavost",
-  "title": "SMP for Men with Baldness – The Effect of Thick Hair Without Transplantation",
+  "slug": "smp-for-baldness",
+  "title": "SMP for Baldness Ljubljana – Scalp Micropigmentation for Men | Hair Tattoo",
   "hero": {
-    "heading": "Scalp Micropigmentation – Solution for Hair Loss in Men",
-    "subtitle": "A non-invasive method for men with pronounced baldness – no surgery, no waiting.",
+    "heading": "SMP for Baldness Ljubljana – Hair Tattoo Solution for Male Hair Loss",
+    "subtitle": "Scalp Micropigmentation for complete baldness (Norwood 3-7) – SMP treatment in Ljubljana without surgery, without waiting. Hair tattoo instead of hair transplant.",
     "image": "/optimized/smp plesavost-min.webp",
     "image2": "/optimized/plesavostmob.webp",
-    "alt": "SMP result on a man with baldness (Norwood 6)",
+    "alt": "SMP for Baldness Ljubljana – result of scalp micropigmentation for men (Norwood 6)",
     "ctas": [
-      { "label": "Book a Free Consultation", "href": "/kontakt" },
       {
-        "label": "Send Message on Viber",
+        "label": "Book a Free Consultation – SMP for Baldness",
+        "href": "/kontakt"
+      },
+      {
+        "label": "Send a Hair Tattoo Message via Viber",
         "href": "viber://chat?number=%2B381645400100"
       },
       {
-        "label": "Send Message on WhatsApp",
+        "label": "Send an SMP Treatment Message via WhatsApp",
         "href": "https://wa.me/381645400100"
       }
     ]
@@ -22,78 +25,80 @@
   "sections": [
     {
       "id": "1",
-      "title": "WHY DO MEN LOSE HAIR?",
-      "imgtitle": "Norwood Scale",
+      "title": "WHY MEN LOSE HAIR – WHAT TO DO ABOUT BALDNESS?",
+      "imgtitle": "Norwood Scale – Baldness Stages for SMP",
       "bullets": [
-        "25% of men lose hair by age 25",
-        "70% by age fifty",
-        "Most common cause: androgenic alopecia"
+        "25% of men lose hair by age 25 – SMP for baldness is a solution",
+        "70% by age 50 – scalp micropigmentation helps",
+        "Most common cause of baldness: androgenetic alopecia – hair tattoo treatment in Ljubljana"
       ],
       "image": {
         "src": "/optimized/norwood-skala.webp",
-        "alt": "Stages of hair loss in men – Norwood scale"
+        "alt": "Stages of male baldness – Norwood scale for SMP treatment"
       }
     },
     {
       "id": "2",
-      "title": "WHAT IS SCALP MICROPIGMENTATION?",
+      "title": "WHAT IS SMP FOR BALDNESS – SCALP MICROPIGMENTATION FOR MEN?",
       "bullets": [
-        "Scalp Micropigmentation (SMP) is a treatment using pigment to achieve the visual effect of thick, short-cut hair. Unlike transplantation, it involves no surgery, leaves no scars, and offers quick results.",
-        "It is intended for men with pronounced baldness or thinning hair who want a discreet but effective solution without surgery.",
-        "SMP treatment is especially effective for men with short hair (1–2 mm length) because the pigment in the skin blends perfectly with the natural hair appearance. This look produces a density effect that looks completely natural and subtle even up close.",
-        "Compared to transplantation, which typically adds 3,000–5,000 hairs, SMP can cover the entire scalp with up to 60,000 pigment dots – creating a more uniform and visually denser result.",
-        "SMP also allows shaping a natural hairline – individually adapted to face shape, age, and aesthetics, with no compromises on what looks natural.",
-        "It is intended for men with pronounced baldness or thinning hair who want a discreet but effective solution without surgery.",
-        "SMP also allows shaping a natural hairline – individually adapted to face shape, age, and aesthetics, with no compromises on what looks natural."
+        "SMP for baldness (scalp micropigmentation) is a hair tattoo treatment that uses pigments to create the visual effect of dense hair. Unlike hair transplant, SMP treatment for baldness does not involve surgery, leaves no scars, and provides quick results.",
+        "Scalp micropigmentation for baldness in Ljubljana is designed for men with significant baldness (Norwood 3-7) or thinning hair who want a discreet solution without surgery. Hair tattoo is an ideal alternative to hair transplant.",
+        "SMP treatment for baldness is especially effective for men with short hair (1–2 mm), as the pigment blends perfectly with the natural scalp. The hair tattoo looks natural even up close.",
+        "Compared to a hair transplant that usually adds 3,000–5,000 hairs, SMP for baldness can cover the entire scalp with up to 60,000 pigment dots – creating a more even and visually denser hair tattoo result.",
+        "SMP treatment allows for a natural hairline design – individually adapted to the face and aesthetics. Scalp micropigmentation in Ljubljana ensures a natural look for men with baldness.",
+        "Hair tattoo (SMP for baldness) is a discreet solution performed in our Ljubljana SMP studio."
       ],
       "links": [
         {
-          "label": "Thinning Hair – Visual Thickening Without Shaving",
+          "label": "Thinning Hair – SMP Treatment for Visual Density",
           "link": "/smp-povecanje-gostote-redki-lasje"
         },
         {
-          "label": "Scars – FUE/FUT Transplants, Injuries",
+          "label": "SMP for Scars – Scalp Micropigmentation after Transplant",
           "link": "/smp-za-brazgotine"
         },
         {
-          "label": "Alopecia – areata, totalis, universalis",
+          "label": "SMP Treatment for Alopecia – Areata, Totalis",
           "link": "/smp-alopecija"
         },
         {
-          "label": "Correction of Poorly Done Treatments",
+          "label": "SMP Correction – Fixing Poor Treatments",
           "link": "/smp-korekcija"
         },
         {
-          "label": "SMP for Women",
+          "label": "SMP for Women – Scalp Micropigmentation",
           "link": "/smp-za-zenske"
         }
       ],
-      "text": ["Learn more: How the SMP treatment process looks – day by day"],
+      "text": [
+        "Learn more: How SMP treatment for baldness (scalp micropigmentation) works – day by day",
+        ""
+      ],
       "image": {
-        "src": "/images/herovideo.mp4",
-        "alt": "Scalp Micropigmentation process"
+        "src": "/images/IMG_7647.mov",
+        "alt": "SMP process for baldness – hair tattoo scalp micropigmentation in Ljubljana"
       }
     },
     {
       "id": "3",
-      "title": "IS SMP THE RIGHT SOLUTION FOR YOU?",
+      "title": "IS SMP FOR BALDNESS (HAIR TATTOO) RIGHT FOR YOU?",
       "bullets": [
-        "You have pronounced baldness or thinning hair",
-        "You are not a candidate for transplantation",
-        "You want a natural, neat appearance",
-        "You expect hair to grow back",
-        "You have active scalp skin conditions"
+        "You have significant baldness (Norwood 3-7) – SMP treatment is ideal",
+        "Not a candidate for hair transplant – scalp micropigmentation is an alternative",
+        "Want a natural look – hair tattoo for baldness in Ljubljana",
+        "Expect hair to regrow – SMP is not for that",
+        "Have active skin conditions – scalp micropigmentation is not recommended"
       ]
     },
     {
       "id": "4",
-      "title": "WHAT DOES THE TREATMENT LOOK LIKE?",
+      "title": "HOW DOES SMP TREATMENT FOR BALDNESS WORK – HAIR TATTOO PROCEDURE?",
       "bullets": [
-        "Duration: 3 sessions of 2–3 hours each, 7 days apart",
-        "Dots per session: 15,000–20,000, up to 60,000 total at Norwood 7"
+        "Duration of SMP for baldness: 3 sessions of 2–3 hours, interval 7 days – scalp micropigmentation in Ljubljana",
+        "Number of dots for hair tattoo: 15,000–20,000 per session, up to 60,000 for complete baldness (Norwood 7)"
       ],
       "gallery": [
-              "/optimized/kratko-osisana (1).webp",
+        "/optimized/kratko-osisana (1).webp",
         "/optimized/kratko-osisana (2).webp",
         "/optimized/kratko-osisana (3).webp",
         "/optimized/kratko-osisana (4).webp",
@@ -101,7 +106,7 @@
         "/optimized/kratko-osisana (6).webp",
         "/optimized/kratko-osisana (7).webp",
         "/optimized/kratko-osisana (8).webp",
-          "/optimized/kratko-osisana (9).webp",
+        "/optimized/kratko-osisana (9).webp",
         "/optimized/kratko-osisana (10).webp",
         "/optimized/kratko-osisana (11).webp",
         "/optimized/kratko-osisana (12).webp",
@@ -110,30 +115,30 @@
     },
     {
       "id": "5",
-      "title": "WHY CHOOSE US?",
-      "text": "Srđan experienced hair loss himself and after a successful SMP treatment decided to help others. Trained in Milan, with over a decade of experience.",
-      "award1": "Gold Award 2023 – Best SMP Artist in Europe and UK",
-      "award2": "Best SMP Artist 2024 – SMP Connect, Portugal",
-      "award3": "TeamMicro Certified Clinic",
-      "text2": "I'm not just an artist – I am a man who understands what it's like to lose hair. And I know how it looks when you have it back."
+      "title": "WHY CHOOSE US FOR SMP FOR BALDNESS LJUBLJANA?",
+      "text": "Srđan personally experienced baldness and, after a successful SMP treatment (scalp micropigmentation), decided to help other men with baldness. SMP expert trained in Milan with over a decade of experience in baldness treatments.",
+      "award1": "Gold Award 2023 – Best SMP Expert for Baldness in Europe and the UK",
+      "award2": "Best SMP Artist 2024 – Scalp Micropigmentation – SMP Connect, Portugal",
+      "award3": "TeamMicro Certified Clinic – SMP for Baldness Ljubljana",
+      "text2": "I’m not just an SMP expert – I’m a man who understands what it’s like to lose hair. And I know what it feels like to have it back with hair tattoo (scalp micropigmentation)."
     }
   ],
   "gallery": [],
   "faqs": {
-    "title": "FREQUENTLY ASKED QUESTIONS",
-    "button": "View all questions and answers"
+    "title": "FREQUENTLY ASKED QUESTIONS – SMP FOR BALDNESS (HAIR TATTOO)",
+    "button": "View all questions about SMP treatment for baldness"
   },
   "reviews": [
     {
-      "quote": "I am completely satisfied! The effect looks natural, no one notices the pigmentation."
+      "quote": "Very satisfied with SMP for baldness! Hair tattoo effect is natural, no one notices the scalp micropigmentation."
     },
     {
-      "quote": "Srđan helped me regain my confidence. Thank you!"
+      "quote": "Srđan helped me regain confidence with SMP treatment for baldness. Thanks for the hair tattoo!"
     }
   ],
   "finalCta": {
-    "title": "Ready for a change?",
-    "text": "Book a free consultation today and see the effects of scalp pigmentation live. Send us your photo and you will receive all the necessary information as soon as possible. Rest assured, Micro Hair Clinic guarantees discretion for all clients.",
-    "button": "Book Now"
+    "title": "Ready for a change? SMP for Baldness Ljubljana!",
+    "text": "Book a free consultation for SMP treatment (scalp micropigmentation for baldness) today and see the hair tattoo effects in person. Send us your baldness photo and receive all necessary info about SMP for baldness in Ljubljana as soon as possible. Rest assured, Micro Hair Clinic guarantees discretion for all clients – scalp micropigmentation for men with baldness is our specialty.",
+    "button": "Book SMP for Baldness Now"
   }
 }

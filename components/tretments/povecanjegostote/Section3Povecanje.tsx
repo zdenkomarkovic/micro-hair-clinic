@@ -58,7 +58,7 @@ export function Section3Povecanje({ section }: Props) {
 
           <a
             href={"https://wa.me/381645400100"}
-            className="bg-secondary hover:brightness-90 mb-5 px-3 md:px-6 py-1 md:py-3 text-white rounded-lg flex items-center text-nowrap gap-1 md:gap-3 w-fit"
+            className="bg-secondary hover:brightness-90 mb-5 px-3 md:px-6 py-1 md:py-3 text-white rounded-lg flex items-center text-center md:text-nowrap gap-1 md:gap-3 w-fit"
           >
             {section.link?.label}{" "}
             <FaAngleDoubleRight className="md:w-6 md:h-6" />

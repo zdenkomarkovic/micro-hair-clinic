@@ -1,20 +1,23 @@
 {
   "slug": "smp-korekcija",
-  "title": "SMP Korrekturen – Fehlerhafte Behandlungen berichtigen",
+  "title": "SMP Korrektur Ljubljana – Nachbesserung einer schlecht ausgeführten Kopfhaut-Mikropigmentierung | Hair Tattoo",
   "hero": {
-    "heading": "SMP Korrekturen – natürliches Aussehen statt schlechter Behandlung",
-    "subtitle": "Eine schlechte SMP-Behandlung ist nicht das Ende. Korrekturen sind möglich – aber nicht um jeden Preis. Wir stellen das natürliche Aussehen der Kopfhaut wieder her, wenn es wirklich machbar ist.",
+    "heading": "SMP Korrektur Ljubljana – Nachbesserung einer schlecht ausgeführten SMP- und Kopfhaut-Mikropigmentierung",
+    "subtitle": "Ein schlecht ausgeführtes SMP ist nicht das Ende. Eine SMP-Korrektur (Kopfhaut-Mikropigmentierung) ist möglich – aber nicht um jeden Preis. Die Korrektur einer misslungenen SMP stellt das natürliche Aussehen der Kopfhaut wieder her – Ljubljana.",
     "image": "/optimized/neuspesni smp tretmani-min.webp",
     "image2": "/optimized/neuspesnimob.webp",
-    "alt": "Korrektur einer schlecht ausgeführten Skalp-Mikropigmentierung – vorher und nachher",
+    "alt": "SMP Korrektur – Nachbesserung einer schlecht ausgeführten Kopfhaut-Mikropigmentierung Ljubljana – vorher und nachher",
     "ctas": [
-      { "label": "Kostenlose Beratung buchen", "href": "/kontakt" },
       {
-        "label": "Nachricht über Viber senden",
+        "label": "Kostenlose SMP-Korrektur-Beratung buchen",
+        "href": "/kontakt"
+      },
+      {
+        "label": "Nachricht zur SMP-Korrektur über Viber senden",
         "href": "viber://chat?number=%2B381645400100"
       },
       {
-        "label": "Nachricht über WhatsApp senden",
+        "label": "Nachricht zur SMP-Korrektur über WhatsApp senden",
         "href": "https://wa.me/381645400100"
       }
     ]
@@ -22,93 +25,92 @@
   "sections": [
     {
       "id": "1",
-      "title": "WANN IST EINE SMP-BEHANDLUNG FEHLGESCHLAGEN?",
-      "title2": "WARUM ENTSTEHEN FEHLER?",
-      "title3": "BILDUNG IST DER SCHLÜSSEL",
+      "title": "WANN IST EIN SMP MISSGLÜCKT – WANN IST EINE SMP-KORREKTUR NÖTIG?",
+      "title2": "WARUM ENTSTEHEN FEHLER BEI SMP – UND WANN IST EINE NACHBESSERUNG SINNVOLL?",
+      "title3": "AUSBILDUNG ALS SCHLÜSSEL – WIE MAN EIN SCHLECHTES SMP VERMEIDET",
       "bullets": [
-        "Zu große Punkte – verwischt und unnatürlich",
-        "Bläuliche oder grau-grüne Töne",
-        "Unnatürliche Haarlinie – zu hoch, zu niedrig oder „linealgerade“",
-        "Fleckiges Ergebnis und schlechte Dichte",
-        "Pigment, das verlaufen, gewandert oder dunkler geworden ist",
-        "Mangel an Erfahrung beim Ausführenden",
-        "Schlechte oder keine Ausbildung",
-        "Arbeiten ohne Verständnis für Anatomie der Kopfhaut und Gesicht Ästhetik",
-        "Verwendung falscher Werkzeuge und Methoden"
+        "Zu große Punkte bei SMP – verlaufen und unnatürlich – SMP-Korrektur erforderlich",
+        "Bläuliche oder grünlich-graue Pigmente – SMP-Farbkorrektur nötig",
+        "Unnatürliche Haarlinie – zu hoch oder zu niedrig – Korrektur der Kopfhaut-Mikropigmentierung",
+        "Unregelmäßige Dichte oder fleckiges Ergebnis – SMP-Korrektur erforderlich",
+        "SMP-Pigment ist verlaufen, gewandert oder nachgedunkelt – SMP-Korrektur Ljubljana",
+        "mangelnde Erfahrung des SMP-Anwenders",
+        "fehlende oder unzureichende Ausbildung in Kopfhaut-Mikropigmentierung",
+        "Arbeiten ohne Verständnis der Kopfhaut-Anatomie",
+        "Verwendung ungeeigneter Werkzeuge bei der SMP"
       ],
       "text": [
-        "Das sind die häufigsten Probleme, die wir sehen:",
-        "In über 90 % der Fälle liegt die Ursache bei:",
-        "SMP ist kein gewöhnliches Tattoo. Es erfordert präzise Technik, ein Auge fürs Detail und Erfahrung.",
-        "Die Erfahrung des Künstlers macht den Unterschied zwischen einem natürlichen Ergebnis und einem, das man verstecken möchte.",
-        "Deshalb bieten wir bei Micro Hair Clinic neben Korrekturen auch professionelle SMP-Schulungen an.",
-        "Die Branche braucht mehr Wissen – und weniger hastige, unprofessionelle Arbeiten."
+        "Die häufigsten Probleme bei schlecht ausgeführten SMP-Behandlungen, die eine Korrektur erfordern:",
+        "In über 90 % der Fälle liegt der Grund für eine SMP-Korrektur im selben Bereich:",
+        "SMP (Kopfhaut-Mikropigmentierung) ist keine gewöhnliche Tätowierung. Sie erfordert Präzision, Erfahrung und ein Auge für Details.",
+        "Die Erfahrung des SMP-Künstlers entscheidet zwischen einem natürlichen Ergebnis und einem, das korrigiert werden muss.",
+        "In der Micro Hair Clinic Ljubljana bieten wir nicht nur SMP-Korrekturen an, sondern auch professionelle Schulungen für Kopfhaut-Mikropigmentierung.",
+        "Die SMP-Branche braucht mehr Wissen – und weniger schnelle, unprofessionelle Arbeiten, die später korrigiert werden müssen."
       ],
       "image": {
         "src": "/images/herovideo.mp4",
-        "alt": "Beispiel einer schlechten SMP-Behandlung – falsche Form und Pigment"
+        "alt": "Beispiel eines schlechten SMP – falsche Form und Pigmentierung – Korrektur erforderlich"
       }
     },
     {
       "id": "2",
-      "title": "WIE WIRD DIE KORREKTUR DURCHGEFÜHRT?",
+      "title": "WIE LÄUFT EINE SMP-KORREKTUR AB – NACHBESSERUNG DER KOPFHAUT-MIKROPIGMENTIERUNG?",
       "bullets": [
-        "Natürliche Form, angepasst an Alter und Gesichtskonturen",
-        "Soft-Edge-Technik statt scharfer Kanten",
-        "Korrekturpigment in mehreren dünnen Schichten",
-        "Besonders bei blauen/grauen Tönen",
-        ""
+        "Natürliche Haarlinienform – angepasst an Alter und Gesichtsproportionen",
+        "Soft-Edge-Technik statt harter Linien – SMP-Korrektur",
+        "Korrekturpigment in mehreren dünnen Schichten aufgetragen",
+        "Besonders bei bläulichen oder grauen SMP-Tönen – Farbkorrektur"
       ],
       "text": [
-        "Je nach Problem bieten wir an:",
-        "Haarlinienkorrektur",
-        "Neutralisierung falscher Farbnuancen",
-        "Angleichung der Dichte",
-        "Auffüllen von Lücken",
-        "Korrektur von Flecken und Asymmetrien"
+        "Je nach Art des Problems bieten wir verschiedene SMP-Korrekturen an:",
+        "Korrektur der Haarlinie bei SMP",
+        "Neutralisierung falscher SMP-Farben",
+        "Anpassung der Pigmentdichte auf der Kopfhaut",
+        "Auffüllen von Lücken – SMP-Nachbesserung",
+        "Korrektur von Asymmetrien und Flecken – SMP-Korrektur Ljubljana"
       ],
       "image": {
         "src": "/optimized/preiposle5.webp",
-        "alt": "Korrektur einer SMP-Behandlung mit grauem Pigment"
+        "alt": "SMP-Korrektur mit neutralem Pigment – Nachbesserung der Kopfhaut-Mikropigmentierung"
       }
     },
     {
       "id": "3",
-      "title": "WANN IST EINE KORREKTUR NICHT MÖGLICH?",
-      "title2": "BIST DU EIN KANDIDAT FÜR EINE KORREKTUR?",
+      "title": "WANN IST EINE SMP-KORREKTUR NICHT MÖGLICH?",
+      "title2": "BIST DU EIN GEEIGNETER KANDIDAT FÜR EINE SMP-KORREKTUR?",
       "bullets": [
-        "Pigment ist zu tief eingebracht",
-        "Es wurde Tinte anstelle von SMP-Pigment verwendet",
-        "Pigment ist vollständig gewandert oder hat einen starken falschen Ton",
-        "Die Kopfhaut ist zu stark beschädigt",
-        "SMP-Behandlung sieht unnatürlich aus",
-        "Die Haarlinie stört dich im Spiegel",
-        "Pigment ist grau geworden, hat den Ton gewechselt oder sich verteilt",
-        "Du denkst darüber nach, von vorne anzufangen"
+        "Pigment wurde zu tief eingearbeitet – SMP-Korrektur nicht möglich",
+        "Tattoo-Tinte statt SMP-Pigment verwendet – Laserentfernung nötig",
+        "Pigment vollständig migriert oder stark verfärbt – schwer korrigierbar",
+        "Kopfhaut durch schlechte SMP-Behandlung geschädigt",
+        "SMP sieht unnatürlich aus – Korrektur der Mikropigmentierung erforderlich",
+        "Haarlinie wirkt störend im Spiegel – Korrektur möglich",
+        "SMP-Pigment ist ergraut oder verlaufen – SMP-Korrektur Ljubljana",
+        "Überlegung, erneut mit SMP zu beginnen – Korrektur oder Entfernung"
       ],
       "text": [
-        "In manchen Fällen ist eine Korrektur nicht ratsam:",
-        "Wir führen in solchen Fällen keine Korrektur durch",
-        "Stattdessen empfehlen wir in Zusammenarbeit mit zertifizierten Zentren die Laserentfernung des Pigments",
-        "Unser Ziel ist es nicht, das Problem um jeden Preis zu „überdecken“, sondern eine Lösung anzubieten, die wirklich natürlich aussieht.",
-        "Wenn das nicht möglich ist – sagen wir es dir ehrlich.",
-        "Manchmal ist die Entfernung der einzige Weg zu einer dauerhaften Lösung.",
-        "Überlege eine Korrektur, wenn:",
-        "Jeder Fall wird von Srđan Kostovski ehrlich und fachkundig geprüft."
+        "In manchen Fällen ist eine SMP-Korrektur nicht empfehlenswert:",
+        "Dann empfehlen wir eine Laserentfernung des Pigments statt weiterer Korrekturen.",
+        "Anstatt das Problem nur zu überdecken, bevorzugen wir eine professionelle Pigmententfernung durch zuverlässige Partner.",
+        "Unser Ziel bei einer SMP-Korrektur ist nicht, das Problem um jeden Preis zu kaschieren, sondern ein natürliches Ergebnis zu schaffen.",
+        "Wenn eine Korrektur nicht möglich ist, sagen wir das ehrlich.",
+        "Manchmal ist die Pigmententfernung der einzige Weg zu einer dauerhaften Lösung.",
+        "Überlege eine SMP-Korrektur, wenn:",
+        "Jeder Fall wird von Srđan Kostovski persönlich und fachgerecht analysiert."
       ],
       "link": {
-        "label": "Sende Kopf-Fotos für eine kostenlose Einschätzung",
+        "label": "Fotos deines SMP für eine kostenlose Bewertung senden",
         "href": "/kontakt"
       }
     },
     {
       "id": "4",
-      "title": "GALERIE – VORHER & NACHHER KORREKTUREN",
+      "title": "GALERIE – SMP-KORREKTUR VORHER UND NACHHER | KOPFHAUT-MIKROPIGMENTIERUNG",
       "bullets": [
-        "Korrektur bläulichen Pigments",
-        "Anpassung der Haarlinie",
-        "Korrekturen von Behandlungen aus dem Ausland",
-        "Korrektur von SMP mit Tattoo-Technik"
+        "Korrektur bläulicher SMP-Pigmente – Nachbesserung schlechter Behandlungen",
+        "Haarlinienkorrektur bei SMP – Mikropigmentierung der Kopfhaut",
+        "Korrektur von SMP-Behandlungen aus dem Ausland – Ljubljana",
+        "SMP-Korrektur nach Tattoo-Technik – professionelle Nachbesserung"
       ],
       "gallery": [
         "/optimized/IMG_9512-min.webp",
@@ -129,59 +131,59 @@
         "/optimized/IMG_9511-min.webp",
         "/optimized/IMG_9512 3-min.webp"
       ],
-      "alt": "Korrektives SMP Ergebnis – natürliches Aussehen"
+      "alt": "SMP-Korrektur – natürliche Ergebnisse nach Nachbesserung der Kopfhaut-Mikropigmentierung"
     },
     {
       "id": "5",
-      "title": "WIE SIEHT EINE KORREKTURBEHANDLUNG AUS?",
+      "title": "WIE SIEHT EINE SMP-KORREKTUR IN DER PRAXIS AUS?",
       "bullets": [
-        "2 bis 4 Sitzungen, je nach Zustand",
-        "Sorgfältig geplante Korrektur in Schichten",
-        "Keine zusätzlichen Narben",
-        "Kann bei Bedarf mit Laserbehandlung kombiniert werden"
+        "2 bis 4 SMP-Korrektursitzungen – je nach Zustand der bisherigen Behandlung",
+        "Sorgfältig geplante Schichten für ein natürliches Ergebnis",
+        "Keine zusätzlichen Narben bei der SMP-Korrektur",
+        "Kombination mit Laserbehandlung möglich, falls erforderlich"
       ],
-      "text": "Wir führen keine Korrekturen durch, wenn wir dadurch etwas Schlimmeres „überdecken“ müssten."
+      "text": "Wir führen keine SMP-Korrekturen durch, wenn die Nachbesserung schwerwiegende Probleme nur verdecken würde."
     }
   ],
   "faqs": {
-    "title": "HÄUFIG GESTELLTE FRAGEN",
+    "title": "HÄUFIGE FRAGEN – SMP-KORREKTUR (KOPFHAUT-MIKROPIGMENTIERUNG)",
     "list": [
       {
         "q": "Kann ein schlechtes SMP immer korrigiert werden?",
-        "a": "Nicht immer – aber die meisten Fälle können verbessert werden. Die Einschätzung ist ehrlich und kostenlos."
+        "a": "Nicht immer – aber die meisten misslungenen SMP-Behandlungen können deutlich verbessert werden. Die Einschätzung ist kostenlos und ehrlich."
       },
       {
-        "q": "Muss ich zuerst das Pigment lasern lassen?",
-        "a": "In manchen Fällen ja. In anderen kann die Korrektur sofort erfolgen."
+        "q": "Muss das SMP-Pigment vor der Korrektur mit Laser entfernt werden?",
+        "a": "In manchen Fällen ja. In anderen ist die Korrektur auch ohne Laserentfernung sofort möglich."
       },
       {
-        "q": "Wie schnell kann ich behandelt werden?",
-        "a": "Wenn das SMP mehrere Wochen alt ist – oft sofort möglich. Frische Behandlungen sollten erst nach Stabilisierung bewertet werden."
+        "q": "Wie schnell kann ich einen Termin zur SMP-Korrektur bekommen?",
+        "a": "Wenn dein SMP älter als ein paar Wochen ist, oft sofort. Frische Behandlungen sollten erst nach Stabilisierung beurteilt werden."
       },
       {
-        "q": "Kann eine neue Haarlinie geschaffen werden?",
-        "a": "Ja – wenn Hautzustand und vorhandenes Pigment es erlauben."
+        "q": "Kann ich mit der Korrektur eine neue Haarlinie bekommen?",
+        "a": "Ja – wenn der Zustand der Kopfhaut und die Pigmenttiefe es zulassen."
       }
     ]
   },
   "reviews": {
-    "title": "KUNDENERFAHRUNGEN",
-    "text": "Google- und Facebook-Bewertungen:",
+    "title": "KUNDENERFAHRUNGEN – SMP-KORREKTUR",
+    "text": "Google- und Facebook-Bewertungen zu SMP-Korrekturen und Mikropigmentierungs-Nachbesserungen:",
     "person": [
       {
-        "quote": "Ich dachte, ich hätte meinen Kopf für immer ruiniert. Jetzt sehe ich wieder normal aus."
+        "quote": "Ich dachte, ich hätte meine Kopfhaut mit einem schlechten SMP ruiniert. Nach der Korrektur sehe ich endlich wieder natürlich aus. Großartige Arbeit!"
       },
       {
-        "quote": "Srđan hat keine Wunder versprochen – aber das Ergebnis hat alle Erwartungen übertroffen."
+        "quote": "Srđan hat keine Wunder versprochen – aber das Ergebnis der SMP-Korrektur hat alle Erwartungen übertroffen."
       },
       {
-        "quote": "Am wichtigsten – ich bin nicht mehr nervös, wenn ich in den Spiegel schaue. Danke!"
+        "quote": "Das Beste nach der SMP-Korrektur: Ich habe keine Angst mehr vor dem Spiegel. Danke für die Wiederherstellung meines Selbstvertrauens!"
       }
     ]
   },
   "finalCta": {
-    "title": "Kein Vertrauen mehr?",
-    "text": "Wir verstehen das. Deshalb analysieren wir zuerst, dann schlagen wir erst etwas vor – nur wenn es Sinn macht.",
-    "button": "Jetzt buchen"
+    "title": "Vertrauen nach einem schlechten SMP verloren? SMP-Korrektur Ljubljana!",
+    "text": "Wir verstehen, wie man sich nach einer misslungenen SMP fühlt. Deshalb analysieren wir zuerst den Zustand und empfehlen eine Korrektur nur, wenn sie wirklich sinnvoll ist.",
+    "button": "Jetzt SMP-Korrektur buchen"
   }
 }

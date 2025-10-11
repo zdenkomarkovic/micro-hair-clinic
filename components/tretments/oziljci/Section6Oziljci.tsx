@@ -36,7 +36,7 @@ export function Section6Oziljci({ section }: Props) {
           {" "}
           <a
             href={"https://wa.me/381645400100"}
-            className="bg-secondary hover:brightness-90 px-3 md:px-6 py-1 md:py-3 text-white flex items-center text-nowrap gap-1 md:gap-3 "
+            className="bg-secondary hover:brightness-90 px-3 md:px-6 py-1 md:py-3 text-white flex items-center md:text-nowrap gap-1 md:gap-3 "
           >
             {section.link?.label}{" "}
             <FaAngleDoubleRight className="md:w-6 md:h-6" />

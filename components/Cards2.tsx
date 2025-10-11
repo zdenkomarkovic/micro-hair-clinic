@@ -16,7 +16,7 @@ type Props = {
 };
 
 const images: string[] = [
-  "/optimized/preiposle.webp",  
+  "/optimized/preiposle.webp",
   "/optimized/preiposle2.webp",
   "/optimized/preiposle3.webp",
   "/optimized/preiposle4.webp",
@@ -86,7 +86,7 @@ const OneCard = ({
       transition={{ duration: 0.5 }}
       className="transition-shadow duration-300 rounded-lg hover:shadow-lg"
     >
-      <Card className="h-full bg-background">
+      <Card className="h-full bg-background flex flex-col justify-between">
         <CardHeader className="flex flex-col items-center ">
           <Icon className="w-6 md:w-8 h-6 md:h-8 text-secondary" />
           <h2>{item.title}</h2>

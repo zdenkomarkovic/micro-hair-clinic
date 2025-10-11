@@ -16,7 +16,7 @@ export function Faq({ faqs }: Props) {
           </h2>
           <Link
             href={"/#questions"}
-            className="bg-secondary text-white px-4 md:px-6 py-2 md:py-3 text-nowrap flex gap-3 items-center mx-auto"
+            className="bg-secondary text-white px-4 md:px-6 py-2 md:py-3 md:text-nowrap text-center flex gap-3 items-center mx-auto"
           >
             {faqs.button} <FaAngleDoubleRight className="w-6 h-6" />
           </Link>

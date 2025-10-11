@@ -39,11 +39,11 @@ const CardBig = ({ data, i }: CardBigProps) => {
   return (
     <Accordion type="single" collapsible>
       <AccordionItem value={`${i + 1}`}>
-        <AccordionTrigger className="">
-          <p className=" mx-auto md:mx-0">{data.title}</p>
+        <AccordionTrigger className=" ">
+          <p className="md:text-base mx-auto md:mx-0">{data.title}</p>
           <Link
             href={data.link}
-            className="hidden md:inline ml-auto mr-6 md:mr-52"
+            className="hidden md:inline text-base ml-auto mr-6 md:mr-52"
           >
             {data.cta}
           </Link>

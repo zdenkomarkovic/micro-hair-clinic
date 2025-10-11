@@ -22,7 +22,7 @@ export function FinalCta({ data, className = "" }: Props) {
           <p>{data.text}</p>
           <Link
             href={"/kontakt"}
-            className="bg-secondary text-white hover:brightness-90 px-4 md:px-6 py-2 md:py-3  text-nowrap md:uppercase flex gap-3 items-center mx-auto"
+            className="bg-secondary text-white hover:brightness-90 px-4 md:px-6 py-2 md:py-3 text-center md:text-nowrap md:uppercase flex gap-3 items-center mx-auto"
           >
             {data.button} <FaAngleDoubleRight className="w-6 h-6" />
           </Link>
