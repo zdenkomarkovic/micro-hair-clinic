@@ -21,30 +21,34 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const awaitedParams = await params;
-  const locale: Locale = isValidLocale(awaitedParams.locale) ? awaitedParams.locale : i18n.defaultLocale;
+  const locale: Locale = isValidLocale(awaitedParams.locale)
+    ? awaitedParams.locale
+    : i18n.defaultLocale;
 
   const titles = {
-    sl: "SMP povečanje gostote | Redki lasje Ljubljana | Mikropigmentacija",
-    en: "SMP Density Enhancement | Thinning Hair Ljubljana | Micropigmentation",
-    de: "SMP Dichteverbesserung | Dünnes Haar Ljubljana | Mikropigmentierung"
+    sl: "SMP povečanje gostote | Redki lasje | Mikropigmentacija",
+    en: "SMP Density Enhancement | Thinning Hair | Micropigmentation",
+    de: "SMP Dichteverbesserung | Dünnes Haar | Mikropigmentierung",
   };
 
   const descriptions = {
     sl: "SMP tretman za povečanje gostote las - idealna rešitev za redke lase in ustvarjanje vtisa polnejše pričeske brez invazivnih posegov.",
     en: "SMP treatment for hair density enhancement - ideal solution for thinning hair and creating fuller hair appearance without invasive procedures.",
-    de: "SMP-Behandlung zur Haardichteverbesserung - ideale Lösung für dünnes Haar und Schaffung eines volleren Haarbildes ohne invasive Eingriffe."
+    de: "SMP-Behandlung zur Haardichteverbesserung - ideale Lösung für dünnes Haar und Schaffung eines volleren Haarbildes ohne invasive Eingriffe.",
   };
 
   return {
     title: titles[locale] || titles.sl,
     description: descriptions[locale] || descriptions.sl,
-    alternates: generateAlternateLinks(`/${locale}/smp-povecanje-gostote-redki-lasje`),
+    alternates: generateAlternateLinks(
+      `/${locale}/smp-povecanje-gostote-redki-lasje`
+    ),
     openGraph: {
       title: titles[locale] || titles.sl,
       description: descriptions[locale] || descriptions.sl,
       url: `https://www.microhairclinic.si/${locale}/smp-povecanje-gostote-redki-lasje`,
       siteName: "Micro Hair Clinic",
-      locale: locale === 'sl' ? 'sl_SI' : locale === 'de' ? 'de_DE' : 'en_US',
+      locale: locale === "sl" ? "sl_SI" : locale === "de" ? "de_DE" : "en_US",
       type: "website",
     },
   };

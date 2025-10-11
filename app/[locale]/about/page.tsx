@@ -33,30 +33,34 @@ export async function generateMetadata({
   const awaitedParams = await params;
   const localeParam = awaitedParams.locale;
 
-  const locale: Locale = isValidLocale(localeParam) ? localeParam : i18n.defaultLocale;
+  const locale: Locale = isValidLocale(localeParam)
+    ? localeParam
+    : i18n.defaultLocale;
 
   const titles = {
-    sl: "O nas | Micro Hair Clinic Ljubljana | SMP Artist Srđan Kostovski",
-    en: "About Us | Micro Hair Clinic Ljubljana | SMP Artist Srđan Kostovski",
-    de: "Über uns | Micro Hair Clinic Ljubljana | SMP-Künstler Srđan Kostovski"
+    sl: "Micro Hair Clinic Ljubljana | SMP Artist Srđan Kostovski",
+    en: "Micro Hair Clinic Ljubljana | SMP Artist Srđan Kostovski",
+    de: "Micro Hair Clinic Ljubljana | SMP-Künstler Srđan Kostovski",
   };
 
   const descriptions = {
     sl: "Spoznajte Micro Hair Clinic in večkrat nagrajenega SMP artista Srđana Kostovskega z več kot 10 leti izkušenj v mikropigmentaciji lasišča.",
     en: "Meet Micro Hair Clinic and multi-award-winning SMP artist Srđan Kostovski with over 10 years of experience in scalp micropigmentation.",
-    de: "Lernen Sie Micro Hair Clinic und den mehrfach ausgezeichneten SMP-Künstler Srđan Kostovski mit über 10 Jahren Erfahrung in Kopfhaut-Mikropigmentierung kennen."
+    de: "Lernen Sie Micro Hair Clinic und den mehrfach ausgezeichneten SMP-Künstler Srđan Kostovski mit über 10 Jahren Erfahrung in Kopfhaut-Mikropigmentierung kennen.",
   };
 
   return {
     title: titles[locale as keyof typeof titles] || titles.sl,
-    description: descriptions[locale as keyof typeof descriptions] || descriptions.sl,
+    description:
+      descriptions[locale as keyof typeof descriptions] || descriptions.sl,
     alternates: generateAlternateLinks(`/${locale}/about`),
     openGraph: {
       title: titles[locale as keyof typeof titles] || titles.sl,
-      description: descriptions[locale as keyof typeof descriptions] || descriptions.sl,
+      description:
+        descriptions[locale as keyof typeof descriptions] || descriptions.sl,
       url: `https://www.microhairclinic.si/${locale}/about`,
       siteName: "Micro Hair Clinic",
-      locale: locale === 'sl' ? 'sl_SI' : locale === 'de' ? 'de_DE' : 'en_US',
+      locale: locale === "sl" ? "sl_SI" : locale === "de" ? "de_DE" : "en_US",
       type: "website",
     },
   };

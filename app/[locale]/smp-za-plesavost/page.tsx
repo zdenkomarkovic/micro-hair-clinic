@@ -21,18 +21,20 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const awaitedParams = await params;
-  const locale: Locale = isValidLocale(awaitedParams.locale) ? awaitedParams.locale : i18n.defaultLocale;
+  const locale: Locale = isValidLocale(awaitedParams.locale)
+    ? awaitedParams.locale
+    : i18n.defaultLocale;
 
   const titles = {
-    sl: "SMP za plešavost Ljubljana | Mikropigmentacija lasišča | Hair Tattoo",
-    en: "SMP for Baldness Ljubljana | Scalp Micropigmentation | Hair Tattoo",
-    de: "SMP bei Kahlheit Ljubljana | Kopfhaut-Mikropigmentierung | Hair Tattoo"
+    sl: "SMP za plešavost | Mikropigmentacija lasišča | Hair Tattoo",
+    en: "SMP for Baldness | Scalp Micropigmentation | Hair Tattoo",
+    de: "SMP bei Kahlheit | Kopfhaut-Mikropigmentierung | Hair Tattoo",
   };
 
   const descriptions = {
     sl: "SMP tretman za plešavost - naravna rešitev za izgubo las. Mikropigmentacija lasišča v Ljubljani za celovito pokritost plešastih površin.",
     en: "SMP treatment for baldness - natural solution for hair loss. Scalp micropigmentation in Ljubljana for full coverage of bald areas.",
-    de: "SMP-Behandlung bei Kahlheit - natürliche Lösung gegen Haarausfall. Kopfhaut-Mikropigmentierung in Ljubljana für vollständige Abdeckung kahler Stellen."
+    de: "SMP-Behandlung bei Kahlheit - natürliche Lösung gegen Haarausfall. Kopfhaut-Mikropigmentierung in Ljubljana für vollständige Abdeckung kahler Stellen.",
   };
 
   return {
@@ -44,7 +46,7 @@ export async function generateMetadata({
       description: descriptions[locale] || descriptions.sl,
       url: `https://www.microhairclinic.si/${locale}/smp-za-plesavost`,
       siteName: "Micro Hair Clinic",
-      locale: locale === 'sl' ? 'sl_SI' : locale === 'de' ? 'de_DE' : 'en_US',
+      locale: locale === "sl" ? "sl_SI" : locale === "de" ? "de_DE" : "en_US",
       type: "website",
     },
   };

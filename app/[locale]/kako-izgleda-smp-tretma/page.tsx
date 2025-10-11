@@ -21,30 +21,34 @@ export async function generateMetadata({
   const awaitedParams = await params;
   const localeParam = awaitedParams.locale;
 
-  const locale: Locale = isValidLocale(localeParam) ? localeParam : i18n.defaultLocale;
+  const locale: Locale = isValidLocale(localeParam)
+    ? localeParam
+    : i18n.defaultLocale;
 
   const titles = {
     sl: "Kako izgleda SMP tretma | Potek mikropigmentacije lasišča",
-    en: "What SMP Treatment Looks Like | Scalp Micropigmentation Process",
-    de: "Wie sieht eine SMP-Behandlung aus | Ablauf der Kopfhaut-Mikropigmentierung"
+    en: "SMP Treatment | Scalp Micropigmentation Process",
+    de: "SMP-Behandlung | Kopfhaut-Mikropigmentierungsprozess",
   };
 
   const descriptions = {
     sl: "Spoznajte potek SMP tretmana korak za korakom - od prvega posveta do končnega rezultata mikropigmentacije lasišča.",
     en: "Learn the SMP treatment process step by step - from initial consultation to final scalp micropigmentation results.",
-    de: "Lernen Sie den SMP-Behandlungsablauf Schritt für Schritt kennen - von der ersten Beratung bis zum endgültigen Ergebnis der Kopfhaut-Mikropigmentierung."
+    de: "Lernen Sie den SMP-Behandlungsablauf Schritt für Schritt kennen - von der ersten Beratung bis zum endgültigen Ergebnis der Kopfhaut-Mikropigmentierung.",
   };
 
   return {
     title: titles[locale as keyof typeof titles] || titles.sl,
-    description: descriptions[locale as keyof typeof descriptions] || descriptions.sl,
+    description:
+      descriptions[locale as keyof typeof descriptions] || descriptions.sl,
     alternates: generateAlternateLinks(`/${locale}/kako-izgleda-smp-tretma`),
     openGraph: {
       title: titles[locale as keyof typeof titles] || titles.sl,
-      description: descriptions[locale as keyof typeof descriptions] || descriptions.sl,
+      description:
+        descriptions[locale as keyof typeof descriptions] || descriptions.sl,
       url: `https://www.microhairclinic.si/${locale}/kako-izgleda-smp-tretma`,
       siteName: "Micro Hair Clinic",
-      locale: locale === 'sl' ? 'sl_SI' : locale === 'de' ? 'de_DE' : 'en_US',
+      locale: locale === "sl" ? "sl_SI" : locale === "de" ? "de_DE" : "en_US",
       type: "website",
     },
   };

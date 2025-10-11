@@ -21,18 +21,20 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const awaitedParams = await params;
-  const locale: Locale = isValidLocale(awaitedParams.locale) ? awaitedParams.locale : i18n.defaultLocale;
+  const locale: Locale = isValidLocale(awaitedParams.locale)
+    ? awaitedParams.locale
+    : i18n.defaultLocale;
 
   const titles = {
-    sl: "SMP za ženske Ljubljana | Mikropigmentacija lasišča za ženske",
-    en: "SMP for Women Ljubljana | Scalp Micropigmentation for Women",
-    de: "SMP für Frauen Ljubljana | Kopfhaut-Mikropigmentierung für Frauen"
+    sl: "SMP za ženske Ljubljana | Mikropigmentacija lasišča",
+    en: "SMP for Women Ljubljana | Scalp Micropigmentation",
+    de: "SMP für Frauen Ljubljana | Kopfhaut-Mikropigmentierung",
   };
 
   const descriptions = {
     sl: "SMP tretman za ženske - rešitev za redčenje las, alopecijo in povečanje gostote las pri ženskah. Naravni rezultati brez operacije.",
     en: "SMP treatment for women - solution for hair thinning, alopecia and hair density enhancement. Natural results without surgery.",
-    de: "SMP-Behandlung für Frauen - Lösung für Haarausfall, Alopezie und Haardichteverbesserung. Natürliche Ergebnisse ohne Operation."
+    de: "SMP-Behandlung für Frauen - Lösung für Haarausfall, Alopezie und Haardichteverbesserung. Natürliche Ergebnisse ohne Operation.",
   };
 
   return {
@@ -44,7 +46,7 @@ export async function generateMetadata({
       description: descriptions[locale] || descriptions.sl,
       url: `https://www.microhairclinic.si/${locale}/smp-za-zenske`,
       siteName: "Micro Hair Clinic",
-      locale: locale === 'sl' ? 'sl_SI' : locale === 'de' ? 'de_DE' : 'en_US',
+      locale: locale === "sl" ? "sl_SI" : locale === "de" ? "de_DE" : "en_US",
       type: "website",
     },
   };

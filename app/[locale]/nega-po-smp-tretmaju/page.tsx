@@ -23,30 +23,34 @@ export async function generateMetadata({
   const awaitedParams = await params;
   const localeParam = awaitedParams.locale;
 
-  const locale: Locale = isValidLocale(localeParam) ? localeParam : i18n.defaultLocale;
+  const locale: Locale = isValidLocale(localeParam)
+    ? localeParam
+    : i18n.defaultLocale;
 
   const titles = {
     sl: "Nega po SMP tretmaju | Navodila za nego mikropigmentacije",
     en: "SMP Aftercare | Scalp Micropigmentation Care Instructions",
-    de: "SMP-Nachsorge | Pflegeanleitung für Kopfhaut-Mikropigmentierung"
+    de: "SMP-Nachsorge | SMP-Pflegehinweise",
   };
 
   const descriptions = {
     sl: "Navodila za nego po SMP tretmanu - kako skrbeti za mikropigmentacijo lasišča za optimalne in dolgotrajne rezultate.",
     en: "Aftercare instructions after SMP treatment - how to care for scalp micropigmentation for optimal and long-lasting results.",
-    de: "Nachsorgeanweisungen nach SMP-Behandlung - wie Sie Ihre Kopfhaut-Mikropigmentierung für optimale und langanhaltende Ergebnisse pflegen."
+    de: "Nachsorgeanweisungen nach SMP-Behandlung - wie Sie Ihre Kopfhaut-Mikropigmentierung für optimale und langanhaltende Ergebnisse pflegen.",
   };
 
   return {
     title: titles[locale as keyof typeof titles] || titles.sl,
-    description: descriptions[locale as keyof typeof descriptions] || descriptions.sl,
+    description:
+      descriptions[locale as keyof typeof descriptions] || descriptions.sl,
     alternates: generateAlternateLinks(`/${locale}/nega-po-smp-tretmaju`),
     openGraph: {
       title: titles[locale as keyof typeof titles] || titles.sl,
-      description: descriptions[locale as keyof typeof descriptions] || descriptions.sl,
+      description:
+        descriptions[locale as keyof typeof descriptions] || descriptions.sl,
       url: `https://www.microhairclinic.si/${locale}/nega-po-smp-tretmaju`,
       siteName: "Micro Hair Clinic",
-      locale: locale === 'sl' ? 'sl_SI' : locale === 'de' ? 'de_DE' : 'en_US',
+      locale: locale === "sl" ? "sl_SI" : locale === "de" ? "de_DE" : "en_US",
       type: "website",
     },
   };
