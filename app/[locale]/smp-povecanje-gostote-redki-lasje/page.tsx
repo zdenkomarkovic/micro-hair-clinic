@@ -28,7 +28,7 @@ export async function generateMetadata({
   const titles = {
     sl: "SMP povečanje gostote | Redki lasje | Mikropigmentacija",
     en: "SMP Density Enhancement | Thinning Hair | Micropigmentation",
-    de: "SMP Dichteverbesserung | Dünnes Haar | Mikropigmentierung",
+    de: "SMP Haardichte | Dünnes Haar | Mikropigmentierung",
   };
 
   const descriptions = {

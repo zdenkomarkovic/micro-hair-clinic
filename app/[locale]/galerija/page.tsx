@@ -18,9 +18,9 @@ export async function generateMetadata({
     : i18n.defaultLocale;
 
   const titles = {
-    sl: "Galerija | Micro Hair Clinic | SMP rezultati pred in po",
-    en: "Gallery | Micro Hair Clinic | SMP Before and After Results",
-    de: "Galerie | Micro Hair Clinic | SMP Vorher-Nachher-Ergebnisse",
+    sl: "Galerija | Micro Hair Clinic | SMP pred in po",
+    en: "Gallery | Micro Hair Clinic | SMP Before and After",
+    de: "Galerie | Micro Hair Clinic | SMP Vorher Nachher Ergebnisse",
   };
 
   const descriptions = {
