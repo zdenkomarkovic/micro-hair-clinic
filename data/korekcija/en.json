@@ -10,7 +10,7 @@
     "ctas": [
       {
         "label": "Book a Free Consultation – SMP Correction",
-        "href": "/contact"
+        "href": "/"
       },
       {
         "label": "Send a Message About SMP Correction via Viber",
@@ -100,7 +100,7 @@
       ],
       "link": {
         "label": "Send Photos of Your SMP for a Free Correction Assessment",
-        "href": "/contact"
+        "href": "/"
       }
     },
     {
