@@ -25,12 +25,18 @@
         "Ne uporabljaj kreme/losjona isti dan po SMP tretmanu – hair tattoo nega",
         "Ne izpostavljaj se soncu po mikropigmentaciji lasišča – zaščita SMP tretmana"
       ],
-      "text": ["Kaj je dovoljeno po SMP tretmanu (mikropigmentacija lasišča):", "Kaj ni dovoljeno po SMP tretmanu (hair tattoo nega):"]
+      "text": [
+        "Kaj je dovoljeno po SMP tretmanu (mikropigmentacija lasišča):",
+        "Kaj ni dovoljeno po SMP tretmanu (hair tattoo nega):"
+      ]
     },
     {
       "id": "2",
       "title": "2.–4. dan po SMP tretmanu – Nega mikropigmentacije lasišča Ljubljana",
-      "text": ["Dovoljeno po SMP tretmanu (mikropigmentacija lasišča):", "Prepovedano po SMP tretmanu (hair tattoo nega):"],
+      "text": [
+        "Dovoljeno po SMP tretmanu (mikropigmentacija lasišča):",
+        "Prepovedano po SMP tretmanu (hair tattoo nega):"
+      ],
       "bullets": [
         "Uporabi balzam za celjenje po SMP tretmanu Ljubljana (po priporočilu) – nega mikropigmentacije lasišča",
         "Sušenje po SMP tretmanu izključno s tapkanjem – hair tattoo nega",
@@ -44,7 +50,10 @@
     {
       "id": "3",
       "title": "5.–7. dan po SMP tretmanu – Nega mikropigmentacije lasišča Ljubljana",
-      "text": ["Lahko začneš po SMP tretmanu (mikropigmentacija lasišča) z:", "Še vedno se izogibaj po SMP tretmanu (hair tattoo nega):"],
+      "text": [
+        "Lahko začneš po SMP tretmanu (mikropigmentacija lasišča) z:",
+        "Še vedno se izogibaj po SMP tretmanu (hair tattoo nega):"
+      ],
       "bullets": [
         "Umivanje glave po SMP tretmanu z blagim, mlačnim tušem (brez drgnjenja) – nega mikropigmentacije lasišča Ljubljana",
         "Začetek striženja po SMP tretmanu (s škarjami, previdno) – hair tattoo nega 5-7 dan",
@@ -64,7 +73,7 @@
       ],
       "text": [
         "Vključi v redno rutino po SMP tretmanu (mikropigmentacija lasišča Ljubljana):",
-        "Običajna rutina striženja po SMP tretmanu (če nosiš „na nulo" po mikropigmentaciji lasišča):"
+        "Običajna rutina striženja po SMP tretmanu (če nosiš na nulo po mikropigmentaciji lasišča):"
       ]
     },
     {
@@ -90,7 +99,9 @@
         "Blagi šampon brez sulfatov za nego po mikropigmentaciji lasišča",
         "Čisti papirnati robčki / enkratne brisačke za nego po SMP tretmanu"
       ],
-      "text": ["Na brezplačnem posvetu za SMP tretman (mikropigmentacija lasišča Ljubljana) dobiš natančna priporočila za nego glede tvoje kože."]
+      "text": [
+        "Na brezplačnem posvetu za SMP tretman (mikropigmentacija lasišča Ljubljana) dobiš natančna priporočila za nego glede tvoje kože."
+      ]
     }
   ],
   "faqs": {

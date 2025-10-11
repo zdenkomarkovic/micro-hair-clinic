@@ -1,95 +1,86 @@
 {
   "slug": "zakazi-konsultaciju",
-  "title": "Kostenlose Beratung vereinbaren",
+  "title": "Buche eine kostenlose SMP-Beratung in Ljubljana – Kopfhautpigmentierung Kontakt | Hair Tattoo",
   "hero": {
-    "heading": "Der erste Schritt zu einem natürlichen Haarbild – unverbindlich",
-    "subtitle": "Bevor du eine SMP-Behandlung buchst, führen wir eine kostenlose Einschätzung durch und beantworten all deine Fragen.",
-    "image": "/images/IMG_9061-min.jpeg",
-    "alt": "Kostenlose Beratung vor der SMP-Behandlung",
+    "heading": "Der erste Schritt zu einem natürlichen Haarbild mit einer SMP-Behandlung in Ljubljana – unverbindlich | Kopfhautpigmentierung Kontakt",
+    "subtitle": "Bevor du eine SMP-Behandlung (Kopfhautpigmentierung) bei der Micro Hair Clinic Ljubljana buchst, führen wir eine kostenlose Haarverlustbewertung durch und beantworten alle deine Fragen zur Hair-Tattoo-Behandlung.",
+    "image": "/images/2108d76c67a04093aa2650d36e96b2db.mp4",
+    "alt": "Kostenlose SMP-Beratung Ljubljana vor der Kopfhautpigmentierung – Hair Tattoo Kontakt",
     "bullets": [
-      "Beratungen sind diskret",
-      "Du kannst persönlich vorbeikommen oder uns online kontaktieren (Viber / WhatsApp)",
-      "Keine Verpflichtung, sofort eine Behandlung zu buchen"
+      "Beratungen für SMP-Behandlungen (Kopfhautpigmentierung Ljubljana) sind diskret – Kontakt Micro Hair Clinic",
+      "Du kannst persönlich zur Beratung für Kopfhautpigmentierung in Ljubljana kommen oder uns online für eine SMP-Behandlung kontaktieren (Viber / WhatsApp)",
+      "Es besteht keine Verpflichtung, nach der kostenlosen Beratung sofort eine SMP-Behandlung (Hair Tattoo) zu buchen – Kontakt ohne Druck"
     ]
   },
   "sections": [
     {
       "id": "6",
       "bullets": [
-        "Beratungen sind diskret",
-        "Du kannst persönlich vorbeikommen oder uns online kontaktieren (Viber / WhatsApp)",
-        "Keine Verpflichtung, sofort eine Behandlung zu buchen"
+        "Beratungen für SMP-Behandlungen (Kopfhautpigmentierung Ljubljana) sind diskret – Kontakt ohne Sorge",
+        "Du kannst persönlich zu einer kostenlosen Beratung für Kopfhautpigmentierung in Ljubljana kommen oder uns online für eine SMP-Behandlung kontaktieren (Viber / WhatsApp)",
+        "Es besteht keine Verpflichtung, sofort eine SMP-Behandlung (Hair Tattoo) zu buchen – Micro Hair Clinic Ljubljana"
       ]
     },
     {
       "id": "1",
-      "title": "Wie läuft der Prozess ab?",
+      "title": "Wie läuft der Kontaktprozess für eine SMP-Behandlung ab – Kopfhautpigmentierung Ljubljana?",
       "bullets": [
-        "Du sendest Fotos deines Kopfes (von vorne, seitlich, von oben)",
-        "Du erhältst eine fachliche Einschätzung – ob du für SMP geeignet bist",
-        "Wir organisieren ein Beratungsgespräch (vor Ort oder per Videoanruf)",
-        "Wenn du dich entscheidest – vereinbaren wir den ersten Termin"
+        "Sende Bilder deines Kopfes (Vorne, Profil, von oben) zur Bewertung der SMP-Behandlung – Kopfhautpigmentierung Kontakt",
+        "Du erhältst eine fachliche Einschätzung für SMP Ljubljana – ob du für eine Kopfhautpigmentierung geeignet bist",
+        "Wir organisieren eine kostenlose Beratung für SMP (vor Ort in Ljubljana oder per Videoanruf) – Hair Tattoo Konsultation",
+        "Wenn du dich für eine Kopfhautpigmentierung entscheidest – buchen wir deinen ersten SMP-Termin in Ljubljana"
       ],
       "text": [
-        "Wir bieten keine Behandlung um jeden Preis an. Wenn wir glauben, dass sich dein Haar auch ohne SMP erholen kann, verweisen wir dich an einen Trichologen oder Dermatologen, mit dem wir zusammenarbeiten."
+        "Wir bieten keine SMP-Behandlung (Kopfhautpigmentierung) um jeden Preis an. Wenn wir der Meinung sind, dass sich dein Haar ohne SMP regenerieren kann, verweisen wir dich an einen Trichologen oder Dermatologen, mit denen die Micro Hair Clinic Ljubljana zusammenarbeitet."
       ]
     },
     {
       "id": "2",
-      "title": "Sende uns deine Fotos oder eine Nachricht",
+      "title": "Sende Bilder oder eine Nachricht für die SMP-Behandlung – Kopfhautpigmentierung Kontakt Ljubljana",
       "text": [
-        "Diese Fotos solltest du senden:",
-        "Deine Entscheidung ist am wichtigsten.",
-        "Wir sind da, um dir zu helfen, eine informierte Entscheidung zu treffen – ohne Druck und ohne Erwartungen."
+        "Bilder des Kopfes, die für die Bewertung der SMP-Behandlung (Kopfhautpigmentierung Ljubljana) gesendet werden sollten:",
+        "Deine Entscheidung für eine SMP-Behandlung (Kopfhautpigmentierung) ist der wichtigste Schritt beim Kontakt.",
+        "Wir bei der Micro Hair Clinic Ljubljana helfen dir, eine informierte Entscheidung über die SMP-Behandlung (Hair Tattoo) zu treffen – ohne Druck und ohne Erwartungen beim Kontakt."
       ],
       "bullets": [
-        "Vorne",
-        "Profil links/rechts",
-        "Von oben",
-        "Wir überreden nicht – wir erklären",
-        "Du entscheidest wann, wie und ob du weitermachen möchtest"
+        "Vorne – Kopfaufnahme zur Bewertung der SMP-Behandlung",
+        "Profil links/rechts – zur Analyse der Kopfhautpigmentierung",
+        "Von oben – zur Einschätzung des Haarausfalls für die SMP-Behandlung",
+        "Wir drängen nicht zur SMP – wir erklären die Kopfhautpigmentierung",
+        "Du entscheidest, wann, wie und ob du mit der SMP-Behandlung in Ljubljana fortfahren möchtest"
       ],
       "imagesNeeded": ["Vorne", "Profil links/rechts", "Von oben"]
     },
     {
       "id": "3",
-      "title": "Oder fülle das kurze Formular aus",
-      "label1": "Name und Nachname",
-      "placeholder1": "Gib deinen vollständigen Namen ein",
-      "label2": "Email",
-      "placeholder2": "Gib deine E-Mail-Adresse ein",
-      "label3": "Telefon (Viber/WhatsApp)",
-      "placeholder3": "Gib deine Telefonnummer ein (Viber/WhatsApp)",
-      "label4": "Für welche Behandlung interessierst du dich?",
-      "typeselect": "select",
-      "options": [
-        "Kahlheit",
-        "Haarverdünnung",
-        "Alopecia",
-        "Narben",
-        "Korrektur",
-        "Ich bin mir nicht sicher"
-      ],
-      "label5": "Nachricht oder Frage",
-      "placeholder5": "Deine Nachricht an uns",
+      "title": "Oder fülle das kurze Formular für die SMP-Behandlung aus – Kopfhautpigmentierung Kontakt Ljubljana",
+      "label1": "Vor- und Nachname für die SMP-Behandlung",
+      "placeholder1": "Gib deinen Vor- und Nachnamen für den Kontakt zur Kopfhautpigmentierung ein",
+      "label2": "E-Mail für SMP-Behandlung",
+      "placeholder2": "Gib deine E-Mail-Adresse für den Kontakt zur Kopfhautpigmentierung Ljubljana ein",
+      "label3": "Telefon für SMP (Viber/WhatsApp)",
+      "placeholder3": "Gib deine Telefonnummer für den Kontakt zur SMP-Behandlung Ljubljana ein (Viber/WhatsApp)",
+      "label4": "Welche SMP-Behandlung interessiert dich – Kopfhautpigmentierung?",
+      "label5": "Nachricht oder Frage zur SMP-Behandlung",
+      "placeholder5": "Deine Nachricht an uns zur Kopfhautpigmentierung Ljubljana",
       "type": "textarea",
-      "submitButton": "Anfrage senden"
+      "submitButton": "Anfrage für SMP-Behandlung Ljubljana senden"
     },
     {
       "id": "4",
-      "title": "Nicht sicher?",
+      "title": "Nicht sicher wegen der SMP-Behandlung – Kopfhautpigmentierung Ljubljana?",
       "bullets": [
-        "Lies: Wie läuft eine SMP-Behandlung ab?",
-        "Sieh dir an: Häufige Fragen",
-        "Sieh dir Ergebnisse an: Vorher-Nachher Galerie"
+        "Lies: Wie läuft die SMP-Behandlung ab (Kopfhautpigmentierung) – Hair Tattoo Ljubljana",
+        "Sieh dir an: Häufig gestellte Fragen zur SMP-Behandlung – Kopfhautpigmentierung",
+        "Sieh Ergebnisse: Vorher-Nachher-Galerie – Kopfhautpigmentierung Ljubljana"
       ]
     },
     {
       "id": "5",
-      "title": "Noch einmal – Kontakt",
+      "title": "Noch einmal – Kontakt für SMP-Behandlung Ljubljana | Kopfhautpigmentierung",
       "text": [
-        "Egal ob du sofort bereit bist oder dich erst informieren willst – melde dich bei uns.",
-        "Wir helfen dir, deine Optionen zu verstehen – die Entscheidung liegt ganz bei dir."
+        "Egal, ob du sofort bereit bist für eine SMP-Behandlung (Kopfhautpigmentierung) oder erst deine Möglichkeiten bei Haarausfall erkundest – kontaktiere uns bei der Micro Hair Clinic Ljubljana.",
+        "Wir helfen dir, die Möglichkeiten der SMP-Behandlung (Hair Tattoo) zu verstehen, aber die Entscheidung für die Kopfhautpigmentierung Ljubljana liegt immer bei dir – Kontakt ohne Verpflichtung."
       ]
     }
   ]
