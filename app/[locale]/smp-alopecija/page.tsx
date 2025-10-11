@@ -25,8 +25,8 @@ export async function generateMetadata({
 
   const titles = {
     sl: "SMP za alopecijo | Mikropigmentacija lasišča | Alopecija areata",
-    en: "SMP for Alopecia | Scalp Micropigmentation | Alopecija areata",
-    de: "SMP bei Alopezie | Mikropigmentierung der Kopfhaut | Alopecija areata",
+    en: "SMP for Alopecia | Scalp Micropigmentation | Alopecia areata",
+    de: "SMP bei Alopezie | Mikropigmentierung der Kopfhaut | Alopecia areata",
   };
 
   const descriptions = {

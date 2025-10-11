@@ -28,9 +28,9 @@ export async function generateMetadata({
     : i18n.defaultLocale;
 
   const titles = {
-    sl: "Nega po SMP tretmaju | Navodila za nego mikropigmentacije",
+    sl: "Nega po SMP tretmanu | Navodila za nego mikropigmentacije",
     en: "SMP Aftercare | Scalp Micropigmentation Care Instructions",
-    de: "SMP-Nachsorge | SMP-Pflegehinweise",
+    de: "Nachsorge nach SMP Behandlung ",
   };
 
   const descriptions = {

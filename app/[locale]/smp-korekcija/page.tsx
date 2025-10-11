@@ -27,7 +27,7 @@ export async function generateMetadata({
   const titles = {
     sl: "SMP korekcija | Popravek neuspešnega SMP tretmana",
     en: "SMP Correction | Failed SMP Treatment Fix",
-    de: "SMP-Korrektur | Fehlgeschlagene SMP-Behandlung beheben",
+    de: "SMP-Korrektur | Nachbesserung einer schlecht ausgeführten SMP",
   };
 
   const descriptions = {

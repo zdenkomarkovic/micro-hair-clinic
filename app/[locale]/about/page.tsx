@@ -40,7 +40,7 @@ export async function generateMetadata({
   const titles = {
     sl: "Micro Hair Clinic Ljubljana | SMP Artist Srđan Kostovski",
     en: "Micro Hair Clinic Ljubljana | SMP Artist Srđan Kostovski",
-    de: "Micro Hair Clinic Ljubljana | SMP-Künstler Srđan Kostovski",
+    de: "Micro Hair Clinic Ljubljana | SMP Artist Srđan Kostovski",
   };
 
   const descriptions = {

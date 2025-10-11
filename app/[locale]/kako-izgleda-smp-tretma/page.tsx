@@ -28,7 +28,7 @@ export async function generateMetadata({
   const titles = {
     sl: "Kako izgleda SMP tretma | Potek mikropigmentacije lasišča",
     en: "SMP Treatment | Scalp Micropigmentation Process",
-    de: "SMP-Behandlung | Kopfhaut-Mikropigmentierungsprozess",
+    de: " WIE DIE SMP-BEHANDLUNG ABLÄUFT",
   };
 
   const descriptions = {
