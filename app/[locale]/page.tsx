@@ -24,8 +24,8 @@ export async function generateMetadata({
 
   const titles = {
     sl: "Mikropigmentacija lasišča Ljubljana | SMP tretmani | Hair Tattoo",
-    en: "Scalp Micropigmentation Ljubljana | SMP Treatments | Hair Tattoo",
-    de: "Kopfhaut-Mikropigmentierung Ljubljana | SMP-Behandlungen | Hair Tattoo",
+    en: "Scalp Micropigmentation | SMP Treatments | Hair Tattoo",
+    de: "Kopfhaut-Mikropigmentierung | SMP-Behandlungen | Hair Tattoo",
   };
 
   const descriptions = {
