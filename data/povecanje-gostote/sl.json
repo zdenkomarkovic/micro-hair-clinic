@@ -8,14 +8,17 @@
     "image2": "/optimized/redcenjemob.webp",
     "alt": "SMP za redke lase Ljubljana – mikropigmentacija lasišča povečanje gostote pred in po",
     "ctas": [
-      { "label": "Rezerviraj brezplačen posvet – SMP za redke lase", "href": "/kontakt" },
+      {
+        "label": "Rezerviraj brezplačen posvet – SMP za redke lase",
+        "href": "/kontakt"
+      },
       {
         "label": "Pošlji sporočilo za hair tattoo preko Viberja",
-        "href": "viber://chat?number=%2B381645400100"
+        "href": "viber://chat?number=%2B38651479000"
       },
       {
         "label": "Pošlji sporočilo za SMP tretman preko WhatsAppa",
-        "href": "https://wa.me/381645400100"
+        "href": "https://wa.me/38651479000"
       }
     ]
   },

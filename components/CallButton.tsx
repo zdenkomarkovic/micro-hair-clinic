@@ -45,16 +45,16 @@ const CallButton = () => {
     >
       <div className={` z-20 flex  gap-1`}>
         <a
-          href="viber://contact?number=%2B381645400100"
+          href="viber://contact?number=%2B38651479000"
           className="p-1 hover:scale-110"
-          onClick={() => trackPhoneCall('viber')}
+          onClick={() => trackPhoneCall("viber")}
         >
           <FaViber className="bg-purple-600  rounded-full w-10 h-10 text-white " />
         </a>
-        <a 
-          href="https://wa.me/381645400100" 
+        <a
+          href="https://wa.me/38651479000"
           className="p-1 hover:scale-110"
-          onClick={() => trackPhoneCall('whatsapp')}
+          onClick={() => trackPhoneCall("whatsapp")}
         >
           <IoLogoWhatsapp className="bg-green-500 text-white p-[1px] rounded-full w-10 h-10" />
         </a>

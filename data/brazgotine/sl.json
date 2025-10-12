@@ -8,14 +8,17 @@
     "image2": "/optimized/brazgotinemob.webp",
     "alt": "SMP za brazgotine Ljubljana – prekrita brazgotina na lasišču z mikropigmentacijo",
     "ctas": [
-      { "label": "Rezerviraj brezplačen posvet – SMP za brazgotine", "href": "/kontakt" },
+      {
+        "label": "Rezerviraj brezplačen posvet – SMP za brazgotine",
+        "href": "/kontakt"
+      },
       {
         "label": "Pošlji sporočilo za hair tattoo prek Viberja",
-        "href": "viber://chat?number=%2B381645400100"
+        "href": "viber://chat?number=%2B38651479000"
       },
       {
         "label": "Pošlji sporočilo za SMP tretman prek WhatsAppa",
-        "href": "https://wa.me/381645400100"
+        "href": "https://wa.me/38651479000"
       }
     ]
   },
@@ -29,7 +32,9 @@
         "Poškodbe ali udarci v glavo (nesreče, padci) – hair tattoo za brazgotine",
         "Estetski postopki (npr. slabo izveden SMP tretma) – korekcija z mikropigmentacijo lasišča"
       ],
-      "text": ["Brazgotine na lasišču najpogosteje nastanejo zaradi presaditve las ali poškodb. SMP za brazgotine Ljubljana je učinkovita rešitev:"],
+      "text": [
+        "Brazgotine na lasišču najpogosteje nastanejo zaradi presaditve las ali poškodb. SMP za brazgotine Ljubljana je učinkovita rešitev:"
+      ],
       "image": {
         "src": "/optimized/IMG_9103-min.webp",
         "alt": "Vrste brazgotin na lasišču – SMP za FUE in FUT brazgotine"
@@ -83,7 +88,9 @@
         "Diskretna korekcija brazgotin s SMP tretmanom brez dodatnih operacij",
         "Individualni pristop SMP za brazgotine: barva pigmenta, gostota, razporeditev"
       ],
-      "text": ["Ne glede na izvor brazgotine na lasišču, SMP za brazgotine (mikropigmentacija lasišča) omogoča hair tattoo prekritje:"],
+      "text": [
+        "Ne glede na izvor brazgotine na lasišču, SMP za brazgotine (mikropigmentacija lasišča) omogoča hair tattoo prekritje:"
+      ],
       "image": {
         "src": "/optimized/IMG_9110-min.webp",
         "alt": "SMP tretman za kamuflažo brazgotin na glavi – mikropigmentacija lasišča Ljubljana"
@@ -128,7 +135,9 @@
         "Nočeš dodatne operacije za prekrivanje brazgotin – mikropigmentacija lasišča je neinvazivna",
         "Imaš realna pričakovanja (SMP tretman = vizualni učinek, fizično ne odstrani brazgotine)"
       ],
-      "text": ["SMP za brazgotine (mikropigmentacija lasišča Ljubljana) je zate, če:"],
+      "text": [
+        "SMP za brazgotine (mikropigmentacija lasišča Ljubljana) je zate, če:"
+      ],
       "link": {
         "label": "Pošlji sliko brazgotine za brezplačno oceno SMP",
         "href": "/kontakt"

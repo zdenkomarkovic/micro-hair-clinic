@@ -8,14 +8,17 @@
     "image2": "/optimized/neuspesnimob.webp",
     "alt": "Korekcija SMP – popravek slabo izvedene mikropigmentacije lasišča Ljubljana – prej in potem",
     "ctas": [
-      { "label": "Rezerviraj brezplačen posvet – Korekcija SMP", "href": "/kontakt" },
+      {
+        "label": "Rezerviraj brezplačen posvet – Korekcija SMP",
+        "href": "/kontakt"
+      },
       {
         "label": "Pošlji sporočilo za popravek SMP preko Vibra",
-        "href": "viber://chat?number=%2B381645400100"
+        "href": "viber://chat?number=%2B38651479000"
       },
       {
         "label": "Pošlji sporočilo za korekcijo SMP preko WhatsAppa",
-        "href": "https://wa.me/381645400100"
+        "href": "https://wa.me/38651479000"
       }
     ]
   },

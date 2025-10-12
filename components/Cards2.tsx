@@ -62,7 +62,9 @@ const Cards2 = ({ data, text }: Props) => {
         <div>
           <ImageCarusel images={images} py={""} />
           {text.subtitle2 && (
-            <h3 className="md:text-3xl pt-6">{text.subtitle2}</h3>
+            <p className="md:text-3xl font-bold text-center pt-6">
+              {text.subtitle2}
+            </p>
           )}
         </div>
       </div>

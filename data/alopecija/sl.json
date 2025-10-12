@@ -8,14 +8,17 @@
     "image2": "/optimized/alopecija-mob.webp",
     "alt": "SMP za alopecijo Ljubljana – rezultat mikropigmentacije lasišča pri alopeciji areata",
     "ctas": [
-      { "label": "Rezerviraj brezplačen posvet – SMP za alopecijo", "href": "/kontakt" },
+      {
+        "label": "Rezerviraj brezplačen posvet – SMP za alopecijo",
+        "href": "/kontakt"
+      },
       {
         "label": "Pošlji sporočilo za hair tattoo preko Vibra",
-        "href": "viber://chat?number=%2B381645400100"
+        "href": "viber://chat?number=%2B38651479000"
       },
       {
         "label": "Pošlji sporočilo za SMP tretman preko WhatsAppa",
-        "href": "https://wa.me/381645400100"
+        "href": "https://wa.me/38651479000"
       }
     ]
   },
