@@ -34,7 +34,7 @@ const Treatments = ({ data }: Props) => {
               >
                 <h3 className="transition-transform text-primary duration-300 hover:scale-105 h-1/5 p-3  md:p-6">
                   {tretman.title}
-                </h3>{" "}
+                </h3>
                 <div className=" overflow-hidden">
                   <Image
                     src={tretman.img}

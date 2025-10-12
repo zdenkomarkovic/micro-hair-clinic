@@ -24,13 +24,13 @@ export async function generateMetadata({
 
   const titles = {
     sl: "Blog | Micro Hair Clinic | SMP",
-    en: "Blog | Micro Hair Clinic | SMP",
+    en: "Hair Loss Articles & Expert Guides | Micro Hair Clinic",
     de: "Blog | Micro Hair Clinic | SMP",
   };
 
   const descriptions = {
     sl: "Preberite naš blog o SMP tretmanih, nasvetih za nego, trendih v mikropigmentaciji lasišča in novicah iz sveta SMP.",
-    en: "Read our blog about SMP treatments, care tips, scalp micropigmentation trends and news from the SMP world.",
+    en: "Expert articles, guides and tips about hair loss solutions, restoration techniques, and maintaining your confidence. Stay informed with our latest insights.",
     de: "Lesen Sie unseren Blog über SMP-Behandlungen, Pflegetipps, Trends in der Kopfhaut-Mikropigmentierung und Neuigkeiten aus der SMP-Welt.",
   };
 

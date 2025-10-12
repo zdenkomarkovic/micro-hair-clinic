@@ -39,21 +39,23 @@ export function HeroSection({ data }: Props) {
       <div className="absolute left-0 right-0 top-0  z-0">
         <Image
           src={data.image}
-          width={2000}
-          height={1000}
+          width={1920}
+          height={1080}
           alt={data.alt}
           className="hidden md:block w-full md:h-[85dvh] object-cover"
           priority
-          quality={85}
+          quality={80}
+          sizes="(min-width: 768px) 100vw, 0vw"
         />
         <Image
           src={data.image2}
-          width={2000}
-          height={1000}
+          width={828}
+          height={1200}
           alt={data.alt}
           className="md:hidden w-full h-screen object-cover"
           priority
-          quality={85}
+          quality={75}
+          sizes="(max-width: 767px) 100vw, 0vw"
         />
       </div>
       <div className="absolute top-0 left-0 w-full h-full bg-black/30 z-[1]" />

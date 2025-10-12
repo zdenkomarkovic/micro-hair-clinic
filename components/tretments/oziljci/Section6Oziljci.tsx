@@ -35,7 +35,7 @@ export function Section6Oziljci({ section }: Props) {
         <div>
           {" "}
           <a
-            href={"https://wa.me/381645400100"}
+            href={"https://wa.me/38651479000"}
             className="bg-secondary hover:brightness-90 px-3 md:px-6 py-1 md:py-3 text-white flex items-center md:text-nowrap gap-1 md:gap-3 "
           >
             {section.link?.label}{" "}

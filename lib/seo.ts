@@ -1,6 +1,21 @@
 const baseUrl = "https://www.microhairclinic.si";
 const supportedLocales = ["sl", "en", "de"];
 
+/**
+ * Generates proper SEO alternate links (hreflang) and canonical URL for multilingual pages.
+ *
+ * This configuration ensures:
+ * 1. Canonical URL always points to the localized version (e.g., /sl/kontakt)
+ * 2. Hreflang tags inform search engines about language variations
+ * 3. x-default points to Slovenian (default language)
+ *
+ * Note: The 307 redirects from non-localized URLs (e.g., /kontakt → /sl/kontakt)
+ * are CORRECT and EXPECTED behavior for multilingual sites. Search engines understand
+ * this pattern and will not penalize it.
+ *
+ * @param pathname - The current pathname including locale (e.g., /sl/kontakt)
+ * @returns Object with canonical URL and language alternate links
+ */
 export function generateAlternateLinks(pathname: string) {
   const languages: Record<string, string> = {};
 
@@ -21,7 +36,7 @@ export function generateAlternateLinks(pathname: string) {
     languages[locale] = `${baseUrl}/${locale}${cleanPath}`;
   });
 
-  // x-default points to Slovenian
+  // x-default points to Slovenian (primary market)
   languages["x-default"] = `${baseUrl}/sl${cleanPath}`;
 
   return {

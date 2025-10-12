@@ -29,13 +29,13 @@ export async function generateMetadata({
 
   const titles = {
     sl: "Nega po SMP tretmanu | Navodila za nego mikropigmentacije",
-    en: "SMP Aftercare | Scalp Micropigmentation Care Instructions",
+    en: "Aftercare Guide | Post-Treatment Care Instructions",
     de: "Tagesleitfaden zur Pflege nach der SMP Behandlung",
   };
 
   const descriptions = {
     sl: "Navodila za nego po SMP tretmanu - kako skrbeti za mikropigmentacijo lasišča za optimalne in dolgotrajne rezultate.",
-    en: "Aftercare instructions after SMP treatment - how to care for scalp micropigmentation for optimal and long-lasting results.",
+    en: "Complete aftercare guide for post-treatment care. Learn how to protect and maintain your results during the healing process for optimal outcomes.",
     de: "Nachsorgeanweisungen nach SMP-Behandlung - wie Sie Ihre Kopfhaut-Mikropigmentierung für optimale und langanhaltende Ergebnisse pflegen.",
   };
 
