@@ -61,7 +61,9 @@ const Cards2 = ({ data, text }: Props) => {
         </div>
         <div>
           <ImageCarusel images={images} py={""} />
-          <h3 className="md:text-3xl pt-6">{text.subtitle2}</h3>
+          {text.subtitle2 && (
+            <h3 className="md:text-3xl pt-6">{text.subtitle2}</h3>
+          )}
         </div>
       </div>
     </div>
