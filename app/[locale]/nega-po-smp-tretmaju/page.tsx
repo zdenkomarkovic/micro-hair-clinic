@@ -29,7 +29,7 @@ export async function generateMetadata({
 
   const titles = {
     sl: "Nega po SMP tretmanu | Navodila za nego mikropigmentacije",
-    en: "Aftercare Guide | Post-Treatment Care Instructions",
+    en: "Aftercare Guide | Care Instructions",
     de: "Tagesleitfaden zur Pflege nach der SMP Behandlung",
   };
 

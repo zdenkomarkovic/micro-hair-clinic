@@ -24,7 +24,7 @@ export async function generateMetadata({
 
   const titles = {
     sl: "Blog | Micro Hair Clinic | SMP",
-    en: "Hair Loss Articles & Expert Guides | Micro Hair Clinic",
+    en: "Hair Loss Blog | Micro Hair Clinic",
     de: "Blog | Micro Hair Clinic | SMP",
   };
 

@@ -33,7 +33,7 @@ export async function generateMetadata({
 
   const descriptions = {
     sl: "Spoznajte potek SMP tretmana korak za korakom - od prvega posveta do končnega rezultata mikropigmentacije lasišča.",
-    en: "Discover what happens during your procedure session step by step. Learn about the consultation, application process, and what to expect throughout your appointment.",
+    en: "Discover what happens during your procedure session. Learn about the consultation, application process, and what to expect throughout your appointment.",
     de: "Lernen Sie den SMP-Behandlungsablauf Schritt für Schritt kennen - von der ersten Beratung bis zum endgültigen Ergebnis der Kopfhaut-Mikropigmentierung.",
   };
 
