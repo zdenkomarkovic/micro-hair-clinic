@@ -31,7 +31,7 @@ export async function generateMetadata({
   const descriptions = {
     sl: "Profesionalni SMP tretmani v Ljubljani. Mikropigmentacija lasišča za plešavost, brazgotine in redke lase. Tetovaža lasišča brez bolečine - rezervirajte posvet!",
     en: "Professional SMP treatments in Ljubljana. Scalp micropigmentation for baldness, scars and thinning hair. Pain-free hair tattoo - book a consultation!",
-    de: "Professionelle SMP-Behandlungen in Ljubljana. Kopfhaut-Mikropigmentierung bei Haarausfall, Narben und dünnem Haar. Schmerzfreies Hair Tattoo - Beratung buchen!",
+    de: "Professionelle SMP-Behandlungen in Ljubljana – Kopfhaut-Mikropigmentierung bei Haarausfall, Narben & dünnem Haar. Schmerzfreies Hair Tattoo – Beratung!",
   };
 
   return {

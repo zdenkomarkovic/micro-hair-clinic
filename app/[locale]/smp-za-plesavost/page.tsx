@@ -28,7 +28,7 @@ export async function generateMetadata({
   const titles = {
     sl: "SMP za plešavost | Mikropigmentacija lasišča | Hair Tattoo",
     en: "SMP for Baldness | Scalp Micropigmentation | Hair Tattoo",
-    de: "SMP bei Haarausfall | Kopfhaut-Mikropigmentierung | Hair Tattoo",
+    de: "SMP bei Haarausfall – Mikropigmentierung & Hair Tattoo in Ljubljana",
   };
 
   const descriptions = {

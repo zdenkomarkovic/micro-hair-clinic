@@ -33,7 +33,7 @@ export async function generateMetadata({
   const descriptions = {
     sl: "Korekcija neuspešnih SMP tretmanov - popravek barve, gostote in nepravilnih pigmentacij. Strokovno odpravljamo napake predhodnih tretmanov.",
     en: "Correction of failed SMP treatments - fixing color, density and irregular pigmentation. Professional correction of previous treatment mistakes.",
-    de: "Korrektur fehlgeschlagener SMP-Behandlungen - Behebung von Farbe, Dichte und unregelmäßiger Pigmentierung. Professionelle Korrektur früherer Behandlungsfehler.",
+    de: "Korrektur fehlgeschlagener SMP-Behandlungen – Behebung von Farbe, Dichte und unregelmäßiger Pigmentierung. Professionelle Nachbesserung.",
   };
 
   return {

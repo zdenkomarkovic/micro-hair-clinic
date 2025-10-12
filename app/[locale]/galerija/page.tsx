@@ -26,7 +26,7 @@ export async function generateMetadata({
   const descriptions = {
     sl: "Oglejte si našo galerijo SMP rezultatov - pred in po fotografije naših strank. Naravni in trajni rezultati mikropigmentacije lasišča.",
     en: "View our SMP results gallery - before and after photos of our clients. Natural and permanent scalp micropigmentation results.",
-    de: "Sehen Sie sich unsere SMP-Ergebnisgalerie an - Vorher-Nachher-Fotos unserer Kunden. Natürliche und dauerhafte Ergebnisse der Kopfhaut-Mikropigmentierung.",
+    de: "SMP-Ergebnisgalerie ansehen – Vorher-Nachher-Fotos unserer Kunden. Natürliche, dauerhafte Ergebnisse der Kopfhaut-Mikropigmentierung.",
   };
 
   return {
