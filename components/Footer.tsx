@@ -93,9 +93,9 @@ export default function Footer({
             })}
           </div>
           <div className="md:col-span-1 col-span-2 text-center">
-            <h3 className="text-lg font-semibold mb-2 md:mb-4 text-white">
+            <p className="text-lg font-semibold mb-2 md:mb-4 text-white">
               Micro Hair Clinic
-            </h3>
+            </p>
 
             <Image
               src={"/images/mhclogo.png"}
