@@ -7,11 +7,16 @@ import { HeroCompare } from "@/components/tretments/compare/HeroCompare";
 import { Section1Kako } from "@/components/tretments/kakoizgledatretman/Section1Kako";
 import { Section2Kako } from "@/components/tretments/kakoizgledatretman/Section2Kako";
 import { Section3Kako } from "@/components/tretments/kakoizgledatretman/Section3Kako";
-import Questions from "@/components/tretments/Questions";
 import { Section5Kako } from "@/components/tretments/kakoizgledatretman/Section5Kako";
 import { Section, SmpContent } from "@/types/type";
 import { generateAlternateLinks } from "@/lib/seo";
 import { Metadata } from "next";
+import dynamic from "next/dynamic";
+
+const Questions = dynamic(() => import("@/components/tretments/Questions"), {
+  ssr: true,
+  loading: () => <div className="py-6 mx-auto container animate-pulse h-64 bg-gray-100" />,
+});
 
 export async function generateMetadata({
   params,

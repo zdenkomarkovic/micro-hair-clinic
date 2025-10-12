@@ -4,7 +4,6 @@ import { readFile } from "fs/promises";
 import path from "path";
 import { FinalCta } from "@/components/tretments/FinalCta";
 import { isValidLocale } from "@/lib/locale";
-import TableSection from "@/components/TableSection";
 import { HeroCompare } from "@/components/tretments/compare/HeroCompare";
 import { Section1Compare } from "@/components/tretments/compare/Section1Compare";
 import { Section3Compare } from "@/components/tretments/compare/Section3Compare";
@@ -13,6 +12,12 @@ import { Section5Compare } from "@/components/tretments/compare/Section5Compare"
 import { Section, SmpContent } from "@/types/type";
 import { Metadata } from "next";
 import { generateAlternateLinks } from "@/lib/seo";
+import dynamic from "next/dynamic";
+
+const TableSection = dynamic(() => import("@/components/TableSection"), {
+  ssr: true,
+  loading: () => <div className="py-3 md:py-6 mx-auto container animate-pulse h-64 bg-gray-100" />,
+});
 
 export async function generateMetadata({
   params,

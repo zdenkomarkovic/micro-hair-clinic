@@ -2,11 +2,9 @@ import { notFound } from "next/navigation";
 import { i18n, Locale } from "@/i18n-config";
 import { readFile } from "fs/promises";
 import path from "path";
-import { FinalCta } from "@/components/tretments/FinalCta";
 import { HeroSection } from "@/components/tretments/HeroSection";
 import { isValidLocale } from "@/lib/locale";
 import { Section4 } from "@/components/tretments/Section4";
-import { Faq } from "@/components/tretments/Faq";
 import { Section1 } from "@/components/tretments/Section1";
 import { Section2 } from "@/components/tretments/Section2";
 import { Section3 } from "@/components/tretments/Section3";
@@ -14,6 +12,14 @@ import { PageData, SectionCommon } from "@/types/index";
 import { Section5 } from "@/components/tretments/Section5";
 import { Metadata } from "next";
 import { generateAlternateLinks } from "@/lib/seo";
+import dynamic from "next/dynamic";
+
+const Faq = dynamic(() => import("@/components/tretments/Faq").then(mod => ({ default: mod.Faq })), {
+  loading: () => <div className="py-6 mx-auto container animate-pulse h-64 bg-gray-100" />,
+});
+const FinalCta = dynamic(() => import("@/components/tretments/FinalCta").then(mod => ({ default: mod.FinalCta })), {
+  loading: () => <div className="py-6 mx-auto container animate-pulse h-32 bg-gray-100" />,
+});
 
 export async function generateMetadata({
   params,
