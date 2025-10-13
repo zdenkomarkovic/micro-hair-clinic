@@ -14,12 +14,26 @@ import { Metadata } from "next";
 import { generateAlternateLinks } from "@/lib/seo";
 import dynamic from "next/dynamic";
 
-const Faq = dynamic(() => import("@/components/tretments/Faq").then(mod => ({ default: mod.Faq })), {
-  loading: () => <div className="py-6 mx-auto container animate-pulse h-64 bg-gray-100" />,
-});
-const FinalCta = dynamic(() => import("@/components/tretments/FinalCta").then(mod => ({ default: mod.FinalCta })), {
-  loading: () => <div className="py-6 mx-auto container animate-pulse h-32 bg-gray-100" />,
-});
+const Faq = dynamic(
+  () =>
+    import("@/components/tretments/Faq").then((mod) => ({ default: mod.Faq })),
+  {
+    loading: () => (
+      <div className="py-6 mx-auto container animate-pulse h-64 bg-gray-100" />
+    ),
+  }
+);
+const FinalCta = dynamic(
+  () =>
+    import("@/components/tretments/FinalCta").then((mod) => ({
+      default: mod.FinalCta,
+    })),
+  {
+    loading: () => (
+      <div className="py-6 mx-auto container animate-pulse h-32 bg-gray-100" />
+    ),
+  }
+);
 
 export async function generateMetadata({
   params,
@@ -50,7 +64,7 @@ export async function generateMetadata({
     openGraph: {
       title: titles[locale] || titles.sl,
       description: descriptions[locale] || descriptions.sl,
-      url: `https://www.microhairclinic.si/${locale}/smp-za-plesavost`,
+      url: `https://microhairclinic.si/${locale}/smp-za-plesavost`,
       siteName: "Micro Hair Clinic",
       locale: locale === "sl" ? "sl_SI" : locale === "de" ? "de_DE" : "en_US",
       type: "website",

@@ -9,11 +9,11 @@ type Props = {
 
 export function Section1Zenske({ section, direction }: Props) {
   return (
-    <section id={section.id} className="py-6 md:py-10 px-2 md:px-4">
+    <section id={section.id} className="py-6 md:py-10">
       <div
         className={`${direction} container px-2 md:px-4 mx-auto grid md:grid-cols-2 items-center  `}
       >
-        <div className="mx-auto flex flex-col">
+        <div className="mx-auto flex flex-col ">
           <h2 className="mb-4">{section.title}</h2>
           {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
@@ -25,7 +25,7 @@ export function Section1Zenske({ section, direction }: Props) {
             </div>
           )}
           {section.bullets && (
-            <ul className="list-disc list-inside mb-4">
+            <ul className="list-disc list-inside mb-4 ml-2 md:ml-10">
               {section.bullets.slice(0, 4).map((b, i) => (
                 <li key={i}>{b}</li>
               ))}
@@ -41,7 +41,7 @@ export function Section1Zenske({ section, direction }: Props) {
             </div>
           )}
           {section.bullets && (
-            <ul className="list-disc list-inside mb-4">
+            <ul className="list-disc list-inside mb-4 ml-2 md:ml-10">
               {section.bullets.slice(4).map((b, i) => (
                 <li key={i}>{b}</li>
               ))}

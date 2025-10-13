@@ -8,13 +8,17 @@ type Props = {
 
 export function SectionAlopecija({ section }: Props) {
   return (
-    <section id={section.id} className="py-10 px-4 pt-50">
-      <div className="container px-2 md:px-4 mx-auto text-center space-y-6 ">
+    <section id={section.id} className="py-10  pt-50">
+      <div className="container px-2 md:px-6 mx-auto text-center space-y-6 ">
         <h2 className="">{section.title}</h2>
         {Array.isArray(section.text) && (
           <div>
             {section.text?.map((line, i) => {
-              return <p key={i}>{line}</p>;
+              return (
+                <p key={i} className="py-1 md:text-left md:ml-20">
+                  {line}
+                </p>
+              );
             })}
           </div>
         )}

@@ -61,7 +61,7 @@ export default function Contact({ section }: Props) {
     form.reset();
   };
   return (
-    <div className="mx-5 md:mx-20  bg-gray-50 rounded-2xl shadow-2xl">
+    <div className="mx-3 md:mx-20  bg-gray-50 rounded-2xl shadow-2xl">
       <Form {...form}>
         <form
           className="grid grid-cols-3 items-center p-4 lg:p-10"

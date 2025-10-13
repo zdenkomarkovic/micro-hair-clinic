@@ -9,9 +9,9 @@ type Props = {
 
 export function Section3Oziljci({ section, direction }: Props) {
   return (
-    <section id={section.id} className="py-4 md:py-10 px-4 bg-background">
+    <section id={section.id} className="py-4 md:py-10 bg-background">
       <div
-        className={`${direction} container px-2 md:px-4 mx-auto flex flex-col md:flex-row-reverse items-center md:gap-20 `}
+        className={`${direction} container px-2 md:px-6 mx-auto flex flex-col md:flex-row-reverse items-center md:gap-20 `}
       >
         <div className="mx-auto flex flex-col ">
           <h2 className="mb-4 md:mb-10">{section.title}</h2>
@@ -25,14 +25,14 @@ export function Section3Oziljci({ section, direction }: Props) {
             </div>
           )}
           {section.bullets && (
-            <ul className="list-disc list-inside mb-4 md:pl-32">
+            <ul className="list-disc list-inside mb-4 pl-2 md:pl-40">
               {section.bullets.slice(0, 3).map((b, i) => (
                 <li key={i}>{b}</li>
               ))}
             </ul>
           )}
           {Array.isArray(section.text) && (
-            <div className="mb-4 space-y-2 md:pl-32">
+            <div className="mb-4 space-y-2 md:pl-40">
               {section.text.slice(1).map((p, i) => (
                 <p key={i} className="font-bold">
                   {p}
@@ -41,7 +41,7 @@ export function Section3Oziljci({ section, direction }: Props) {
             </div>
           )}
           {section.bullets && (
-            <ul className="list-disc list-inside mb-4 md:pl-32">
+            <ul className="list-disc list-inside mb-4 pl-2 md:pl-40">
               {section.bullets.slice(3).map((b, i) => (
                 <li key={i}>{b}</li>
               ))}

@@ -13,14 +13,14 @@ export function Section4Korekcija({ section }: Props) {
       <div className="container  px-4 mx-auto ">
         <div className="mx-auto">
           {section.bullets && (
-            <ul className=" text-center mb-4">
+            <ul className=" text-center mb-4 ">
               {section.bullets.map((b, i) => {
                 const hasColon = b.includes(":");
 
                 if (hasColon) {
                   const [boldPart, ...rest] = b.split(":");
                   return (
-                    <li key={i}>
+                    <li key={i} className="py-1">
                       <span>
                         <strong>{boldPart}:</strong> {rest.join(":").trim()}
                       </span>
@@ -29,7 +29,7 @@ export function Section4Korekcija({ section }: Props) {
                 }
 
                 return (
-                  <li key={i}>
+                  <li key={i} className="py-1">
                     <span>{b}</span>
                   </li>
                 );

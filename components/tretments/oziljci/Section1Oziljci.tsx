@@ -9,9 +9,9 @@ type Props = {
 
 export function Section1Oziljci({ section, direction }: Props) {
   return (
-    <section id={section.id} className="md:py-10 px-4 bg-background">
+    <section id={section.id} className="md:py-10 bg-background">
       <div
-        className={`${direction} container px-2 md:px-4 mx-auto flex flex-col  items-center gap-6 md:gap-20 `}
+        className={`${direction} container px-2 md:px-6 mx-auto flex flex-col  items-center gap-6 md:gap-20 `}
       >
         <div className="mx-auto flex flex-col space-y-6 text-center">
           <h2 className="md:mb-4">{section.title}</h2>
@@ -25,7 +25,7 @@ export function Section1Oziljci({ section, direction }: Props) {
             </div>
           )}
           {section.bullets && (
-            <ul className="list-disc list-inside mb-4">
+            <ul className="list-disc list-inside mb-4 text-left ml-2 md:ml-20">
               {section.bullets.slice(0, 4).map((b, i) => (
                 <li key={i}>{b}</li>
               ))}

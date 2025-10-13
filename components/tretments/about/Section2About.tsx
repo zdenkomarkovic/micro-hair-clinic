@@ -8,9 +8,9 @@ type Props = {
 
 export function Section2About({ section, direction }: Props) {
   return (
-    <section id={section.id} className="md:py-10 px-4">
+    <section id={section.id} className="md:py-10">
       <div
-        className={`${direction} container px-2 md:px-4 mx-auto grid md:grid-cols-2 items-center `}
+        className={`${direction} container px-2 md:px-6 mx-auto grid md:grid-cols-2 md:gap-10 items-center `}
       >
         <div className="mx-auto flex flex-col">
           <h2 className="mb-4">{section.title}</h2>

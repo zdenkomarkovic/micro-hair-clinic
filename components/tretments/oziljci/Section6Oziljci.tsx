@@ -10,10 +10,10 @@ export function Section6Oziljci({ section }: Props) {
   return (
     <section
       id={section.id}
-      className="py-7 md:py-10 px-4 text-center bg-background"
+      className="py-7 md:py-10 text-center bg-background"
     >
-      <h2 className="mb-4">{section.title}</h2>
-      <div className="container px-2 md:px-4 mx-auto flex flex-col md:flex-row items-center md:gap-20 ">
+      <h2 className="mb-4 px-2">{section.title}</h2>
+      <div className="container px-2 md:px-6 mx-auto flex flex-col md:flex-row items-center md:gap-20 ">
         <div className="mx-auto flex flex-col">
           {Array.isArray(section.text) && (
             <div className="mb-4 space-y-2">
@@ -25,7 +25,7 @@ export function Section6Oziljci({ section }: Props) {
             </div>
           )}
           {section.bullets && (
-            <ul className="list-disc list-inside mb-4">
+            <ul className="list-disc list-inside mb-4 text-left ml-2">
               {section.bullets.slice(0, 4).map((b, i) => (
                 <li key={i}>{b}</li>
               ))}

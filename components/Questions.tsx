@@ -16,7 +16,7 @@ const Questions = ({ data }: Props) => {
   return (
     <div
       id="questions"
-      className="container py-3 md:py-6 px-4 md:px-32 mx-auto"
+      className="container py-3 md:py-6 px-4 md:px-16 mx-auto"
     >
       <h2 className="py-3 md:py-6">{data.title}</h2>
       <div>

@@ -9,12 +9,9 @@ type Props = {
 
 export function Section2Zenske({ section, direction }: Props) {
   return (
-    <section
-      id={section.id}
-      className="py-4 md:py-10 px-2 md:px-4 bg-background"
-    >
+    <section id={section.id} className="py-4 md:py-10 bg-background">
       <div
-        className={`${direction} container px-2 md:px-4 mx-auto grid md:grid-cols-2 items-center md:gap-20 `}
+        className={`${direction} container px-2 md:px-6 mx-auto grid md:grid-cols-2 items-center md:gap-20 `}
       >
         <div className="mx-auto flex flex-col md:order-2">
           <h2 className="mb-4 md:mb-10">{section.title}</h2>
@@ -28,7 +25,7 @@ export function Section2Zenske({ section, direction }: Props) {
             </div>
           )}
           {section.bullets && (
-            <ul className="list-disc list-inside mb-4">
+            <ul className="list-disc list-inside mb-4 ml-2 md:ml-10">
               {section.bullets.slice(0, 4).map((b, i) => (
                 <li key={i}>{b}</li>
               ))}

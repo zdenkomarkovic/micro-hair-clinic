@@ -8,11 +8,8 @@ type Props = {
 
 export function Section2Korekcija({ section }: Props) {
   return (
-    <section
-      id={section.id}
-      className=" py-4 md:py-10 px-2 md:px-4 bg-background"
-    >
-      <div className="container px-2 md:px-40 mx-auto grid grid-cols-1 md:grid-cols-3 items-center md:gap-3 ">
+    <section id={section.id} className=" py-4 md:py-10bg-background">
+      <div className="container px-2 md:px-6 mx-auto grid grid-cols-1 md:grid-cols-3 items-center md:gap-20 ">
         <div className="order-2 md:order-1 ">
           {section.image && (
             <div className="text-center">
@@ -49,7 +46,7 @@ export function Section2Korekcija({ section }: Props) {
             </div>
           )}
           {section.bullets && (
-            <ul className="list-disc list-inside mb-4">
+            <ul className="list-disc list-inside mb-4 ml-2 md:ml-20">
               {section.bullets.slice(0, 2).map((b, i) => (
                 <li key={i}>{b}</li>
               ))}
@@ -65,7 +62,7 @@ export function Section2Korekcija({ section }: Props) {
             </div>
           )}
           {section.bullets && (
-            <ul className="list-disc list-inside mb-4">
+            <ul className="list-disc list-inside mb-4 ml-2 md:ml-20">
               {section.bullets.slice(2, 4).map((b, i) => (
                 <li key={i}>{b}</li>
               ))}

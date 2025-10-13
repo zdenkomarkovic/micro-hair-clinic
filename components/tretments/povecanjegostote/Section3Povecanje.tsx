@@ -9,8 +9,8 @@ type Props = {
 
 export function Section3Povecanje({ section }: Props) {
   return (
-    <section id={section.id} className="py-3 md:py-10 px-4 bg-background">
-      <div className="container px-2 md:px-4 mx-auto grid md:grid-cols-2  md:gap-20 ">
+    <section id={section.id} className="py-3 md:py-10 bg-background">
+      <div className="container px-2 md:px-6 mx-auto grid md:grid-cols-2  md:gap-20 ">
         <div className="mx-auto flex flex-col">
           <h2 className=" mb-4">{section.title}</h2>
           {Array.isArray(section.text) && (

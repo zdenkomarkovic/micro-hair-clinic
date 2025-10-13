@@ -10,12 +10,12 @@ type Props = {
 
 export function Section1Blog({ data, direction }: Props) {
   return (
-    <section className="py-6 md:py-10 px-2 md:px-4">
-      <div className={`${direction} container px-2 md:px-4 mx-auto `}>
+    <section className="py-6 md:py-10">
+      <div className={`${direction} container px-2 md:px-6 mx-auto `}>
         <div className="mx-auto flex flex-col">
           <h2 className="mb-6 md:mb-10">{data.title}</h2>
           {Array.isArray(data.blogs) && (
-            <div className="grid md:grid-cols-3 gap-3 md:gap-6">
+            <div className="grid md:grid-cols-3 gap-4 md:gap-6">
               {data.blogs.map((blog, i) => (
                 <div
                   key={i}

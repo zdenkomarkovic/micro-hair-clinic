@@ -35,44 +35,43 @@ const icons = [
 
 export function HeroSection({ data }: Props) {
   return (
-    <section className="hero relative h-screen md:h-[85dvh]">
-      <div className="absolute left-0 right-0 top-0  z-0">
+    <section className="hero relative ">
+      <div className="relative w-full h-[100dvh] md:h-[85dvh] z-0">
         <Image
           src={data.image}
-          width={1920}
-          height={1080}
+          fill
           alt={data.alt}
-          className="hidden md:block w-full md:h-[85dvh] object-cover"
+          className="hidden md:block w-full object-cover"
           priority
           quality={80}
           sizes="(min-width: 768px) 100vw, 0vw"
         />
         <Image
           src={data.image2}
-          width={828}
-          height={1200}
+          fill
           alt={data.alt}
-          className="md:hidden w-full h-screen object-cover"
+          className="md:hidden w-full h-full object-cover"
           priority
           quality={75}
           sizes="(max-width: 767px) 100vw, 0vw"
         />
-      </div>
-      <div className="absolute top-0 left-0 w-full h-full bg-black/30 z-[1]" />
-      <div className="container relative flex flex-col justify-end px-2 md:px-4 mx-auto ga h-full text-center z-10 mb-5">
-        <div>
-          <h1 className="text-white z-50">{data.heading}</h1>
-          <p className="text-base  mb-2 md:text-xl z-50 text-white">
-            {data.subtitle}
-          </p>
-        </div>
-        <div className="w-fit mx-auto space-y-6 mb-6">
+        <div className="absolute top-0 left-0 w-full h-full bg-black/30 z-[1]" />
+        <div className="container relative flex flex-col gap-3 justify-end px-2 md:px-14 mx-auto h-full text-left z-10 pb-6 md:pb-6">
+          <div>
+            <h1 className="text-white  text-left z-50 py-2 md:py-6">
+              {data.heading}
+            </h1>
+            <p className="text-base md:font-bold mb-2 md:text-xl z-50 text-white">
+              {data.subtitle}
+            </p>
+          </div>
+
           <div className="flex flex-col sm:flex-row mx-auto justify-center items-center gap-1 md:gap-4">
             {data.ctas?.map((cta, index) => (
               <a
                 key={cta.href}
                 href={cta.href}
-                className={`bg-secondary hover:brightness-90 transition duration-300 mx-auto text-white px-2 md:px-4 py-1 md:py-2 rounded-lg flex gap-3 items-center
+                className={`bg-secondary text-sm md:text-lg hover:brightness-90 transition duration-300 mx-auto text-white px-3 md:px-4 py-2 md:py-2 rounded-md md:rounded-lg flex gap-3 items-center
       ${index > 0 ? "hidden md:flex" : ""}`}
               >
                 {cta.label}

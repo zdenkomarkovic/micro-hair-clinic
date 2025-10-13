@@ -10,8 +10,8 @@ type Props = {
 
 export function Section3Korekcija({ section }: Props) {
   return (
-    <section id={section.id} className="py-6 md:py-10 px-4">
-      <div className="container px-2 md:px-4 mx-auto grid md:grid-cols-2 gap-6 md:gap-20 ">
+    <section id={section.id} className="py-6 md:py-10">
+      <div className="container px-2 md:px-6 mx-auto grid md:grid-cols-2 gap-6 md:gap-20 ">
         <div className="mx-auto flex flex-col">
           <h2 className="mb-4 md:mb-10">{section.title}</h2>
           {Array.isArray(section.text) && (
@@ -26,8 +26,11 @@ export function Section3Korekcija({ section }: Props) {
           {section.bullets && (
             <ul className=" mb-4">
               {section.bullets.slice(0, 4).map((b, i) => (
-                <li key={i} className="flex items-start md:items-center gap-3 ">
-                  <ImCross className="text-red-500 mt-1 w-[20px]" />
+                <li
+                  key={i}
+                  className="flex items-start md:items-start gap-3  ml-2 "
+                >
+                  <ImCross className="text-red-500 mt-1 min-w-[20px]" />
                   {b}
                 </li>
               ))}
@@ -37,7 +40,7 @@ export function Section3Korekcija({ section }: Props) {
           {Array.isArray(section.text) && (
             <div className="">
               {section.text.slice(1, 6).map((p, i) => (
-                <p key={i} className="font-bold">
+                <p key={i} className="font-bold py-1">
                   {p}
                 </p>
               ))}
@@ -58,8 +61,8 @@ export function Section3Korekcija({ section }: Props) {
           {section.bullets && (
             <ul className=" mb-4">
               {section.bullets.slice(4).map((b, i) => (
-                <li key={i} className="flex md:items-center gap-3">
-                  <FaCheckDouble className="text-green-500 mt-1 " />
+                <li key={i} className="flex items-start gap-3 ml-2">
+                  <FaCheckDouble className="text-green-500 mt-1 min-w-[20px]" />
                   {b}
                 </li>
               ))}

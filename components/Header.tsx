@@ -86,16 +86,10 @@ export default function Header({ locale }: { locale: string }) {
                       <ChevronDownIcon />
                     </span>
                     <div
-                      className={`absolute hidden group-hover:block shadow z-50 `}
+                      className={`absolute hidden group-hover:block shadow z-50 bg-white rounded-lg`}
                     >
                       <div className="p-3 bg-transparent"></div>
-                      <div
-                        className={` transition-all duration-300 ${
-                          isScrolled
-                            ? "bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/100"
-                            : "bg-transparent text-white"
-                        }`}
-                      >
+                      <div className="">
                         {" "}
                         {item.list.map((sub, j) => (
                           <Link

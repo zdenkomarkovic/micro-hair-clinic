@@ -9,8 +9,8 @@ type Props = {
 
 export function Section3({ section }: Props) {
   return (
-    <section id={section.id} className="py-10 px-4">
-      <h2 className="mb-8">{section.title}</h2>
+    <section id={section.id} className="py-10 ">
+      <h2 className="mb-8 px-2">{section.title}</h2>
       <div className="container px-2 md:px-4 mx-auto">
         <div className="mx-auto">
           {section.bullets && (

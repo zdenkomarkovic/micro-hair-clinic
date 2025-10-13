@@ -8,8 +8,8 @@ type Props = {
 
 export function Section2Alopecija({ section }: Props) {
   return (
-    <section id={section.id} className="py-4 md:py-10  px-4 bg-background">
-      <div className="container px-2 md:px-4 mx-auto grid grid-cols-1 md:grid-cols-3 items-center md:gap-20 ">
+    <section id={section.id} className="py-4 md:py-10 bg-background">
+      <div className="container px-2 md:px-6 mx-auto grid grid-cols-1 md:grid-cols-3 items-center md:gap-20 ">
         <div className="mx-auto flex flex-col col-span-2">
           <h2 className="mb-4 md:mb-6">{section.title}</h2>
           {Array.isArray(section.text) && (
@@ -23,7 +23,7 @@ export function Section2Alopecija({ section }: Props) {
           )}
 
           {section.bullets && (
-            <ul className="list-disc list-inside mb-4">
+            <ul className="list-disc list-inside mb-4 ml-2 md:ml-20">
               {section.bullets.slice(0, 4).map((b, i) => (
                 <li key={i}>{b}</li>
               ))}
@@ -39,7 +39,7 @@ export function Section2Alopecija({ section }: Props) {
             </div>
           )}
           {section.bullets && (
-            <ul className="list-disc list-inside mb-4">
+            <ul className="list-disc list-inside mb-4 ml-2 md:ml-20">
               {section.bullets.slice(4, 6).map((b, i) => (
                 <li key={i}>{b}</li>
               ))}
@@ -56,7 +56,7 @@ export function Section2Alopecija({ section }: Props) {
             </div>
           )}
           {section.bullets && (
-            <ul className="list-disc list-inside mb-4">
+            <ul className="list-disc list-inside mb-4 ml-2 md:ml-20">
               {section.bullets.slice(6).map((b, i) => (
                 <li key={i}>{b}</li>
               ))}

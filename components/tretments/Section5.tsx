@@ -10,7 +10,7 @@ type Props = {
 
 export function Section5({ section }: Props) {
   return (
-    <section id={section.id} className="md:py-10 px-4">
+    <section id={section.id} className="md:py-10">
       <div className="container px-2 md:px-32 mx-auto py-12">
         <div className="flex flex-col-reverse md:flex-row-reverse gap-6 md:gap-20">
           <div className="md:w-1/3 ">
