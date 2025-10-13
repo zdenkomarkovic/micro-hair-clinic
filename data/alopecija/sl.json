@@ -1,98 +1,95 @@
 {
   "slug": "smp-alopecija",
-  "title": "SMP za alopecijo Ljubljana – Mikropigmentacija lasišča areata, totalis, universalis | Hair Tattoo",
+  "title": "SMP za alopecijo – areata, totalis in universalis",
   "hero": {
-    "heading": "SMP za alopecijo Ljubljana – Mikropigmentacija lasišča rešitev za alopecijo areata, totalis in universalis",
-    "subtitle": "SMP tretman za alopecijo (mikropigmentacija lasišča) povrne videz las pri alopeciji areata, totalis ali universalis – hair tattoo brez operacije, brez bolečin, brez čakanja.",
+    "heading": "SMP za alopecijo – rešitev za izpadanje las na lisah ali celotno",
+    "subtitle": "Mikropigmentacija lasišča povrne videz las tudi, ko rast ni več mogoča – brez operacije, brez bolečin, brez čakanja.",
     "image": "/optimized/alopcije.webp",
     "image2": "/optimized/alopecija-mob.webp",
-    "alt": "SMP za alopecijo Ljubljana – rezultat mikropigmentacije lasišča pri alopeciji areata",
+    "alt": "SMP rezultat pri klientu z alopecijo areato",
     "ctas": [
+      { "label": "Rezerviraj brezplačen posvet", "href": "/kontakt" },
       {
-        "label": "Rezerviraj brezplačen posvet – SMP za alopecijo",
-        "href": "/kontakt"
+        "label": "Pošlji sporočilo preko Vibra",
+        "href": "viber://chat?number=%2B381645400100"
       },
       {
-        "label": "Pošlji sporočilo za hair tattoo preko Vibra",
-        "href": "viber://chat?number=%2B38651479000"
-      },
-      {
-        "label": "Pošlji sporočilo za SMP tretman preko WhatsAppa",
-        "href": "https://wa.me/38651479000"
+        "label": "Pošlji sporočilo preko WhatsAppa",
+        "href": "https://wa.me/381645400100"
       }
     ]
   },
   "sections": [
     {
       "id": "1",
-      "title": "KAJ JE ALOPECIJA – SMP ZA ALOPECIJO KOT REŠITEV",
+      "title": "KAJ JE ALOPECIJA?",
       "bullets": [
-        "Alopecija areata – izpadanje las na lisah, SMP za alopecijo areata pomaga",
-        "Alopecija totalis – popolna izguba las na glavi, mikropigmentacija lasišča rešitev",
-        "Alopecija universalis – izguba vseh dlak na telesu, hair tattoo za alopecijo universalis"
+        "Alopecija areata – izpadanje las na lisah",
+        "Alopecija totalis – popolna izguba las na glavi",
+        "Alopecija universalis – izguba vseh dlak na telesu"
       ],
       "text": [
-        "Alopecija je avtoimunska bolezen, ki povzroča izpadanje las (alopecija areata, totalis, universalis).",
-        "Imunski sistem napada lasne mešičke pri alopeciji, kar vodi do izpadanja las. SMP za alopecijo (mikropigmentacija lasišča) je hair tattoo rešitev.",
-        "Alopecija pogosto prizadene moške in ženske vseh starosti. SMP tretman za alopecijo Ljubljana pomaga."
+        "Alopecija je avtoimunska bolezen, ki povzroča izpadanje las.",
+        "Imunski sistem napada lasne mešičke, kar vodi do izpadanja las.",
+        "Pogosto prizadene moške in ženske vseh starosti."
       ],
       "images": [
         {
           "src": "/optimized/preiposle2.webp",
-          "alt": "Vrste alopecije: areata, totalis, universalis – SMP za alopecijo grafični prikaz"
+          "alt": "Vrste alopecije: areata, totalis, universalis – grafični prikaz"
         },
         {
           "src": "/optimized/preiposle4.webp",
-          "alt": "Mikropigmentacija lasišča za alopecijo areata pred in po"
+          "alt": "Vrste alopecije: areata, totalis, universalis – grafični prikaz"
         },
         {
           "src": "/optimized/preiposle4.webp",
-          "alt": "SMP tretman za alopecijo totalis in universalis"
+          "alt": "Vrste alopecije: areata, totalis, universalis – grafični prikaz"
         }
       ]
     },
     {
       "id": "2",
-      "title": "KAKO POMAGA SMP ZA ALOPECIJO – MIKROPIGMENTACIJA LASIŠČA?",
-      "title2": "KDO JE KANDIDAT ZA SMP PRI ALOPECIJI AREATA, TOTALIS ALI UNIVERSALIS?",
+      "title": "KAKO POMAGA SMP PRI ALOPECIJI?",
+      "title2": "KDO JE KANDIDAT ZA SMP PRI ALOPECIJI?",
       "text": [
-        "Mikropigmentacija lasišča (SMP za alopecijo) ne zdravi vzroka alopecije areata, totalis ali universalis, vendar hair tattoo pomaga:",
-        "Pri totalni alopeciji (alopecija totalis) SMP tretman omogoča:",
-        "SMP za alopecijo Ljubljana je idealen, če imaš alopecijo areata, totalis ali universalis:",
-        "Mikropigmentacija lasišča za alopecijo se lahko izvaja tudi pri ženskah z alopecijo areata – SMP tretman se prilagodi območju predele delitve las in temena."
+        "Mikropigmentacija lasišča (SMP) ne zdravi vzroka, vendar:",
+        "Pri totalni alopeciji SMP omogoča:",
+        "SMP je idealen, če:",
+        "SMP se lahko izvaja tudi pri ženskah – tretma se prilagodi območju predele delitve las in temena."
       ],
       "bullets": [
-        "SMP za alopecijo povrne videz naravnih las pri alopeciji areata",
-        "Mikropigmentacija lasišča skrije neenakomerne lise pri alopeciji",
-        "Hair tattoo povrne linijo las pri alopeciji totalis",
-        "Videz kratko obritih las pri totalni alopeciji – SMP tretman",
-        "Enakomerno pigmentacijo celotnega lasišča z mikropigmentacijo lasišča pri alopeciji universalis",
-        "Hair tattoo videz, kot da so lasje namensko obriti pri alopeciji totalis",
-        "Vidne lise brez las zaradi alopecije areata – SMP za alopecijo pomaga",
-        "Neenakomerno izpadanje las zaradi alopecije – mikropigmentacija lasišča rešitev",
-        "Nisi kandidat za presaditev las zaradi alopecije – hair tattoo alternativa",
-        "Želiš enakomeren videz lasišča pri alopeciji – SMP tretman Ljubljana"
+        "Povrne videz naravnih las",
+        "Skrije neenakomerne lise",
+        "Povrne linijo las",
+        "Videz kratko obritih las pri totalni alopeciji",
+        "Enakomerno pigmentacijo celotnega lasišča",
+        "Videza, kot da so lasje namensko obriti",
+        "Vidne lise brez las",
+        "Neenakomerno izpadanje",
+        "Nisi kandidat za presaditev las",
+        "Želiš enakomeren videz lasišča"
       ],
       "image": {
         "src": "/images/herovideo.mp4",
-        "alt": "SMP za alopecijo totalis – hair tattoo učinek kratkih las – mikropigmentacija lasišča"
+        "alt": "SMP pri totalni alopeciji – učinek kratkih las"
       },
       "link": {
-        "label": "Pošlji fotografije alopecije za brezplačno oceno SMP"
+        "label": "Pošlji fotografije za brezplačno oceno"
       }
     },
     {
       "id": "4",
-      "title": "KAKO POTEKA SMP TRETMAN ZA ALOPECIJO – MIKROPIGMENTACIJA LASIŠČA?",
+      "title": "KAKO POTEKA TRETMAN?",
       "bullets": [
-        "Število seans SMP za alopecijo: 2–4 tretmaji mikropigmentacije lasišča v razmiku 7–14 dni",
-        "Trajanje hair tattoo za alopecijo: vsaka seja SMP tretmana 2–3 ure",
-        "Tehnika mikropigmentacije lasišča: prilagojena tipu alopecije (areata, totalis, universalis) in tonu kože",
-        "SMP za alopecijo brez bolečin, brez okrevanja – hair tattoo je neinvaziven",
-        "Pigmenti za mikropigmentacijo lasišča so hipoalergeni, SMP tretman za alopecijo je varen in ga je mogoče ponavljati pri ciklični alopeciji areata."
+        "Število seans: 2–4 tretmaji v razmiku 7–14 dni",
+        "Trajanje: vsaka seja 2–3 ure",
+        "Tehnika: prilagojena tipu alopecije in tonu kože",
+        "Brez bolečin, brez okrevanja",
+        "Pigmenti so hipoalergeni, tretma je varen in ga je mogoče ponavljati pri ciklični alopeciji."
       ],
       "text": [
-        "Pigmenti za SMP za alopecijo (mikropigmentacija lasišča) so hipoalergeni, hair tattoo tretman je varen pri alopeciji areata, totalis in universalis in ga je mogoče ponavljati."
+        "Pigmenti so hipoalergeni, tretma je varen in ga je mogoče ponavljati."
       ],
       "gallery": [
         "/optimized/IMG_9021-min.webp",
@@ -104,41 +101,41 @@
         "/optimized/IMG_9191-min.webp",
         "/optimized/IMG_9191-min2.webp"
       ],
-      "alt": "SMP za alopecijo areata – mikropigmentacija lasišča prej in potem – hair tattoo rezultat"
+      "alt": "SMP pri alopeciji areati – prej in potem"
     }
   ],
   "faqs": {
-    "title": "NAJPOGOSTEJŠA VPRAŠANJA – SMP ZA ALOPECIJO (MIKROPIGMENTACIJA LASIŠČA)",
+    "title": "NAJPOGOSTEJŠA VPRAŠANJA",
     "list": [
       {
-        "q": "Ali lahko SMP za alopecijo poslabša alopecijo areata, totalis ali universalis?",
-        "a": "Ne – SMP tretman (mikropigmentacija lasišča) se izvaja plitko v koži, brez vpliva na lasne mešičke pri alopeciji. Hair tattoo je varen."
+        "q": "Ali lahko SMP poslabša alopecijo?",
+        "a": "Ne – tretma se izvaja plitko v koži, brez vpliva na lasne mešičke."
       },
       {
-        "q": "Ali je opazna razlika pri SMP za alopecijo, ko lasje izpadejo okoli tretiranega območja?",
-        "a": "Ne – mikropigmentacija lasišča za alopecijo je načrtovana tako, da izgleda naravno tudi, če izpadanje las zaradi alopecije areata nadaljuje."
+        "q": "Ali je opazna razlika, ko lasje izpadejo okoli tretiranega območja?",
+        "a": "Ne – pigmentacija je načrtovana tako, da izgleda naravno tudi, če izpadanje nadaljuje."
       },
       {
-        "q": "Kako dolgo traja učinek SMP za alopecijo (mikropigmentacija lasišča)?",
-        "a": "2–4 leta. Osvežitev hair tattoo za alopecijo je možna z eno sejo SMP tretmana."
+        "q": "Kako dolgo traja učinek SMP pri alopeciji?",
+        "a": "2–4 leta. Osvežitev je možna z eno sejo."
       },
       {
-        "q": "Ali je SMP tretman primeren za ženske z difuzno alopecijo ali alopecijo areata?",
-        "a": "Da – mikropigmentacija lasišča (hair tattoo) za alopecijo se prilagodi, da je učinek SMP naraven ob obstoječih laseh pri ženskah z alopecijo."
+        "q": "Ali je SMP primeren za ženske z difuzno alopecijo?",
+        "a": "Da – tehnika se prilagodi, da je učinek naraven ob obstoječih laseh."
       }
     ]
   },
   "reviews": [
     {
-      "quote": "Nisem vedel, da obstaja SMP rešitev za tako neenakomerno izpadanje las zaradi alopecije areata. Mikropigmentacija lasišča mi je spremenila življenje. Hair tattoo je odličen!"
+      "quote": "Nisem vedel, da obstaja rešitev za tako neenakomerno izpadanje las. SMP mi je spremenil življenje."
     },
     {
-      "quote": "Lasje mi izpadajo v valovih zaradi alopecije že 5 let. SMP tretman (mikropigmentacija lasišča) je prvič dal normalen videz glave. Hair tattoo za alopecijo deluje!"
+      "quote": "Lasje mi izpadajo v valovih že 5 let. To je prvič, da imam normalen videz glave."
     }
   ],
   "finalCta": {
-    "title": "Pripravljen na spremembo? SMP za alopecijo Ljubljana!",
-    "text": "Imaš alopecijo (areata, totalis ali universalis) in želiš naraven videz brez čakanja, da \"morda zraste\"? SMP za alopecijo (mikropigmentacija lasišča) ti lahko povrne videz in samozavest. Hair tattoo tretman Ljubljana.",
-    "button": "Rezerviraj SMP za alopecijo zdaj"
+    "title": "Pripravljen na spremembo?",
+    "text": "Imaš alopecijo in želiš naraven videz brez čakanja, da “morda zraste”? SMP ti lahko povrne videz in samozavest.",
+    "button": "Rezerviraj zdaj"
   }
 }

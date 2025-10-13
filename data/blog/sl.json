@@ -1,50 +1,50 @@
 {
   "slug": "blog",
-  "title": "Blog – Izpadanje las in SMP tretman | Mikropigmentacija lasišča Ljubljana | Micro Hair Clinic",
+  "title": "Micro Hair Clinic",
   "hero": {
-    "heading": "Izpadanje las, SMP tretman, Mikropigmentacija lasišča Blog",
-    "subtitle": "Poišči odgovore o izpadanju las, primerjaj SMP tretman in druge možnosti. Izvej več o mikropigmentaciji lasišča (hair tattoo) iz prve roke.",
+    "heading": "Izpadanje las, samozavest in rešitve",
+    "subtitle": "Poišči odgovore, primerjaj možnosti in iz prve roke izvej več o SMP tretmajih.",
     "image": "/optimized/MOM Day 2-206-min.webp",
-    "alt": "Micro Hair Clinic Ljubljana – Blog o SMP tretmanu in mikropigmentaciji lasišča",
+    "alt": "Micro Hair Clinic",
     "bullets": [
-      "Izpadanje las je osebna, čustvena in pogosto zmedena izkušnja. Zato smo ustvarili blog o SMP tretmanu (mikropigmentacija lasišča), ki ne prodaja – temveč pomaga. Tukaj boš našel iskrene zapise o izpadanju las:",
-      "Prvih znakih izpadanja las – rešitev za plešavost",
-      "Primerjavi različnih tretmajev za izpadanje las (SMP vs transplantacija, mikropigmentacija lasišča)",
-      "Alopeciji pri moških in ženskah – SMP tretman Ljubljana",
-      "Psihološkem vplivu izpadanja las – kako hair tattoo pomaga",
-      "Resničnih izkušnjah strank s SMP tretmanom (mikropigmentacija lasišča) in rezultatih",
-      "Brez filtrov. Brez trikov. Samo informacije o izpadanju las in SMP tretmanu, ki jih res potrebuješ, preden se odločiš za mikropigmentacijo lasišča."
+      "Izpadanje las je osebna, čustvena in pogosto zmedena izkušnja. Zato smo ustvarili blog, ki ne prodaja – temveč pomaga. Tukaj boš našel iskrene zapise o:",
+      "Prvih znakih izpadanja las",
+      "Primerjavi različnih tretmajev (SMP vs transplantacija)",
+      "Alopeciji pri moških in ženskah",
+      "Psihološkem vplivu izpadanja las",
+      "Resničnih izkušnjah strank in rezultatih",
+      "Brez filtrov. Brez trikov. Samo informacije, ki jih res potrebuješ, preden se odločiš."
     ]
   },
   "blog": {
-    "title": "Najnovejši zapisi – SMP tretman in Mikropigmentacija lasišča Blog",
+    "title": "Najnovejši zapisi",
     "blogs": [
       {
-        "title": "SMP ali presaditev las – kaj je boljše za izpadanje las? | Mikropigmentacija lasišča",
-        "text": "Primerjalni vodnik SMP tretman vs transplantacija za moške, ki iščejo rešitev za izpadanje las. Hair tattoo ali presaditev?",
+        "title": "SMP ali presaditev las – kaj je boljše zame?",
+        "text": "Primerjalni vodnik za moške, ki iščejo rešitev za izpadanje las.",
         "slug": "smp-vs-presaditev",
         "img": "/optimized/norwood-skala.webp",
-        "button": "Preberite več o SMP tretmanu"
+        "button": "Preberite več"
       },
       {
-        "title": "Nega po SMP tretmanu – vodnik dan za dnem | Mikropigmentacija lasišča",
+        "title": "Nega po SMP tretmaju – vodnik dan za dnem",
         "slug": "nega-po-smp-tretmaju",
-        "text": "Kako doseči najboljši rezultat SMP tretmana (mikropigmentacija lasišča), ki bo obstojen več let. Nega hair tattoo.",
+        "text": "Kako doseči najboljši rezultat, ki bo obstojen več let.",
         "img": "/optimized/redcenje las-min.webp",
-        "button": "Preberite več o negi SMP"
+        "button": "Preberite več"
       },
       {
-        "title": "Mikropigmentacija lasišča dan za dnem – kako poteka SMP tretma | Hair Tattoo",
+        "title": "Skalp mikropigmentacija dan za dnem – kako poteka tretma",
         "slug": "kako-izgleda-smp-tretma",
-        "text": "Resnični potek SMP tretmana (mikropigmentacija lasišča) skozi vse faze: posvet za izpadanje las, pigmentacija hair tattoo, rezultat.",
+        "text": "Resnični potek skozi vse faze: posvet, pigmentacija, rezultat.",
         "img": "/optimized/blog.webp",
-        "button": "Preberite več o Hair Tattoo tretmanu"
+        "button": "Preberite več"
       }
     ]
   },
   "finalCta": {
-    "title": "Imaš vprašanje o izpadanju las ali SMP tretmanu? Mikropigmentacija lasišča Ljubljana",
-    "text": "Kar pogumno vprasaj o SMP tretmanu (mikropigmentacija lasišča) – brez pritiska, brez obveznosti za hair tattoo.",
-    "button": "Rezervirajte brezplačno posvetovanje – SMP Ljubljana"
+    "title": "Imaš vprašanje?",
+    "text": "Kar pogumno – brez pritiska, brez obveznosti.",
+    "button": "Rezervirajte brezplačno posvetovanje"
   }
 }

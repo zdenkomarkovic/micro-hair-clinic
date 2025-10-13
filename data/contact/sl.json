@@ -1,86 +1,86 @@
 {
-  "slug": "kontakt",
-  "title": "Rezerviraj brezplačno posvetovanje SMP Ljubljana – Mikropigmentacija lasišča Kontakt | Hair Tattoo",
+  "slug": "zakazi-konsultaciju",
+  "title": "Rezerviraj brezplačno posvetovanje",
   "hero": {
-    "heading": "Prvi korak do naravnega videza las s SMP tretmanom Ljubljana – brez obveznosti | Mikropigmentacija lasišča kontakt",
-    "subtitle": "Preden rezerviraš SMP tretman, naredi svoj prvi korak do naravnega videza las pri Micro Hair Clinic Ljubljana. Opravili bomo brezplačno oceno za izpadanje las in odgovorili na vsa tvoja vprašanja o SMP tretmanom (hair tattoo tretmanom).",
+    "heading": "Prvi korak do naravnega videza las – brez obveznosti",
+    "subtitle": "Preden rezerviraš SMP tretma, bomo opravili brezplačno oceno in odgovorili na vsa tvoja vprašanja.",
     "image": "/images/2108d76c67a04093aa2650d36e96b2db.mp4",
-    "alt": "Brezplačno posvetovanje SMP Ljubljana pred mikropigmentacijo lasišča tretmanom – hair tattoo kontakt",
+    "alt": "Brezplačno posvetovanje pred SMP tretmajem",
     "bullets": [
-      "Posvetovanja za SMP tretman (mikropigmentacija lasišča Ljubljana) so diskretna – kontakt Micro Hair Clinic",
-      "Lahko prideš osebno na posvet za mikropigmentacijo lasišča Ljubljana ali nas kontaktiraš za SMP tretman na spletu (Viber / WhatsApp)",
-      "Ni obveznosti pri brezplačnem posvetovanju, da takoj rezerviraš SMP tretman (hair tattoo) – kontakt brez pritiska"
+      "Posvetovanja so diskretna",
+      "Lahko prideš osebno ali nas kontaktiraš na spletu (Viber / WhatsApp)",
+      "Ni obveznosti, da takoj rezerviraš tretma"
     ]
   },
   "sections": [
     {
       "id": "6",
       "bullets": [
-        "Posvetovanja za SMP tretman (mikropigmentacija lasišča Ljubljana) so diskretna – kontakt brez skrbi",
-        "Lahko prideš osebno na brezplačen posvet za mikropigmentacijo lasišča Ljubljana ali nas kontaktiraš za SMP tretman na spletu (Viber / WhatsApp)",
-        "Ni obveznosti pri kontaktu, da takoj rezerviraš SMP tretman (hair tattoo) – Micro Hair Clinic Ljubljana"
+        "Posvetovanja so diskretna",
+        "Lahko prideš osebno ali nas kontaktiraš na spletu (Viber / WhatsApp)",
+        "Ni obveznosti, da takoj rezerviraš tretma"
       ]
     },
     {
       "id": "1",
-      "title": "Kako poteka postopek kontakta za SMP tretman – Mikropigmentacija lasišča Ljubljana?",
+      "title": "Kako poteka postopek?",
       "bullets": [
-        "Pošlješ slike glave (spredaj, profil, od zgoraj) za oceno SMP tretmana – mikropigmentacija lasišča kontakt",
-        "Prejmeš strokovno mnenje za SMP tretman Ljubljana – ali si primeren za mikropigmentacijo lasišča",
-        "Organiziramo brezplačen posvet za SMP (v živo v Ljubljani ali video klic) – hair tattoo konsultacija",
-        "Če se odločiš za mikropigmentacijo lasišča – rezerviramo prvi SMP tretman Ljubljana"
+        "Pošlješ slike glave (spredaj, profil, od zgoraj)",
+        "Prejmeš strokovno mnenje – ali si primeren za SMP",
+        "Organiziramo posvet (v živo ali video klic)",
+        "Če se odločiš – rezerviramo prvi tretma"
       ],
       "text": [
-        "Ne ponujamo SMP tretmaja (mikropigmentacija lasišča) za vsako ceno pri kontaktu. Če menimo, da se tvoji lasje lahko obnovijo brez SMP-ja za izpadanje las, te bomo napotili k trihologu ali dermatologu, s katerimi Micro Hair Clinic Ljubljana sodeluje."
+        "Ne ponujamo tretmaja za vsako ceno. Če menimo, da se tvoji lasje lahko obnovijo brez SMP-ja, te bomo napotili k trihologu ali dermatologu, s katerimi sodelujemo."
       ]
     },
     {
       "id": "2",
-      "title": "Pošlji slike ali sporočilo za SMP tretman – Mikropigmentacija lasišča kontakt Ljubljana",
+      "title": "Pošlji slike ali sporočilo",
       "text": [
-        "Slike glave, ki jih je treba poslati za oceno SMP tretmana (mikropigmentacija lasišča Ljubljana):",
-        "Tvoja odločitev za SMP tretman (mikropigmentacija lasišča) je najpomembnejša pri kontaktu.",
-        "Tukaj smo pri Micro Hair Clinic Ljubljana, da ti pomagamo sprejeti informirano odločitev o SMP tretmanu (hair tattoo) – brez pritiska in brez pričakovanj pri kontaktu."
+        "Slike, ki jih je treba poslati:",
+        "Tvoja odločitev je najpomembnejša.",
+        "Tukaj smo, da ti pomagamo sprejeti informirano odločitev – brez pritiska in brez pričakovanj."
       ],
       "bullets": [
-        "Spredaj – slika glave za oceno SMP tretmana",
-        "Profil levo/desno – za analizo mikropigmentacije lasišča",
-        "Od zgoraj – za oceno plešavosti pri SMP tretmanu",
-        "Ne prepričujemo za SMP – pojasnjujemo mikropigmentacijo lasišča",
-        "Ti odločaš za SMP tretman Ljubljana, kdaj, kako in ali želiš nadaljevati z mikropigmentacijo lasišča"
+        "Spredaj",
+        "Profil levo/desno",
+        "Od zgoraj",
+        "Ne prepričujemo – pojasnjujemo",
+        "Ti odločaš, kdaj, kako in ali želiš nadaljevati"
       ],
       "imagesNeeded": ["Spredaj", "Profil levo/desno", "Od zgoraj"]
     },
     {
       "id": "3",
-      "title": "Ali izpolni kratek obrazec za SMP tretman – Mikropigmentacija lasišča kontakt Ljubljana",
-      "label1": "Ime in priimek za SMP tretman",
-      "placeholder1": "Vnesi ime in priimek za kontakt mikropigmentacija lasišča",
-      "label2": "Email za SMP tretman",
-      "placeholder2": "Vnesi svoj email za kontakt mikropigmentacija lasišča Ljubljana",
-      "label3": "Telefon za SMP (Viber/WhatsApp)",
-      "placeholder3": "Vnesi telefonsko številko za kontakt SMP tretman Ljubljana (Viber/WhatsApp)",
-      "label4": "Kateri SMP tretman te zanima – mikropigmentacija lasišča?",
-      "label5": "Sporočilo ali vprašanje o SMP tretmanu",
-      "placeholder5": "Tvoje sporočilo za nas o mikropigmentaciji lasišča Ljubljana",
+      "title": "Ali izpolni kratek obrazec",
+      "label1": "Ime in priimek",
+      "placeholder1": "Vnesi ime in priimek",
+      "label2": "Email",
+      "placeholder2": "Vnesi svoj email",
+      "label3": "Telefon (Viber/WhatsApp)",
+      "placeholder3": "Vnesi svojo telefonsko številko (Viber/WhatsApp)",
+      "label4": "Kateri tretma te zanima?",
+      "label5": "Sporočilo ali vprašanje",
+      "placeholder5": "Tvoje sporočilo za nas",
       "type": "textarea",
-      "submitButton": "Pošlji povpraševanje za SMP tretman Ljubljana"
+      "submitButton": "Pošlji povpraševanje"
     },
     {
       "id": "4",
-      "title": "Nisi prepričan o SMP tretmanu – Mikropigmentacija lasišča Ljubljana?",
+      "title": "Nisi prepričan?",
       "bullets": [
-        "Preberi: Kako poteka SMP tretman (mikropigmentacija lasišča) – postopek hair tattoo Ljubljana",
-        "Oglej si: Najpogostejša vprašanja o SMP tretmanu – mikropigmentacija lasišča",
-        "Poglej rezultate SMP: Galerija prej in potem – mikropigmentacija lasišča Ljubljana"
+        "Preberi: Kako poteka SMP tretma",
+        "Oglej si: Najpogostejša vprašanja",
+        "Poglej rezultate: Galerija prej in potem"
       ]
     },
     {
       "id": "5",
-      "title": "Še enkrat – kontakt za SMP tretman Ljubljana | Mikropigmentacija lasišča",
+      "title": "Še enkrat – kontakt",
       "text": [
-        "Ne glede na to, ali si pripravljen takoj za SMP tretman (mikropigmentacija lasišča) ali šele raziskuješ možnosti za izpadanje las – kontaktiraj nas pri Micro Hair Clinic Ljubljana.",
-        "Pomagali ti bomo razumeti možnosti SMP tretmana (hair tattoo), vendar je odločitev za mikropigmentacijo lasišča Ljubljana vedno tvoja – kontakt brez obveznosti."
+        "Ne glede na to, ali si pripravljen takoj ali šele raziskuješ – kontaktiraj nas.",
+        "Pomagali ti bomo razumeti možnosti, vendar je odločitev vedno tvoja."
       ]
     }
   ]

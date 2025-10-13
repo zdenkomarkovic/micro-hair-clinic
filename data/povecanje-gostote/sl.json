@@ -1,105 +1,104 @@
 {
   "slug": "smp-povecanje-gostote-redki-lasje",
-  "title": "SMP za redke lase Ljubljana – Mikropigmentacija lasišča povečanje gostote | Hair Tattoo",
+  "title": "Povečanje gostote pri redkih laseh | SMP in presaditev las",
   "hero": {
-    "heading": "SMP za redke lase Ljubljana – Mikropigmentacija lasišča za povečanje gostote brez presaditve",
-    "subtitle": "SMP tretman za redčenje las in tanko lasišče – hair tattoo za vizualno povečanje gostote. Mikropigmentacija lasišča Ljubljana deluje tudi po presaditvi las ali kot samostojna rešitev za redke lase.",
+    "heading": "Povečanje gostote pri redkih laseh – brez presaditve",
+    "subtitle": "Ne glede na to, ali si že opravil presaditev las ali šele raziskuješ možnosti – obstaja način, kako izboljšati videz gostote. A hkrati moraš vedeti tudi, kje so meje",
     "image": "/optimized/redcenje las-min.webp",
     "image2": "/optimized/redcenjemob.webp",
-    "alt": "SMP za redke lase Ljubljana – mikropigmentacija lasišča povečanje gostote pred in po",
+    "alt": "smp-povecanje-gostote-redki-lasje",
     "ctas": [
+      { "label": "Rezerviraj brezplačen posvet", "href": "/kontakt" },
       {
-        "label": "Rezerviraj brezplačen posvet – SMP za redke lase",
-        "href": "/kontakt"
+        "label": "Pošlji sporočilo preko Viberja",
+        "href": "viber://chat?number=%2B381645400100"
       },
       {
-        "label": "Pošlji sporočilo za hair tattoo preko Viberja",
-        "href": "viber://chat?number=%2B38651479000"
-      },
-      {
-        "label": "Pošlji sporočilo za SMP tretman preko WhatsAppa",
-        "href": "https://wa.me/38651479000"
+        "label": "Pošlji sporočilo preko WhatsAppa",
+        "href": "https://wa.me/381645400100"
       }
     ]
   },
   "sections": [
     {
       "id": "1",
-      "title": "Presaditev las za redke lase – kaj zmore in česa ne?",
+      "title": "Presaditev las – kaj zmore in česa ne?",
       "bullets": [
-        "Cilj presaditve: zapolniti prizadeta območja z novo rastjo las",
-        "Realnost pri redkih laseh: včasih ni dovolj las za popolno pokritost",
-        "Donatorska regija ne nudi dovolj las za povečanje gostote",
-        "Rezultat presaditve je neenakomeren ali tanek pri redčenju las",
-        "Opuščene površine ostajajo redke – SMP za redke lase pomaga",
-        "Brazgotine po presaditvi las so vidne – mikropigmentacija lasišča prekrije"
+        "Cilj: zapolniti prizadeta območja z novo rastjo",
+        "Realnost: včasih ni dovolj las za popolno pokritost",
+        "Donatorska regija ne nudi dovolj las",
+        "Rezultat je neenakomeren ali tanek",
+        "Opuščene površine ostajajo redke",
+        "Brazgotine po posegu so vidne"
       ],
       "text": [
-        "Presaditev las je kirurški postopek za redke lase, pri katerem se lasni mešički iz donorske regije (ponavadi zatilje) presadijo na območja redčenja las.",
-        "Pogoste težave pri presaditvi za redke lase:",
-        "Mnogi so po transplantaciji las razočarani zaradi tanke lasišče ali nerealnih pričakovanj glede povečanja gostote. SMP za redke lase (mikropigmentacija lasišča) lahko vse to dopolni kot hair tattoo rešitev."
+        "Presaditev las je kirurški postopek, pri katerem se lasni mešički iz t. i. donorske regije (ponavadi zatilje) presadijo na območja, kjer so lasje že izpadli.",
+        "Pogoste težave:",
+        "Mnogi so po transplantaciji razočarani – bodisi zaradi slabega rezultata, bodisi zaradi nerealnih pričakovanj. A obstaja rešitev, ki lahko vse to dopolni."
       ],
       "image": {
         "src": "/optimized/IMG_9082-min.webp",
-        "alt": "SMP za redke lase – mikropigmentacija lasišča po presaditvi"
+        "alt": "Proces skalp mikropigmentacije"
       }
     },
     {
       "id": "2",
-      "title": "Mikropigmentacija lasišča (SMP za redke lase) – Hair Tattoo za vizualno povečanje gostote",
+      "title": "Skalp mikropigmentacija (SMP) – vizualni trik za gostejši videz",
       "bullets": [
-        "SMP tretman odlično deluje pri redkih laseh in tanki lasišči",
-        "Mikropigmentacija lasišča dopolnjuje rezultat po presaditvi las",
-        "Hair tattoo prekrije brazgotine po FUE/FUT presaditvi za redke lase",
-        "SMP za redke lase traja 2–4 leta, brez operacije ali okrevanja"
+        "Odlično deluje pri redkih laseh",
+        "Dopolnjuje rezultat po presaditvi",
+        "Prekrije brazgotine po FUE/FUT tehnikah",
+        "Rezultat traja 2–4 leta, brez operacije ali okrevanja"
       ],
+
       "text": [
-        "SMP za redke lase (mikropigmentacija lasišča) je neinvaziven hair tattoo postopek, kjer se s pomočjo pigmentov ustvari vizualno povečanje gostote las. SMP tretman za redčenje las ustvari senčenje, ki posnema gostejše lase. Od blizu so to mikro točke, od daleč – iluzija senčne globine, ki zmanjša kontrast med kožo in tanko lasišče pri redkih laseh."
+        "SMP je neinvaziven postopek, kjer se s pomočjo pigmentov v lasišče ustvari videz senčenja, ki posnema gostejše lase. Od blizu so to mikro točke, od daleč – iluzija senčne globine, ki zmanjša kontrast med kožo in lasmi."
       ],
       "image": {
         "src": "/optimized/IMG_9088-min.webp",
-        "alt": "SMP tretman za redke lase – hair tattoo za povečanje gostote"
+        "alt": "Proces skalp mikropigmentacije"
       }
     },
     {
       "id": "5",
-      "title": "Pomembno: SMP za redke lase ima meje – Mikropigmentacija lasišča",
+      "title": "Pomembno: SMP ima meje",
       "bullets": [],
+
       "text": [
-        "SMP za redke lase (mikropigmentacija lasišča) je dvodimenzionalna hair tattoo rešitev – deluje vizualno za povečanje gostote, ne fizično. SMP tretman za redčenje las ne dodaja volumna, temveč ustvarja optično iluzijo gostejše linije pri tanki lasišči.",
-        "Če imaš večje površine popolnoma brez las, SMP za redke lase ne more ustvariti videza bujne pričeske. Mikropigmentacija lasišča (hair tattoo) pa lahko močno izboljša videz tanke lasišče, zmanjša kontrast pri redčenju las in elegantno premosti prehode med področji z lasmi in brez."
+        "SMP je dvodimenzionalna rešitev – deluje vizualno, ne fizično. Ne dodaja gostote v smislu volumna, temveč ustvarja optično iluzijo gostejše linije.",
+        "Če imaš večje površine popolnoma brez las, SMP ne more ustvariti videza bujne, trodimenzionalne pričeske. Lahko pa močno izboljša videz, zmanjša kontrast in elegantno premosti prehode med področji z lasmi in brez."
       ],
       "image": {
         "src": "/optimized/IMG_9092-min.webp",
-        "alt": "SMP za redke lase meje – mikropigmentacija lasišča povečanje gostote"
+        "alt": "Proces skalp mikropigmentacije"
       }
     },
     {
       "id": "3",
-      "title": "Kombinacija SMP za redke lase + presaditev las = Najboljši rezultat?",
-      "title2": "Zakaj se klienti odločajo za SMP tretman za redčenje las?",
+      "title": "Kombinacija SMP + transplantacija = Najboljši rezultat?",
+      "title2": "Zakaj se klienti odločajo za SMP?",
       "bullets": [
-        "Mikropigmentacija lasišča zapolni vizualne praznine med grafti pri redkih laseh",
-        "SMP za redke lase poenoti območja, kjer je rast redka ali neenakomerna",
-        "Hair tattoo skrije brazgotine na donorju ali temenu po presaditvi",
-        "SMP tretman zmanjša potrebo po dodatnih kirurških posegih za redke lase",
-        "Vizualno povečanje gostote las pri redčenju z mikropigmentacijo lasišča",
-        "Dopolnitev slabih rezultatov presaditve las s SMP za redke lase",
-        "Prekritje brazgotin po FUE/FUT posegih – hair tattoo Ljubljana",
-        "Idealna rešitev za tanko lasišče tudi za tiste, ki niso kandidati za transplantacijo"
+        "SMP zapolni vizualne praznine med grafti",
+        "Poenoti območja, kjer je rast redka ali neenakomerna",
+        "Skrije brazgotine na donorju ali temenu",
+        "Zmanjša potrebo po dodatnih kirurških posegih",
+        "Vizualno povečanje gostote pri redkih laseh",
+        "Dopolnitev slabih ali delnih rezultatov presaditve",
+        "Prekritje brazgotin po FUE/FUT posegih",
+        "Idealna možnost tudi za tiste, ki niso kandidati za transplantacijo"
       ],
       "text": [
-        "Za mnoge z redkimi lasmi je prav kombinacija presaditve las + SMP tretman (mikropigmentacija lasišča) ključ do popolnega videza povečanja gostote:",
-        "Po SMP-ju za redke lase je veliko naših klientov s tanko lasišče prvič res zadovoljnih s svojim izgledom – hair tattoo naredi razliko."
+        "Za mnoge je prav kombinacija presajenih las + SMP tretmaja ključ do popolnega videza:",
+        "Po SMP-ju je veliko naših klientov prvič res zadovoljnih s svojim izgledom."
       ],
       "link": {
-        "label": "Pošlji slike redkih las za brezplačno oceno SMP",
+        "label": "Pošlji slike lasišča za brezplačno oceno",
         "href": "/kontakt"
       }
     },
     {
       "id": "4",
-      "title": "GALERIJA – SMP ZA REDKE LASE PRED IN PO | MIKROPIGMENTACIJA LASIŠČA",
+      "title": "GALERIJA – PRED IN PO",
       "bullets": [],
       "gallery": [
         "/optimized/IMG_9079-min.webp",
@@ -119,25 +118,25 @@
         "/optimized/IMG_9097-min.webp",
         "/optimized/IMG_9099-min.webp"
       ],
-      "alt": "SMP za redke lase rezultat – hair tattoo povečanje gostote naraven videz"
+      "alt": "Korektivni SMP rezultat – naraven videz"
     }
   ],
   "gallery": [],
   "faqs": {
-    "title": "NAJPOGOSTEJŠA VPRAŠANJA – SMP ZA REDKE LASE (MIKROPIGMENTACIJA LASIŠČA)",
-    "button": "Ogled vseh vprašanj o SMP tretmanu za redčenje las"
+    "title": "NAJPOGOSTEJŠA VPRAŠANJA",
+    "button": "Ogled vseh vprašanj in odgovorov"
   },
   "reviews": [
     {
-      "quote": "Zelo zadovoljen s SMP za redke lase! Hair tattoo učinek povečanja gostote je naraven, nihče ne opazi mikropigmentacije lasišča."
+      "quote": "Zelo zadovoljen! Učinek je naraven, nihče ne opazi pigmentacije."
     },
     {
-      "quote": "Srđan mi je s SMP tretmanom za tanko lasišče pomagal povrniti samozavest. Hvala za hair tattoo za redke lase!"
+      "quote": "Srđan mi je pomagal povrniti samozavest. Hvala!"
     }
   ],
   "finalCta": {
-    "title": "Želiš izvedeti, ali je SMP za redke lase zate? Mikropigmentacija lasišča Ljubljana",
-    "text": "Pošlji fotografije redkih las in prejmi iskreno oceno SMP tretmana – brez obveznosti. Posvet o mikropigmentaciji lasišča za povečanje gostote vodi nagrajeni SMP artist s 10+ leti izkušenj v hair tattoo tehniki za redčenje las. Micro Hair Clinic | Ljubljana. Vprašaj vse, kar te zanima o SMP za redke lase.",
-    "button": "Rezerviraj brezplačen termin za SMP zdaj"
+    "title": "Želiš izvedeti, ali je SMP zate?",
+    "text": "Pošlji fotografije in prejmi iskreno oceno – brez obveznosti.Posvet vodi nagrajeni SMP artist s 10+ leti izkušenj. Micro Hair Clinic | Ljubljana, Vprašaj vse, kar te zanima.",
+    "button": "Rezerviraj brezplačen termin zdaj."
   }
 }

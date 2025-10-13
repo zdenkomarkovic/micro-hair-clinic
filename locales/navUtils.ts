@@ -58,7 +58,7 @@ const routes: Record<Locale, Record<string, string>> = {
 const treatmentSubmenu: Record<Locale, { title: string; link: string }[]> = {
   sl: [
     {
-      title: "SMP za plešavost (videz obrite glave)",
+      title: "Tretma za plešavost (videz obrite glave)",
       link: "/sl/smp-za-plesavost",
     },
     {
@@ -66,7 +66,8 @@ const treatmentSubmenu: Record<Locale, { title: string; link: string }[]> = {
       link: "/sl/smp-povecanje-gostote-redki-lasje",
     },
     {
-      title: "SMP za brazgotine – po presaditvi, poškodbah ali operacijah",
+      title:
+        "Mikropigmentacija za brazgotine – po presaditvi, poškodbah ali operacijah",
       link: "/sl/smp-za-brazgotine",
     },
     {
@@ -77,11 +78,11 @@ const treatmentSubmenu: Record<Locale, { title: string; link: string }[]> = {
       title: "SMP za ženske – redki lasje, zmanjšan volumen",
       link: "/sl/smp-za-zenske",
     },
-    { title: "Korekcija neuspešnih SMP tretmajev", link: "/sl/smp-korekcija" },
+    { title: "Korekcija neuspešnih tretmajev", link: "/sl/smp-korekcija" },
   ],
   de: [
     {
-      title: "SMP bei Glatze (rasierter Kopf-Look)",
+      title: "Behandlung bei Glatze (rasierter Kopf-Look)",
       link: "/de/smp-za-plesavost",
     },
     {
@@ -90,7 +91,7 @@ const treatmentSubmenu: Record<Locale, { title: string; link: string }[]> = {
     },
     {
       title:
-        "SMP für Narben – nach Transplantation, Verletzungen oder Operationen",
+        "Mikropigmentierung für Narben – nach Transplantation, Verletzungen oder Operationen",
       link: "/de/smp-za-brazgotine",
     },
     {
@@ -108,7 +109,7 @@ const treatmentSubmenu: Record<Locale, { title: string; link: string }[]> = {
   ],
   en: [
     {
-      title: "SMP for baldness (shaved head look)",
+      title: "Treatment for baldness (shaved head look)",
       link: "/en/smp-za-plesavost",
     },
     {
@@ -116,7 +117,8 @@ const treatmentSubmenu: Record<Locale, { title: string; link: string }[]> = {
       link: "/en/smp-povecanje-gostote-redki-lasje",
     },
     {
-      title: "SMP for scars – after transplant, injury, or surgery",
+      title:
+        "Micropigmentation for scars – after transplant, injury, or surgery",
       link: "/en/smp-za-brazgotine",
     },
     {
@@ -127,7 +129,7 @@ const treatmentSubmenu: Record<Locale, { title: string; link: string }[]> = {
       title: "SMP for women – thinning hair, reduced volume",
       link: "/en/smp-za-zenske",
     },
-    { title: "Correction of failed SMP treatments", link: "/en/smp-korekcija" },
+    { title: "Correction of failed treatments", link: "/en/smp-korekcija" },
   ],
 };
 

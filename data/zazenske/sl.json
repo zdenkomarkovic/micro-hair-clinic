@@ -1,167 +1,161 @@
 {
   "slug": "smp-za-zenske",
-  "title": "SMP za ženske Ljubljana – Mikropigmentacija lasišča redčenje las zgostitev | Hair Tattoo",
+  "title": "SMP za ženske – redčenje las in zgostitev brez britja",
   "hero": {
-    "heading": "SMP za ženske Ljubljana – Mikropigmentacija lasišča za vizualno zgostitev redkih las brez britja",
-    "subtitle": "SMP tretman za ženske (mikropigmentacija lasišča) – diskretna hair tattoo rešitev za redčenje las, tanek prečes, izpadanje na temenu in zmanjšan volumen – brez britja, brez zdravil, brez stresa. SMP za ženske Ljubljana.",
+    "heading": "SMP za ženske – vizualno zgostitev redkih las",
+    "subtitle": "Diskretna rešitev za tanek prečes, izpadanje na temenu in zmanjšan volumen – brez britja, brez zdravil, brez stresa.",
     "image": "/optimized/smp za zenske-min.webp",
-    "image2": "/optimized/zenskemob.webp",
-    "alt": "SMP za ženske Ljubljana – rezultat mikropigmentacije lasišča pri ženski z redkimi lasmi na temenu",
+    "image2": "/optimized/zenskemob.png",
+    "alt": "Rezultat SMP pri ženski z redkimi lasmi na temenu",
     "ctas": [
+      { "label": "Rezerviraj brezplačno posvetovanje", "href": "/kontakt" },
       {
-        "label": "Rezerviraj brezplačno posvetovanje – SMP za ženske",
-        "href": "/kontakt"
+        "label": "Pošlji sporočilo na Viber",
+        "href": "viber://chat?number=%2B381645400100"
       },
       {
-        "label": "Pošlji sporočilo za hair tattoo na Viber",
-        "href": "viber://chat?number=%2B38651479000"
-      },
-      {
-        "label": "Pošlji sporočilo za SMP tretman na WhatsApp",
-        "href": "https://wa.me/38651479000"
+        "label": "Pošlji sporočilo na WhatsApp",
+        "href": "https://wa.me/381645400100"
       }
     ]
   },
   "sections": [
     {
       "id": "1",
-      "title": "ZAKAJ ŽENSKAM IZPADEJO LASJE – SMP ZA ŽENSKE KOT REŠITEV ZA REDČENJE LAS",
+      "title": "ZAKAJ ŽENSKAM IZPADEJO LASJE?",
       "bullets": [
-        "Genetika (androgena alopecija pri ženskah) – SMP za ženske pomaga",
-        "Hormonsko neravnovesje pri ženskah – nosečnost, menopavza, PCOS – mikropigmentacija lasišča rešitev",
-        "Stres, pomanjkanje železa pri ženskah – redčenje las – hair tattoo za ženske",
-        "Infekcije in postvirusna stanja, vključno z izpadanjem las po covidu – SMP tretman",
-        "prečes (črta po sredini glave) pri ženskah – mikropigmentacija lasišča",
-        "teme pri ženskah (kjer je vidno lasišče) – SMP za ženske zgostitev",
-        "sprednji del (umik lasne linije pri čelu) – hair tattoo za ženske"
+        "Genetika (androgena alopecija pri ženskah)",
+        "Hormonsko neravnovesje – nosečnost, menopavza, PCOS",
+        "Stres, pomanjkanje železa, slaba prehrana",
+        "Infekcije in postvirusna stanja, vključno z izpadanjem las po covidu",
+        "prečes (črta po sredini glave)",
+        "teme (kjer je vidno lasišče)",
+        "sprednji del (umik lasne linije pri čelu)"
       ],
       "text": [
-        "Izpadanje las in redčenje las pri ženskah je vedno pogostejše – in SMP za ženske ni več tabu.",
-        "Najpogostejši vzroki redčenja las pri ženskah, kjer mikropigmentacija lasišča pomaga:",
-        "Najpogosteje prizadeta območja pri ženskah, kjer SMP tretman deluje:"
+        "Izpadanje las pri ženskah je vedno pogostejše – in ni več tabu.",
+        "Najpogostejši vzroki so:",
+        "Najpogosteje prizadeta območja so:"
       ],
       "image": {
         "src": "/optimized/kratko 2 copy.webp",
-        "alt": "Območja najpogostejšega redčenja las pri ženskah – SMP za ženske zgostitev"
+        "alt": "Območja najpogostejšega redčenja las pri ženskah"
       }
     },
     {
       "id": "2",
-      "title": "KAKO DELUJE SMP ZA ŽENSKE – MIKROPIGMENTACIJA LASIŠČA ZA REDČENJE LAS?",
+      "title": "KAKO DELUJE SMP PRI ŽENSKAH?",
       "bullets": [
-        "SMP za ženske zmanjša kontrast med kožo in lasmi pri redčenju",
-        "Mikropigmentacija lasišča ustvari vtis gostejših las pri ženskah",
-        "Hair tattoo prekrije področja, kjer 'se vidi' teme pri ženskah"
+        "zmanjša kontrast med kožo in lasmi",
+        "ustvari vtis gostejših las",
+        "prekrije področja, kjer 'se vidi' teme"
       ],
       "text": [
-        "Mikropigmentacija lasišča (SMP za ženske) uporablja pigment za ustvarjanje vizualno zgostitvenega učinka redkih las – diskretno senčenje lasišča, ki zmanjša kontrast med kožo in lasmi pri redčenju. S tem hair tattoo za ženske ustvari naraven videz večje gostote brez britja.",
-        "SMP tretman za ženske se izvaja brez britja las.",
-        "Pigment za mikropigmentacijo lasišča se natančno nanaša med obstoječe lase žensk, brez poškodovanja korenin."
+        "Skalp mikropigmentacija (SMP) uporablja pigment za ustvarjanje senčnega učinka na lasišču, s čimer:",
+        "Postopek se izvaja brez britja las.",
+        "Pigment se natančno nanaša med obstoječe lase, brez poškodovanja korenin."
       ],
       "image": {
         "src": "/optimized/kratko 2 copy.webp",
-        "alt": "Zgostitev las pri ženskah s SMP – mikropigmentacija lasišča hair tattoo"
+        "alt": "Zgostitev las pri ženskah s skalp mikropigmentacijo"
       }
     },
     {
       "id": "3",
-      "title": "ZA KOGO JE SMP ZA ŽENSKE PRIMEREN – MIKROPIGMENTACIJA LASIŠČA ZA REDČENJE LAS?",
+      "title": "ZA KOGA JE TA POSTOPEK PRIMEREN?",
       "bullets": [
-        "imaš redkejše lase na prečesu – SMP za ženske pomaga",
-        "se ti na fotografijah z bliskavico vidi lasišče – mikropigmentacija lasišča rešitev",
-        "uporabljaš puder ali senčila za zakrivanje redčenja las – hair tattoo za ženske",
-        "ti lasje delujejo tanjši ne glede na dolžino – SMP tretman za ženske",
-        "želiš diskretno in dolgotrajno rešitev za redčenje las brez operacije – mikropigmentacija lasišča Ljubljana",
-        "difuzno izpadanje las pri ženskah – SMP za ženske",
-        "poporodno izpadanje las – mikropigmentacija lasišča za ženske",
-        "androgena alopecija pri ženskah – hair tattoo rešitev",
-        "izpadanje las po okužbi s COVID-19 – SMP tretman za ženske",
-        "estetska korekcija visokega čela žensk – mikropigmentacija lasišča"
+        "imaš redkejše lase na prečesu",
+        "se ti na fotografijah z bliskavico vidi lasišče",
+        "uporabljaš puder ali senčila za zakrivanje",
+        "ti lasje delujejo tanjši ne glede na dolžino",
+        "želiš diskretno in dolgotrajno rešitev brez operacije in zdravil",
+        "difuzno izpadanje las",
+        "poporodno izpadanje",
+        "androgena alopecija pri ženskah",
+        "izpadanje po okužbi s COVID-19",
+        "estetska korekcija visokega čela"
       ],
-      "text": [
-        "SMP tretman za ženske (mikropigmentacija lasišča) je idealen zate, če imaš redčenje las:",
-        "Hair tattoo za ženske je še posebej primeren pri:"
-      ]
+      "text": ["SMP tretma je idealen zate, če:", "Še posebej primeren je pri:"]
     },
     {
       "id": "4",
-      "title": "POMEMBNO: SMP ZA ŽENSKE JE OPCIJA, KO SO DRUGE MOŽNOSTI ZA REDČENJE LAS IZČRPANE",
+      "title": "POMEMBNO: SMP JE OPCIJA, KO SO DRUGE MOŽNOSTI IZČRPANE",
       "text": [
-        "Če ocenimo pri mikropigmentaciji lasišča, da se tvoji redčeni lasje lahko obnovijo, ti bomo to iskreno povedali pred SMP za ženske.",
-        "Sodelujemo z diagnostičnimi in terapevtskimi centri za redčenje las pri ženskah (trihologi, dermatologi) in napotimo stranke naprej, kadar menimo, da je SMP tretman za ženske prehiter ali nepotreben.",
-        "Mikropigmentacija lasišča za ženske je zadnji korak pri redčenju las – ne prvi.",
-        "Naš cilj SMP za ženske Ljubljana ni 'prodati tretma', ampak pomagati ženskam z redčenjem las, da se pogledajo v ogledalo brez stresa."
+        "Če ocenimo, da se tvoji lasje lahko obnovijo, ti bomo to iskreno povedali.",
+        "Sodelujemo z diagnostičnimi in terapevtskimi centri za lase (trihologi, dermatologi) in napotimo stranke naprej, kadar menimo, da je SMP prehiter ali nepotreben.",
+        "Mi smo zadnji korak – ne prvi.",
+        "Naš cilj ni 'prodati tretma', ampak ti pomagati, da se pogledaš v ogledalo brez stresa."
       ]
     },
     {
       "id": "5",
-      "title": "GALERIJA – SMP ZA ŽENSKE PRIMERI | MIKROPIGMENTACIJA LASIŠČA PRED IN PO",
+      "title": "GALERIJA – PRIMERI",
       "bullets": [
-        "Pred in po SMP tretmanu za ženske z redčenjem las",
-        "Vizualni učinek zgostitve mikropigmentacije lasišča brez britja",
-        "Zapiranje prečesa in senčenje temena – hair tattoo za ženske",
-        "Kombinacija SMP za ženske z daljšimi lasmi"
+        "Pred in po SMP tretmaju pri ženskah",
+        "Vizualni učinek zgostitve brez britja",
+        "Zapiranje prečesa in senčenje temena",
+        "Kombinacija z daljšimi lasmi"
       ],
       "gallery": ["/optimized/IMG_9023-min.webp", "/optimized/IMG_9192.webp"],
-      "alt": "SMP tretman za ženske z redkimi lasmi – mikropigmentacija lasišča Ljubljana"
+      "alt": "SMP tretma pri ženski z redkimi lasmi"
     },
     {
       "id": "6",
-      "title": "KAKO IZGLEDA SMP TRETMAN ZA ŽENSKE – MIKROPIGMENTACIJA LASIŠČA ZA REDČENJE LAS?",
+      "title": "KAKO IZGLEDA TRETMAN?",
       "bullets": [
-        "SMP za ženske poteka v 2–3 sejah mikropigmentacije lasišča, v razmiku 7–14 dni",
-        "Hair tattoo za ženske se izvaja natančno, med obstoječimi lasmi z redčenjem",
-        "Uporabljajo se odtenki SMP, ki se ujemajo z naravno barvo las žensk",
-        "Mikropigmentacija lasišča za ženske brez britja, brez brazgotin, brez okrevanja"
+        "Postopek poteka v 2–3 sejah, v razmiku 7–14 dni",
+        "Izvaja se natančno, med obstoječimi lasmi",
+        "Uporabljajo se odtenki, ki se ujemajo z naravno barvo tvojih las",
+        "Brez britja, brez brazgotin, brez okrevanja"
       ],
       "text": [
-        "Po SMP tretmanu za ženske (mikropigmentacija lasišča) lahko umiješ lase in nadaljuješ z vsakodnevnimi aktivnostmi – hair tattoo je diskreten."
+        "Po tretmaju lahko umiješ lase in nadaljuješ z vsakodnevnimi aktivnostmi."
       ],
       "image": {
         "src": "/optimized/preiposle3.webp",
-        "alt": "Kako SMP pigment (mikropigmentacija lasišča) posnema gostoto las pri ženskah"
+        "alt": "Kako pigment posnema gostoto las"
       }
     }
   ],
   "faqs": {
-    "title": "POGOSTA VPRAŠANJA – SMP ZA ŽENSKE (MIKROPIGMENTACIJA LASIŠČA)",
+    "title": "POGOSTA VPRAŠANJA",
     "list": [
       {
-        "q": "Ali SMP tretman za ženske zmanjša rast las pri redčenju?",
-        "a": "Ne. Mikropigmentacija lasišča (hair tattoo) za ženske se nanaša površinsko in ne vpliva na lasne mešičke pri redčenju las."
+        "q": "Ali SMP tretma zmanjša rast las?",
+        "a": "Ne. Pigment se nanaša površinsko in ne vpliva na lasne mešičke."
       },
       {
-        "q": "Ali je SMP tretman za ženske (mikropigmentacija lasišča) opazen?",
-        "a": "Ne – če je hair tattoo za ženske pravilno izveden, samo ti veš, da je bil narejen SMP. Učinek mikropigmentacije lasišča za redčenje las je naraven in neopazen."
+        "q": "Ali je tretma opazen?",
+        "a": "Ne – če je pravilno izveden, samo ti veš, da je bil narejen. Učinek je naraven in neopazen."
       },
       {
-        "q": "Kako dolgo traja učinek SMP za ženske (mikropigmentacija lasišča)?",
-        "a": "Od 2 do 4 leta, nato je možna ena osvežitvena seja hair tattoo pigmenta za ženske z redčenjem las."
+        "q": "Kako dolgo traja učinek SMP pri ženskah?",
+        "a": "Od 2 do 4 leta, nato je možna ena osvežitvena seja pigmenta."
       },
       {
-        "q": "Kaj če se kasneje lasje žensk še dodatno razredčijo po SMP tretmanu?",
-        "a": "SMP za ženske (mikropigmentacija lasišča) se lahko prilagodi in dopolni – rezultat hair tattoo za redčenje las se popravi glede na novo stanje."
+        "q": "Kaj če se kasneje lasje še dodatno razredčijo?",
+        "a": "SMP se lahko prilagodi in dopolni – rezultat se popravi glede na novo stanje."
       }
     ]
   },
   "reviews": {
-    "title": "IZKUŠNJE STRANK – SMP ZA ŽENSKE",
-    "text": "Mnenja žensk o mikropigmentaciji lasišča za redčenje las:",
+    "title": "IZKUŠNJE STRANK",
+    "text": "Mnenja:",
     "person": [
       {
-        "quote": "Mislila sem, da sem edina ženska s tem problemom redčenja las. SMP za ženske (mikropigmentacija lasišča) mi je dal več samozavesti kot kateri koli kozmetični izdelek. Hair tattoo deluje!"
+        "quote": "Mislila sem, da sem edina s tem problemom. SMP mi je dal več samozavesti kot kateri koli kozmetični izdelek."
       },
       {
-        "quote": "Končno mi ni treba vsak dan senčiti prečesa zaradi redčenja las. SMP tretman za ženske je bil diskreten in zelo profesionalen. Mikropigmentacija lasišča Ljubljana je super!"
+        "quote": "Končno mi ni treba vsak dan senčiti prečesa. Tretma je bil diskreten in zelo profesionalen."
       },
       {
-        "quote": "Iskreno – SMP za ženske (hair tattoo za redčenje las) je edina stvar, ki mi je pomagala. In poskusila sem vse za mikropigmentacijo lasišča."
+        "quote": "Iskreno – to je edina stvar, ki mi je pomagala. In poskusila sem vse."
       }
     ]
   },
   "finalCta": {
-    "title": "Opaziš, da se ti lasje redčijo? SMP za ženske Ljubljana!",
-    "text": "Nisi prepričana, če si primerna kandidatka za SMP za ženske (mikropigmentacija lasišča)? Pošlji nam slike redčenja las na temenu – analiza hair tattoo za ženske je brezplačna, diskretna in brez obveznosti.",
-    "button": "Pošlji slike za oceno SMP"
+    "title": "Opaziš, da se ti lasje redčijo?",
+    "text": "Nisi prepričana, če si primerna kandidatka? Pošlji nam slike temena – analiza je brezplačna, diskretna in brez obveznosti.",
+    "button": "Pošlji slike za oceno"
   }
 }
