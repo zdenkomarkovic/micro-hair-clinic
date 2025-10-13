@@ -16,7 +16,9 @@ import dynamic from "next/dynamic";
 
 const TableSection = dynamic(() => import("@/components/TableSection"), {
   ssr: true,
-  loading: () => <div className="py-3 md:py-6 mx-auto container animate-pulse h-64 bg-gray-100" />,
+  loading: () => (
+    <div className="py-3 md:py-6 mx-auto container animate-pulse h-64 bg-gray-100" />
+  ),
 });
 
 export async function generateMetadata({
@@ -48,7 +50,7 @@ export async function generateMetadata({
     openGraph: {
       title: titles[locale] || titles.sl,
       description: descriptions[locale] || descriptions.sl,
-      url: `https://www.microhairclinic.si/${locale}/smp-vs-presaditev`,
+      url: `https://microhairclinic.si/${locale}/smp-vs-presaditev`,
       siteName: "Micro Hair Clinic",
       locale: locale === "sl" ? "sl_SI" : locale === "de" ? "de_DE" : "en_US",
       type: "website",
