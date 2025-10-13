@@ -9,15 +9,15 @@ type Props = {
 
 export function Section1Kako({ section, className = "" }: Props) {
   return (
-    <section id={section.id} className={`${className} px-4`}>
-      <div className="container px-2 md:px-4 mx-auto">
+    <section id={section.id} className={`${className}`}>
+      <div className="container px-2 md:px-46 mx-auto">
         <div className="mx-auto w-full flex flex-col">
           <h2 className="mb-4 md:mb-8">{section.title}</h2>
 
           {section.bullets && (
             <ul className=" mx-auto mb-4">
               {section.bullets.map((b, i) => (
-                <li key={i} className="pl-10 list-disc list-inside">
+                <li key={i} className="pl-2 md:pl-10 list-disc list-inside">
                   {b}
                 </li>
               ))}

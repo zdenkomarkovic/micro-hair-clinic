@@ -7,8 +7,8 @@ type Props = {
 
 export function Section4Compare({ section }: Props) {
   return (
-    <section id={section.id} className="py-2 px-4">
-      <div className="container px-2 md:px-4 mx-auto">
+    <section id={section.id} className="py-2 ">
+      <div className="container px-2 md:px-6 mx-auto">
         <div className="mx-auto w-full flex flex-col">
           <h2 className="mb-4 md:mb-8">{section.title}</h2>
           {Array.isArray(section.text) && (

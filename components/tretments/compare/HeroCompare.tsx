@@ -8,51 +8,53 @@ type Props = {
 
 export function HeroCompare({ data }: Props) {
   return (
-    <section className="hero relative h-screen md:h-[85dvh]">
-      <div className="absolute left-0 right-0 top-0  z-0">
+    <section className="hero relative min-h-screen">
+      <div className="relative w-full h-[85dvh] z-0">
         <Image
           src={data.image}
-          width={2000}
-          height={1000}
+          fill
           alt={data.alt}
-          className="w-full h-screen md:h-[85dvh] object-cover"
+          className=" w-full h-full object-cover"
           priority
           quality={85}
         />
-      </div>
-      <div className="absolute top-0 left-0 w-full h-full bg-black/30 z-[1]" />
-      <div className="container relative flex flex-col justify-between px-2 md:px-4 mx-auto pt-64 md:pt-68 h-full text-center z-10">
-        <div>
-          <h1 className="text-primary z-50">{data.heading}</h1>
+        <div className="absolute top-0 left-0 w-full h-full bg-black/30 z-[1]" />
+        <div className="container relative flex flex-col  justify-end px-2 md:px-20 mx-auto h-full text-left z-10 pb-6 md:pb-12">
+          <h1 className="text-white text-left z-50 py-2 md:py-10">
+            {data.heading}
+          </h1>
           <p className="text-base  mb-2 md:text-xl z-50 text-white">
             {data.subtitle}
           </p>
         </div>
-        <div className="w-fit mx-auto space-y-6 mb-6">
-          <div className="flex flex-col mx-auto text-white justify-center items-center gap-2 md:gap-4">
-            <div>
-              {data.bullets?.slice(0, 1).map((text, index) => (
-                <p key={index} className="font-bold ">
-                  {text}
-                </p>
-              ))}
-            </div>
-            <div>
-              {data.bullets?.slice(1, 4).map((text, index) => (
-                <p key={index} className="md:pb-0.5">
-                  {text}
-                </p>
-              ))}{" "}
-            </div>
-            <div>
-              {data.bullets?.slice(4).map((text, index) => (
-                <p key={index} className="font-bold">
-                  {text}
-                </p>
-              ))}{" "}
-            </div>
+      </div>
+      <div className="container relative flex flex-col  justify-end px-2 md:px-20 mx-auto h-full text-left z-10 py-6 md:py-12">
+        <div className="flex flex-col mx-auto justify-center items-center gap-2 md:gap-4">
+          <div>
+            {data.bullets?.slice(0, 1).map((text, index) => (
+              <p key={index} className="font-bold md:text-2xl ">
+                {text}
+              </p>
+            ))}
+          </div>
+          <div>
+            {data.bullets?.slice(1, 4).map((text, index) => (
+              <p key={index} className="md:pb-0.5">
+                {text}
+              </p>
+            ))}{" "}
+          </div>
+          <div>
+            {data.bullets?.slice(4).map((text, index) => (
+              <p key={index} className="font-bold">
+                {text}
+              </p>
+            ))}{" "}
           </div>
         </div>
+      </div>{" "}
+      <div className="container mx-auto">
+        <div className=" w-2/3 h-[2px] bg-primary mx-auto"></div>
       </div>
     </section>
   );

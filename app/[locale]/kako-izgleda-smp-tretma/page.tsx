@@ -3,7 +3,6 @@ import { i18n, Locale } from "@/i18n-config";
 import { readFile } from "fs/promises";
 import path from "path";
 import { isValidLocale } from "@/lib/locale";
-import { HeroCompare } from "@/components/tretments/compare/HeroCompare";
 import { Section1Kako } from "@/components/tretments/kakoizgledatretman/Section1Kako";
 import { Section2Kako } from "@/components/tretments/kakoizgledatretman/Section2Kako";
 import { Section3Kako } from "@/components/tretments/kakoizgledatretman/Section3Kako";
@@ -12,10 +11,13 @@ import { Section, SmpContent } from "@/types/type";
 import { generateAlternateLinks } from "@/lib/seo";
 import { Metadata } from "next";
 import dynamic from "next/dynamic";
+import { HeroCompare } from "@/components/tretments/kakoizgledatretman/HeroCompare";
 
 const Questions = dynamic(() => import("@/components/tretments/Questions"), {
   ssr: true,
-  loading: () => <div className="py-6 mx-auto container animate-pulse h-64 bg-gray-100" />,
+  loading: () => (
+    <div className="py-6 mx-auto container animate-pulse h-64 bg-gray-100" />
+  ),
 });
 
 export async function generateMetadata({

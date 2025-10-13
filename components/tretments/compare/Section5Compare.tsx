@@ -7,8 +7,8 @@ type Props = {
 
 export function Section5Compare({ section }: Props) {
   return (
-    <section id={section.id} className="md:py-2 px-4">
-      <div className="container px-2 md:px-4 mx-auto">
+    <section id={section.id} className="md:py-2">
+      <div className="container px-2 md:px-6 mx-auto">
         <div className="mx-auto flex flex-col">
           <h2 className="mb-4 md:mb-8">{section.title}</h2>
           {Array.isArray(section.text) && (
@@ -23,7 +23,7 @@ export function Section5Compare({ section }: Props) {
           {section.bullets && (
             <ul className=" mx-auto  mb-4">
               {section.bullets.map((b, i) => (
-                <li key={i} className="pl-10 list-disc list-inside">
+                <li key={i} className="pl-2 md:pl-10 list-disc list-inside">
                   {b}
                 </li>
               ))}

@@ -25,8 +25,9 @@ export function Section3Kako({ section }: Props) {
           {section.bullets && (
             <ul className=" mx-auto  mb-4">
               {section.bullets.slice(0, 7).map((b, i) => (
-                <li key={i} className="flex md:items-center gap-3">
-                  <FaCheckDouble className="text-green-500 mt-1 " /> {b}
+                <li key={i} className="flex items-start gap-3">
+                  <FaCheckDouble className="text-green-500 mt-1 min-w-[20px] " />{" "}
+                  {b}
                 </li>
               ))}
             </ul>
@@ -45,8 +46,8 @@ export function Section3Kako({ section }: Props) {
           {section.bullets && (
             <ul className=" mx-auto mb-4">
               {section.bullets.slice(7).map((b, i) => (
-                <li key={i} className="flex md:items-center gap-3">
-                  <ImCross className="text-red-500 mt-1 " />
+                <li key={i} className="flex items-start gap-3">
+                  <ImCross className="text-red-500 mt-1 min-w-[20px] " />
                   {b}
                 </li>
               ))}
