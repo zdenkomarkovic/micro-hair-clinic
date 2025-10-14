@@ -13,9 +13,6 @@ module.exports = {
         allow: '/',
       },
     ],
-    additionalSitemaps: [
-      'https://www.microhairclinic.si/sitemap.xml',
-    ],
   },
   transform: async (config, path) => {
     // Povećaj prioritet za homepage i glavne stranice

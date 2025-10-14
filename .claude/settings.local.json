@@ -7,7 +7,8 @@
       "Bash(git checkout:*)",
       "Bash(curl:*)",
       "Bash(npm run dev:*)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Bash(cat:*)"
     ],
     "deny": [],
     "ask": []
