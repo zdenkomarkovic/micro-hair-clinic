@@ -41,7 +41,7 @@ const routes: Record<Locale, Record<string, string>> = {
     behandlungen: "/de/behandlungen",
     about: "/de/about",
     blog: "/de/blog",
-    galerija: "/sl/galerija",
+    galerija: "/de/galerija",
     contact: "/de/kontakt",
   },
   en: {
