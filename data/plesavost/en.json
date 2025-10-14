@@ -8,7 +8,7 @@
     "image2": "/optimized/plesavostmob.webp",
     "alt": "SMP micropigmentation result on a man with baldness (Norwood 6)",
     "ctas": [
-      { "label": "Book a Free Consultation", "href": "/en/contact" },
+      { "label": "Book a Free Consultation", "href": "/en/kontakt" },
       {
         "label": "Send a Message via Viber",
         "href": "viber://chat?number=%2B38651479000"
@@ -50,23 +50,23 @@
       "links": [
         {
           "label": "Thinning Hair – Visual Density Without Shaving",
-          "link": "/en/smp-density-thinning-hair"
+          "link": "/en/smp-povecanje-gostote-redki-lasje"
         },
         {
           "label": "Scars – FUE/FUT Transplants, Injuries",
-          "link": "/en/smp-for-scars"
+          "link": "/en/smp-za-brazgotine"
         },
         {
           "label": "Alopecia – Areata, Totalis, Universalis",
-          "link": "/en/smp-alopecia"
+          "link": "/en/smp-alopecija"
         },
         {
           "label": "Correction of Poorly Performed Treatments",
-          "link": "/en/smp-correction"
+          "link": "/en/smp-korekcija"
         },
         {
           "label": "SMP for Women",
-          "link": "/en/smp-for-women"
+          "link": "/en/smp-za-zenske"
         }
       ],
       "text": [

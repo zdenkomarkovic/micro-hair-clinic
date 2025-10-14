@@ -12,11 +12,11 @@
       { "label": "Rezerviraj brezplačen posvet", "href": "/kontakt" },
       {
         "label": "Pošlji sporočilo prek Viberja",
-        "href": "viber://chat?number=%2B381645400100"
+        "href": "viber://chat?number=%2B38651479000"
       },
       {
         "label": "Pošlji sporočilo prek WhatsAppa",
-        "href": "https://wa.me/381645400100"
+        "href": "https://wa.me/38651479000"
       }
     ]
   },
@@ -88,7 +88,9 @@
         "Individualni pristop: barva pigmenta, gostota, razporeditev",
         "Tetoviranje scalpa kot trajna rešitev"
       ],
-      "text": ["Ne glede na izvor brazgotine hair tattoo mikropigmentacija omogoča:"],
+      "text": [
+        "Ne glede na izvor brazgotine hair tattoo mikropigmentacija omogoča:"
+      ],
       "image": {
         "src": "/optimized/IMG_9110-min.webp",
         "alt": "SMP tretma pigmentacija za kamuflažo brazgotine na glavi"
