@@ -1,9 +1,9 @@
 {
   "slug": "smp-alopecija",
-  "title": "SMP za alopecijo – areata, totalis in universalis",
+  "title": "Hair tattoo mikropigmentacija lasišča za alopecijo Ljubljana – tetoviranje scalpa Slovenia",
   "hero": {
-    "heading": "SMP za alopecijo – rešitev za izpadanje las na lisah ali celotno",
-    "subtitle": "Mikropigmentacija lasišča povrne videz las tudi, ko rast ni več mogoča – brez operacije, brez bolečin, brez čakanja.",
+    "heading": "Hair tattoo mikropigmentacija za alopecijo – rešitev za izpadanje las Ljubljana",
+    "subtitle": "Tetoviranje lasišča mikropigmentacija povrne videz las tudi, ko rast ni več mogoča – brez operacije, brez bolečin, brez čakanja.",
     "image": "/optimized/alopcije.webp",
     "image2": "/optimized/alopecija-mob.webp",
     "alt": "SMP rezultat pri klientu z alopecijo areato",
@@ -31,7 +31,7 @@
       "text": [
         "Alopecija je avtoimunska bolezen, ki povzroča izpadanje las.",
         "Imunski sistem napada lasne mešičke, kar vodi do izpadanja las.",
-        "Pogosto prizadene moške in ženske vseh starosti."
+        "Pogosto prizadene moške in ženske vseh starosti. Tetoviranje scalpa pomaga."
       ],
       "images": [
         {
@@ -50,13 +50,13 @@
     },
     {
       "id": "2",
-      "title": "KAKO POMAGA SMP PRI ALOPECIJI?",
-      "title2": "KDO JE KANDIDAT ZA SMP PRI ALOPECIJI?",
+      "title": "KAKO POMAGA TETOVIRANJE LASIŠČA PRI ALOPECIJI?",
+      "title2": "KDO JE KANDIDAT ZA HAIR TATTOO PRI ALOPECIJI?",
       "text": [
-        "Mikropigmentacija lasišča (SMP) ne zdravi vzroka, vendar:",
-        "Pri totalni alopeciji SMP omogoča:",
-        "SMP je idealen, če:",
-        "SMP se lahko izvaja tudi pri ženskah – tretma se prilagodi območju predele delitve las in temena."
+        "Mikropigmentacija lasišča (hair tattoo) ne zdravi vzroka, vendar:",
+        "Pri totalni alopeciji pigmentacija omogoča:",
+        "Tattoo mikropigmentacija je idealna, če:",
+        "Tetoviranje scalpa se lahko izvaja tudi pri ženskah – tretma pigmentacije se prilagodi območju predele delitve las in temena."
       ],
       "bullets": [
         "Povrne videz naravnih las",
@@ -134,8 +134,8 @@
     }
   ],
   "finalCta": {
-    "title": "Pripravljen na spremembo?",
-    "text": "Imaš alopecijo in želiš naraven videz brez čakanja, da “morda zraste”? SMP ti lahko povrne videz in samozavest.",
+    "title": "Pripravljen na spremembo z mikropigmentacijo lasišča?",
+    "text": "Imaš alopecijo in želiš naraven videz brez čakanja, da \"morda zraste\"? Hair tattoo mikropigmentacija ti lahko povrne videz in samozavest.",
     "button": "Rezerviraj zdaj"
   }
 }

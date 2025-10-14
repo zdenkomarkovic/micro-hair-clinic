@@ -1,50 +1,50 @@
 {
   "slug": "blog",
-  "title": "Blog – Haarausfall und SMP Behandlung | Kopfhautmikropigmentierung Ljubljana | Micro Hair Clinic",
+  "title": "Micro Hair Clinic Blog für Kopfhautmikropigmentierung",
   "hero": {
-    "heading": "Haarausfall, SMP Behandlung, Kopfhautmikropigmentierung Blog",
-    "subtitle": "Finde Antworten zu Haarausfall, vergleiche SMP Behandlung und andere Optionen. Erfahre mehr über Kopfhautmikropigmentierung (Hair Tattoo) aus erster Hand.",
+    "heading": "Haarausfall, Selbstbewusstsein und Lösungen – Hair Tattoo Kopfhautmikropigmentierung",
+    "subtitle": "Finde Antworten, vergleiche Optionen und erfahre aus erster Hand mehr über SMP-Behandlungen (Haar-Tattoo) auf der Kopfhaut.",
     "image": "/optimized/MOM Day 2-206-min.webp",
-    "alt": "Micro Hair Clinic Ljubljana – Blog über SMP Behandlung und Kopfhautmikropigmentierung",
+    "alt": "Micro Hair Clinic",
     "bullets": [
-      "Haarausfall ist eine persönliche, emotionale und oft verwirrende Erfahrung. Deshalb haben wir einen Blog über SMP Behandlung (Kopfhautmikropigmentierung) erstellt, der nicht verkauft – er hilft. Hier findest du ehrliche Beiträge über Haarausfall:",
-      "Frühe Anzeichen von Haarausfall – Lösungen für Glatzenbildung",
-      "Vergleich verschiedener Haarausfallbehandlungen (SMP vs Transplantation, Kopfhautmikropigmentierung)",
-      "Alopezie bei Männern und Frauen – SMP Behandlung Ljubljana",
-      "Psychologische Auswirkungen von Haarausfall – wie Hair Tattoo hilft",
-      "Echte Kundenerfahrungen mit SMP Behandlung (Kopfhautmikropigmentierung) und Ergebnisse",
-      "Keine Filter. Keine Tricks. Nur die Informationen, die du wirklich über Haarausfall und SMP Behandlung brauchst, bevor du dich für Kopfhautmikropigmentierung entscheidest."
+      "Haarausfall ist eine persönliche, emotionale und oft verwirrende Erfahrung. Deshalb haben wir diesen Blog erstellt – nicht um zu verkaufen, sondern um zu helfen. Hier findest du ehrliche Beiträge über:",
+      "Frühe Anzeichen von Haarausfall",
+      "Vergleich verschiedener Behandlungen (SMP vs. Transplantation)",
+      "Alopezie bei Männern und Frauen",
+      "Psychologische Auswirkungen von Haarausfall",
+      "Echte Erfahrungen und Ergebnisse von Kunden",
+      "Keine Filter. Keine Tricks. Nur die Informationen, die du wirklich brauchst, bevor du eine Entscheidung triffst."
     ]
   },
   "blog": {
-    "title": "Neueste Beiträge – SMP Behandlung und Kopfhautmikropigmentierung Blog",
+    "title": "Neueste Beiträge",
     "blogs": [
       {
-        "title": "SMP oder Haartransplantation – Was ist besser bei Haarausfall? | Kopfhautmikropigmentierung",
-        "text": "Ein Vergleichsleitfaden SMP Behandlung vs Transplantation für Männer, die eine Lösung für Haarausfall suchen. Hair Tattoo oder Transplantation?",
+        "title": "SMP oder Haartransplantation – was ist besser für mich?",
+        "text": "Ein Vergleichsleitfaden für Männer, die eine Lösung für Haarausfall suchen.",
         "slug": "smp-vs-presaditev",
         "img": "/optimized/norwood-skala.webp",
-        "button": "Mehr über SMP Behandlung lesen"
+        "button": "Mehr Lesen"
       },
       {
-        "title": "Nachsorge nach SMP Behandlung – Schritt-für-Schritt Anleitung | Kopfhautmikropigmentierung",
+        "title": "Nachsorge nach SMP – Tages-für-Tages-Anleitung",
         "slug": "nega-po-smp-tretmaju",
-        "text": "Wie man die besten Ergebnisse der SMP Behandlung (Kopfhautmikropigmentierung) erzielt, die über Jahre halten. Pflege von Hair Tattoo.",
+        "text": "Wie man das beste Ergebnis erzielt, das über Jahre hält.",
         "img": "/optimized/redcenje las-min.webp",
-        "button": "Mehr über SMP Pflege lesen"
+        "button": "Mehr Lesen"
       },
       {
-        "title": "Kopfhautmikropigmentierung Tag für Tag – Wie SMP Behandlung abläuft | Hair Tattoo",
+        "title": "Kopfhautmikropigmentierung Schritt für Schritt – Wie die Behandlung abläuft",
         "slug": "kako-izgleda-smp-tretma",
-        "text": "Der tatsächliche Ablauf der SMP Behandlung (Kopfhautmikropigmentierung) in allen Phasen: Beratung bei Haarausfall, Hair Tattoo Pigmentierung, Ergebnisse.",
+        "text": "Der echte Ablauf in allen Phasen: Beratung, Pigmentierung, Ergebnis.",
         "img": "/optimized/blog.webp",
-        "button": "Mehr über Hair Tattoo Behandlung lesen"
+        "button": "Mehr Lesen"
       }
     ]
   },
   "finalCta": {
-    "title": "Hast du eine Frage zu Haarausfall oder SMP Behandlung? Kopfhautmikropigmentierung Ljubljana",
-    "text": "Frag ganz ungezwungen nach SMP Behandlung (Kopfhautmikropigmentierung) – ohne Druck, ohne Verpflichtung für Hair Tattoo.",
-    "button": "Kostenlose Beratung buchen – SMP Ljubljana"
+    "title": "Hast du eine Frage?",
+    "text": "Nur zu – kein Druck, keine Verpflichtungen.",
+    "button": "Kostenlose Beratung Buchen"
   }
 }

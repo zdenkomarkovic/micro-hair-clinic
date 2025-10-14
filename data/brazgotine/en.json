@@ -1,109 +1,108 @@
 {
-  "slug": "smp-za-brazgotine",
-  "title": "SMP for Scars Ljubljana – Scalp Micropigmentation After FUE/FUT Transplant | Hair Tattoo",
+  "slug": "smp-for-scars",
+  "title": "Hair Tattoo Micropigmentation for Scars Ljubljana – Scalp Tattoo Slovenia",
   "hero": {
-    "heading": "SMP for Scars Ljubljana – Scalp Micropigmentation for Hair Transplant Scars",
-    "subtitle": "Hair tattoo for covering scalp scars on the crown and nape using SMP treatment (scalp micropigmentation) – non-surgical solution after FUE/FUT transplant, pain-free, no downtime.",
+    "heading": "Hair Tattoo for Scars – Scalp Tattoo Ljubljana",
+    "subtitle": "Covering scars on the scalp and crown using micropigmentation in Slovenia – no surgery, no pain, no downtime.",
     "image": "/optimized/smp za brazgotine-min.webp",
     "image2": "/optimized/brazgotinemob.webp",
-    "alt": "SMP for scars Ljubljana – hidden scalp scar with scalp micropigmentation",
+    "alt": "SMP micropigmentation result – scar covered on the scalp",
     "ctas": [
+      { "label": "Book Free Consultation", "href": "/kontakt" },
       {
-        "label": "Book a Free Consultation – SMP for Scars",
-        "href": "/kontakt"
+        "label": "Send a message via Viber",
+        "href": "viber://chat?number=%2B381645400100"
       },
       {
-        "label": "Send a Message via Viber – Hair Tattoo",
-        "href": "viber://chat?number=%2B38651479000"
-      },
-      {
-        "label": "Send a Message via WhatsApp – SMP Treatment",
-        "href": "https://wa.me/38651479000"
+        "label": "Send a message via WhatsApp",
+        "href": "https://wa.me/381645400100"
       }
     ]
   },
   "sections": [
     {
       "id": "1",
-      "title": "WHEN AND WHY SCARS APPEAR ON THE SCALP – SMP SOLUTION",
+      "title": "WHEN AND WHY DO SCARS FORM ON THE SCALP?",
       "bullets": [
-        "Scars after hair transplantation (FUT strip or FUE puncture) – SMP for scars helps conceal them",
-        "Surgical procedures (dermatological, neurosurgical) – scalp micropigmentation covers them",
-        "Injuries or head trauma (accidents, falls) – hair tattoo for scars",
-        "Aesthetic procedures (e.g., poorly done SMP treatment) – correction with scalp micropigmentation"
+        "Hair transplants (FUT strip or FUE punching)",
+        "Surgical procedures (dermatological, neurosurgical)",
+        "Injuries or head trauma (accidents, falls, hits)",
+        "Aesthetic procedures (e.g., poorly done SMP treatment)",
+        "Hair tattoo micropigmentation helps with scars"
       ],
-      "text": [
-        "Scars on the scalp most often result from hair transplantation or injuries. SMP for scars Ljubljana is an effective solution:"
-      ],
+      "text": ["Scars on the scalp most often occur due to:"],
       "image": {
         "src": "/optimized/IMG_9103-min.webp",
-        "alt": "Types of scalp scars – SMP for FUE and FUT scars"
+        "alt": "Types of scalp scars micropigmentation"
       }
     },
     {
       "id": "2",
-      "title": "HOW DOES SMP FOR SCARS WORK – SCALP MICROPIGMENTATION?",
+      "title": "HOW DOES SCALP TATTOO FOR SCARS WORK?",
       "bullets": [
-        "SMP treatment reduces the contrast between the scar and surrounding skin",
-        "Scalp micropigmentation blends the scar color with surrounding scalp tone",
-        "Hair tattoo effect: hair transplant scars become visually invisible, even up close"
+        "Reduces contrast between scar and surrounding skin",
+        "Matches color and texture with surrounding scalp",
+        "Effect: scar becomes visually invisible even up close",
+        "Hair tattoo provides a natural appearance"
       ],
       "text": [
-        "Scalp micropigmentation (SMP for scars) uses a special pigment and micro-needle to visually camouflage scars after FUE/FUT transplantation:",
-        "SMP treatment for scars is also possible when hair is present (e.g., after FUE on the nape) – hair tattoo technique"
+        "Scalp tattooing or micropigmentation uses special pigment and a micro-needle to visually cover the scar:",
+        "The treatment is possible even if hair is present (e.g., after FUE on the crown)"
       ],
       "image": {
         "src": "/optimized/IMG_9107-min.webp",
-        "alt": "Before and after SMP treatment for hair transplant scars – scalp micropigmentation"
+        "alt": "Before and after SMP treatment for post-transplant scar"
       }
     },
     {
       "id": "3",
-      "title": "HAIR TRANSPLANT SCARS – SMP FOR FUE AND FUT SCARS",
+      "title": "SCARS AFTER TRANSPLANTS – FUE AND FUT",
       "bullets": [
-        "Small circular marks after FUE transplant, often on the nape. Visible with short hair – SMP for FUE scars conceals them.",
-        "One horizontal FUT scar (strip method), clearly visible with shaved hair – scalp micropigmentation hides it.",
-        "Hair tattoo (SMP treatment) is ideal for men who prefer short hairstyles after transplantation.",
-        "SMP for scars provides visual camouflage without additional surgery after hair transplant."
+        "Small circles/dots, often multiple on the crown. Visible when hair is short.",
+        "One horizontal line, clearly visible when shaved.",
+        "Ideal for men who want short hair",
+        "Option for optical scar camouflage without surgery",
+        "Scalp tattoo as effective micropigmentation"
       ],
       "text": [
-        "FUE scars after hair transplantation:",
-        "FUT scars after hair transplantation (strip method):",
-        "SMP for scars (scalp micropigmentation):",
-        "Also possible after unsuccessful hair transplants – hair tattoo correction"
+        "FUE scars:",
+        "FUT scars (strip method):",
+        "Hair tattoo:",
+        "Also possible after unsuccessful transplants"
       ],
       "image": {
         "src": "/images/IMG_7794.mp4",
-        "alt": "Before and after SMP treatment for FUE/FUT transplant scars – scalp micropigmentation"
+        "alt": "Before and after SMP treatment for post-transplant scar"
       }
     },
     {
       "id": "4",
-      "title": "SMP FOR SCARS FROM INJURIES AND SURGERIES – HAIR TATTOO LJUBLJANA",
+      "title": "SCARS FROM INJURIES AND SURGERY",
       "bullets": [
-        "Childhood injury scars – scalp micropigmentation conceals them",
-        "Skull surgery scars – SMP treatment helps cover them",
-        "Burns, impacts, injuries – hair tattoo solution for scars",
-        "Visual reconstruction of skin appearance with scalp micropigmentation",
-        "Discreet scar correction with SMP treatment – no surgery required",
-        "Individual SMP for scars approach: pigment color, density, pattern"
+        "Childhood injuries",
+        "Skull surgeries",
+        "Burns, hits, trauma",
+        "Visual reconstruction of skin appearance",
+        "Discreet correction without additional surgery",
+        "Individual approach: pigment color, density, arrangement",
+        "Scalp tattoo as a permanent solution"
       ],
       "text": [
-        "Regardless of the origin of the scalp scar, SMP for scars (scalp micropigmentation) allows hair tattoo coverage:"
+        "Regardless of the scar origin, hair tattoo micropigmentation allows:"
       ],
       "image": {
         "src": "/optimized/IMG_9110-min.webp",
-        "alt": "SMP treatment for scar camouflage on the head – scalp micropigmentation Ljubljana"
+        "alt": "SMP treatment for scar camouflage on the head"
       }
     },
     {
       "id": "5",
-      "title": "GALLERY – SMP FOR SCARS BEFORE AND AFTER | SCALP MICROPIGMENTATION",
+      "title": "GALLERY – RESULTS",
       "bullets": [
-        "FUE transplant scars – before and after SMP treatment",
-        "Covering horizontal FUT scar with scalp micropigmentation",
-        "Covering accident scars – hair tattoo for scars",
-        "Fixing poorly done SMP treatment – scalp micropigmentation correction"
+        "FUE scars – before and after micropigmentation",
+        "Covering horizontal FUT scar with pigmentation",
+        "Covering scars from accidents",
+        "Correction of poorly performed SMP treatment"
       ],
       "gallery": [
         "/optimized/IMG_9118-min.webp",
@@ -124,81 +123,81 @@
         "/optimized/IMG_9116-min.webp",
         "/optimized/IMG_9117-min.webp"
       ],
-      "alt": "Camouflage of FUE/FUT scars with SMP treatment – scalp micropigmentation Ljubljana"
+      "alt": "Camouflage of FUE scars with SMP method"
     },
     {
       "id": "6",
-      "title": "ARE YOU A GOOD CANDIDATE FOR SMP FOR SCARS – SCALP MICROPIGMENTATION?",
+      "title": "ARE YOU A SUITABLE CANDIDATE?",
       "bullets": [
-        "You have a scar on the nape, crown, or side after hair transplant – SMP for scars helps",
-        "You want short hair without visible FUE/FUT scars – hair tattoo is the solution",
-        "You don’t want additional surgery to cover scars – scalp micropigmentation is non-invasive",
-        "You have realistic expectations (SMP treatment = visual effect, does not physically remove scars)"
+        "You have a scar on the crown, scalp, or side",
+        "You want short hair without visible scars",
+        "You don’t want surgery",
+        "You have realistic expectations (pigment = visual effect, does not physically remove the scar)",
+        "Scalp tattoo micropigmentation Slovenia Ljubljana"
       ],
-      "text": [
-        "SMP for scars (scalp micropigmentation Ljubljana) is for you if:"
-      ],
+      "text": ["Hair tattoo for scars is for you if:"],
       "link": {
-        "label": "Send a photo of your scar for a free SMP evaluation",
+        "label": "Send a photo of the scar for a free assessment",
         "href": "/kontakt"
       }
     },
     {
       "id": "7",
-      "title": "HOW THE SMP TREATMENT FOR SCARS WORKS – SCALP MICROPIGMENTATION",
+      "title": "HOW DOES THE TREATMENT WORK?",
       "bullets": [
-        "2–3 SMP sessions for scars spaced 7–14 days apart",
-        "No downtime after scalp micropigmentation – you can resume activities the next day",
-        "Hair tattoo customized to your scar and its age after transplant"
+        "2–3 sessions at 7–14 day intervals",
+        "No downtime – active the next day",
+        "Customized to your skin and scar age",
+        "Scalp tattoo is a natural procedure"
       ],
       "text": [
-        "Pigment for SMP for scars is carefully applied in layers – scalp micropigmentation without irritation or pain."
+        "Pigment is applied carefully, in layers – without irritation or pain. Hair tattoo micropigmentation is a safe method."
       ],
       "image": {
         "src": "/optimized/IMG_9116-min.webp",
-        "alt": "How SMP pigment (scalp micropigmentation) covers scars after hair transplantation"
+        "alt": "How pigment covers a scar on the head"
       }
     }
   ],
   "faqs": {
-    "title": "FREQUENTLY ASKED QUESTIONS – SMP FOR SCARS (SCALP MICROPIGMENTATION)",
+    "title": "FREQUENTLY ASKED QUESTIONS",
     "list": [
       {
-        "q": "Can SMP for scars completely hide a hair transplant scar?",
-        "a": "Visually yes – scalp micropigmentation (hair tattoo) conceals the color and contrast difference. Physically, the scar remains."
+        "q": "Can SMP completely hide a scar?",
+        "a": "Visually yes – physically no. Pigment hides the difference in color and contrast."
       },
       {
-        "q": "Does SMP treatment irritate the scar after FUE/FUT transplant?",
-        "a": "No. Scalp micropigmentation uses a sterile technique with gentle pressure. SMP for scars is safe and painless."
+        "q": "Does SMP irritate the scar?",
+        "a": "No. A sterile technique with gentle pressure is used. The treatment is safe and painless."
       },
       {
-        "q": "How long does the effect of SMP for scars last?",
-        "a": "2–4 years, after which a pigment refresh (hair tattoo touch-up) can be performed."
+        "q": "How long does the effect last?",
+        "a": "2–4 years, then pigment touch-up can be done."
       },
       {
-        "q": "Is SMP treatment possible for multiple scars after hair transplant?",
-        "a": "Yes – each case of FUE/FUT transplant scars is assessed individually for scalp micropigmentation."
+        "q": "Is SMP possible on multiple scars?",
+        "a": "Yes – each case is evaluated individually."
       }
     ]
   },
   "reviews": {
-    "title": "CLIENT EXPERIENCES – SMP FOR SCARS",
-    "text": "Reviews of scalp micropigmentation for scars:",
+    "title": "CLIENT EXPERIENCES",
+    "text": "Testimonials:",
     "person": [
       {
-        "quote": "I had an FUE hair transplant and the scars were very visible with short hair. After the SMP treatment for scars – practically invisible. Hair tattoo is amazing!"
+        "quote": "I had an FUE transplant and scars were very visible with short hair. After SMP treatment – practically invisible."
       },
       {
-        "quote": "After an injury, I had a large scar on the crown. Srđan restored my confidence with scalp micropigmentation. SMP for scars really works!"
+        "quote": "After an injury, I had a large scar on my crown. Srđan restored my confidence."
       },
       {
-        "quote": "I didn’t even know SMP for hair transplant scars existed. Now I’m no longer afraid to cut my hair short! Scalp micropigmentation is fantastic."
+        "quote": "I didn’t know this existed. Now I’m not afraid to have short hair!"
       }
     ]
   },
   "finalCta": {
-    "title": "Ready to hide your scar? SMP for Scars Ljubljana!",
-    "text": "Do you have a scar from a hair transplant (FUE/FUT) or injury you’d like to conceal? SMP for scars (scalp micropigmentation) is a hair tattoo solution – discreet and natural-looking coverage in Ljubljana.",
-    "button": "Book your SMP treatment for scars now"
+    "title": "Ready to cover your scar with micropigmentation?",
+    "text": "Do you have a scar you want to cover with pigmentation? The solution exists – completely discreet.",
+    "button": "Book Now"
   }
 }

@@ -1,76 +1,75 @@
 {
   "slug": "o-nama",
-  "title": "About Us – Micro Hair Clinic Ljubljana | SMP Artist Srđan Kostovski | Scalp Micropigmentation",
+  "title": "About Us – Micro Hair Clinic Scalp Micropigmentation",
   "hero": {
-    "heading": "About Us – Micro Hair Clinic Ljubljana | SMP Artist Srđan Kostovski",
-    "subtitle": "Restoring confidence with SMP treatment (scalp micropigmentation) – that is our true mission. Micro Hair Clinic Ljubljana.",
+    "heading": "About Us – Micro Hair Clinic Ljubljana | Hair Tattoo Artist Srđan Kostovski",
+    "subtitle": "Restoring confidence with micropigmentation – this is our true mission.",
     "image": "/optimized/MOM Day 2-134.webp",
-    "alt": "Micro Hair Clinic Ljubljana – SMP artist Srđan Kostovski scalp micropigmentation",
+    "alt": "Micro Hair Clinic",
     "bullets": [
-      "Micro Hair Clinic Ljubljana is more than just a studio for scalp micropigmentation (SMP treatment).",
-      "It is a place where men and women recognize themselves in the mirror again after SMP treatment.",
-      "Our founder, SMP artist Srđan Kostovski, is among the most awarded specialists in scalp micropigmentation in Europe – but above all, he is someone who has personally experienced hair loss. And he knows what it feels like."
+      "Micro Hair Clinic is more than just a scalp micropigmentation studio.",
+      "It is a place where men and women rediscover themselves in the mirror.",
+      "Our founder, Srđan Kostovski, is among the most awarded SMP artists in Europe – but most importantly, he has personally experienced hair loss and knows what it feels like."
     ]
   },
   "sections": [
     {
       "id": "1",
-      "title": "Srđan's Story – SMP Artist Scalp Micropigmentation",
-      "title2": "Awards and Recognitions SMP Artist Srđan Kostovski – Micro Hair Clinic Ljubljana",
+      "title": "Srđan's Story",
+      "title2": "Awards and Recognition",
       "text": [
-        "\"I started losing my hair early. It wasn’t an immediate shock – more a feeling that I was gradually losing a part of myself. I didn’t run from it, but I wanted a hair loss solution that wouldn’t look like a 'solution.'\"",
-        "I learned about SMP (scalp micropigmentation), analyzed hair tattoo treatment results, observed every detail. And I decided – not just to perform SMP treatments, but to master the art of scalp micropigmentation to perfection.\"",
-        "Srđan Kostovski completed training for scalp micropigmentation (SMP artist) in Milan and opened the first SMP studio in the Balkans in 2015.",
-        "Today his SMP work is recognized across Europe, and his scalp micropigmentation technique is considered the standard for a natural hair tattoo appearance. Micro Hair Clinic Ljubljana."
+        "\"I started losing my hair early. It wasn't an instant shock – more a feeling of gradually losing a part of myself. I didn't run from it, but I wanted a solution that wouldn't look like a 'solution.'\"",
+        "\"I studied hair tattoo micropigmentation, analyzed results, observed every dot. I decided – not just to perform the treatment, but to master this skill to perfection.\"",
+        "Srđan completed his scalp micropigmentation training in Milan and opened the first SMP studio in the Balkans in 2015.",
+        "Today his work is recognized across Europe, and his technique is considered a standard for a natural SMP appearance."
       ],
       "bullets": [
-        "Gold Award 2023 – Best SMP Artist for Scalp Micropigmentation in Europe and UK (TeamMicro)",
-        "Best SMP Artist 2024 – SMP Connect Conference for Scalp Micropigmentation, Portugal",
-        "Top 10 SMP Artists in EU 2024 – selected by TeamMicro for Hair Tattoo",
-        "Micro Hair Clinic Ljubljana is officially listed among the recommended European SMP centers for scalp micropigmentation (TeamMicro)"
+        "Gold Award 2023 – Best SMP Artist in Europe and UK (TeamMicro)",
+        "Best SMP Artist 2024 – SMP Connect Conference, Portugal",
+        "Top 10 SMP Artists in EU 2024 – selected by TeamMicro",
+        "Micro Hair Clinic is officially listed among recommended European SMP centers (TeamMicro)"
       ]
     },
     {
       "id": "3",
-      "title": "Our Philosophy – Micro Hair Clinic Ljubljana SMP Treatment",
-      "title2": "Clients from the Entire Region – Scalp Micropigmentation Ljubljana",
+      "title": "Our Philosophy",
+      "title2": "Clients from Across the Region",
       "text": [
-        "In the SMP (scalp micropigmentation) industry, where many focus on 'acquiring clients,' we at Micro Hair Clinic Ljubljana prioritize listening first.",
-        "We do not offer SMP treatment (scalp micropigmentation) if it’s not needed.",
-        "If there is a chance your hair can be restored naturally – we inform you before SMP treatment.",
-        "If you decide on SMP (scalp micropigmentation) at Micro Hair Clinic Ljubljana, you receive a hair tattoo treatment that looks:",
-        "natural and up close – SMP treatment Ljubljana",
-        "customized to your appearance and style – scalp micropigmentation",
-        "with hair tattoo results that last for years",
-        "\"We don’t draw hair – we restore identity with SMP treatment (scalp micropigmentation).\" – Srđan Kostovski, SMP artist Ljubljana",
-        "Micro Hair Clinic Ljubljana has clients for SMP treatment (scalp micropigmentation) from:"
+        "In an industry where many focus on 'getting clients,' we first listen.",
+        "We don’t offer a treatment if it’s not needed.",
+        "If there’s a chance to restore your hair naturally – we say it.",
+        "If you choose SMP, you get a treatment that looks:",
+        "natural, even up close",
+        "tailored to your appearance and style",
+        "with results that last for years",
+        "\"We don’t draw hair – we restore identity.\" – Srđan Kostovski",
+        "Micro Hair Clinic has clients from:"
       ],
       "bullets": [
-        "Slovenia – SMP treatment Ljubljana",
-        "Serbia – scalp micropigmentation",
-        "Croatia – SMP artist",
-        "Bosnia & Herzegovina – hair tattoo treatment",
-        "North Macedonia – SMP Ljubljana",
-        "diaspora (Austria, Germany, Switzerland...) – scalp micropigmentation",
-        "Due to high demand for SMP treatment, we also opened the Micro Hair Clinic center in Ljubljana"
+        "Serbia",
+        "Croatia",
+        "Bosnia and Herzegovina",
+        "North Macedonia",
+        "diaspora (Austria, Germany, Switzerland...)",
+        "Due to high demand, we also opened a center in Ljubljana"
       ]
     },
     {
       "id": "5",
-      "title": "Training New SMP Artists – Scalp Micropigmentation Ljubljana",
+      "title": "Training New Artists",
       "text": [
-        "Srđan Kostovski is also an SMP educator for scalp micropigmentation.",
-        "He organizes individual and group workshops for new SMP professionals in scalp micropigmentation – because the hair tattoo industry needs quality, not quantity.",
-        "If you want to become an SMP artist for scalp micropigmentation Ljubljana:"
+        "Srđan is also an SMP educator.",
+        "He organizes individual and group workshops for new SMP professionals – because the industry needs quality, not quantity.",
+        "If you want to become an SMP artist:"
       ],
       "link": {
-        "label": "🔗 Apply for SMP Training – Scalp Micropigmentation"
+        "label": "🔗 Apply for Training"
       }
     }
   ],
   "finalCta": {
-    "title": "Contact Micro Hair Clinic Ljubljana – SMP Treatment",
-    "text": "Not sure if you’re a candidate for SMP treatment (scalp micropigmentation)?\nOr just want to get in touch with Micro Hair Clinic Ljubljana without obligation?\n🎯 Send us photos for SMP evaluation – or just a message about scalp micropigmentation. We are here to help you with SMP treatment.",
-    "button": "Book a Free Consultation – SMP Ljubljana"
+    "title": "Contact and Next Step",
+    "text": "Not sure if you are a candidate for the treatment?\nOr simply want to get in touch without any obligations?\n🎯 Send us photos – or just a message. We are here to help.",
+    "button": "Book a Free Consultation"
   }
 }

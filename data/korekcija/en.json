@@ -1,116 +1,113 @@
 {
   "slug": "smp-korekcija",
-  "title": "SMP Correction Ljubljana – Fixing Bad Scalp Micropigmentation Treatments | Hair Micropigmentation",
+  "title": "SMP Correction Scalp Micropigmentation Ljubljana – Hair Tattoo Fixes Slovenia",
   "hero": {
-    "heading": "SMP Correction Ljubljana – Fixing Poorly Done Scalp Micropigmentation Treatments",
-    "subtitle": "A bad SMP treatment doesn’t have to be the end. SMP correction (scalp micropigmentation repair) is possible – but not at any cost. A professional SMP correction can restore a natural scalp appearance in Ljubljana.",
+    "heading": "SMP Correction Scalp Micropigmentation Ljubljana – Natural Look Instead of Poor Execution",
+    "subtitle": "A bad SMP treatment is not the end. Corrections are possible – but not at any cost. We restore a natural scalp appearance wherever it’s truly feasible.",
     "image": "/optimized/neuspesni smp tretmani-min.webp",
     "image2": "/optimized/neuspesnimob.webp",
-    "alt": "SMP correction – fixing poorly done scalp micropigmentation in Ljubljana – before and after",
+    "alt": "Correction of poorly executed scalp micropigmentation – before and after",
     "ctas": [
+      { "label": "Book a Free Consultation", "href": "/kontakt" },
       {
-        "label": "Book a Free Consultation – SMP Correction",
-        "href": "/"
+        "label": "Send a Message via Viber",
+        "href": "viber://chat?number=%2B381645400100"
       },
       {
-        "label": "Send a Message About SMP Correction via Viber",
-        "href": "viber://chat?number=%2B38651479000"
-      },
-      {
-        "label": "Send a Message About SMP Correction via WhatsApp",
-        "href": "https://wa.me/38651479000"
+        "label": "Send a Message via WhatsApp",
+        "href": "https://wa.me/381645400100"
       }
     ]
   },
   "sections": [
     {
       "id": "1",
-      "title": "WHEN IS SMP UNSUCCESSFUL – WHEN IS SMP CORRECTION NEEDED?",
-      "title2": "WHY DO SMP MISTAKES HAPPEN – AND WHEN IS A FIX NECESSARY?",
-      "title3": "SMP TRAINING IS KEY – HOW TO AVOID A BAD SMP RESULT",
+      "title": "WHEN IS AN SMP TREATMENT UNSUCCESSFUL?",
+      "title2": "WHY DO MISTAKES HAPPEN?",
+      "title3": "TRAINING IS KEY",
       "bullets": [
-        "SMP dots too large – blurry and unnatural – SMP correction required",
-        "Bluish or greenish SMP tones – pigment color correction",
-        "Unnatural hairline – too high or too low – scalp micropigmentation correction",
-        "Uneven density or patchy SMP – correction of poor treatment results",
-        "SMP pigment that has bled, migrated, or darkened – SMP correction Ljubljana",
-        "lack of experience by the SMP technician",
-        "poor or no formal SMP education",
-        "work done without understanding scalp anatomy",
-        "use of incorrect SMP tools or needles"
+        "Too large dots – blurred and unnatural",
+        "Bluish or grayish-green tones",
+        "Unnatural hairline – too high, too low, or perfectly straight",
+        "Uneven density and patchy result",
+        "Pigment has spread, migrated, or darkened",
+        "Lack of experience of the practitioner",
+        "Poor or no formal training",
+        "Work done without understanding scalp anatomy and facial aesthetics",
+        "Use of wrong tools and methods"
       ],
       "text": [
-        "The most common problems with poorly performed SMP that require correction include:",
-        "In over 90% of bad SMP cases, the reason for correction is the same:",
-        "SMP (scalp micropigmentation) is not a regular tattoo. It requires precise technique, an eye for detail, and experience to correct properly.",
-        "The artist’s experience makes the difference between a natural result and one that needs fixing.",
-        "At Micro Hair Clinic Ljubljana, we not only perform SMP corrections but also provide professional scalp micropigmentation training.",
-        "The SMP industry needs more skill – and fewer quick, unprofessional jobs that end up requiring correction."
+        "The most common issues we see:",
+        "In over 90% of cases, the cause is:",
+        "SMP is not a regular tattoo. It requires precise technique, an eye for detail, and experience.",
+        "The practitioner’s experience makes the difference between a natural result and one you want to hide.",
+        "That’s why at Micro Hair Clinic we offer professional SMP training alongside corrections.",
+        "The industry needs more knowledge – and fewer rushed, unprofessional jobs."
       ],
       "image": {
         "src": "/images/herovideo.mp4",
-        "alt": "Example of a bad SMP – incorrect hairline and pigment – correction required"
+        "alt": "Example of a poor SMP treatment – wrong shape and pigment"
       }
     },
     {
       "id": "2",
-      "title": "HOW DOES SMP CORRECTION WORK – FIXING BAD SCALP MICROPIGMENTATION?",
+      "title": "HOW DOES CORRECTION WORK?",
       "bullets": [
-        "Natural hairline design adapted to age and facial contours",
-        "Soft-edge technique instead of harsh borders – SMP correction",
-        "Layered corrective pigment application for realistic texture",
-        "Special correction for bluish/grey SMP tones"
+        "Natural shape, adapted to age and facial contours",
+        "Soft-edge technique instead of harsh lines",
+        "Corrective pigment applied in multiple thin layers",
+        "Especially for bluish/gray tones"
       ],
       "text": [
-        "Depending on the issue, we provide different types of SMP correction:",
-        "Hairline redesign and correction",
-        "Neutralization of incorrect SMP pigment color",
-        "Balancing scalp micropigmentation density",
-        "Filling patchy areas – SMP repair",
-        "Correcting asymmetry and uneven tones – Ljubljana SMP correction"
+        "Depending on the problem, we offer:",
+        "Hairline correction",
+        "Color neutralization",
+        "Density adjustment",
+        "Filling gaps",
+        "Correction of patches and asymmetry"
       ],
       "image": {
         "src": "/optimized/preiposle5.webp",
-        "alt": "SMP correction with neutral pigment – scalp micropigmentation repair"
+        "alt": "SMP correction with gray pigment"
       }
     },
     {
       "id": "3",
-      "title": "WHEN SMP CORRECTION IS NOT POSSIBLE – WHEN DOES IT FAIL?",
-      "title2": "ARE YOU A GOOD CANDIDATE FOR SMP CORRECTION?",
+      "title": "WHEN IS CORRECTION NOT POSSIBLE?",
+      "title2": "ARE YOU A CANDIDATE FOR CORRECTION?",
       "bullets": [
-        "Pigment implanted too deep – SMP correction not possible",
-        "Tattoo ink used instead of SMP pigment – requires laser removal",
-        "Pigment fully migrated or has an extreme color shift – difficult to correct",
-        "Scalp damaged by poor SMP work",
-        "Unnatural-looking SMP result – scalp micropigmentation correction needed",
-        "Hairline looks wrong every time you see yourself in the mirror – correction possible",
-        "SMP pigment has faded to grey or blue tones – correction Ljubljana",
-        "Considering starting SMP again from scratch – correction or removal"
+        "Pigment was applied too deep",
+        "Ink was used instead of SMP pigment",
+        "Pigment has fully migrated or has a strongly wrong tone",
+        "Scalp is too damaged",
+        "SMP treatment looks unnatural",
+        "Hairline bothers you when you look in the mirror",
+        "Pigment has grayed, changed tone, or spread",
+        "Considering starting over"
       ],
       "text": [
-        "In some bad SMP cases, correction is not recommended:",
-        "In such cases, we suggest laser pigment removal instead of further correction.",
-        "Rather than a poor cover-up, we prefer proper pigment removal through trusted partners.",
-        "Our goal with SMP correction is not to 'hide the problem' at all costs, but to deliver a truly natural-looking result.",
-        "If correction isn’t possible – we’ll tell you honestly.",
-        "Sometimes laser removal is the only path to a lasting solution.",
-        "Consider SMP correction if:",
-        "Each SMP correction case is personally analyzed by Srđan Kostovski – with honesty and expertise."
+        "In some cases, correction is not recommended:",
+        "In such cases, we do not perform corrections.",
+        "Instead, we recommend laser pigment removal in collaboration with reliable, certified centers.",
+        "Our goal is not to 'cover up' the problem at any cost but to provide a solution that truly looks natural.",
+        "If this is not possible – we will tell you honestly.",
+        "Sometimes pigment removal is the only path to a lasting solution.",
+        "Consider correction if:",
+        "Each case is analyzed by Srđan Kostovski – honestly and professionally."
       ],
       "link": {
-        "label": "Send Photos of Your SMP for a Free Correction Assessment",
-        "href": "/"
+        "label": "Send scalp photos for a free assessment",
+        "href": "/kontakt"
       }
     },
     {
       "id": "4",
-      "title": "GALLERY – SMP CORRECTION BEFORE & AFTER | SCALP MICROPIGMENTATION FIXES",
+      "title": "GALLERY – BEFORE AND AFTER CORRECTIONS",
       "bullets": [
-        "Correction of bluish SMP pigment – fixing poor treatment results",
-        "Hairline adjustment – scalp micropigmentation correction",
-        "Corrections of SMP done abroad – Ljubljana repair",
-        "Fixing SMP performed with tattoo technique – scalp micropigmentation correction"
+        "Correction of bluish pigment",
+        "Hairline adjustment",
+        "Corrections of treatments from abroad",
+        "SMP correction done with tattoo technique"
       ],
       "gallery": [
         "/optimized/IMG_9512-min.webp",
@@ -131,59 +128,59 @@
         "/optimized/IMG_9511-min.webp",
         "/optimized/IMG_9512 3-min.webp"
       ],
-      "alt": "Corrective SMP results – natural scalp micropigmentation after repair"
+      "alt": "Corrective SMP result – natural look"
     },
     {
       "id": "5",
-      "title": "WHAT DOES A CORRECTIVE SMP TREATMENT LOOK LIKE?",
+      "title": "WHAT DOES A CORRECTIVE TREATMENT LOOK LIKE?",
       "bullets": [
-        "2–4 SMP correction sessions depending on the previous work",
-        "Carefully layered correction approach for natural texture",
-        "No additional scarring during SMP repair",
-        "Option to combine correction with laser treatment if needed"
+        "2 to 4 sessions depending on the condition",
+        "Carefully planned correction in layered tattooing",
+        "No additional scarring",
+        "Possibility to combine with laser treatment if needed"
       ],
-      "text": "We do not perform SMP corrections if the procedure would only cover up major underlying issues."
+      "text": "We do not perform corrections if it would 'cover up' worse issues."
     }
   ],
   "faqs": {
-    "title": "FREQUENTLY ASKED QUESTIONS – SMP CORRECTION (SCALP MICROPIGMENTATION REPAIR)",
+    "title": "FREQUENTLY ASKED QUESTIONS",
     "list": [
       {
-        "q": "Can a bad SMP always be fixed with correction?",
-        "a": "Not always – but most poorly done SMP treatments can be significantly improved. Free and honest SMP correction assessments are available."
+        "q": "Is a bad SMP always fixable?",
+        "a": "Not always – but most can be improved. Assessment is free and honest."
       },
       {
-        "q": "Do I need to remove the old SMP pigment with a laser first?",
-        "a": "In some cases, yes. In others, correction can begin immediately without laser removal."
+        "q": "Do I need to remove pigment with a laser first?",
+        "a": "In some cases yes. In others, correction is possible immediately."
       },
       {
-        "q": "How soon can I schedule an SMP correction?",
-        "a": "If your bad SMP is older than a few weeks, correction can often start right away. Fresh SMP should be evaluated after stabilization."
+        "q": "How quickly can I get a session?",
+        "a": "If the SMP is older than a few weeks – often immediately. Fresh treatments are best evaluated after stabilization."
       },
       {
-        "q": "Can I get a new hairline with SMP correction?",
-        "a": "Yes – if your scalp condition and pigment placement allow it."
+        "q": "Is it possible to get a new hairline?",
+        "a": "Yes – if skin condition and pigment placement allow it."
       }
     ]
   },
   "reviews": {
-    "title": "CLIENT EXPERIENCES – SMP CORRECTION",
-    "text": "Google and Facebook reviews from clients who had their SMP corrected:",
+    "title": "CLIENT EXPERIENCES",
+    "text": "Google and Facebook reviews:",
     "person": [
       {
-        "quote": "I thought I had permanently ruined my scalp with a bad SMP. After correction, I finally look like myself again. Amazing work!"
+        "quote": "I thought I had ruined my head forever. Now I look human again."
       },
       {
-        "quote": "Srđan didn’t promise miracles with SMP correction – but the result exceeded every expectation."
+        "quote": "Srđan didn’t promise miracles – but the result exceeded all expectations."
       },
       {
-        "quote": "The best part after SMP correction – I’m no longer afraid to look in the mirror. Thank you for restoring my confidence!"
+        "quote": "Most importantly – I no longer live in fear when I look in the mirror. Thank you!"
       }
     ]
   },
   "finalCta": {
-    "title": "Lost trust after a bad SMP? Try SMP Correction in Ljubljana!",
-    "text": "We understand what it’s like after a failed SMP treatment. That’s why we analyze each case first, then recommend correction only if it truly makes sense.",
-    "button": "Book Your SMP Correction Now"
+    "title": "Lost trust in micropigmentation?",
+    "text": "We understand. That’s why we first analyze the micropigmentation, and only then suggest solutions – if it makes sense.",
+    "button": "Book Now"
   }
 }

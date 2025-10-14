@@ -1,143 +1,149 @@
 {
-  "hero.title": "Scalp Micropigmentation (SMP) Ljubljana – Effective Solution for Hair Loss",
-  "hero.subtitle": "SMP Treatments Ljubljana: Over 10 years of experience. Scalp micropigmentation under the guidance of award-winning SMP artist Srđan Kostovski.",
-  "hero.text": "Looking for a solution to hair loss in Ljubljana? Scalp Micropigmentation (SMP treatment) is a non-invasive hair tattoo technique that changes lives. Check before and after SMP treatment photos, client reviews on scalp micropigmentation… and book a free SMP consultation in Ljubljana.",
-  "hero.button": "Book a Free Consultation – SMP Ljubljana",
-  "footer.message": "SMP Treatments",
+  "page.home.head.title": "",
+  "page.home.head.meta.description": "",
+  "hero.title": "Scalp Micropigmentation (SMP) – an effective scalp tattooing method for male hair loss",
+  "hero.subtitle": "Over 10 years of experience. Scalp Micropigmentation Ljubljana – hair tattoo treatments led by award-winning artist Srđan Kostovski.",
+  "hero.text": "If you're looking for a solution for baldness or wondering what to do about hair loss, you're in the right place. Scalp tattooing (hair tattoo) is not just a technique – it's an art that changes lives. Explore our website, before/after photos, client reviews… and of course – book a consultation. You won’t regret it.",
+  "hero.button": "Book a free consultation",
+  "footer.message": "Treatments",
   "footer.rights": "All rights reserved.",
-
+  "contact": {
+    "title": "Please, tell us how we can help you...",
+    "name": "Full name:",
+    "broj": "Phone number:",
+    "message": "Your message:",
+    "plh.name": "Enter your full name:",
+    "plh.broj": "Enter your phone number:",
+    "plh.message": "Your message for us"
+  },
   "cardwithimage": {
-    "title": "WHY SCALP MICROPIGMENTATION AT MICRO HAIR CLINIC LJUBLJANA?",
+    "title": "WHY MICRO HAIR CLINIC?",
     "text": [
-      "Over 10 years of experience in SMP treatments",
-      "Over 1000 satisfied clients – scalp micropigmentation",
-      "SMP studio Ljubljana – accessible throughout Slovenia",
-      "Training new SMP artists for treatments in Slovenia",
-      "Srđan Kostovski – multiple award-winning SMP expert",
-      "Solutions for baldness, thinning hair, scars, alopecia – SMP treatment",
-      "Hair tattoo – natural look, no surgery, no downtime"
+      "Over 10 years of experience in scalp micropigmentation",
+      "More than 1000 satisfied clients",
+      "Studio in Ljubljana – leading clinic for scalp micropigmentation in Slovenia",
+      "We are training new artists who will soon start performing treatments",
+      "Srđan Kostovski – multi-award-winning scalp micropigmentation specialist",
+      "Scalp micropigmentation as a solution for baldness, thinning hair, scars, alopecia",
+      "Natural look, no surgery, no downtime"
     ]
   },
-
   "cards2": [
     {
-      "title": "Exploring SMP?",
-      "text": "What is scalp micropigmentation? Why do hair fall out?",
-      "button": "Beginner's Guide to SMP",
+      "title": "Just researching?",
+      "text": "What is micropigmentation? Why does hair fall out?",
+      "button": "Beginner’s guide",
       "link": "/smp-vs-presaditev"
     },
     {
-      "title": "Comparing hair loss options?",
-      "text": "Hair transplant or SMP treatment? Does scalp micropigmentation hurt?",
-      "button": "SMP Comparison Guide",
+      "title": "Comparing options?",
+      "text": "Transplant or micropigmentation? Does it hurt?",
+      "button": "Comparison guide",
       "link": "/smp-vs-presaditev"
     },
     {
-      "title": "Ready for SMP treatment?",
-      "text": "Do you want scalp micropigmentation in Ljubljana?",
-      "button": "Book SMP Appointment Now",
-      "link": "/kontakt"
+      "title": "Already decided?",
+      "text": "Ready for your treatment?",
+      "button": "Book your appointment now",
+      "link": "/Kontakt"
     }
   ],
-
   "cards2text": {
-    "title": "WHAT IS SCALP MICROPIGMENTATION (SMP TREATMENT)?",
-    "text": "If you are losing hair and looking for a solution for baldness – you are not alone. You may have searched for: \"hair loss solution\", \"SMP Ljubljana\", \"solution for baldness\"...",
-    "span": "Scalp Micropigmentation (SMP – Scalp Micropigmentation) ",
-    "text2": "is a non-invasive hair tattoo procedure where special SMP techniques and pigments create the appearance of dense, shaved hair. SMP treatment is an effective solution for hair loss.",
-    "subtitle": "Effect of SMP treatment:",
+    "title": "WHAT IS SMP?",
+    "text": "If you’re experiencing hair loss and don’t know where to start – you’re not alone. Maybe you’ve searched: \"why am I losing hair\", \"I’m 25 and have receding hairline\", \"solution for baldness\"...",
+    "span": "SMP – scalp micropigmentation ",
+    "text2": "(hair tattoo) is a non-invasive procedure that uses special pigments and techniques to create the look of dense, shaved hair. Scalp tattooing has become a popular method in Slovenia.",
+    "subtitle": "Effect:",
     "subtitle2": "SMP Before / After",
     "list1": [
-      "Natural look of shaved hair – hair tattoo",
-      "Densified hairline with scalp micropigmentation",
-      "SMP treatment ideal for men and women",
-      "Scalp micropigmentation is a permanent solution for baldness"
+      "natural shaved-head look",
+      "densified hairline",
+      "ideal for men and women"
     ],
     "list2": [
       "No surgery",
       "No medication",
-      "No scars or downtime – hair tattoo SMP"
+      "No scars or recovery time",
+      "Hair tattoo as a permanent solution"
     ]
   },
-
   "datatreatments": {
-    "title": "Types of SMP Treatments – Scalp Micropigmentation Ljubljana",
-    "cta": "Not sure which SMP treatment is right for you? – Contact us via Viber / WhatsApp for advice on scalp micropigmentation",
+    "title": "Types of treatments",
+    "cta": "Not sure which treatment is right for you? – Contact us via Viber / WhatsApp",
     "tretmans": [
       {
-        "title": "SMP for baldness Ljubljana – hair tattoo (shaved head look)",
+        "title": "SMP for baldness (shaved head look)",
         "slug": "smp-za-plesavost",
         "img": "/optimized/smp plesavost-min.webp"
       },
       {
-        "title": "Scalp micropigmentation for thinning hair – density SMP treatment",
+        "title": "Hair thinning – density enhancement with or without transplant",
         "slug": "smp-povecanje-gostote-redki-lasje",
         "img": "/optimized/redcenje las-min.webp"
       },
       {
-        "title": "SMP for scars Ljubljana – micropigmentation after transplant",
+        "title": "SMP for scars – after transplant, injury, or surgery",
         "slug": "smp-za-brazgotine",
         "img": "/optimized/smp za brazgotine-min.webp"
       },
       {
-        "title": "SMP treatment for alopecia – areata, totalis, universalis",
+        "title": "Alopecia – areata, totalis, universalis",
         "slug": "smp-alopecija",
         "img": "/optimized/alopcije.webp"
       },
       {
-        "title": "Scalp micropigmentation for women – SMP treatment for thinning hair",
+        "title": "SMP for women – thinning hair, reduced volume",
         "slug": "smp-za-zenske",
         "img": "/optimized/smp za zenske-min.webp"
       },
       {
-        "title": "SMP treatment correction – fixing scalp micropigmentation",
+        "title": "Correction of poorly performed SMP treatments",
         "slug": "smp-korekcija",
         "img": "/optimized/neuspesni smp tretmani-min.webp"
       }
     ]
   },
-
   "questions": {
-    "title": "Frequently Asked Questions – Scalp Micropigmentation (SMP Treatment) Ljubljana",
+    "title": "Frequently Asked Questions – Scalp Micropigmentation (SMP)",
     "categories": [
       {
-        "title": "GENERAL QUESTIONS ABOUT SMP TREATMENT – SCALP MICROPIGMENTATION",
-        "cta": "See all types of SMP treatments – scalp micropigmentation:",
+        "title": "GENERAL QUESTIONS ABOUT SMP TREATMENT",
+        "cta": " See all treatment types:",
         "link": "/#tretmani",
         "answers": [
           {
-            "question": "How long does SMP treatment – scalp micropigmentation take?",
-            "text": "SMP treatment (scalp micropigmentation) is performed in 2 to 4 sessions, spaced 7–14 days apart. Each SMP session lasts approximately 2–3 hours.",
+            "question": "How long does an SMP treatment take?",
+            "text": "SMP is performed in 2 to 4 sessions, spaced 7–14 days apart. Each session lasts about 2–3 hours.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Does SMP treatment (scalp micropigmentation) hurt?",
-            "text": "SMP treatment is slightly uncomfortable, but most clients describe it as a scratching sensation. Scalp micropigmentation does not require local anesthesia, except in special cases (upon client request).",
+            "question": "Does SMP hurt?",
+            "text": "The treatment is slightly uncomfortable, but most clients describe it as a scratching sensation. Local anesthesia is not used, except upon client request.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "How long does the effect of SMP treatment (scalp micropigmentation) last?",
-            "text": "The effect of scalp micropigmentation (SMP treatment) lasts 2 to 4 years, after which a refresh session is recommended.",
+            "question": "How long does the SMP effect last?",
+            "text": "The result of scalp micropigmentation lasts 2 to 4 years, after which a touch-up session is recommended.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Is scalp micropigmentation (SMP) the same as a tattoo?",
-            "text": "No. SMP treatment uses special hair tattoo pigments, fine needles, and shallow punctures. SMP does not blur or change color like regular tattoos.",
+            "question": "Is SMP the same as a tattoo?",
+            "text": "No. SMP uses special pigments, finer needles, and shallower insertion depth. It doesn’t blur or change color like regular tattoos.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Who can perform SMP treatment (scalp micropigmentation)?",
-            "text": "SMP treatment and scalp micropigmentation are recommended for men and women with:",
+            "question": "Who can get SMP?",
+            "text": "SMP is recommended for men and women with:",
             "list": [
-              "Baldness (Norwood 3–7) – SMP solution",
-              "Thinning hair – scalp micropigmentation",
-              "Alopecia (areata, totalis) – SMP treatment",
-              "Scalp scars – hair tattoo",
-              "Poorly executed SMP treatments",
+              "baldness (Norwood 3–7)",
+              "thinning hair",
+              "alopecia (areata, totalis)",
+              "scalp scars",
+              "poorly executed SMP treatments",
               ""
             ],
             "text2": ""
@@ -145,137 +151,137 @@
         ]
       },
       {
-        "title": "SMP FOR BALDNESS – SCALP MICROPIGMENTATION LJUBLJANA",
-        "cta": "More about SMP treatment for baldness:",
+        "title": "SMP FOR BALDNESS",
+        "cta": "Learn more about this treatment:",
         "link": "/smp-za-plesavost",
         "answers": [
           {
-            "question": "What does scalp micropigmentation (SMP) look like on bald men?",
-            "text": "SMP treatment creates the effect of a closely shaved head. Scalp micropigmentation imitates hair follicles and follows the natural shape of the head – hair tattoo.",
+            "question": "What does the result look like for bald men?",
+            "text": "The effect of micropigmentation looks like a clean-shaved head. The pigment imitates hair follicles and follows the natural head shape.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Is there a visible difference between SMP pigment and real hair?",
-            "text": "If SMP treatment (scalp micropigmentation) is professionally performed – no. The tone of the SMP pigment is chosen according to hair and skin color.",
+            "question": "Is there a visible difference between pigment and real hair?",
+            "text": "If performed professionally – no. The pigment tone is selected to match your natural hair and skin color.",
             "list": ["", "", ""],
             "text2": ""
           }
         ]
       },
       {
-        "title": "SMP FOR THINNING HAIR – SCALP MICROPIGMENTATION",
-        "cta": "More about SMP treatment for thinning hair:",
+        "title": "SMP FOR THINNING HAIR",
+        "cta": "Learn more about this treatment:",
         "link": "/smp-povecanje-gostote-redki-lasje",
         "answers": [
           {
-            "question": "Do I need to shave my head for SMP treatment if hair is thin?",
-            "text": "No. For scalp micropigmentation for thinning hair, natural length is maintained, and SMP pigment is used to fill light gaps.",
+            "question": "Do I need to shave my head if I just have thinning hair?",
+            "text": "No. During this treatment, your natural hair length is preserved while pigment fills lighter gaps.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Can I combine SMP treatment (scalp micropigmentation) with hair transplant?",
-            "text": "Yes. SMP treatment is often done after a hair transplant to increase density with scalp micropigmentation and fill gaps.",
+            "question": "Can I combine SMP with a hair transplant?",
+            "text": "Yes. Micropigmentation is often done after transplantation to enhance density and fill gaps.",
             "list": ["", "", ""],
             "text2": ""
           }
         ]
       },
       {
-        "title": "SMP FOR SCARS – SCALP MICROPIGMENTATION LJUBLJANA",
-        "cta": "More about SMP treatment for scars:",
+        "title": "SMP FOR SCARS",
+        "cta": "Learn more about this treatment:",
         "link": "/smp-za-brazgotine",
         "answers": [
           {
-            "question": "Can SMP pigment (scalp micropigmentation) be applied to a scar?",
-            "text": "Yes – SMP treatment effectively covers scars after transplant (FUE/FUT), as well as scars from injuries. Scalp micropigmentation is ideal for scars.",
+            "question": "Can pigment be applied to a scar?",
+            "text": "Yes – scalp micropigmentation effectively conceals scars after transplant (FUE/FUT) as well as those caused by injury or surgery.",
             "list": ["", "", ""],
             "text2": ""
           },
           {
-            "question": "Is SMP treatment (scalp micropigmentation) safe on scar tissue?",
-            "text": "Yes, SMP treatment is performed carefully and in layers – scalp micropigmentation after skin analysis.",
+            "question": "Is SMP safe on scar tissue?",
+            "text": "Yes, but the treatment is done carefully and in layers – after evaluating the skin condition.",
             "list": ["", "", ""],
             "text2": ""
           }
         ]
       },
       {
-        "title": "SMP AND ALOPECIA – SCALP MICROPIGMENTATION",
-        "cta": "More about SMP treatment for alopecia:",
+        "title": "SMP AND ALOPECIA",
+        "cta": "Learn more about this treatment:",
         "link": "/smp-alopecija",
         "answers": [
           {
-            "question": "Can SMP treatment (scalp micropigmentation) help with alopecia?",
-            "text": "Yes. In alopecia areata, totalis, or universalis, SMP treatment (scalp micropigmentation) can:",
+            "question": "Can SMP help with alopecia?",
+            "text": "Yes. For alopecia areata, totalis, or universalis, SMP can:",
             "list": [
-              "Cover bald patches – hair tattoo",
-              "Even out the appearance of the scalp with SMP",
-              "Visually restore hairline – scalp micropigmentation"
+              "cover hairless patches",
+              "even out scalp appearance",
+              "visually restore the hairline"
             ],
             "text2": ""
           }
         ]
       },
       {
-        "title": "CORRECTIONS OF POORLY EXECUTED SMP TREATMENTS – SCALP MICROPIGMENTATION",
-        "cta": "More about SMP treatment corrections:",
+        "title": "CORRECTIONS OF POORLY PERFORMED TREATMENTS",
+        "cta": "Learn more about this treatment:",
         "link": "/smp-korekcija",
         "answers": [
           {
-            "question": "I had an SMP treatment (scalp micropigmentation) but am not satisfied – what now?",
-            "text": "If SMP treatment was poorly executed (bad line, color, dots), correction of scalp micropigmentation is possible:",
+            "question": "I had SMP done but I’m not satisfied – what now?",
+            "text": "If the treatment was poorly done (bad hairline, color, dots), it’s possible to:",
             "list": [
-              "SMP line correction",
-              "Neutralization of SMP color",
-              "Even appearance of scalp micropigmentation"
+              "correct the hairline",
+              "neutralize the color",
+              "even out the look"
             ],
-            "text2": "If SMP pigment cannot be corrected – laser removal is recommended."
+            "text2": "If the pigment can’t be corrected – laser removal is recommended."
           }
         ]
       },
       {
-        "title": "SMP FOR WOMEN – SCALP MICROPIGMENTATION LJUBLJANA",
-        "cta": "More about SMP treatment for women:",
+        "title": "SMP FOR WOMEN",
+        "cta": "Learn more about this treatment:",
         "link": "/smp-za-zenske",
         "answers": [
           {
-            "question": "Is SMP treatment (scalp micropigmentation) performed for women?",
-            "text": "Yes. SMP treatment (scalp micropigmentation) is specially adapted for women with:",
+            "question": "Is SMP also done for women?",
+            "text": "Yes. The treatment is specifically adapted for:",
             "list": [
-              "Thinning hair (parting) – SMP treatment",
-              "Thinning on the crown – scalp micropigmentation",
-              "Postpartum or hormonal hair loss – SMP solution"
+              "thinned hair parting",
+              "thinning at the crown",
+              "postpartum or hormonal hair loss"
             ],
             "text2": ""
           },
           {
-            "question": "Does a woman need to shave her head for SMP treatment (scalp micropigmentation)?",
-            "text": "No. SMP treatment (scalp micropigmentation) is performed among existing hair, without the need for shaving.",
+            "question": "Does a woman need to shave her head for SMP?",
+            "text": "No. The treatment is performed among existing hair, without shaving.",
             "list": ["", "", ""],
             "text2": ""
           }
         ]
       },
       {
-        "title": "QUESTIONS ABOUT SMP PRICING AND CONTACT – SCALP MICROPIGMENTATION LJUBLJANA",
-        "cta": "Go to the contact page – SMP Ljubljana",
+        "title": "QUESTIONS ABOUT PRICES AND CONTACT",
+        "cta": "Go to contact page",
         "link": "/kontakt",
         "answers": [
           {
-            "question": "How much does SMP treatment (scalp micropigmentation) cost in Ljubljana?",
-            "text": "The price of SMP treatment (scalp micropigmentation) depends on:",
+            "question": "How much does SMP cost?",
+            "text": "The price depends on:",
             "list": [
-              "Extent of the treated area – SMP treatment",
-              "Type of scalp micropigmentation",
-              "Number of SMP sessions"
+              "the size of the treated area",
+              "the type of treatment",
+              "the number of sessions"
             ],
-            "text2": "SMP treatment evaluation is free. Send head photos via Viber/WhatsApp for a scalp micropigmentation assessment."
+            "text2": "The consultation is free and personalized. Send scalp photos via Viber/WhatsApp."
           },
           {
-            "question": "Where is Micro Hair Clinic for SMP treatment located?",
-            "text": "The SMP studio is located in Belgrade, Micro Hair Clinic for scalp micropigmentation also has a center in Ljubljana.",
+            "question": "Where is Micro Hair Clinic located?",
+            "text": "The studio is located in Belgrade, and we also have a center in Ljubljana.",
             "list": ["", "", ""],
             "text2": ""
           }
@@ -283,39 +289,37 @@
       }
     ]
   },
-
   "artist": {
-    "title": "MEET THE SMP ARTIST – SCALP MICROPIGMENTATION",
-    "text": "Srđan personally experienced hair loss and, after a successful SMP treatment (scalp micropigmentation), decided to help others. SMP expert trained in Milan, with over a decade of experience in hair tattoo technique.",
-    "award1": "Gold Award 2023 – Best SMP Artist (scalp micropigmentation) in Europe and UK",
+    "title": "MEET THE ARTIST",
+    "text": "Srđan personally experienced hair loss and, after a successful hair tattoo treatment, decided to help others. Trained in Milan, he is a scalp micropigmentation expert in Slovenia with over a decade of experience.",
+    "award1": "Gold Award 2023 – Best SMP Artist in Europe and the UK",
     "award2": "Best SMP Artist 2024 – SMP Connect, Portugal",
-    "award3": "TeamMicro Certified Clinic – SMP treatments",
-    "text2": "I’m not just an SMP artist – I’m a man who understands what it’s like to lose hair. And I know what it feels like to have it again – with scalp micropigmentation."
+    "award3": "TeamMicro Certified Clinic",
+    "text2": "I’m not just an artist – I’m a man who knows what it’s like to lose hair and what it feels like to have it back."
   },
-
   "tretmanFlow": {
-    "title": "HOW SMP TREATMENT WORKS – SCALP MICROPIGMENTATION",
-    "description": "Note: Throughout the SMP process (scalp micropigmentation), a fine needle and special hair tattoo pigment designed for the scalp are used. The client can resume daily activities the day after SMP treatment.",
+    "title": "HOW DOES THE TREATMENT WORK?",
+    "description": "Note: During the entire scalp micropigmentation process, a fine needle and special pigment designed for the scalp are used. Clients can resume daily activities the day after treatment.",
     "text": [
       {
-        "bold": "1 Free SMP consultation ",
-        "normal": "– Analysis of scalp micropigmentation available live in Ljubljana studio or via Viber/WhatsApp video call"
+        "bold": "1 Free consultation and analysis ",
+        "normal": "– available in person at the studio or via Viber/WhatsApp video call"
       },
       {
-        "bold": "2 First SMP session ",
-        "normal": "– The frontal hairline and shape of the micropigmentation are determined, then the base layer of SMP pigment is applied"
+        "bold": "2 First micropigmentation session ",
+        "normal": "– the frontal hairline and shape are determined, then the base pigment layer is applied"
       },
       {
-        "bold": "3 Second SMP session ",
-        "normal": "– Usually performed 10–20 days after the first session. The goal is to stabilize the SMP pigment. During this session, density is increased and transitions are refined – hair tattoo becomes more natural."
+        "bold": "3 Second session ",
+        "normal": "– usually 10–20 days after the first. This break allows the first pigment layer to stabilize in the skin. During this session, density is increased, transitions and details refined for a more natural look."
       },
       {
-        "bold": "4 Third SMP session ",
-        "normal": "– Final SMP treatment, where the frontal line and any imperfections are corrected. If additional adjustment is needed, an extra session is provided at no extra cost."
+        "bold": "4 Third session ",
+        "normal": "– the final treatment, after the previous two have settled. The hairline and any imperfections are refined. If additional adjustments are needed, an extra session is provided free of charge."
       },
       {
-        "bold": "5 SMP maintenance ",
-        "normal": "After 2–4 years, a refresh session is possible to maintain scalp micropigmentation."
+        "bold": "5 Maintenance ",
+        "normal": "after 2–4 years, color refresh with one session is possible."
       }
     ]
   }

@@ -1,12 +1,12 @@
 {
   "slug": "smp-za-zenske",
-  "title": "SMP za ženske – redčenje las in zgostitev brez britja",
+  "title": "Hair tattoo mikropigmentacija lasišča za ženske Ljubljana – tetoviranje scalpa Slovenia",
   "hero": {
-    "heading": "SMP za ženske – vizualno zgostitev redkih las",
-    "subtitle": "Diskretna rešitev za tanek prečes, izpadanje na temenu in zmanjšan volumen – brez britja, brez zdravil, brez stresa.",
+    "heading": "Hair tattoo mikropigmentacija lasišča za ženske – vizualno zgostitev redkih las Ljubljana",
+    "subtitle": "Diskretna rešitev tetoviranje scalpa za tanek prečes, izpadanje na temenu in zmanjšan volumen – brez britja, brez zdravil, brez stresa.",
     "image": "/optimized/smp za zenske-min.webp",
     "image2": "/optimized/zenskemob.png",
-    "alt": "Rezultat SMP pri ženski z redkimi lasmi na temenu",
+    "alt": "Rezultat SMP mikropigmentacija pri ženski z redkimi lasmi na temenu",
     "ctas": [
       { "label": "Rezerviraj brezplačno posvetovanje", "href": "/kontakt" },
       {
@@ -30,7 +30,8 @@
         "Infekcije in postvirusna stanja, vključno z izpadanjem las po covidu",
         "prečes (črta po sredini glave)",
         "teme (kjer je vidno lasišče)",
-        "sprednji del (umik lasne linije pri čelu)"
+        "sprednji del (umik lasne linije pri čelu)",
+        "Hair tattoo mikropigmentacija lasišča je rešitev"
       ],
       "text": [
         "Izpadanje las pri ženskah je vedno pogostejše – in ni več tabu.",
@@ -39,20 +40,21 @@
       ],
       "image": {
         "src": "/optimized/kratko 2 copy.webp",
-        "alt": "Območja najpogostejšega redčenja las pri ženskah"
+        "alt": "Območja najpogostejšega redčenja las pri ženskah SMP"
       }
     },
     {
       "id": "2",
-      "title": "KAKO DELUJE SMP PRI ŽENSKAH?",
+      "title": "KAKO DELUJE TETOVIRANJE LASIŠČA PRI ŽENSKAH?",
       "bullets": [
         "zmanjša kontrast med kožo in lasmi",
         "ustvari vtis gostejših las",
-        "prekrije področja, kjer 'se vidi' teme"
+        "prekrije področja, kjer 'se vidi' teme",
+        "Hair tattoo mikropigmentacija je učinkovita"
       ],
       "text": [
-        "Skalp mikropigmentacija (SMP) uporablja pigment za ustvarjanje senčnega učinka na lasišču, s čimer:",
-        "Postopek se izvaja brez britja las.",
+        "Tetoviranje lasišča (tattoo mikropigmentacija) uporablja pigment za ustvarjanje senčnega učinka na lasišču, s čimer:",
+        "Postopek pigmentacije se izvaja brez britja las.",
         "Pigment se natančno nanaša med obstoječe lase, brez poškodovanja korenin."
       ],
       "image": {
@@ -75,7 +77,7 @@
         "izpadanje po okužbi s COVID-19",
         "estetska korekcija visokega čela"
       ],
-      "text": ["SMP tretma je idealen zate, če:", "Še posebej primeren je pri:"]
+      "text": ["Tetoviranje scalpa mikropigmentacija je idealna zate, če:", "Še posebej primerna je pri:"]
     },
     {
       "id": "4",
@@ -92,12 +94,12 @@
       "title": "GALERIJA – PRIMERI",
       "bullets": [
         "Pred in po SMP tretmaju pri ženskah",
-        "Vizualni učinek zgostitve brez britja",
+        "Vizualni učinek zgostitve brez britja z SMP",
         "Zapiranje prečesa in senčenje temena",
-        "Kombinacija z daljšimi lasmi"
+        "Kombinacija z daljšimi lasmi s SMP"
       ],
       "gallery": ["/optimized/IMG_9023-min.webp", "/optimized/IMG_9192.webp"],
-      "alt": "SMP tretma pri ženski z redkimi lasmi"
+      "alt": "SMP tretma mikropigmentacija pri ženski z redkimi lasmi"
     },
     {
       "id": "6",
@@ -109,7 +111,7 @@
         "Brez britja, brez brazgotin, brez okrevanja"
       ],
       "text": [
-        "Po tretmaju lahko umiješ lase in nadaljuješ z vsakodnevnimi aktivnostmi."
+        "Po SMP tretmaju lahko umiješ lase in nadaljuješ z vsakodnevnimi aktivnostmi."
       ],
       "image": {
         "src": "/optimized/preiposle3.webp",
@@ -154,8 +156,8 @@
     ]
   },
   "finalCta": {
-    "title": "Opaziš, da se ti lasje redčijo?",
-    "text": "Nisi prepričana, če si primerna kandidatka? Pošlji nam slike temena – analiza je brezplačna, diskretna in brez obveznosti.",
+    "title": "Opaziš, da se ti lasje redčijo? Mikropigmentacija lasišča pomaga!",
+    "text": "Nisi prepričana, če si primerna kandidatka za hair tattoo mikropigmentacijo? Pošlji nam slike temena – analiza je brezplačna, diskretna in brez obveznosti.",
     "button": "Pošlji slike za oceno"
   }
 }

@@ -1,109 +1,108 @@
 {
-  "slug": "smp-za-brazgotine",
-  "title": "SMP für Narben Ljubljana – Kopfhaut-Mikropigmentierung nach FUE/FUT-Transplantation | Hair Tattoo",
+  "slug": "smp-fuer-narben",
+  "title": "Hair Tattoo Mikropigmentierung für Narben Ljubljana – Kopfhaut-Tattoo Slowenien",
   "hero": {
-    "heading": "SMP für Narben Ljubljana – Kopfhaut-Mikropigmentierung zur Abdeckung von Narben nach einer Haartransplantation",
-    "subtitle": "Hair Tattoo zur Abdeckung von Narben auf dem Oberkopf und Hinterkopf mit SMP-Behandlung (Kopfhaut-Mikropigmentierung) – keine Operation, keine Schmerzen, keine Ausfallzeit nach FUE/FUT-Transplantation.",
+    "heading": "Hair Tattoo für Narben – Kopfhaut-Tattoo Ljubljana",
+    "subtitle": "Abdeckung von Narben auf der Kopfhaut und am Scheitel mit Mikropigmentierung in Slowenien – ohne Operation, schmerzfrei, ohne Ausfallzeit.",
     "image": "/optimized/smp za brazgotine-min.webp",
     "image2": "/optimized/brazgotinemob.webp",
-    "alt": "SMP für Narben Ljubljana – verdeckte Narbe auf der Kopfhaut mit Mikropigmentierung",
+    "alt": "SMP Mikropigmentierung Ergebnis – abgedeckte Narbe auf der Kopfhaut",
     "ctas": [
+      { "label": "Kostenlose Beratung buchen", "href": "/kontakt" },
       {
-        "label": "Kostenlose Beratung buchen – SMP für Narben",
-        "href": "/kontakt"
+        "label": "Nachricht über Viber senden",
+        "href": "viber://chat?number=%2B381645400100"
       },
       {
-        "label": "Nachricht über Viber senden – Hair Tattoo",
-        "href": "viber://chat?number=%2B38651479000"
-      },
-      {
-        "label": "Nachricht über WhatsApp senden – SMP-Behandlung",
-        "href": "https://wa.me/38651479000"
+        "label": "Nachricht über WhatsApp senden",
+        "href": "https://wa.me/381645400100"
       }
     ]
   },
   "sections": [
     {
       "id": "1",
-      "title": "WANN UND WARUM ENTSTEHEN NARBEN AUF DER KOPFHAUT – SMP-LÖSUNG",
+      "title": "WANN UND WARUM ENTSTEHEN NARBEN AUF DER KOPFHAUT?",
       "bullets": [
-        "Narben nach Haartransplantationen (FUT-Streifen oder FUE-Stanztechnik) – SMP für Narben hilft beim Kaschieren",
-        "Chirurgische Eingriffe (Dermatologie, Neurochirurgie) – Kopfhaut-Mikropigmentierung deckt sie ab",
-        "Verletzungen oder Kopftraumata (Unfälle, Stürze) – Hair Tattoo für Narben",
-        "Ästhetische Eingriffe (z. B. schlecht ausgeführte SMP-Behandlung) – Korrektur durch Kopfhaut-Mikropigmentierung"
+        "Haartransplantationen (FUT Streifen oder FUE Punching)",
+        "Chirurgische Eingriffe (dermatologisch, neurochirurgisch)",
+        "Verletzungen oder Kopftrauma (Unfälle, Stürze, Schläge)",
+        "Ästhetische Verfahren (z. B. schlecht durchgeführte SMP-Behandlung)",
+        "Hair Tattoo Mikropigmentierung hilft bei Narben"
       ],
-      "text": [
-        "Narben auf der Kopfhaut entstehen meist durch Haartransplantationen oder Verletzungen. SMP für Narben Ljubljana ist eine effektive Lösung:"
-      ],
+      "text": ["Narben auf der Kopfhaut entstehen meist durch:"],
       "image": {
         "src": "/optimized/IMG_9103-min.webp",
-        "alt": "Arten von Kopfhautnarben – SMP für FUE- und FUT-Narben"
+        "alt": "Arten von Kopfhautarben Mikropigmentierung"
       }
     },
     {
       "id": "2",
-      "title": "WIE FUNKTIONIERT SMP FÜR NARBEN – KOPFHAUT-MIKROPIGMENTIERUNG?",
+      "title": "WIE FUNKTIONIERT KOPFHAUT-TATTOO FÜR NARBEN?",
       "bullets": [
-        "SMP-Behandlung reduziert den Kontrast zwischen Narbe und umgebender Haut",
-        "Kopfhaut-Mikropigmentierung gleicht den Farbton der Narbe an die Kopfhaut an",
-        "Hair Tattoo Effekt: Die Narbe nach der Haartransplantation wird auch aus nächster Nähe unsichtbar"
+        "Reduziert den Kontrast zwischen Narbe und umgebender Haut",
+        "Passt Farbe und Textur an die umliegende Kopfhaut an",
+        "Effekt: Narbe wird auch aus nächster Nähe optisch unsichtbar",
+        "Hair Tattoo sorgt für natürliches Aussehen"
       ],
       "text": [
-        "Kopfhaut-Mikropigmentierung (SMP für Narben) verwendet spezielle Pigmente und Mikro-Nadeln, um Narben nach FUE/FUT-Transplantationen optisch zu kaschieren:",
-        "SMP-Behandlung für Narben ist auch möglich, wenn Haare vorhanden sind (z. B. nach FUE im Nackenbereich) – Hair Tattoo-Technik"
+        "Kopfhaut-Tattoo bzw. Mikropigmentierung verwendet spezielle Pigmente und eine Mikro-Nadel, um die Narbe optisch zu kaschieren:",
+        "Die Behandlung ist auch möglich, wenn Haare vorhanden sind (z. B. nach FUE am Hinterkopf)"
       ],
       "image": {
         "src": "/optimized/IMG_9107-min.webp",
-        "alt": "Vorher und nachher SMP-Behandlung für Haartransplantationsnarben – Kopfhaut-Mikropigmentierung"
+        "alt": "Vorher und nachher SMP-Behandlung für posttransplantierte Narbe"
       }
     },
     {
       "id": "3",
-      "title": "HAARTRANSPLANTATIONSNARBEN – SMP FÜR FUE- UND FUT-NARBEN",
+      "title": "NARBEN NACH TRANSPLANTATIONEN – FUE UND FUT",
       "bullets": [
-        "Kleine Punktnarben nach FUE-Transplantationen, häufig im Nackenbereich – bei kurzen Haaren sichtbar, SMP deckt FUE-Narben ab.",
-        "Eine horizontale FUT-Narbe (Streifenmethode), deutlich sichtbar bei rasierten Haaren – Kopfhaut-Mikropigmentierung verdeckt sie.",
-        "Hair Tattoo (SMP-Behandlung) ist ideal für Männer, die nach einer Transplantation kurze Frisuren tragen möchten.",
-        "SMP für Narben bietet optische Abdeckung ohne zusätzliche Operation nach der Haartransplantation."
+        "Kleine Kreise/Punkte, oft mehrere am Hinterkopf. Sichtbar bei kurzen Haaren.",
+        "Eine horizontale Linie, deutlich sichtbar bei rasierten Haaren.",
+        "Ideal für Männer, die kurze Haare tragen möchten",
+        "Option für optische Narbenabdeckung ohne Operation",
+        "Kopfhaut-Tattoo als effektive Mikropigmentierung"
       ],
       "text": [
-        "FUE-Narben nach Haartransplantation:",
-        "FUT-Narben nach Haartransplantation (Streifenmethode):",
-        "SMP für Narben (Kopfhaut-Mikropigmentierung):",
-        "Auch nach fehlgeschlagenen Transplantationen möglich – Hair Tattoo-Korrektur"
+        "FUE-Narben:",
+        "FUT-Narben (Streifenmethode):",
+        "Hair Tattoo:",
+        "Auch nach fehlgeschlagenen Transplantationen möglich"
       ],
       "image": {
         "src": "/images/IMG_7794.mp4",
-        "alt": "Vorher und nachher SMP-Behandlung für FUE/FUT-Narben – Kopfhaut-Mikropigmentierung"
+        "alt": "Vorher und nachher SMP-Behandlung für posttransplantierte Narbe"
       }
     },
     {
       "id": "4",
-      "title": "SMP FÜR NARBEN DURCH VERLETZUNGEN UND OPERATIONEN – HAIR TATTOO LJUBLJANA",
+      "title": "NARBEN DURCH VERLETZUNGEN UND CHIRURGISCHE EINGRIFFE",
       "bullets": [
-        "Narben aus der Kindheit – Kopfhaut-Mikropigmentierung kaschiert sie",
-        "Operationen am Schädel – SMP-Behandlung hilft bei der Abdeckung",
-        "Verbrennungen, Stöße, Verletzungen – Hair Tattoo-Lösung für Narben",
-        "Visuelle Rekonstruktion des Hautbildes mit Kopfhaut-Mikropigmentierung",
-        "Diskrete Narbenkorrektur durch SMP-Behandlung ohne zusätzliche Eingriffe",
-        "Individuelle SMP-Anpassung: Pigmentfarbe, Dichte, Verteilung"
+        "Verletzungen in der Kindheit",
+        "Operationen am Schädel",
+        "Verbrennungen, Schläge, Traumata",
+        "Visuelle Rekonstruktion des Hautbildes",
+        "Diskrete Korrektur ohne zusätzliche Operation",
+        "Individueller Ansatz: Pigmentfarbe, Dichte, Anordnung",
+        "Kopfhaut-Tattoo als dauerhafte Lösung"
       ],
       "text": [
-        "Unabhängig von der Ursache der Narbe ermöglicht SMP für Narben (Kopfhaut-Mikropigmentierung) eine ästhetische Hair Tattoo-Abdeckung:"
+        "Unabhängig von der Narbenursache ermöglicht Hair Tattoo Mikropigmentierung:"
       ],
       "image": {
         "src": "/optimized/IMG_9110-min.webp",
-        "alt": "SMP-Behandlung zur Kaschierung von Narben auf der Kopfhaut – Kopfhaut-Mikropigmentierung Ljubljana"
+        "alt": "SMP Behandlung zur Narben-Kamouflage am Kopf"
       }
     },
     {
       "id": "5",
-      "title": "GALERIE – SMP FÜR NARBEN VORHER UND NACHHER | KOPFHAUT-MIKROPIGMENTIERUNG",
+      "title": "GALERIE – ERGEBNISSE",
       "bullets": [
-        "FUE-Narben nach Haartransplantation – vorher und nach SMP-Behandlung",
-        "Abdeckung einer horizontalen FUT-Narbe mit Kopfhaut-Mikropigmentierung",
-        "Abdeckung von Unfallnarben – Hair Tattoo für Narben",
-        "Korrektur einer schlecht ausgeführten SMP-Behandlung – Mikropigmentierungs-Korrektur"
+        "FUE-Narben – vor und nach Mikropigmentierung",
+        "Abdeckung horizontaler FUT-Narben mit Pigmentierung",
+        "Abdeckung von Narben nach Unfällen",
+        "Korrektur schlecht durchgeführter SMP-Behandlung"
       ],
       "gallery": [
         "/optimized/IMG_9118-min.webp",
@@ -124,81 +123,81 @@
         "/optimized/IMG_9116-min.webp",
         "/optimized/IMG_9117-min.webp"
       ],
-      "alt": "Kaschierung von FUE/FUT-Narben mit SMP-Behandlung – Kopfhaut-Mikropigmentierung Ljubljana"
+      "alt": "Camouflage von FUE-Narben mit SMP-Methode"
     },
     {
       "id": "6",
-      "title": "BIST DU EIN GEEIGNETER KANDIDAT FÜR SMP FÜR NARBEN – KOPFHAUT-MIKROPIGMENTIERUNG?",
+      "title": "BIST DU EIN GEEIGNETER KANDIDAT?",
       "bullets": [
-        "Du hast eine Narbe am Hinterkopf, Oberkopf oder an den Seiten nach einer Haartransplantation – SMP hilft",
-        "Du möchtest kurze Haare ohne sichtbare FUE/FUT-Narben – Hair Tattoo ist die Lösung",
-        "Du möchtest keine zusätzliche Operation – Kopfhaut-Mikropigmentierung ist nicht-invasiv",
-        "Du hast realistische Erwartungen (SMP = visueller Effekt, entfernt die Narbe nicht physisch)"
+        "Du hast eine Narbe am Hinterkopf, Scheitel oder an der Seite",
+        "Du möchtest kurze Haare ohne sichtbare Narbe",
+        "Du willst keine Operation",
+        "Du hast realistische Erwartungen (Pigment = optischer Effekt, entfernt die Narbe nicht physisch)",
+        "Kopfhaut-Tattoo Mikropigmentierung Slowenien Ljubljana"
       ],
-      "text": [
-        "SMP für Narben (Kopfhaut-Mikropigmentierung Ljubljana) ist ideal für dich, wenn:"
-      ],
+      "text": ["Hair Tattoo für Narben ist für dich geeignet, wenn:"],
       "link": {
-        "label": "Sende ein Foto deiner Narbe zur kostenlosen SMP-Bewertung",
+        "label": "Schicke ein Foto der Narbe für kostenlose Bewertung",
         "href": "/kontakt"
       }
     },
     {
       "id": "7",
-      "title": "ABLAUF DER SMP-BEHANDLUNG FÜR NARBEN – KOPFHAUT-MIKROPIGMENTIERUNG",
+      "title": "WIE VERLÄUFT DIE BEHANDLUNG?",
       "bullets": [
-        "2–3 SMP-Sitzungen im Abstand von 7–14 Tagen",
-        "Keine Ausfallzeit nach der Behandlung – du kannst am nächsten Tag aktiv sein",
-        "Hair Tattoo individuell an deine Narbe und deren Alter angepasst"
+        "2–3 Sitzungen im Abstand von 7–14 Tagen",
+        "Keine Ausfallzeit – am nächsten Tag wieder aktiv",
+        "Angepasst an deine Haut und das Alter der Narbe",
+        "Kopfhaut-Tattoo ist ein natürlicher Vorgang"
       ],
       "text": [
-        "Das Pigment für SMP wird sorgfältig in Schichten aufgetragen – Kopfhaut-Mikropigmentierung ohne Reizung oder Schmerzen."
+        "Das Pigment wird vorsichtig in Schichten aufgetragen – ohne Reizung oder Schmerzen. Hair Tattoo Mikropigmentierung ist eine sichere Methode."
       ],
       "image": {
         "src": "/optimized/IMG_9116-min.webp",
-        "alt": "Wie SMP-Pigment (Kopfhaut-Mikropigmentierung) Narben nach Haartransplantation abdeckt"
+        "alt": "Wie Pigment eine Narbe auf dem Kopf abdeckt"
       }
     }
   ],
   "faqs": {
-    "title": "HÄUFIG GESTELLTE FRAGEN – SMP FÜR NARBEN (KOPFHAUT-MIKROPIGMENTIERUNG)",
+    "title": "HÄUFIG GESTELLTE FRAGEN",
     "list": [
       {
-        "q": "Kann SMP für Narben eine Haartransplantationsnarbe vollständig verbergen?",
-        "a": "Optisch ja – Kopfhaut-Mikropigmentierung (Hair Tattoo) kaschiert Farb- und Kontrastunterschiede. Physisch bleibt die Narbe bestehen."
+        "q": "Kann SMP eine Narbe vollständig verbergen?",
+        "a": "Visuell ja – physisch nein. Pigment kaschiert den Farb- und Kontrastunterschied."
       },
       {
-        "q": "Reizt die SMP-Behandlung die Narbe nach einer FUE/FUT-Transplantation?",
-        "a": "Nein. Die Behandlung erfolgt steril und mit sanftem Druck. SMP für Narben ist sicher und schmerzfrei."
+        "q": "Reizt SMP die Narbe?",
+        "a": "Nein. Es wird eine sterile Technik mit sanftem Druck verwendet. Die Behandlung ist sicher und schmerzfrei."
       },
       {
-        "q": "Wie lange hält der Effekt von SMP für Narben?",
-        "a": "2–4 Jahre, danach kann eine Auffrischung der Pigmentierung (Hair Tattoo Touch-up) durchgeführt werden."
+        "q": "Wie lange hält der Effekt?",
+        "a": "2–4 Jahre, danach kann eine Pigmentauffrischung erfolgen."
       },
       {
-        "q": "Ist SMP auch bei mehreren Narben nach einer Haartransplantation möglich?",
-        "a": "Ja – jede FUE/FUT-Narbe wird individuell für die Kopfhaut-Mikropigmentierung bewertet."
+        "q": "Ist SMP auch bei mehreren Narben möglich?",
+        "a": "Ja – jeder Fall wird individuell bewertet."
       }
     ]
   },
   "reviews": {
-    "title": "KUNDENERFAHRUNGEN – SMP FÜR NARBEN",
-    "text": "Bewertungen der Kopfhaut-Mikropigmentierung für Narben:",
+    "title": "KUNDENERFAHRUNGEN",
+    "text": "Bewertungen:",
     "person": [
       {
-        "quote": "Ich hatte eine FUE-Haartransplantation und die Narben waren bei kurzen Haaren deutlich sichtbar. Nach der SMP-Behandlung für Narben – praktisch unsichtbar. Hair Tattoo ist großartig!"
+        "quote": "Ich hatte eine FUE-Transplantation und Narben waren bei kurzen Haaren sehr sichtbar. Nach SMP-Behandlung – praktisch unsichtbar."
       },
       {
-        "quote": "Nach einer Verletzung hatte ich eine große Narbe am Oberkopf. Srđan hat mir mit der Kopfhaut-Mikropigmentierung mein Selbstvertrauen zurückgegeben. SMP für Narben funktioniert wirklich!"
+        "quote": "Nach einer Verletzung hatte ich eine große Narbe am Scheitel. Srđan hat mein Selbstbewusstsein zurückgegeben."
       },
       {
-        "quote": "Ich wusste nicht, dass es SMP für Haartransplantationsnarben gibt. Jetzt habe ich keine Angst mehr, meine Haare kurz zu schneiden! Kopfhaut-Mikropigmentierung ist fantastisch."
+        "quote": "Ich wusste nicht, dass es das gibt. Jetzt habe ich keine Angst mehr, kurz zu schneiden!"
       }
     ]
   },
   "finalCta": {
-    "title": "Bereit, deine Narbe zu verbergen? SMP für Narben Ljubljana!",
-    "text": "Hast du eine Narbe nach einer Haartransplantation (FUE/FUT) oder einer Verletzung, die du kaschieren möchtest? SMP für Narben (Kopfhaut-Mikropigmentierung) ist die diskrete Hair Tattoo-Lösung in Ljubljana.",
-    "button": "Jetzt SMP-Behandlung für Narben buchen"
+    "title": "Bereit, deine Narbe mit Mikropigmentierung zu verbergen?",
+    "text": "Hast du eine Narbe, die du mit Pigment abdecken möchtest? Die Lösung existiert – völlig diskret.",
+    "button": "Jetzt buchen"
   }
 }

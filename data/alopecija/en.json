@@ -1,98 +1,95 @@
 {
   "slug": "smp-alopecia",
-  "title": "SMP for Alopecia Ljubljana – Scalp Micropigmentation for Alopecia Areata, Totalis, Universalis | Hair Tattoo",
+  "title": "Hair Tattoo Scalp Micropigmentation for Alopecia Ljubljana – Scalp Tattoo Slovenia",
   "hero": {
-    "heading": "SMP for Alopecia Ljubljana – Scalp Micropigmentation Solution for Alopecia Areata, Totalis, and Universalis",
-    "subtitle": "SMP treatment for alopecia (scalp micropigmentation) restores the appearance of hair in alopecia areata, totalis, or universalis – hair tattoo without surgery, pain, or waiting.",
+    "heading": "Hair Tattoo Micropigmentation for Alopecia – Solution for Hair Loss Ljubljana",
+    "subtitle": "Scalp tattoo micropigmentation restores the appearance of hair even when regrowth is no longer possible – no surgery, pain-free, no waiting.",
     "image": "/optimized/alopcije.webp",
     "image2": "/optimized/alopecija-mob.webp",
-    "alt": "SMP for Alopecia Ljubljana – result of scalp micropigmentation for alopecia areata",
+    "alt": "SMP result on a client with alopecia areata",
     "ctas": [
+      { "label": "Book a free consultation", "href": "/kontakt" },
       {
-        "label": "Book a Free Consultation – SMP for Alopecia",
-        "href": "/kontakt"
+        "label": "Send a message via Viber",
+        "href": "viber://chat?number=%2B381645400100"
       },
       {
-        "label": "Send a Message for Hair Tattoo via Viber",
-        "href": "viber://chat?number=%2B38651479000"
-      },
-      {
-        "label": "Send a Message for SMP Treatment via WhatsApp",
-        "href": "https://wa.me/38651479000"
+        "label": "Send a message via WhatsApp",
+        "href": "https://wa.me/381645400100"
       }
     ]
   },
   "sections": [
     {
       "id": "1",
-      "title": "WHAT IS ALOPECIA – SMP FOR ALOPECIA AS A SOLUTION",
+      "title": "WHAT IS ALOPECIA?",
       "bullets": [
-        "Alopecia Areata – patchy hair loss, SMP for alopecia areata helps",
-        "Alopecia Totalis – complete scalp hair loss, scalp micropigmentation solution",
-        "Alopecia Universalis – loss of all body hair, hair tattoo for alopecia universalis"
+        "Alopecia areata – hair loss in patches",
+        "Alopecia totalis – complete loss of scalp hair",
+        "Alopecia universalis – loss of all body hair"
       ],
       "text": [
-        "Alopecia is an autoimmune condition that causes hair loss (alopecia areata, totalis, universalis).",
-        "The immune system attacks hair follicles in alopecia, leading to hair loss. SMP for alopecia (scalp micropigmentation) is a hair tattoo solution.",
-        "Alopecia often affects men and women of all ages. SMP treatment for alopecia in Ljubljana helps."
+        "Alopecia is an autoimmune condition that causes hair loss.",
+        "The immune system attacks hair follicles, leading to hair loss.",
+        "It often affects men and women of all ages. Scalp tattooing helps."
       ],
       "images": [
         {
           "src": "/optimized/preiposle2.webp",
-          "alt": "Types of alopecia: areata, totalis, universalis – SMP for alopecia graphical representation"
+          "alt": "Types of alopecia: areata, totalis, universalis – graphic illustration"
         },
         {
           "src": "/optimized/preiposle4.webp",
-          "alt": "Scalp micropigmentation for alopecia areata before and after"
+          "alt": "Types of alopecia: areata, totalis, universalis – graphic illustration"
         },
         {
           "src": "/optimized/preiposle4.webp",
-          "alt": "SMP treatment for alopecia totalis and universalis"
+          "alt": "Types of alopecia: areata, totalis, universalis – graphic illustration"
         }
       ]
     },
     {
       "id": "2",
-      "title": "HOW SMP FOR ALOPECIA HELPS – SCALP MICROPIGMENTATION",
-      "title2": "WHO IS A CANDIDATE FOR SMP IN ALOPECIA AREATA, TOTALIS OR UNIVERSALIS?",
+      "title": "HOW DOES SCALP TATTOO HELP WITH ALOPECIA?",
+      "title2": "WHO IS A CANDIDATE FOR HAIR TATTOO WITH ALOPECIA?",
       "text": [
-        "Scalp micropigmentation (SMP for alopecia) does not treat the cause of alopecia areata, totalis, or universalis, but hair tattoo helps:",
-        "For total alopecia (alopecia totalis), SMP treatment allows:",
-        "SMP for alopecia Ljubljana is ideal if you have alopecia areata, totalis, or universalis:",
-        "Scalp micropigmentation for alopecia can also be performed in women with alopecia areata – SMP treatment is adjusted to the area of hair parting and crown."
+        "Scalp micropigmentation (hair tattoo) does not treat the underlying cause, but:",
+        "For total alopecia, pigmentation enables:",
+        "Tattoo micropigmentation is ideal if:",
+        "Scalp tattooing can also be performed on women – the pigmentation is adapted to the hairline and parting areas."
       ],
       "bullets": [
-        "SMP for alopecia restores the appearance of natural hair in alopecia areata",
-        "Scalp micropigmentation hides uneven patches in alopecia",
-        "Hair tattoo restores the hairline in alopecia totalis",
-        "Appearance of closely shaved hair in total alopecia – SMP treatment",
-        "Even pigmentation of the entire scalp with scalp micropigmentation in alopecia universalis",
-        "Hair tattoo looks like intentionally shaved hair in alopecia totalis",
-        "Visible bald patches due to alopecia areata – SMP for alopecia helps",
-        "Uneven hair loss due to alopecia – scalp micropigmentation solution",
-        "Not a candidate for hair transplant due to alopecia – hair tattoo alternative",
-        "Want an even scalp appearance in alopecia – SMP treatment Ljubljana"
+        "Restores the appearance of natural hair",
+        "Covers uneven patches",
+        "Restores the hairline",
+        "Gives the look of short shaved hair in total alopecia",
+        "Provides even pigmentation across the entire scalp",
+        "Gives the appearance of intentionally shaved hair",
+        "Hides visible hairless patches",
+        "Corrects uneven hair loss",
+        "Not a candidate for hair transplant",
+        "Creates a uniform scalp appearance"
       ],
       "image": {
         "src": "/images/herovideo.mp4",
-        "alt": "SMP for alopecia totalis – hair tattoo effect of short hair – scalp micropigmentation"
+        "alt": "SMP in total alopecia – effect of short hair"
       },
       "link": {
-        "label": "Send photos of alopecia for a free SMP assessment"
+        "label": "Send photos for a free evaluation"
       }
     },
     {
       "id": "4",
-      "title": "HOW SMP TREATMENT FOR ALOPECIA PROCEEDS – SCALP MICROPIGMENTATION",
+      "title": "HOW DOES THE TREATMENT WORK?",
       "bullets": [
-        "Number of SMP sessions for alopecia: 2–4 scalp micropigmentation treatments spaced 7–14 days apart",
-        "Duration of hair tattoo for alopecia: each SMP session 2–3 hours",
-        "Scalp micropigmentation technique: tailored to type of alopecia (areata, totalis, universalis) and skin tone",
-        "SMP for alopecia is painless, no recovery – hair tattoo is non-invasive",
-        "Pigments for scalp micropigmentation are hypoallergenic; SMP treatment for alopecia is safe and can be repeated in cyclical alopecia areata."
+        "Number of sessions: 2–4 treatments spaced 7–14 days apart",
+        "Duration: each session 2–3 hours",
+        "Technique: tailored to the type of alopecia and skin tone",
+        "Pain-free, no downtime",
+        "Pigments are hypoallergenic, treatment is safe and can be repeated for cyclical alopecia"
       ],
       "text": [
-        "Pigments for SMP for alopecia (scalp micropigmentation) are hypoallergenic; hair tattoo treatment is safe for alopecia areata, totalis, and universalis and can be repeated."
+        "Pigments are hypoallergenic, treatment is safe and repeatable."
       ],
       "gallery": [
         "/optimized/IMG_9021-min.webp",
@@ -104,41 +101,41 @@
         "/optimized/IMG_9191-min.webp",
         "/optimized/IMG_9191-min2.webp"
       ],
-      "alt": "SMP for alopecia areata – scalp micropigmentation before and after – hair tattoo result"
+      "alt": "SMP for alopecia areata – before and after"
     }
   ],
   "faqs": {
-    "title": "FREQUENTLY ASKED QUESTIONS – SMP FOR ALOPECIA (SCALP MICROPIGMENTATION)",
+    "title": "FREQUENTLY ASKED QUESTIONS",
     "list": [
       {
-        "q": "Can SMP for alopecia worsen alopecia areata, totalis, or universalis?",
-        "a": "No – SMP treatment (scalp micropigmentation) is performed shallowly in the skin, without affecting hair follicles in alopecia. Hair tattoo is safe."
+        "q": "Can SMP worsen alopecia?",
+        "a": "No – the treatment is superficial in the skin, without affecting hair follicles."
       },
       {
-        "q": "Is the difference noticeable in SMP for alopecia when hair falls around the treated area?",
-        "a": "No – scalp micropigmentation for alopecia is designed to look natural even if hair loss from alopecia areata continues."
+        "q": "Is there a noticeable difference if hair falls around the treated area?",
+        "a": "No – the pigmentation is designed to look natural even if hair loss continues."
       },
       {
-        "q": "How long does the effect of SMP for alopecia (scalp micropigmentation) last?",
-        "a": "2–4 years. Refreshing the hair tattoo for alopecia is possible with one SMP session."
+        "q": "How long does SMP effect last for alopecia?",
+        "a": "2–4 years. Refreshing is possible with one session."
       },
       {
-        "q": "Is SMP treatment suitable for women with diffuse alopecia or alopecia areata?",
-        "a": "Yes – scalp micropigmentation (hair tattoo) for alopecia is adjusted to ensure a natural SMP effect on existing hair in women with alopecia."
+        "q": "Is SMP suitable for women with diffuse alopecia?",
+        "a": "Yes – the technique is adjusted so that the result looks natural with existing hair."
       }
     ]
   },
   "reviews": [
     {
-      "quote": "I didn’t know SMP existed for such uneven hair loss due to alopecia areata. Scalp micropigmentation changed my life. Hair tattoo is amazing!"
+      "quote": "I didn't know there was a solution for such uneven hair loss. SMP changed my life."
     },
     {
-      "quote": "My hair has been falling in waves due to alopecia for 5 years. SMP treatment (scalp micropigmentation) finally gave my scalp a normal appearance. Hair tattoo for alopecia works!"
+      "quote": "My hair has been falling in waves for 5 years. This is the first time my scalp looks normal."
     }
   ],
   "finalCta": {
-    "title": "Ready for a Change? SMP for Alopecia Ljubljana!",
-    "text": "Do you have alopecia (areata, totalis, or universalis) and want a natural look without waiting for it to “maybe grow back”? SMP for alopecia (scalp micropigmentation) can restore your appearance and confidence. Hair tattoo treatment Ljubljana.",
-    "button": "Book SMP for Alopecia Now"
+    "title": "Ready for a change with scalp micropigmentation?",
+    "text": "Do you have alopecia and want a natural look without waiting for hair to 'maybe grow back'? Hair tattoo micropigmentation can restore your appearance and confidence.",
+    "button": "Book now"
   }
 }

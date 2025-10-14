@@ -1,50 +1,50 @@
 {
   "slug": "blog",
-  "title": "Blog – Hair Loss and SMP Treatment | Scalp Micropigmentation Ljubljana | Micro Hair Clinic",
+  "title": "Micro Hair Clinic Scalp Micropigmentation Blog",
   "hero": {
-    "heading": "Hair Loss, SMP Treatment, Scalp Micropigmentation Blog",
-    "subtitle": "Find answers about hair loss, compare SMP treatment and other options. Learn more about scalp micropigmentation (hair tattoo) first-hand.",
+    "heading": "Hair Loss, Confidence, and Solutions – Hair Tattoo Scalp Micropigmentation",
+    "subtitle": "Find answers, compare options, and learn firsthand about scalp tattoo SMP treatments.",
     "image": "/optimized/MOM Day 2-206-min.webp",
-    "alt": "Micro Hair Clinic Ljubljana – Blog about SMP treatment and scalp micropigmentation",
+    "alt": "Micro Hair Clinic",
     "bullets": [
-      "Hair loss is a personal, emotional, and often confusing experience. That’s why we created a blog about SMP treatment (scalp micropigmentation) that doesn’t sell – it helps. Here you’ll find honest posts about hair loss:",
-      "Early signs of hair loss – solutions for baldness",
-      "Comparison of different hair loss treatments (SMP vs transplant, scalp micropigmentation)",
-      "Alopecia in men and women – SMP treatment Ljubljana",
-      "Psychological impact of hair loss – how hair tattoo helps",
-      "Real client experiences with SMP treatment (scalp micropigmentation) and results",
-      "No filters. No tricks. Just the information you really need about hair loss and SMP treatment before deciding on scalp micropigmentation."
+      "Hair loss is a personal, emotional, and often confusing experience. That's why we created a blog that doesn't sell – it helps. Here you'll find honest posts about:",
+      "Early signs of hair loss",
+      "Comparison of different treatments (SMP vs. transplantation)",
+      "Alopecia in men and women",
+      "Psychological impact of hair loss",
+      "Real client experiences and results",
+      "No filters. No tricks. Only the information you really need before making a decision."
     ]
   },
   "blog": {
-    "title": "Latest Posts – SMP Treatment and Scalp Micropigmentation Blog",
+    "title": "Latest Posts",
     "blogs": [
       {
-        "title": "SMP or Hair Transplant – Which Is Better for Hair Loss? | Scalp Micropigmentation",
-        "text": "A comparative guide SMP treatment vs transplant for men looking for a solution to hair loss. Hair tattoo or transplant?",
+        "title": "SMP or Hair Transplant – What’s Better for Me?",
+        "text": "A comparative guide for men looking for a solution to hair loss.",
         "slug": "smp-vs-presaditev",
         "img": "/optimized/norwood-skala.webp",
-        "button": "Read More About SMP Treatment"
+        "button": "Read More"
       },
       {
-        "title": "Post-SMP Care – Day by Day Guide | Scalp Micropigmentation",
+        "title": "Post-SMP Care – Day-by-Day Guide",
         "slug": "nega-po-smp-tretmaju",
-        "text": "How to achieve the best SMP treatment results (scalp micropigmentation) that last for years. Hair tattoo care.",
+        "text": "How to achieve the best results that last for years.",
         "img": "/optimized/redcenje las-min.webp",
-        "button": "Read More About SMP Care"
+        "button": "Read More"
       },
       {
-        "title": "Scalp Micropigmentation Day by Day – How SMP Treatment Works | Hair Tattoo",
+        "title": "Scalp Micropigmentation Step by Step – How the Treatment Works",
         "slug": "kako-izgleda-smp-tretma",
-        "text": "The real process of SMP treatment (scalp micropigmentation) through all stages: consultation for hair loss, hair tattoo pigmentation, results.",
+        "text": "The real process through all stages: consultation, pigmentation, result.",
         "img": "/optimized/blog.webp",
-        "button": "Read More About Hair Tattoo Treatment"
+        "button": "Read More"
       }
     ]
   },
   "finalCta": {
-    "title": "Have a Question About Hair Loss or SMP Treatment? Scalp Micropigmentation Ljubljana",
-    "text": "Feel free to ask about SMP treatment (scalp micropigmentation) – no pressure, no obligation for hair tattoo.",
-    "button": "Book a Free Consultation – SMP Ljubljana"
+    "title": "Have a Question?",
+    "text": "Go ahead – no pressure, no obligations.",
+    "button": "Book a Free Consultation"
   }
 }
