@@ -11,11 +11,11 @@
       { "label": "Rezerviraj brezplačen posvet", "href": "/kontakt" },
       {
         "label": "Pošlji sporočilo preko Viberja",
-        "href": "viber://chat?number=%2B381645400100"
+        "href": "viber://chat?number=%2B38651479000"
       },
       {
         "label": "Pošlji sporočilo preko WhatsAppa",
-        "href": "https://wa.me/381645400100"
+        "href": "https://wa.me/38651479000"
       }
     ]
   },
@@ -138,8 +138,8 @@
     }
   ],
   "finalCta": {
-    "title": "Želiš izvedeti, ali je SMP mikropigmentacija zate?",
-    "text": "Pošlji fotografije in prejmi iskreno oceno – brez obveznosti. Posvet vodi nagrajeni SMP mikropigmentacija artist s 10+ leti izkušenj. Micro Hair Clinic | Ljubljana, Vprašaj vse, kar te zanima.",
+    "title": "Želiš izvedeti, ali je SMP zate?",
+    "text": "Pošlji fotografije in prejmi iskreno oceno – brez obveznosti.Posvet vodi nagrajeni SMP artist s 10+ leti izkušenj. Micro Hair Clinic | Ljubljana, Vprašaj vse, kar te zanima.",
     "button": "Rezerviraj brezplačen termin zdaj."
   }
 }

@@ -11,11 +11,11 @@
       { "label": "Rezerviraj brezplačno posvetovanje", "href": "/kontakt" },
       {
         "label": "Pošlji sporočilo na Viber",
-        "href": "viber://chat?number=%2B381645400100"
+        "href": "viber://chat?number=%2B38651479000"
       },
       {
         "label": "Pošlji sporočilo na WhatsApp",
-        "href": "https://wa.me/381645400100"
+        "href": "https://wa.me/38651479000"
       }
     ]
   },
@@ -77,7 +77,10 @@
         "izpadanje po okužbi s COVID-19",
         "estetska korekcija visokega čela"
       ],
-      "text": ["Tetoviranje scalpa mikropigmentacija je idealna zate, če:", "Še posebej primerna je pri:"]
+      "text": [
+        "Tetoviranje scalpa mikropigmentacija je idealna zate, če:",
+        "Še posebej primerna je pri:"
+      ]
     },
     {
       "id": "4",
