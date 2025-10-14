@@ -30,7 +30,7 @@ export async function generateMetadata({
   const titles = {
     sl: "SMP Nega Lasišča – Navodila po Tretmaju",
     en: "Aftercare Guide | Care Instructions",
-    de: "SMP Pflegeanleitung – Tagesplan nach der Behandlung",
+    de: "Pflege nach SMP Behandlung – Kopfhaut Tagesplan",
   };
 
   const descriptions = {

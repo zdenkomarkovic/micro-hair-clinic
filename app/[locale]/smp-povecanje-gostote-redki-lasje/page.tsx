@@ -28,7 +28,7 @@ export async function generateMetadata({
   const titles = {
     sl: "SMP povečanje gostote | Redki lasje | Mikropigmentacija",
     en: "Hair Tattoo SMP – Increased Density for Thinning Hair",
-    de: "Hair Tattoo SMP – Effektive Lösung gegen Haarausfall in Ljubljana",
+    de: "Hair Tattoo SMP – Effektive Lösung gegen Haarausfall",
   };
 
   const descriptions = {
