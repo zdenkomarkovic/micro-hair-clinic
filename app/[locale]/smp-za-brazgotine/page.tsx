@@ -30,7 +30,7 @@ export async function generateMetadata({
   const titles = {
     sl: "SMP za brazgotine Ljubljana | Mikropigmentacija lasišča",
     en: "SMP for Scars Ljubljana | Scalp Micropigmentation",
-    de: "SMP bei Narben Ljubljana | Kopfhaut-Mikropigmentierung",
+    de: "Hair Tattoo für Narben | Micro Hair Clinic Ljubljana",
   };
 
   const descriptions = {

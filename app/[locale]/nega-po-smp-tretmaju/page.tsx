@@ -28,9 +28,9 @@ export async function generateMetadata({
     : i18n.defaultLocale;
 
   const titles = {
-    sl: "Nega po SMP tretmanu | Navodila za nego mikropigmentacije",
+    sl: "SMP Nega Lasišča – Navodila po Tretmaju",
     en: "Aftercare Guide | Care Instructions",
-    de: "Tagesleitfaden zur Pflege nach der SMP Behandlung",
+    de: "SMP Pflegeanleitung – Tagesplan nach der Behandlung",
   };
 
   const descriptions = {

@@ -23,7 +23,7 @@ export async function generateMetadata({
   const locale = isValidLocale(localeParam) ? localeParam : i18n.defaultLocale;
 
   const titles = {
-    sl: "Mikropigmentacija lasišča Ljubljana | SMP tretmani | Hair Tattoo",
+    sl: "Mikropigmentacija lasišča Ljubljana | SMP tretman | Hair Tattoo",
     en: "Scalp Micropigmentation | SMP Treatments | Hair Tattoo",
     de: "Kopfhaut-Mikropigmentierung | SMP-Behandlungen | Hair Tattoo",
   };
