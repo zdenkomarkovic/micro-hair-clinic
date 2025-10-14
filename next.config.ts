@@ -5,4 +5,38 @@ const nextConfig = {
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
     minimumCacheTTL: 60,
   },
+  async redirects() {
+    return [
+      {
+        source: '/sl/contact',
+        destination: '/sl/zakazi-konsultaciju',
+        permanent: true,
+      },
+      {
+        source: '/sl/smp-alopecia',
+        destination: '/sl/smp-alopecija',
+        permanent: true,
+      },
+      {
+        source: '/sl/smp-correction',
+        destination: '/sl/smp-korekcija',
+        permanent: true,
+      },
+      {
+        source: '/sl/smp-density-thinning-hair',
+        destination: '/sl/smp-povecanje-gostote-redki-lasje',
+        permanent: true,
+      },
+      {
+        source: '/sl/smp-for-scars',
+        destination: '/sl/smp-za-brazgotine',
+        permanent: true,
+      },
+      {
+        source: '/sl/smp-for-women',
+        destination: '/sl/smp-za-zenske',
+        permanent: true,
+      },
+    ];
+  },
 };
