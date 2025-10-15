@@ -60,7 +60,7 @@ const ImageCarusel = ({ images, py }: Props) => {
         >
           <Image
             src={selectedImage}
-            alt="SMP rezultat galerija - uvećana fotografija"
+            alt="SMP rezultat"
             width={1000}
             height={1000}
             className="max-w-full max-h-full object-contain"
