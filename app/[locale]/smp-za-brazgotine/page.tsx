@@ -17,6 +17,8 @@ import { SectionOziljci } from "@/components/tretments/oziljci/SectionOziljci";
 import { Metadata } from "next";
 import { generateAlternateLinks } from "@/lib/seo";
 
+export const revalidate = 3600; // Cache for 1 hour
+
 export async function generateMetadata({
   params,
 }: {
@@ -101,4 +103,12 @@ export default async function ComparePage({
       <Questions data={json.faqs} />
     </main>
   );
+}
+
+export async function generateStaticParams() {
+  return [
+    { locale: 'sl' },
+    { locale: 'en' },
+    { locale: 'de' }
+  ];
 }

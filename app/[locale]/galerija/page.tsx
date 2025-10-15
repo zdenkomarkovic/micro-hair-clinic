@@ -5,6 +5,8 @@ import { Metadata } from "next";
 import { isValidLocale } from "@/lib/locale";
 import { i18n, Locale } from "@/i18n-config";
 
+export const revalidate = 3600; // Cache for 1 hour
+
 export async function generateMetadata({
   params,
 }: {
@@ -56,5 +58,13 @@ const page = () => {
     </div>
   );
 };
+
+export async function generateStaticParams() {
+  return [
+    { locale: 'sl' },
+    { locale: 'en' },
+    { locale: 'de' }
+  ];
+}
 
 export default page;

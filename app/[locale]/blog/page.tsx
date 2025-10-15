@@ -10,6 +10,8 @@ import { Section1Blog } from "@/components/tretments/blog/Section1Blog";
 import { generateAlternateLinks } from "@/lib/seo";
 import { Metadata } from "next";
 
+export const revalidate = 3600; // Cache for 1 hour
+
 export async function generateMetadata({
   params,
 }: {
@@ -80,4 +82,12 @@ export default async function ComparePage({
       <FinalCta data={json.finalCta} className="my-6" />
     </main>
   );
+}
+
+export async function generateStaticParams() {
+  return [
+    { locale: 'sl' },
+    { locale: 'en' },
+    { locale: 'de' }
+  ];
 }

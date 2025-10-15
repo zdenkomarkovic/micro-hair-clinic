@@ -22,6 +22,8 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+export const revalidate = 3600; // Cache for 1 hour
+
 export async function generateMetadata(): Promise<Metadata> {
   return {
     icons: {

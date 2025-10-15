@@ -15,6 +15,8 @@ import { Section, SmpContent } from "@/types/type";
 import { generateAlternateLinks } from "@/lib/seo";
 import { Metadata } from "next";
 
+export const revalidate = 3600; // Cache for 1 hour
+
 export async function generateMetadata({
   params,
 }: {
@@ -98,4 +100,12 @@ export default async function ComparePage({
       )}
     </main>
   );
+}
+
+export async function generateStaticParams() {
+  return [
+    { locale: 'sl' },
+    { locale: 'en' },
+    { locale: 'de' }
+  ];
 }

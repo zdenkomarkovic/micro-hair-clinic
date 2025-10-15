@@ -25,6 +25,8 @@ const images: string[] = [
   "/images/nagrada-min.jpg",
 ];
 
+export const revalidate = 3600; // Cache for 1 hour
+
 export async function generateMetadata({
   params,
 }: {
@@ -99,4 +101,12 @@ export default async function ComparePage({
       <ImageCarusel images={images} py={"py-10"} />
     </main>
   );
+}
+
+export async function generateStaticParams() {
+  return [
+    { locale: 'sl' },
+    { locale: 'en' },
+    { locale: 'de' }
+  ];
 }
