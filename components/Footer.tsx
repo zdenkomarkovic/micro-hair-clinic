@@ -98,11 +98,12 @@ export default function Footer({
             </p>
 
             <Image
-              src={"/images/mhclogo.png"}
+              src={"/optimized/mhclogo.webp"}
               alt="micro-hair-clinic"
               width={150}
               height={200}
               className={`w-[150px] md:w-[200px] mx-auto `}
+              unoptimized
             />
           </div>
         </div>

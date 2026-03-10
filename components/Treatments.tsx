@@ -43,7 +43,8 @@ const Treatments = ({ data }: Props) => {
                     alt={tretman.title}
                     className="w-full  aspect-[16/9] object-cover transition-transform duration-300 hover:scale-105"
                     loading="lazy"
-                    quality={80}
+                    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                    unoptimized
                   />
                 </div>
               </motion.div>

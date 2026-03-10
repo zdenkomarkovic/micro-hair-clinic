@@ -16,7 +16,8 @@ export function HeroBlog({ data }: Props) {
           alt={data.alt}
           className=" w-full h-full object-cover"
           priority
-          quality={85}
+          sizes="100vw"
+          unoptimized
         />
         <div className="absolute top-0 left-0 w-full h-full bg-black/30 z-[1]" />
         <div className="container relative flex flex-col  justify-end px-2 md:px-20 mx-auto h-full text-left z-10 pb-6 md:pb-12">

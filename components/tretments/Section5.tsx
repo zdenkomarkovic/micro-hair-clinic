@@ -21,7 +21,8 @@ export function Section5({ section }: Props) {
               alt="srdjan micro hair clinic"
               className="w-full rounded-lg "
               loading="lazy"
-              quality={80}
+              sizes="(max-width: 768px) 100vw, 33vw"
+              unoptimized
             />
           </div>
           <div className="md:w-2/3 flex flex-col justify-between">

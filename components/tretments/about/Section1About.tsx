@@ -56,7 +56,8 @@ export function Section1About({ section, direction }: Props) {
           alt="micro hair clinic"
           className="rounded-lg w-full shadow object-cover md:aspect-[6/9]"
           loading="lazy"
-          quality={80}
+          sizes="(max-width: 768px) 100vw, 33vw"
+          unoptimized
         />
       </div>
     </section>

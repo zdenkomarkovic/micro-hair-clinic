@@ -54,7 +54,8 @@ const ImageSlider = ({ images }: { images: string[] }) => {
                   alt={`SMP rezultat pred in po - tretman mikropigmentacije ${index + 1}`}
                   className="w-full aspect-video object-cover"
                   loading="lazy"
-                  quality={80}
+                  sizes="(max-width: 768px) 100vw, 80vw"
+                  unoptimized
                 />
               </div>
             </div>
@@ -90,7 +91,8 @@ const ImageSlider = ({ images }: { images: string[] }) => {
                   alt={`SMP galerija thumbnail ${index + 1}`}
                   className="w-40 h-28  object-cover"
                   loading="lazy"
-                  quality={80}
+                  sizes="160px"
+                  unoptimized
                 />
               </button>
             ))}

@@ -32,7 +32,8 @@ export function Section5Povecanje({ section }: Props) {
                 alt={section.image.alt}
                 className="rounded-lg w-full shadow"
                 loading="lazy"
-                quality={80}
+                sizes="(max-width: 768px) 100vw, 37vw"
+                unoptimized
               />
             </div>
           )}

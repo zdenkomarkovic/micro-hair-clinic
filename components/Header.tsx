@@ -23,9 +23,9 @@ function getSafeLocale(locale: string): Locale {
 }
 
 const localeMeta = {
-  de: { label: "DE", flag: "/images/de.png" },
-  en: { label: "EN", flag: "/images/uk.png" },
-  sl: { label: "SL", flag: "/images/sl.png" },
+  de: { label: "DE", flag: "/optimized/de.webp" },
+  en: { label: "EN", flag: "/optimized/uk.webp" },
+  sl: { label: "SL", flag: "/optimized/sl.webp" },
 };
 
 export default function Header({ locale }: { locale: string }) {
@@ -46,11 +46,12 @@ export default function Header({ locale }: { locale: string }) {
           <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
             <Link href={`/${currentLocale}`} className="">
               <Image
-                src={"/images/mhc3 2.PNG"}
+                src={"/optimized/mhc3 2.webp"}
                 alt="micro-hair-clinic"
                 width={150}
                 height={200}
                 className={`w-[100px] md:w-[150px]`}
+                unoptimized
               />
             </Link>
           </motion.div>
@@ -116,6 +117,7 @@ export default function Header({ locale }: { locale: string }) {
                   width={20}
                   height={10}
                   className="rounded-sm"
+                  unoptimized
                 />
               </Link>
             ))}

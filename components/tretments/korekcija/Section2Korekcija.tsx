@@ -20,7 +20,8 @@ export function Section2Korekcija({ section }: Props) {
                 alt={section.image.alt}
                 className="rounded-lg w-full shadow aspect-[2/3] object-cover"
                 loading="lazy"
-                quality={80}
+                sizes="(max-width: 768px) 100vw, 33vw"
+                unoptimized
               />
             </div>
           )}

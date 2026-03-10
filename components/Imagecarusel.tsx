@@ -65,7 +65,8 @@ const ImageCarusel = ({ images, py }: Props) => {
             height={1000}
             className="max-w-full max-h-full object-contain"
             loading="lazy"
-            quality={80}
+            sizes="100vw"
+            unoptimized
           />
         </div>
       )}
@@ -97,7 +98,8 @@ const ImageCard = ({
           alt="SMP tretman - fotografija iz galerije Micro Hair Clinic"
           className="w-full aspect-[4/5] object-cover"
           loading="lazy"
-          quality={80}
+          sizes="(max-width: 640px) 90vw, (max-width: 1024px) 45vw, 25vw"
+          unoptimized
         />
       </Card>
     </motion.div>

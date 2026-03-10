@@ -20,7 +20,8 @@ const MeetArtist = ({ data }: Props) => {
             alt="srdjan micro hair clinic"
             className="w-full rounded-lg "
             loading="lazy"
-            quality={80}
+            sizes="(max-width: 768px) 100vw, 25vw"
+            unoptimized
           />
         </div>
         <div className="md:w-2/4 flex flex-col justify-between">

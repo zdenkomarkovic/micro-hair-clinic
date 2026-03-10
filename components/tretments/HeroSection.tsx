@@ -43,8 +43,8 @@ export function HeroSection({ data }: Props) {
           alt={data.alt}
           className="hidden md:block w-full object-cover"
           priority
-          quality={80}
           sizes="(min-width: 768px) 100vw, 0vw"
+          unoptimized
         />
         <Image
           src={data.image2}
@@ -52,8 +52,8 @@ export function HeroSection({ data }: Props) {
           alt={data.alt}
           className="md:hidden w-full h-full object-cover"
           priority
-          quality={75}
           sizes="(max-width: 767px) 100vw, 0vw"
+          unoptimized
         />
         <div className="absolute top-0 left-0 w-full h-full bg-black/30 z-[1]" />
         <div className="container relative flex flex-col gap-3 justify-end px-2 md:px-14 mx-auto h-full text-left z-10 pb-6 md:pb-6">

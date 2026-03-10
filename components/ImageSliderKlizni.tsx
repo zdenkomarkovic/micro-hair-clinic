@@ -62,6 +62,9 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
                 height={1000}
                 alt={`SMP rezultat pred in po - mikropigmentacija lasišča ${index + 1}`}
                 className="w-[790px] rounded-lg mx-auto h-auto object-cover"
+                loading="lazy"
+                sizes="790px"
+                unoptimized
               />
             </div>
           ))}
@@ -104,6 +107,9 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
                         height={100}
                         alt={`SMP galerija thumbnail ${index + 1}`}
                         className="w-full h-full object-cover rounded-lg"
+                        loading="lazy"
+                        sizes="280px"
+                        unoptimized
                       />
                     </button>
                   );
